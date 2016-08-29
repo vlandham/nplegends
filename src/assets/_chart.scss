@@ -1,0 +1,14 @@
+.chart {
+  background: #fff;
+
+  .y-axis, .x-axis {
+    path, line {
+      stroke: #ddd;
+      shape-rendering: crispEdges;
+    }
+
+    text {
+      fill: #888;
+    }
+  }
+}
