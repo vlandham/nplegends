@@ -1,4 +1,5 @@
-import { get, getQuick } from './get';
+// import get from './get';
+import { getQuick } from './get';
 
 // -------------
 // API Calls
@@ -10,7 +11,11 @@ import { get, getQuick } from './get';
  * @return {Promise} A promise after the get request was made
  */
 export function getParkData(parkId) {
-  return getQuick('park', parkId);
+  return getQuick('parks', parkId);
+}
+
+export function getSymbolsData() {
+  return getQuick('symbols');
 }
 
 /**
@@ -18,6 +23,6 @@ export function getParkData(parkId) {
  *
  * @return {Promise} A promise after the get request was made
  */
-export function getSymbolData(symbolId) {
-  return get(`/parks/${symbolId}`);
-}
+// export function getSymbolData(symbolId) {
+  // return get(`/parks/${symbolId}`);
+// }

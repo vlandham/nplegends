@@ -1,12 +1,16 @@
 import React, { PureComponent, PropTypes } from 'react';
 import Helmet from 'react-helmet';
 import { browserHistory } from 'react-router';
-import { Row, Col } from 'react-bootstrap';
+// import { Row, Col } from 'react-bootstrap';
 import * as ParksActions from '../../redux/parks/actions';
+import * as SymbolsActions from '../../redux/symbols/actions';
 import * as ParksSelectors from '../../redux/parks/selectors';
+import * as SymbolsSelectors from '../../redux/symbols/selectors';
 
 import UrlHandler from '../../url/UrlHandler';
 import urlConnect from '../../url/urlConnect';
+
+import { SymbolList } from '../../components';
 
 
 // Define how to read/write state to URL query parameters
@@ -22,7 +26,8 @@ const urlHandler = new UrlHandler(urlQueryConfig, browserHistory);
 function mapStateToProps(state, propsWithUrl) {
   return {
     ...propsWithUrl,
-    symbols: ParksSelectors.getSymbols(state, propsWithUrl),
+    parkInfo: ParksSelectors.getParkInfo(state, propsWithUrl),
+    symbolKey: SymbolsSelectors.getSymbols(state),
   };
 }
 
@@ -30,7 +35,11 @@ class ParkPage extends PureComponent {
   static propTypes = {
     dispatch: PropTypes.func,
     parkId: PropTypes.string,
-    symbols: PropTypes.object,
+    parkInfo: PropTypes.object,
+  }
+
+  static defaultProps = {
+    parkInfo: {},
   }
 
   constructor(props) {
@@ -54,31 +63,29 @@ class ParkPage extends PureComponent {
   fetchData(props) {
     const { dispatch, parkId } = props;
     dispatch(ParksActions.fetchParkSymbolsIfNeeded(parkId));
+    dispatch(SymbolsActions.fetchSymbolsIfNeeded());
   }
 
-  renderCityProviders() {
+  renderSymbolList() {
+    const { parkInfo } = this.props;
     return (
       <div>
-        <h2>City {this.props.parkId}</h2>
-        <Row>
-          <Col md={3}>
-            <div>HELLO</div>
-          </Col>
-          <Col md={9}>
-            <div>HELLO col 9</div>
-          </Col>
-        </Row>
+        <SymbolList
+          symbolCounts={parkInfo.totals}
+        />
       </div>
     );
   }
 
   render() {
+    const { parkInfo } = this.props;
     return (
       <div>
         <Helmet title="Park" />
-        <h1>Park</h1>
-        <div>This is the park page.</div>
-        {this.renderCityProviders()}
+        <h1>{ parkInfo['Name'] }</h1>
+        <div><p>{ parkInfo['Description'] }</p></div>
+        <h2>Symbols</h2>
+        {this.renderSymbolList()}
       </div>
     );
   }

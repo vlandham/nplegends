@@ -10,3 +10,4 @@ export JsonDump from './JsonDump/JsonDump';
 export LineChart from './LineChart/LineChart';
 export LineChartWithCounts from './LineChart/LineChartWithCounts';
 export OmniSearch from './OmniSearch/OmniSearch';
+export SymbolList from './SymbolList/SymbolList';

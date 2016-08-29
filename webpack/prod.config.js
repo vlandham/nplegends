@@ -8,6 +8,9 @@ var ExtractTextPlugin = require('extract-text-webpack-plugin');
 var strip = require('strip-loader');
 var autoprefixer = require('autoprefixer');
 
+// var CopyWebpackPlugin = require('copy-webpack-plugin');
+// var path = require('path');
+
 var projectRootPath = path.resolve(__dirname, '../');
 var assetsPath = path.resolve(projectRootPath, './static/dist');
 
@@ -82,6 +85,9 @@ module.exports = {
         warnings: false,
       },
     }),
+    // new CopyWebpackPlugin([
+    //   {from: path.resolve(projectRootPath, './data') }
+    // ]),
 
     webpackIsomorphicToolsPlugin,
   ],

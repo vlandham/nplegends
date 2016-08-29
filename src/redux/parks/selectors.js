@@ -9,7 +9,7 @@ import { initialParkState } from '../parks/reducer';
 // Input Selectors
 // ----------------------
 
-export function getSymbols(state, props) {
+export function getParkInfo(state, props) {
   // read in locationId from props
   const { parkId } = props;
 
@@ -17,5 +17,5 @@ export function getSymbols(state, props) {
     return initialParkState;
   }
 
-  return state.parks[parkId];
+  return state.parks[parkId].data;
 }

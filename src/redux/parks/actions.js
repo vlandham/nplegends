@@ -36,7 +36,6 @@ function fetchParkSymbols(parkId) {
 }
 
 export function fetchParkSymbolsIfNeeded(parkId) {
-  console.log(parkId);
   return (dispatch, getState) => {
     if (shouldFetchParkSymbols(getState(), parkId)) {
       dispatch(fetchParkSymbols(parkId));

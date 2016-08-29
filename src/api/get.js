@@ -15,7 +15,11 @@ if (__DEVELOPMENT__ && __CLIENT__) {
  */
 function formatUrl(type, typeId) {
   // Prepend API root
-  return `/data/${type}/${typeId}/symbols.json`;
+  if (typeId) {
+    return `./data/${type}/${typeId}/symbols.json`;
+  } else {
+    return `./data/${type}.json`;
+  }
 }
 
 /**
@@ -44,14 +48,14 @@ export function getQuick(type, typeId) {
  * @param {Object} options.params The query parameters
  * @return {Promise} The promise for the request
  */
-export default function get(type, typeId, { params } = {}) {
+export function get(type, typeId, { params } = {}) {
   return new Promise((resolve, reject) => {
     // check for a cached response
     const cacheKey = urlCacheKey(typeId, params);
     const cached = apiCache.get(cacheKey);
 
     // found in cache
-    if (cached) {
+    if (false) {
       resolve(cached);
       return;
     }
@@ -69,6 +73,8 @@ export default function get(type, typeId, { params } = {}) {
       if (err || (body && body.error)) {
         reject(body || err);
       }
+
+      console.log(err);
 
       // wasn't an error, so cache the result.
       // since the body is what is cached, this happens before transformations

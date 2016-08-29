@@ -6,12 +6,13 @@ var path = require('path');
 var webpack = require('webpack');
 var autoprefixer = require('autoprefixer');
 var assetsPath = path.resolve(__dirname, '../static/dist');
+var projectRootPath = path.resolve(__dirname, '../');
 var host = (process.env.HOST || 'localhost');
 var port = (+process.env.PORT + 1) || 3001;
 var HardSourceWebpackPlugin = require('hard-source-webpack-plugin');
 
-var CopyWebpackPlugin = require('copy-webpack-plugin');
-var path = require('path');
+// var CopyWebpackPlugin = require('copy-webpack-plugin');
+// var path = require('path');
 
 // https://github.com/halt-hammerzeit/webpack-isomorphic-tools
 var WebpackIsomorphicToolsPlugin = require('webpack-isomorphic-tools/plugin');
@@ -132,9 +133,9 @@ module.exports = {
       __DEVTOOLS__: true,  // <-------- DISABLE redux-devtools HERE
     }),
 
-    new CopyWebpackPlugin([
-      {from: '../data'},
-    ]),
+    // new CopyWebpackPlugin([
+    //   {from: path.resolve(projectRootPath, './data') }
+    // ]),
     webpackIsomorphicToolsPlugin.development(),
   ],
 };

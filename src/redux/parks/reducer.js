@@ -7,14 +7,13 @@ const initialState = {
 };
 
 const initialParkState = {
-  data: [],
+  data: {},
   isFetching: false,
   isFetched: false,
 };
 
 // the location page reducer
 function park(state, action = {}) {
-  console.log(action);
   if (!state) {
     state = Object.assign({
       parkId: action.parkId,
@@ -30,7 +29,7 @@ function park(state, action = {}) {
     case Actions.FETCH_PARK_SYMBOLS_SUCCESS:
       return {
         ...state,
-        data: action.result.results,
+        data: action.result,
         isFetching: false,
         isFetched: true,
       };
