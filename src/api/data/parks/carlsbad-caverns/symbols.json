@@ -1,0 +1,25 @@
+{
+  "Name": "Carlsbad Caverns", 
+  "Recreation Visitors (2014)": "1,497,889", 
+  "Photo": "", 
+  "Date established as park": "May 14, 1930", 
+  "Area": "46,766.45 acres (189.3\u00a0km2)", 
+  "name": "Carlsbad Caverns", 
+  "maps": [
+    {
+      "map": "carlsbad-caverns-map", 
+      "img_size": {
+        "width": 1146, 
+        "height": 971
+      }, 
+      "park": "carlsbad-caverns", 
+      "filename": "./data/npmaps_jpg/carlsbad-caverns-map.jpg", 
+      "symbols": [], 
+      "totals": {}
+    }
+  ], 
+  "Location": "New Mexico 32\u00b010\u2032N 104\u00b026\u2032W\ufeff / \ufeff32.17\u00b0N 104.44\u00b0W\ufeff / 32.17; -104.44\ufeff (Carlsbad Caverns)", 
+  "totals": {}, 
+  "id": "carlsbad-caverns", 
+  "Description": "Carlsbad Caverns has 117 caves, the longest of which is over 120 miles (190\u00a0km) long. The Big Room is almost 4,000 feet (1,200\u00a0m) long, and the caves are home to over 400,000 Mexican free-tailed bats and sixteen other species. Above ground are the Chihuahuan Desert and Rattlesnake Springs.[17] (WHS)"
+}

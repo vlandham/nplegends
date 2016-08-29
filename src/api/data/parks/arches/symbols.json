@@ -1,0 +1,326 @@
+{
+  "Name": "Arches", 
+  "Recreation Visitors (2014)": "1,284,767", 
+  "Photo": "", 
+  "Date established as park": "November 12, 1971", 
+  "Area": "76,518.98 acres (309.7\u00a0km2)", 
+  "name": "Arches", 
+  "maps": [
+    {
+      "map": "arches-devils-garden-topographic-map", 
+      "img_size": {
+        "width": 6541, 
+        "height": 8019
+      }, 
+      "park": "arches", 
+      "filename": "./data/npmaps_jpg/arches-devils-garden-topographic-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 132, 
+            "x": 5358
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }
+      ], 
+      "totals": {
+        "parking": 1
+      }
+    }, 
+    {
+      "map": "arches-national-park-map", 
+      "img_size": {
+        "width": 3367, 
+        "height": 4450
+      }, 
+      "park": "arches", 
+      "filename": "./data/npmaps_jpg/arches-national-park-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 115, 
+            "x": 2641
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 123, 
+            "x": 2646
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 124, 
+            "x": 2059
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 124, 
+            "x": 2195
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 123, 
+            "x": 2606
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 124, 
+            "x": 2629
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 125, 
+            "x": 2707
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 120, 
+            "x": 2605
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 126, 
+            "x": 2657
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 126, 
+            "x": 2669
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 126, 
+            "x": 2719
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 176, 
+            "x": 2059
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 176, 
+            "x": 2941
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 176, 
+            "x": 2966
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 168, 
+            "x": 2982
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 176, 
+            "x": 2990
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 173, 
+            "x": 2939
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 178, 
+            "x": 2999
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 178, 
+            "x": 3011
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 179, 
+            "x": 2982
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": {
+        "self-guiding-trail": 2, 
+        "drinking-water": 3, 
+        "picnic-area": 3, 
+        "sewer-hookup": 2, 
+        "restrooms": 10
+      }
+    }, 
+    {
+      "map": "arches-map", 
+      "img_size": {
+        "width": 3287, 
+        "height": 4128
+      }, 
+      "park": "arches", 
+      "filename": "./data/npmaps_jpg/arches-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 30, 
+            "x": 3147
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 31, 
+            "x": 3091
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 31, 
+            "x": 3133
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 3109
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 202, 
+            "x": 2825
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 205, 
+            "x": 2837
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 205, 
+            "x": 2855
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 205, 
+            "x": 2873
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 205, 
+            "x": 2897
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 205, 
+            "x": 2910
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 205, 
+            "x": 2919
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }
+      ], 
+      "totals": {
+        "self-guiding-trail": 2, 
+        "drinking-water": 3, 
+        "picnic-area": 3, 
+        "restrooms": 3
+      }
+    }
+  ], 
+  "Location": "Utah 38\u00b041\u2032N 109\u00b034\u2032W\ufeff / \ufeff38.68\u00b0N 109.57\u00b0W\ufeff / 38.68; -109.57\ufeff (Arches)", 
+  "totals": {
+    "sewer-hookup": 2, 
+    "restrooms": 13, 
+    "self-guiding-trail": 4, 
+    "picnic-area": 6, 
+    "parking": 1, 
+    "drinking-water": 6
+  }, 
+  "id": "arches", 
+  "Description": "This site features more than 2,000 natural sandstone arches, including the famous Delicate Arch. In a desert climate, millions of years of erosion have led to these structures, and the arid ground has life-sustaining soil crust and potholes, which serve as natural water-collecting basins. Other geologic formations are stone columns, spires, fins, and towers."
+}

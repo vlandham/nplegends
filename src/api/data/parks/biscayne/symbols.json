@@ -1,0 +1,359 @@
+{
+  "Name": "Biscayne", 
+  "Recreation Visitors (2014)": "525,745", 
+  "Photo": "", 
+  "Date established as park": "June 28, 1980", 
+  "Area": "172,924.07 acres (699.8\u00a0km2)", 
+  "name": "Biscayne", 
+  "maps": [
+    {
+      "map": "biscayne-regional-map", 
+      "img_size": {
+        "width": 1190, 
+        "height": 696
+      }, 
+      "park": "biscayne", 
+      "filename": "./data/npmaps_jpg/biscayne-regional-map.jpg", 
+      "symbols": [], 
+      "totals": {}
+    }, 
+    {
+      "map": "biscayne-map", 
+      "img_size": {
+        "width": 5082, 
+        "height": 5775
+      }, 
+      "park": "biscayne", 
+      "filename": "./data/npmaps_jpg/biscayne-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 234, 
+            "x": 190
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1537, 
+            "x": 747
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 83, 
+            "x": 2669
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 2440
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 80, 
+            "x": 2454
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 80, 
+            "x": 2459
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 2468
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 80, 
+            "x": 2480
+          }, 
+          "name": "Marina", 
+          "id": "marina"
+        }, 
+        {
+          "pos": {
+            "y": 114, 
+            "x": 724
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 114, 
+            "x": 737
+          }, 
+          "name": "Marina", 
+          "id": "marina"
+        }, 
+        {
+          "pos": {
+            "y": 114, 
+            "x": 750
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 113, 
+            "x": 1134
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 115, 
+            "x": 2431
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 126, 
+            "x": 2359
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 121, 
+            "x": 2379
+          }, 
+          "name": "Dam", 
+          "id": "dam"
+        }, 
+        {
+          "pos": {
+            "y": 127, 
+            "x": 1135
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 144, 
+            "x": 986
+          }, 
+          "name": "Marina", 
+          "id": "marina"
+        }, 
+        {
+          "pos": {
+            "y": 144, 
+            "x": 1007
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 144, 
+            "x": 1030
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 144, 
+            "x": 1050
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 144, 
+            "x": 1071
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 141, 
+            "x": 1135
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 147, 
+            "x": 1135
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 154, 
+            "x": 528
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 154, 
+            "x": 553
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 154, 
+            "x": 571
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 156, 
+            "x": 654
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 156, 
+            "x": 668
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 151, 
+            "x": 2482
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 151, 
+            "x": 2487
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 156, 
+            "x": 2495
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 151, 
+            "x": 2504
+          }, 
+          "name": "Marina", 
+          "id": "marina"
+        }, 
+        {
+          "pos": {
+            "y": 151, 
+            "x": 2508
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 158, 
+            "x": 1136
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 169, 
+            "x": 2824
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 169, 
+            "x": 3054
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 169, 
+            "x": 3081
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 162, 
+            "x": 4329
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }
+      ], 
+      "totals": {
+        "dam": 1, 
+        "boat-launch": 4, 
+        "restrooms": 9, 
+        "self-guiding-trail": 4, 
+        "ranger-station": 3, 
+        "picnic-area": 9, 
+        "marina": 4, 
+        "gas-station": 4
+      }
+    }
+  ], 
+  "Location": "Florida 25\u00b039\u2032N 80\u00b005\u2032W\ufeff / \ufeff25.65\u00b0N 80.08\u00b0W\ufeff / 25.65; -80.08\ufeff (Biscayne)", 
+  "totals": {
+    "dam": 1, 
+    "boat-launch": 4, 
+    "restrooms": 9, 
+    "self-guiding-trail": 4, 
+    "ranger-station": 3, 
+    "picnic-area": 9, 
+    "marina": 4, 
+    "gas-station": 4
+  }, 
+  "id": "biscayne", 
+  "Description": "Located in Biscayne Bay, this park at the north end of the Florida Keys has four interrelated marine ecosystems: mangrove forest, the Bay, the Keys, and coral reefs. Threatened animals include the West Indian manatee, American crocodile, various sea turtles, and peregrine falcon."
+}
