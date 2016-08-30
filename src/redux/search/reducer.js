@@ -5,7 +5,7 @@ import * as Actions from './actions';
 
 const initialState = {
   parkSearch: {
-    data: [],
+    data: {},
     isFetching: false,
     isFetched: false,
   },
@@ -24,8 +24,7 @@ function parkSearch(state = initialState.parkSearch, action = {}) {
     case Actions.FETCH_PARK_SEARCH_SUCCESS:
       return {
         ...state,
-        data: action.result.results,
-        query: action.searchQuery,
+        data: action.result,
         isFetching: false,
         isFetched: true,
       };

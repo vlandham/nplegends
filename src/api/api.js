@@ -18,7 +18,7 @@ export function getParkData(parkId) {
 }
 
 export function getParkSearch() {
-  return getQuick('parks', 'park_ids');
+  return getQuick('park_ids');
 }
 
 export function getSymbolsData() {

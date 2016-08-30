@@ -76,7 +76,7 @@ class OmniSearch extends PureComponent {
     const { router } = this.props;
     this.setState({ value: '' });
     const suggestionId = suggestion.id;
-    const path = `location/${suggestionId}`;
+    const path = `park/${suggestionId}`;
     router.push(path);
   }
 

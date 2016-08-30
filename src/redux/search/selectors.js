@@ -3,5 +3,5 @@
  */
 
 export function getParkSearch(state) {
-  return state.search.parkSearch;
+  return state.search.parkSearch.data;
 }
