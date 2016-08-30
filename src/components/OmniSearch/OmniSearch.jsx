@@ -2,6 +2,7 @@ import React, { PureComponent, PropTypes } from 'react';
 import { withRouter } from 'react-router';
 import Autosuggest from 'react-autosuggest';
 import d3 from 'd3';
+import _ from 'lodash';
 
 import { formatNumber, stringToKey } from '../../utils/format';
 
@@ -33,7 +34,7 @@ class OmniSearch extends PureComponent {
 
     this.state = {
       value: '',
-      suggestions: props.searchResults,
+      suggestions: [],
     };
 
     this.onChange = this.onChange.bind(this);
@@ -85,18 +86,24 @@ class OmniSearch extends PureComponent {
   * @param {String} value New search value
   */
   onSuggestionsUpdateRequested({ value }) {
-    const { onSearchChange } = this.props;
+    const { searchResults } = this.props;
 
     // TODO: should this be in a different location?
     const search = stringToKey(value);
 
-    if (search.length > 2) {
-      onSearchChange(search);
-    } else {
+    const filteredResults = _.filter(searchResults, (r) => _.includes(stringToKey(r.name), search))
+
+    this.setState({
+      suggestions: filteredResults,
+    })
+
+    // if (search.length > 2) {
+      // onSearchChange(search);
+    // } else {
       // this.setState({
       //   suggestions: this.formatSuggestions([]),
       // });
-    }
+    // }
   }
 
   /**
@@ -160,7 +167,7 @@ class OmniSearch extends PureComponent {
     // const { value, suggestions } = this.state;
     // const suggestions = this.getSuggestions(value);
     const inputProps = {
-      placeholder: 'Search for a Location',
+      placeholder: 'Search for a Park',
       value,
       onChange: this.onChange,
     };

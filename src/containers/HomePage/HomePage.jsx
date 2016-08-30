@@ -28,12 +28,20 @@ class HomePage extends PureComponent {
     this.onSearchQueryChange = this.onSearchQueryChange.bind(this);
   }
 
+  componentDidMount() {
+    this.fetchData(this.props);
+  }
+
+  fetchData(props) {
+    const { dispatch } = props;
+    dispatch(SearchActions.fetchParkSearchIfNeeded());
+  }
+
   /**
    * Callback for when viewMetric changes - updates URL
    */
   onSearchQueryChange() {
-    const { dispatch } = this.props;
-    dispatch(SearchActions.fetchParkSearchIfNeeded());
+    // noop
   }
 
   renderSearch() {
