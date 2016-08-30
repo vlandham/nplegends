@@ -1,4 +1,5 @@
 {
+  "symbol_count": 14, 
   "Name": "Badlands", 
   "Recreation Visitors (2014)": "868,094", 
   "Photo": "", 
@@ -7,171 +8,241 @@
   "name": "Badlands", 
   "maps": [
     {
-      "map": "badlands-map", 
-      "img_size": {
-        "width": 5034, 
-        "height": 3465
-      }, 
-      "park": "badlands", 
-      "filename": "./data/npmaps_jpg/badlands-map.jpg", 
-      "symbols": [
-        {
-          "pos": {
-            "y": 52, 
-            "x": 187
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 59, 
-            "x": 3634
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 61, 
-            "x": 3045
-          }, 
-          "name": "Maps", 
-          "id": "maps"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 3070
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 3099
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 70, 
-            "x": 3621
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 152, 
-            "x": 4509
-          }, 
-          "name": "Maps", 
-          "id": "maps"
-        }, 
-        {
-          "pos": {
-            "y": 152, 
-            "x": 4524
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 152, 
-            "x": 4543
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 152, 
-            "x": 4560
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }
-      ], 
-      "totals": {
-        "campground": 4, 
-        "maps": 2, 
-        "picnic-area": 3, 
-        "sewer-hookup": 1
-      }
-    }, 
-    {
-      "map": "badlands-regional-map", 
-      "img_size": {
-        "width": 1166, 
-        "height": 725
-      }, 
-      "park": "badlands", 
-      "filename": "./data/npmaps_jpg/badlands-regional-map.jpg", 
-      "symbols": [], 
-      "totals": {}
-    }, 
-    {
       "map": "badlands-cedar-pass-detail-map", 
       "img_size": {
         "width": 1582, 
         "height": 740
       }, 
       "park": "badlands", 
-      "filename": "./data/npmaps_jpg/badlands-cedar-pass-detail-map.jpg", 
+      "filename": "badlands-cedar-pass-detail-map.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 48, 
-            "x": 1492
+            "y": 28, 
+            "x": 1471, 
+            "height": 40, 
+            "width": 42
           }, 
           "name": "Maps", 
           "id": "maps"
         }, 
         {
           "pos": {
-            "y": 48, 
-            "x": 562
+            "y": 40, 
+            "x": 559, 
+            "height": 17, 
+            "width": 6
           }, 
           "name": "Event facility", 
           "id": "event-facility"
         }, 
         {
           "pos": {
-            "y": 49, 
-            "x": 331
+            "y": 41, 
+            "x": 325, 
+            "height": 16, 
+            "width": 12
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 49, 
-            "x": 449
+            "y": 41, 
+            "x": 446, 
+            "height": 16, 
+            "width": 6
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }
       ], 
-      "totals": {
-        "event-facility": 1, 
-        "maps": 1, 
-        "picnic-area": 1, 
-        "campground": 1
-      }
+      "totals": [
+        {
+          "count": 1, 
+          "id": "event-facility", 
+          "name": "Event facility"
+        }, 
+        {
+          "count": 1, 
+          "id": "maps", 
+          "name": "Maps"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }
+      ]
+    }, 
+    {
+      "map": "badlands-map", 
+      "img_size": {
+        "width": 5034, 
+        "height": 3465
+      }, 
+      "park": "badlands", 
+      "filename": "badlands-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 44, 
+            "x": 181, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 58, 
+            "x": 3632, 
+            "height": 3, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 59, 
+            "x": 3043, 
+            "height": 4, 
+            "width": 4
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 60, 
+            "x": 3066, 
+            "height": 18, 
+            "width": 9
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 60, 
+            "x": 3093, 
+            "height": 18, 
+            "width": 13
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 63, 
+            "x": 3617, 
+            "height": 14, 
+            "width": 9
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 145, 
+            "x": 4502, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 145, 
+            "x": 4518, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 145, 
+            "x": 4533, 
+            "height": 14, 
+            "width": 20
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 145, 
+            "x": 4553, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 4, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "maps", 
+          "name": "Maps"
+        }, 
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }
+      ]
     }
   ], 
   "Location": "South Dakota 43\u00b045\u2032N 102\u00b030\u2032W\ufeff / \ufeff43.75\u00b0N 102.50\u00b0W\ufeff / 43.75; -102.50\ufeff (Badlands)", 
-  "totals": {
-    "campground": 5, 
-    "maps": 3, 
-    "picnic-area": 4, 
-    "event-facility": 1, 
-    "sewer-hookup": 1
-  }, 
+  "totals": [
+    {
+      "count": 5, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 3, 
+      "id": "maps", 
+      "name": "Maps"
+    }, 
+    {
+      "count": 1, 
+      "id": "event-facility", 
+      "name": "Event facility"
+    }, 
+    {
+      "count": 1, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }
+  ], 
+  "map_count": 2, 
   "id": "badlands", 
   "Description": "The Badlands are a collection of buttes, pinnacles, spires, and grass prairies. It has the world's richest fossil beds from the Oligocene epoch, and the wildlife includes bison, bighorn sheep, black-footed ferrets, and swift foxes."
 }

@@ -1,13 +1,688 @@
 {
+  "symbol_count": 50, 
   "Name": "Katmai", 
   "Recreation Visitors (2014)": "30,896", 
   "Photo": "", 
   "Date established as park": "December 2, 1980", 
   "Area": "3,674,529.68 acres (14,870.3\u00a0km2)", 
   "name": "Katmai", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "katmai-map", 
+      "img_size": {
+        "width": 4991, 
+        "height": 4569
+      }, 
+      "park": "katmai", 
+      "filename": "katmai-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 48, 
+            "x": 2109, 
+            "height": 381, 
+            "width": 379
+          }, 
+          "name": "Showers", 
+          "id": "showers"
+        }, 
+        {
+          "pos": {
+            "y": 62, 
+            "x": 2232, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 75, 
+            "x": 2325, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 1818, 
+            "height": 20, 
+            "width": 12
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 87, 
+            "x": 1745, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bear Viewing", 
+          "id": "bear-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 87, 
+            "x": 1804, 
+            "height": 18, 
+            "width": 11
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 88, 
+            "x": 155, 
+            "height": 44, 
+            "width": 109
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 88, 
+            "x": 358, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 88, 
+            "x": 766, 
+            "height": 19, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 88, 
+            "x": 828, 
+            "height": 19, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 553, 
+            "height": 43, 
+            "width": 108
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 678, 
+            "height": 18, 
+            "width": 13
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 1037, 
+            "height": 19, 
+            "width": 12
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 1347, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 1406, 
+            "height": 18, 
+            "width": 13
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 90, 
+            "x": 310, 
+            "height": 17, 
+            "width": 9
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 90, 
+            "x": 950, 
+            "height": 41, 
+            "width": 41
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 90, 
+            "x": 1010, 
+            "height": 18, 
+            "width": 10
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 90, 
+            "x": 1445, 
+            "height": 17, 
+            "width": 9
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 91, 
+            "x": 1832, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 91, 
+            "x": 1848, 
+            "height": 14, 
+            "width": 20
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 91, 
+            "x": 1869, 
+            "height": 14, 
+            "width": 13
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 91, 
+            "x": 1884, 
+            "height": 14, 
+            "width": 8
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 91, 
+            "x": 1892, 
+            "height": 14, 
+            "width": 9
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 92, 
+            "x": 1753, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 297, 
+            "height": 14, 
+            "width": 11
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 321, 
+            "height": 14, 
+            "width": 19
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 343, 
+            "height": 14, 
+            "width": 11
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 695, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 710, 
+            "height": 19, 
+            "width": 13
+          }, 
+          "name": "Showers", 
+          "id": "showers"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 726, 
+            "height": 14, 
+            "width": 11
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 752, 
+            "height": 14, 
+            "width": 11
+          }, 
+          "name": "Bear Viewing", 
+          "id": "bear-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 789, 
+            "height": 14, 
+            "width": 8
+          }, 
+          "name": "Bear Viewing", 
+          "id": "bear-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 799, 
+            "height": 14, 
+            "width": 13
+          }, 
+          "name": "Bear Viewing", 
+          "id": "bear-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 814, 
+            "height": 14, 
+            "width": 11
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 1422, 
+            "height": 14, 
+            "width": 11
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 1435, 
+            "height": 14, 
+            "width": 8
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 10, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 5, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 4, 
+          "id": "bear-viewing", 
+          "name": "Bear Viewing"
+        }, 
+        {
+          "count": 3, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 2, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }, 
+        {
+          "count": 2, 
+          "id": "showers", 
+          "name": "Showers"
+        }
+      ]
+    }, 
+    {
+      "map": "katmai-brooks-camp-map", 
+      "img_size": {
+        "width": 1011, 
+        "height": 926
+      }, 
+      "park": "katmai", 
+      "filename": "katmai-brooks-camp-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 10, 
+            "x": 52, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 10, 
+            "x": 289, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 10, 
+            "x": 301, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 10, 
+            "x": 312, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 10, 
+            "x": 331, 
+            "height": 16, 
+            "width": 17
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 10, 
+            "x": 567, 
+            "height": 17, 
+            "width": 6
+          }, 
+          "name": "Showers", 
+          "id": "showers"
+        }, 
+        {
+          "pos": {
+            "y": 11, 
+            "x": 478, 
+            "height": 16, 
+            "width": 13
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 11, 
+            "x": 506, 
+            "height": 16, 
+            "width": 15
+          }, 
+          "name": "Bear Viewing", 
+          "id": "bear-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 11, 
+            "x": 576, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Bear Viewing", 
+          "id": "bear-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 11, 
+            "x": 611, 
+            "height": 16, 
+            "width": 20
+          }, 
+          "name": "Bear Viewing", 
+          "id": "bear-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 11, 
+            "x": 694, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 12, 
+            "x": 361, 
+            "height": 14, 
+            "width": 7
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 13, 
+            "x": 672, 
+            "height": 14, 
+            "width": 8
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 3, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "bear-viewing", 
+          "name": "Bear Viewing"
+        }, 
+        {
+          "count": 1, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 1, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "showers", 
+          "name": "Showers"
+        }, 
+        {
+          "count": 1, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }
+      ]
+    }
+  ], 
   "Location": "Alaska 58\u00b030\u2032N 155\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 155.00\u00b0W\ufeff / 58.50; -155.00\ufeff (Katmai)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 11, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 8, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 7, 
+      "id": "bear-viewing", 
+      "name": "Bear Viewing"
+    }, 
+    {
+      "count": 4, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 4, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 4, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 3, 
+      "id": "bus-stop-shuttle-stop", 
+      "name": "Bus stop/Shuttle stop"
+    }, 
+    {
+      "count": 3, 
+      "id": "showers", 
+      "name": "Showers"
+    }, 
+    {
+      "count": 2, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }
+  ], 
+  "map_count": 2, 
   "id": "katmai", 
   "Description": "This park on the Alaska Peninsula protects the Valley of Ten Thousand Smokes, an ash flow formed by the 1912 eruption of Novarupta, as well as Mount Katmai. Over 2,000 grizzly bears come here each year to catch spawning salmon. Other wildlife includes caribou, wolves, moose, and wolverines."
 }

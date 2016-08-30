@@ -1,13 +1,203 @@
 {
+  "symbol_count": 11, 
   "Name": "Theodore Roosevelt", 
   "Recreation Visitors (2014)": "559,580", 
   "Photo": "", 
   "Date established as park": "November 10, 1978", 
   "Area": "70,446.89 acres (285.1\u00a0km2)", 
   "name": "Theodore Roosevelt", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "theodore-roosevelt-south-unit-map", 
+      "img_size": {
+        "width": 2431, 
+        "height": 1636
+      }, 
+      "park": "theodore-roosevelt", 
+      "filename": "theodore-roosevelt-south-unit-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 15, 
+            "x": 1099, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 15, 
+            "x": 1296, 
+            "height": 20, 
+            "width": 9
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 16, 
+            "x": 943, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 16, 
+            "x": 1133, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 20, 
+            "x": 952, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }
+      ]
+    }, 
+    {
+      "map": "theodore-roosevelt-north-unit-map", 
+      "img_size": {
+        "width": 2543, 
+        "height": 1533
+      }, 
+      "park": "theodore-roosevelt", 
+      "filename": "theodore-roosevelt-north-unit-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 36, 
+            "x": 2149, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 36, 
+            "x": 2179, 
+            "height": 16, 
+            "width": 20
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 36, 
+            "x": 2281, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 2198, 
+            "height": 12, 
+            "width": 10
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 2226, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 2291, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
+    }
+  ], 
   "Location": "North Dakota 46\u00b058\u2032N 103\u00b027\u2032W\ufeff / \ufeff46.97\u00b0N 103.45\u00b0W\ufeff / 46.97; -103.45\ufeff (Theodore Roosevelt)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 5, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 1, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 1, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }
+  ], 
+  "map_count": 2, 
   "id": "theodore-roosevelt", 
   "Description": "This region that enticed and influenced President Theodore Roosevelt consists of a park of three units in the northern badlands. Besides Roosevelt's historic cabin, there are numerous scenic drives and backcountry hiking opportunities. Wildlife includes American bison, pronghorn, bighorn sheep, and wild horses."
 }

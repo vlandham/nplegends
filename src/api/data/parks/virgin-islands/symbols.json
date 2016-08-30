@@ -1,13 +1,300 @@
 {
+  "symbol_count": 21, 
   "Name": "Virgin Islands", 
   "Recreation Visitors (2014)": "426,930", 
   "Photo": "", 
   "Date established as park": "August 2, 1956", 
   "Area": "14,688.87 acres (59.4\u00a0km2)", 
   "name": "Virgin Islands", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "virgin-islands-map", 
+      "img_size": {
+        "width": 5057, 
+        "height": 3180
+      }, 
+      "park": "virgin-islands", 
+      "filename": "virgin-islands-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 1, 
+            "x": 0, 
+            "height": 3180, 
+            "width": 5058
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 70, 
+            "x": 1922, 
+            "height": 20, 
+            "width": 4
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 70, 
+            "x": 3041, 
+            "height": 20, 
+            "width": 10
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 70, 
+            "x": 3098, 
+            "height": 20, 
+            "width": 13
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 70, 
+            "x": 3199, 
+            "height": 20, 
+            "width": 4
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 70, 
+            "x": 3445, 
+            "height": 23, 
+            "width": 12
+          }, 
+          "name": "Showers", 
+          "id": "showers"
+        }, 
+        {
+          "pos": {
+            "y": 70, 
+            "x": 3500, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 70, 
+            "x": 3622, 
+            "height": 23, 
+            "width": 16
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 71, 
+            "x": 435, 
+            "height": 20, 
+            "width": 4
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 71, 
+            "x": 1755, 
+            "height": 44, 
+            "width": 109
+          }, 
+          "name": "Showers", 
+          "id": "showers"
+        }, 
+        {
+          "pos": {
+            "y": 71, 
+            "x": 2320, 
+            "height": 4, 
+            "width": 4
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 71, 
+            "x": 3009, 
+            "height": 19, 
+            "width": 11
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 71, 
+            "x": 3114, 
+            "height": 4, 
+            "width": 4
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 71, 
+            "x": 3349, 
+            "height": 22, 
+            "width": 22
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 72, 
+            "x": 158, 
+            "height": 19, 
+            "width": 13
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 72, 
+            "x": 264, 
+            "height": 19, 
+            "width": 13
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 72, 
+            "x": 1878, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 72, 
+            "x": 2278, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 73, 
+            "x": 2308, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 73, 
+            "x": 2733, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 73, 
+            "x": 3156, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 7, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 5, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 3, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "showers", 
+          "name": "Showers"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }
+      ]
+    }
+  ], 
   "Location": "United States Virgin Islands 18\u00b020\u2032N 64\u00b044\u2032W\ufeff / \ufeff18.33\u00b0N 64.73\u00b0W\ufeff / 18.33; -64.73\ufeff (Virgin Islands)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 7, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 5, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 3, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 2, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "showers", 
+      "name": "Showers"
+    }, 
+    {
+      "count": 2, 
+      "id": "campground", 
+      "name": "Campground"
+    }
+  ], 
+  "map_count": 1, 
   "id": "virgin-islands", 
   "Description": "The island of Saint John has rich human and natural histories. Ta\u00edno archaeological sites and ruins of sugar plantations from Columbus' time litter the coast. Past the pristine beaches are mangrove forests, seagrass beds, coral reefs, and vast algal plains."
 }

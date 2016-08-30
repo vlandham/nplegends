@@ -1,13 +1,961 @@
 {
+  "symbol_count": 74, 
   "Name": "Joshua Tree", 
   "Recreation Visitors (2014)": "1,589,904", 
   "Photo": "", 
   "Date established as park": "October 31, 1994", 
   "Area": "789,745.47 acres (3,196.0\u00a0km2)", 
   "name": "Joshua Tree", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "joshua-tree-simple-map", 
+      "img_size": {
+        "width": 9897, 
+        "height": 4812
+      }, 
+      "park": "joshua-tree", 
+      "filename": "joshua-tree-simple-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 170, 
+            "x": 1780, 
+            "height": 26, 
+            "width": 20
+          }, 
+          "name": "", 
+          "id": ""
+        }, 
+        {
+          "pos": {
+            "y": 170, 
+            "x": 2024, 
+            "height": 26, 
+            "width": 18
+          }, 
+          "name": "", 
+          "id": ""
+        }, 
+        {
+          "pos": {
+            "y": 171, 
+            "x": 6596, 
+            "height": 26, 
+            "width": 18
+          }, 
+          "name": "", 
+          "id": ""
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 1532, 
+            "height": 24, 
+            "width": 19
+          }, 
+          "name": "", 
+          "id": ""
+        }, 
+        {
+          "pos": {
+            "y": 178, 
+            "x": 1740, 
+            "height": 18, 
+            "width": 16
+          }, 
+          "name": "Bottles", 
+          "id": "bottles"
+        }, 
+        {
+          "pos": {
+            "y": 229, 
+            "x": 6542, 
+            "height": 24, 
+            "width": 17
+          }, 
+          "name": "Wine", 
+          "id": "wine"
+        }, 
+        {
+          "pos": {
+            "y": 369, 
+            "x": 7053, 
+            "height": 32, 
+            "width": 39
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 4, 
+          "id": "", 
+          "name": ""
+        }, 
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 1, 
+          "id": "bottles", 
+          "name": "Bottles"
+        }, 
+        {
+          "count": 1, 
+          "id": "wine", 
+          "name": "Wine"
+        }
+      ]
+    }, 
+    {
+      "map": "joshua-tree-pinkham-canyon-road-map", 
+      "img_size": {
+        "width": 4412, 
+        "height": 3716
+      }, 
+      "park": "joshua-tree", 
+      "filename": "joshua-tree-pinkham-canyon-road-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 50, 
+            "x": 4262, 
+            "height": 25, 
+            "width": 28
+          }, 
+          "name": "Entrance station", 
+          "id": "entrance-station"
+        }, 
+        {
+          "pos": {
+            "y": 84, 
+            "x": 327, 
+            "height": 86, 
+            "width": 214
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 84, 
+            "x": 1987, 
+            "height": 91, 
+            "width": 90
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 636, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 772, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 2818, 
+            "height": 30, 
+            "width": 17
+          }, 
+          "name": "Trash dumpster", 
+          "id": "trash-dumpster"
+        }, 
+        {
+          "pos": {
+            "y": 92, 
+            "x": 2252, 
+            "height": 24, 
+            "width": 13
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 92, 
+            "x": 2267, 
+            "height": 24, 
+            "width": 21
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 92, 
+            "x": 2291, 
+            "height": 24, 
+            "width": 20
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 94, 
+            "x": 746, 
+            "height": 24, 
+            "width": 20
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 95, 
+            "x": 600, 
+            "height": 23, 
+            "width": 5
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 95, 
+            "x": 2695, 
+            "height": 24, 
+            "width": 20
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 95, 
+            "x": 2864, 
+            "height": 24, 
+            "width": 13
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 97, 
+            "x": 1208, 
+            "height": 23, 
+            "width": 20
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 99, 
+            "x": 1581, 
+            "height": 24, 
+            "width": 20
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 107, 
+            "x": 4236, 
+            "height": 7, 
+            "width": 7
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 130, 
+            "x": 1268, 
+            "height": 34, 
+            "width": 22
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 140, 
+            "x": 1148, 
+            "height": 24, 
+            "width": 20
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 147, 
+            "x": 4229, 
+            "height": 29, 
+            "width": 38
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 9, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 7, 
+          "id": "birdingnvildlife-viewing", 
+          "name": "BirdingNVildlife Viewing"
+        }, 
+        {
+          "count": 1, 
+          "id": "trash-dumpster", 
+          "name": "Trash dumpster"
+        }, 
+        {
+          "count": 1, 
+          "id": "entrance-station", 
+          "name": "Entrance station"
+        }, 
+        {
+          "count": 1, 
+          "id": "store", 
+          "name": "Store"
+        }
+      ]
+    }, 
+    {
+      "map": "joshua-tree-map", 
+      "img_size": {
+        "width": 6911, 
+        "height": 3306
+      }, 
+      "park": "joshua-tree", 
+      "filename": "joshua-tree-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 29, 
+            "x": 4365, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 29, 
+            "x": 4391, 
+            "height": 16, 
+            "width": 15
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 29, 
+            "x": 4470, 
+            "height": 7, 
+            "width": 9
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 29, 
+            "x": 4512, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "First aid", 
+          "id": "first-aid"
+        }, 
+        {
+          "pos": {
+            "y": 29, 
+            "x": 4520, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 29, 
+            "x": 4533, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 31, 
+            "x": 1151, 
+            "height": 38, 
+            "width": 39
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 31, 
+            "x": 3053, 
+            "height": 17, 
+            "width": 13
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 31, 
+            "x": 3115, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 31, 
+            "x": 3277, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 32, 
+            "x": 2794, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 32, 
+            "x": 2864, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 32, 
+            "x": 2898, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 32, 
+            "x": 2956, 
+            "height": 16, 
+            "width": 15
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 32, 
+            "x": 2975, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 32, 
+            "x": 2992, 
+            "height": 16, 
+            "width": 14
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 32, 
+            "x": 3072, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 32, 
+            "x": 3266, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 4374, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 4408, 
+            "height": 12, 
+            "width": 17
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 4439, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 4451, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 4491, 
+            "height": 12, 
+            "width": 17
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 4509, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 4549, 
+            "height": 5, 
+            "width": 6
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 4556, 
+            "height": 12, 
+            "width": 17
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 34, 
+            "x": 3191, 
+            "height": 14, 
+            "width": 7
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 35, 
+            "x": 4468, 
+            "height": 10, 
+            "width": 10
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 36, 
+            "x": 2879, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 36, 
+            "x": 2942, 
+            "height": 12, 
+            "width": 9
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 36, 
+            "x": 2972, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 36, 
+            "x": 3015, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Entrance station", 
+          "id": "entrance-station"
+        }, 
+        {
+          "pos": {
+            "y": 36, 
+            "x": 3033, 
+            "height": 12, 
+            "width": 6
+          }, 
+          "name": "Entrance station", 
+          "id": "entrance-station"
+        }, 
+        {
+          "pos": {
+            "y": 43, 
+            "x": 1131, 
+            "height": 17, 
+            "width": 13
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 43, 
+            "x": 1272, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 976, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1006, 
+            "height": 16, 
+            "width": 13
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1021, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1075, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1195, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "First aid", 
+          "id": "first-aid"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1209, 
+            "height": 7, 
+            "width": 9
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1240, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Quiet", 
+          "id": "quiet"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1249, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "First aid", 
+          "id": "first-aid"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1260, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 46, 
+            "x": 1034, 
+            "height": 14, 
+            "width": 7
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 48, 
+            "x": 1018, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 48, 
+            "x": 1024, 
+            "height": 12, 
+            "width": 9
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 48, 
+            "x": 1041, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 11, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 9, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 8, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 7, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 5, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "first-aid", 
+          "name": "First aid"
+        }, 
+        {
+          "count": 2, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 2, 
+          "id": "entrance-station", 
+          "name": "Entrance station"
+        }, 
+        {
+          "count": 1, 
+          "id": "quiet", 
+          "name": "Quiet"
+        }
+      ]
+    }
+  ], 
   "Location": "California 33\u00b047\u2032N 115\u00b054\u2032W\ufeff / \ufeff33.79\u00b0N 115.90\u00b0W\ufeff / 33.79; -115.90\ufeff (Joshua Tree)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 12, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }, 
+    {
+      "count": 11, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 9, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 8, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 7, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 7, 
+      "id": "birdingnvildlife-viewing", 
+      "name": "BirdingNVildlife Viewing"
+    }, 
+    {
+      "count": 5, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 4, 
+      "id": "", 
+      "name": ""
+    }, 
+    {
+      "count": 3, 
+      "id": "first-aid", 
+      "name": "First aid"
+    }, 
+    {
+      "count": 3, 
+      "id": "entrance-station", 
+      "name": "Entrance station"
+    }, 
+    {
+      "count": 1, 
+      "id": "bottles", 
+      "name": "Bottles"
+    }, 
+    {
+      "count": 1, 
+      "id": "quiet", 
+      "name": "Quiet"
+    }, 
+    {
+      "count": 1, 
+      "id": "trash-dumpster", 
+      "name": "Trash dumpster"
+    }, 
+    {
+      "count": 1, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 1, 
+      "id": "wine", 
+      "name": "Wine"
+    }
+  ], 
+  "map_count": 3, 
   "id": "joshua-tree", 
   "Description": "Covering large areas of the Colorado and Mojave Deserts and the Little San Bernardino Mountains, this exotic desert landscape is populated by vast stands of the famous Joshua tree. Great changes in elevation reveal starkly contrasting environments including bleached sand dunes, dry lakes, rugged mountains, and maze-like clusters of monzogranite monoliths."
 }

@@ -1,13 +1,833 @@
 {
+  "symbol_count": 68, 
   "Name": "Shenandoah", 
   "Recreation Visitors (2014)": "1,255,321", 
   "Photo": "", 
   "Date established as park": "May 22, 1926", 
   "Area": "199,045.23 acres (805.5\u00a0km2)", 
   "name": "Shenandoah", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "shenandoah-classic-map", 
+      "img_size": {
+        "width": 2462, 
+        "height": 6479
+      }, 
+      "park": "shenandoah", 
+      "filename": "shenandoah-classic-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 4, 
+            "x": 1064, 
+            "height": 4, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 10, 
+            "x": 1063, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 15, 
+            "x": 1074, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 17, 
+            "x": 1078, 
+            "height": 2, 
+            "width": 4
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 18, 
+            "x": 1065, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 19, 
+            "x": 1044, 
+            "height": 5, 
+            "width": 4
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 1052, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 1073, 
+            "height": 2, 
+            "width": 4
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 1111, 
+            "height": 2, 
+            "width": 23
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 23, 
+            "x": 1042, 
+            "height": 4, 
+            "width": 3
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 23, 
+            "x": 1050, 
+            "height": 4, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 3, 
+          "id": "recycling", 
+          "name": "Recycling"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
+    }, 
+    {
+      "map": "shenandoah-map", 
+      "img_size": {
+        "width": 2527, 
+        "height": 6876
+      }, 
+      "park": "shenandoah", 
+      "filename": "shenandoah-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 1, 
+            "x": 262, 
+            "height": 25, 
+            "width": 17
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2, 
+            "x": 168, 
+            "height": 24, 
+            "width": 14
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 8, 
+            "x": 184, 
+            "height": 18, 
+            "width": 16
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 8, 
+            "x": 203, 
+            "height": 25, 
+            "width": 17
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 8, 
+            "x": 223, 
+            "height": 18, 
+            "width": 16
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 8, 
+            "x": 242, 
+            "height": 18, 
+            "width": 16
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 307, 
+            "height": 20, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 379, 
+            "height": 20, 
+            "width": 13
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 425, 
+            "height": 20, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 704, 
+            "height": 20, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 730, 
+            "height": 20, 
+            "width": 3
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 1149, 
+            "height": 20, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 1181, 
+            "height": 20, 
+            "width": 12
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 1282, 
+            "height": 20, 
+            "width": 3
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 1858, 
+            "height": 20, 
+            "width": 13
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 169, 
+            "height": 44, 
+            "width": 109
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 566, 
+            "height": 44, 
+            "width": 108
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 737, 
+            "height": 3, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 808, 
+            "height": 3, 
+            "width": 4
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 963, 
+            "height": 44, 
+            "width": 108
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 1197, 
+            "height": 3, 
+            "width": 4
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 1275, 
+            "height": 3, 
+            "width": 4
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 1360, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 1553, 
+            "height": 3, 
+            "width": 4
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 1927, 
+            "height": 3, 
+            "width": 4
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 2153, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 2211, 
+            "height": 19, 
+            "width": 16
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 2304, 
+            "height": 3, 
+            "width": 4
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 53, 
+            "x": 293, 
+            "height": 18, 
+            "width": 11
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 53, 
+            "x": 690, 
+            "height": 18, 
+            "width": 11
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 53, 
+            "x": 780, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 53, 
+            "x": 1086, 
+            "height": 18, 
+            "width": 17
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 53, 
+            "x": 1238, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 53, 
+            "x": 1420, 
+            "height": 18, 
+            "width": 13
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 53, 
+            "x": 1757, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 53, 
+            "x": 1816, 
+            "height": 18, 
+            "width": 10
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 54, 
+            "x": 1518, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 54, 
+            "x": 1541, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 54, 
+            "x": 2268, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 54, 
+            "x": 2292, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 55, 
+            "x": 634, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 321, 
+            "height": 14, 
+            "width": 13
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 336, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 350, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 365, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 395, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 410, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 716, 
+            "height": 19, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 737, 
+            "height": 14, 
+            "width": 3
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 744, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 758, 
+            "height": 14, 
+            "width": 13
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 798, 
+            "height": 14, 
+            "width": 8
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 808, 
+            "height": 14, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 814, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 826, 
+            "height": 14, 
+            "width": 13
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 1105, 
+            "height": 19, 
+            "width": 13
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 1120, 
+            "height": 19, 
+            "width": 13
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 12, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 11, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 10, 
+          "id": "recycling", 
+          "name": "Recycling"
+        }, 
+        {
+          "count": 8, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 5, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 5, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 4, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
+    }
+  ], 
   "Location": "Virginia 38\u00b032\u2032N 78\u00b021\u2032W\ufeff / \ufeff38.53\u00b0N 78.35\u00b0W\ufeff / 38.53; -78.35\ufeff (Shenandoah)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 14, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 13, 
+      "id": "recycling", 
+      "name": "Recycling"
+    }, 
+    {
+      "count": 11, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 11, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 7, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 5, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 4, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 1, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }
+  ], 
+  "map_count": 2, 
   "id": "shenandoah", 
   "Description": "Shenandoah's Blue Ridge Mountains are covered by sprawling hardwood forests that teem with tens of thousands of animals. The Skyline Drive and Appalachian Trail run the entire length of this narrow park, along with more than 500 miles (800\u00a0km) of hiking trails passing scenic overlooks and cataracts of the Shenandoah River."
 }

@@ -1,8 +1,9 @@
 import React, { PureComponent, PropTypes } from 'react';
 import { connect } from 'react-redux';
 import Helmet from 'react-helmet';
-import * as GlobalSearchActions from '../../redux/globalSearch/actions';
-import * as GlobalSearchSelectors from '../../redux/globalSearch/selectors';
+import _ from 'lodash';
+import * as SearchActions from '../../redux/search/actions';
+import * as SearchSelectors from '../../redux/search/selectors';
 
 import { OmniSearch } from '../../components';
 
@@ -10,16 +11,14 @@ import './HomePage.scss';
 
 function mapStateToProps(state) {
   return {
-    locationSearchResults: GlobalSearchSelectors.getLocationSearchResults(state),
-    locationSearchQuery: GlobalSearchSelectors.getLocationSearchQuery(state),
+    parkIds: SearchSelectors.getParkSearch(state),
   };
 }
 
 class HomePage extends PureComponent {
   static propTypes = {
     dispatch: PropTypes.func,
-    locationSearchQuery: PropTypes.string,
-    locationSearchResults: PropTypes.array,
+    parkIds: PropTypes.object,
   }
 
   constructor(props) {
@@ -32,16 +31,20 @@ class HomePage extends PureComponent {
   /**
    * Callback for when viewMetric changes - updates URL
    */
-  onSearchQueryChange(query) {
+  onSearchQueryChange() {
     const { dispatch } = this.props;
-    dispatch(GlobalSearchActions.fetchLocationSearchIfNeeded(query));
+    dispatch(SearchActions.fetchParkSearchIfNeeded());
   }
 
   renderSearch() {
-    const { locationSearchResults } = this.props;
+    const { parkIds } = this.props;
+    let parks = [];
+    if (parkIds) {
+      parks = _.values(parkIds);
+    }
     return (
       <OmniSearch
-        searchResults={locationSearchResults}
+        searchResults={parks}
         onSearchChange={this.onSearchQueryChange}
       />
     );
@@ -52,7 +55,6 @@ class HomePage extends PureComponent {
       <div className="home-page">
         <Helmet title="Home" />
         <h1>Home</h1>
-        <div>This is the home page.</div>
 
         <div className="omni-search-container">
           {this.renderSearch()}

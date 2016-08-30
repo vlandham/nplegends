@@ -83,6 +83,7 @@ class ParkPage extends PureComponent {
       <div>
         <Helmet title="Park" />
         <h1>{ parkInfo['Name'] }</h1>
+        <h2>{ parkInfo.symbol_count } Symbols in { parkInfo.map_count } Maps</h2>
         <div><p>{ parkInfo['Description'] }</p></div>
         <h2>Symbols</h2>
         {this.renderSymbolList()}

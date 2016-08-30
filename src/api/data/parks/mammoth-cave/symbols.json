@@ -1,13 +1,290 @@
 {
+  "symbol_count": 22, 
   "Name": "Mammoth Cave", 
   "Recreation Visitors (2014)": "522,628", 
   "Photo": "", 
   "Date established as park": "July 1, 1941", 
   "Area": "52,830.19 acres (213.8\u00a0km2)", 
   "name": "Mammoth Cave", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "mammoth-cave-map", 
+      "img_size": {
+        "width": 5110, 
+        "height": 3453
+      }, 
+      "park": "mammoth-cave", 
+      "filename": "mammoth-cave-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 20, 
+            "x": 491, 
+            "height": 1827, 
+            "width": 2825
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 26, 
+            "x": 374, 
+            "height": 21, 
+            "width": 21
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 47, 
+            "x": 342, 
+            "height": 3, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 48, 
+            "x": 254, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 48, 
+            "x": 303, 
+            "height": 18, 
+            "width": 11
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 268, 
+            "height": 14, 
+            "width": 13
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 282, 
+            "height": 14, 
+            "width": 13
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 332, 
+            "height": 14, 
+            "width": 8
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 342, 
+            "height": 14, 
+            "width": 3
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 349, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 363, 
+            "height": 19, 
+            "width": 13
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 76, 
+            "x": 4130, 
+            "height": 38, 
+            "width": 50
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 4142, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 4156, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 107, 
+            "x": 3282, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 107, 
+            "x": 3295, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 128, 
+            "x": 787, 
+            "height": 17, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 129, 
+            "x": 475, 
+            "height": 40, 
+            "width": 61
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 129, 
+            "x": 818, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 129, 
+            "x": 830, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 133, 
+            "x": 773, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 133, 
+            "x": 793, 
+            "height": 12, 
+            "width": 3
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 7, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 6, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "campground", 
+          "name": "Campground"
+        }
+      ]
+    }
+  ], 
   "Location": "Kentucky 37\u00b011\u2032N 86\u00b006\u2032W\ufeff / \ufeff37.18\u00b0N 86.10\u00b0W\ufeff / 37.18; -86.10\ufeff (Mammoth Cave)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 7, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 6, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }, 
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "campground", 
+      "name": "Campground"
+    }
+  ], 
+  "map_count": 1, 
   "id": "mammoth-cave", 
   "Description": "With more than 400 miles (640\u00a0km) of passageways explored, Mammoth Cave is by far the world's longest cave system. Subterranean wildlife includes eight bat species, Kentucky cave shrimp, Northern cavefish, and cave salamanders. Above ground, the park provides recreation on the Green River, 70 miles of hiking trails, and plenty of sinkholes and springs.[47] (WHS)"
 }

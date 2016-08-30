@@ -1,13 +1,1880 @@
 {
+  "symbol_count": 149, 
   "Name": "Grand Canyon", 
   "Recreation Visitors (2014)": "4,756,771", 
   "Photo": "", 
   "Date established as park": "February 26, 1919", 
   "Area": "1,217,403.32 acres (4,926.7\u00a0km2)", 
   "name": "Grand Canyon", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "grand-canyon-south-rim-map", 
+      "img_size": {
+        "width": 6521, 
+        "height": 2951
+      }, 
+      "park": "grand-canyon", 
+      "filename": "grand-canyon-south-rim-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 839, 
+            "x": 3018, 
+            "height": 7, 
+            "width": 10
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 841, 
+            "x": 2836, 
+            "height": 33, 
+            "width": 31
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 841, 
+            "x": 2988, 
+            "height": 33, 
+            "width": 28
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 842, 
+            "x": 2920, 
+            "height": 33, 
+            "width": 21
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 848, 
+            "x": 2870, 
+            "height": 27, 
+            "width": 29
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 883, 
+            "x": 2795, 
+            "height": 24, 
+            "width": 8
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 883, 
+            "x": 4263, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 887, 
+            "x": 4292, 
+            "height": 14, 
+            "width": 6
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 887, 
+            "x": 4299, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 2831, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 2854, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 2870, 
+            "height": 14, 
+            "width": 15
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 2895, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 2910, 
+            "height": 14, 
+            "width": 11
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 2953, 
+            "height": 14, 
+            "width": 24
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 2978, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Trailer site", 
+          "id": "trailer-site"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 3029, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 3061, 
+            "height": 14, 
+            "width": 16
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 3076, 
+            "height": 14, 
+            "width": 16
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 889, 
+            "x": 3093, 
+            "height": 14, 
+            "width": 14
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 892, 
+            "x": 3612, 
+            "height": 18, 
+            "width": 19
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 892, 
+            "x": 3642, 
+            "height": 18, 
+            "width": 7
+          }, 
+          "name": "First aid", 
+          "id": "first-aid"
+        }, 
+        {
+          "pos": {
+            "y": 892, 
+            "x": 3659, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 5, 
+          "id": "information", 
+          "name": "Information"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 1, 
+          "id": "trailer-site", 
+          "name": "Trailer site"
+        }, 
+        {
+          "count": 1, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 1, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "first-aid", 
+          "name": "First aid"
+        }
+      ]
+    }, 
+    {
+      "map": "grand-canyon-south-rim-detail-map", 
+      "img_size": {
+        "width": 2648, 
+        "height": 1186
+      }, 
+      "park": "grand-canyon", 
+      "filename": "grand-canyon-south-rim-detail-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 54, 
+            "x": 1558, 
+            "height": 20, 
+            "width": 4
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 55, 
+            "x": 1668, 
+            "height": 4, 
+            "width": 4
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 1688, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 60, 
+            "x": 1588, 
+            "height": 14, 
+            "width": 13
+          }, 
+          "name": "First aid", 
+          "id": "first-aid"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 3, 
+          "id": "information", 
+          "name": "Information"
+        }, 
+        {
+          "count": 1, 
+          "id": "first-aid", 
+          "name": "First aid"
+        }
+      ]
+    }, 
+    {
+      "map": "grand-canyon-national-park-map", 
+      "img_size": {
+        "width": 6631, 
+        "height": 5018
+      }, 
+      "park": "grand-canyon", 
+      "filename": "grand-canyon-national-park-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 8, 
+            "x": 1173, 
+            "height": 28, 
+            "width": 2
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 49, 
+            "x": 1160, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 50, 
+            "x": 1167, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 1159, 
+            "height": 4, 
+            "width": 2
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 1166, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 54, 
+            "x": 1158, 
+            "height": 4, 
+            "width": 2
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 74, 
+            "x": 3613, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 74, 
+            "x": 3690, 
+            "height": 16, 
+            "width": 15
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 74, 
+            "x": 3728, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 74, 
+            "x": 3780, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 75, 
+            "x": 1159, 
+            "height": 4, 
+            "width": 2
+          }, 
+          "name": "Electrical hookup", 
+          "id": "electrical-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3706, 
+            "height": 12, 
+            "width": 10
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3725, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3756, 
+            "height": 12, 
+            "width": 10
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3791, 
+            "height": 12, 
+            "width": 10
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3803, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3807, 
+            "height": 3, 
+            "width": 5
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3879, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3895, 
+            "height": 18, 
+            "width": 17
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3914, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3931, 
+            "height": 18, 
+            "width": 17
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 3950, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 80, 
+            "x": 1150, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 80, 
+            "x": 1157, 
+            "height": 4, 
+            "width": 2
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 1149, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 83, 
+            "x": 1156, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 84, 
+            "x": 1148, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 84, 
+            "x": 6084, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 84, 
+            "x": 6143, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 1147, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 2349, 
+            "height": 17, 
+            "width": 7
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 4692, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 4719, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 4777, 
+            "height": 16, 
+            "width": 15
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 4805, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 85, 
+            "x": 6034, 
+            "height": 16, 
+            "width": 14
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 86, 
+            "x": 1336, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 87, 
+            "x": 6124, 
+            "height": 14, 
+            "width": 7
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 88, 
+            "x": 1145, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 88, 
+            "x": 1153, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 88, 
+            "x": 2400, 
+            "height": 14, 
+            "width": 7
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 1318, 
+            "height": 14, 
+            "width": 7
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 4701, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 4731, 
+            "height": 12, 
+            "width": 10
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 4755, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 4793, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 4797, 
+            "height": 3, 
+            "width": 5
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 89, 
+            "x": 4802, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 10, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 10, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 8, 
+          "id": "information", 
+          "name": "Information"
+        }, 
+        {
+          "count": 8, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 7, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "electrical-hookup", 
+          "name": "Electrical hookup"
+        }
+      ]
+    }, 
+    {
+      "map": "grand-canyon-north-rim-map", 
+      "img_size": {
+        "width": 3232, 
+        "height": 1278
+      }, 
+      "park": "grand-canyon", 
+      "filename": "grand-canyon-north-rim-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 0, 
+            "x": 733, 
+            "height": 6, 
+            "width": 8
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 0, 
+            "x": 740, 
+            "height": 19, 
+            "width": 25
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 0, 
+            "x": 1916, 
+            "height": 4, 
+            "width": 11
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2, 
+            "x": 1930, 
+            "height": 8, 
+            "width": 18
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 5, 
+            "x": 724, 
+            "height": 71, 
+            "width": 66
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 8, 
+            "x": 1950, 
+            "height": 8, 
+            "width": 17
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 13, 
+            "x": 1970, 
+            "height": 6, 
+            "width": 18
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 15, 
+            "x": 1991, 
+            "height": 6, 
+            "width": 18
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 25, 
+            "x": 880, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 4, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
+    }, 
+    {
+      "map": "grand-canyon-classic-map", 
+      "img_size": {
+        "width": 4363, 
+        "height": 2846
+      }, 
+      "park": "grand-canyon", 
+      "filename": "grand-canyon-classic-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 214, 
+            "x": 2946, 
+            "height": 4, 
+            "width": 3
+          }, 
+          "name": "Fire extinguisher", 
+          "id": "fire-extinguisher"
+        }, 
+        {
+          "pos": {
+            "y": 214, 
+            "x": 2954, 
+            "height": 14, 
+            "width": 9
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 225, 
+            "x": 516, 
+            "height": 16, 
+            "width": 13
+          }, 
+          "name": "Entrance station", 
+          "id": "entrance-station"
+        }, 
+        {
+          "pos": {
+            "y": 227, 
+            "x": 555, 
+            "height": 7, 
+            "width": 8
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 228, 
+            "x": 1029, 
+            "height": 12, 
+            "width": 9
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 228, 
+            "x": 1039, 
+            "height": 13, 
+            "width": 9
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 229, 
+            "x": 990, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 230, 
+            "x": 2795, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 230, 
+            "x": 2835, 
+            "height": 12, 
+            "width": 10
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 230, 
+            "x": 2847, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 230, 
+            "x": 2890, 
+            "height": 12, 
+            "width": 10
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 230, 
+            "x": 2903, 
+            "height": 12, 
+            "width": 7
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 230, 
+            "x": 2911, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 230, 
+            "x": 2947, 
+            "height": 12, 
+            "width": 9
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 230, 
+            "x": 3456, 
+            "height": 13, 
+            "width": 9
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 233, 
+            "x": 561, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 234, 
+            "x": 1024, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 234, 
+            "x": 1035, 
+            "height": 5, 
+            "width": 3
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 235, 
+            "x": 1018, 
+            "height": 6, 
+            "width": 9
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 236, 
+            "x": 576, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 236, 
+            "x": 2889, 
+            "height": 6, 
+            "width": 7
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 236, 
+            "x": 3451, 
+            "height": 5, 
+            "width": 3
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 237, 
+            "x": 572, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 238, 
+            "x": 568, 
+            "height": 2, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 6, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 5, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 5, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 3, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }, 
+        {
+          "count": 1, 
+          "id": "fire-extinguisher", 
+          "name": "Fire extinguisher"
+        }, 
+        {
+          "count": 1, 
+          "id": "entrance-station", 
+          "name": "Entrance station"
+        }
+      ]
+    }, 
+    {
+      "map": "grand-canyon-hiking-map-0", 
+      "img_size": {
+        "width": 2251, 
+        "height": 3150
+      }, 
+      "park": "grand-canyon", 
+      "filename": "grand-canyon-hiking-map-0.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 31, 
+            "x": 1528, 
+            "height": 10, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 200, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 362, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 490, 
+            "height": 19, 
+            "width": 15
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 753, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 833, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 950, 
+            "height": 19, 
+            "width": 15
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 1227, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 1307, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 1617, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 1838, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 48, 
+            "x": 1528, 
+            "height": 11, 
+            "width": 13
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 322, 
+            "height": 8, 
+            "width": 12
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 692, 
+            "height": 8, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 793, 
+            "height": 8, 
+            "width": 12
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 1166, 
+            "height": 8, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 1267, 
+            "height": 8, 
+            "width": 12
+          }, 
+          "name": "First aid", 
+          "id": "first-aid"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 1385, 
+            "height": 8, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 2015, 
+            "height": 8, 
+            "width": 12
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 128, 
+            "x": 52, 
+            "height": 1253, 
+            "width": 850
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 164, 
+            "x": 165, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 164, 
+            "x": 241, 
+            "height": 7, 
+            "width": 12
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 164, 
+            "x": 1587, 
+            "height": 25, 
+            "width": 13
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 164, 
+            "x": 1655, 
+            "height": 25, 
+            "width": 15
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 164, 
+            "x": 1688, 
+            "height": 25, 
+            "width": 15
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 164, 
+            "x": 1762, 
+            "height": 25, 
+            "width": 2
+          }, 
+          "name": "First aid", 
+          "id": "first-aid"
+        }, 
+        {
+          "pos": {
+            "y": 164, 
+            "x": 1769, 
+            "height": 25, 
+            "width": 13
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 164, 
+            "x": 1826, 
+            "height": 25, 
+            "width": 5
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 165, 
+            "x": 1649, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 165, 
+            "x": 1755, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 166, 
+            "x": 1527, 
+            "height": 23, 
+            "width": 17
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 166, 
+            "x": 1614, 
+            "height": 23, 
+            "width": 16
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 166, 
+            "x": 1713, 
+            "height": 23, 
+            "width": 17
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 168, 
+            "x": 1575, 
+            "height": 21, 
+            "width": 10
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 1546, 
+            "height": 17, 
+            "width": 16
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 1566, 
+            "height": 17, 
+            "width": 8
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 1631, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 1671, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 1729, 
+            "height": 17, 
+            "width": 8
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 1737, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 1755, 
+            "height": 17, 
+            "width": 2
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 15, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 6, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 5, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 5, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "first-aid", 
+          "name": "First aid"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 2, 
+          "id": "store", 
+          "name": "Store"
+        }
+      ]
+    }
+  ], 
   "Location": "Arizona 36\u00b004\u2032N 112\u00b008\u2032W\ufeff / \ufeff36.06\u00b0N 112.14\u00b0W\ufeff / 36.06; -112.14\ufeff (Grand Canyon)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 23, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 19, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 16, 
+      "id": "information", 
+      "name": "Information"
+    }, 
+    {
+      "count": 16, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 15, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 14, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 11, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 8, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }, 
+    {
+      "count": 6, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 5, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 5, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 4, 
+      "id": "first-aid", 
+      "name": "First aid"
+    }, 
+    {
+      "count": 2, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 1, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }, 
+    {
+      "count": 1, 
+      "id": "trailer-site", 
+      "name": "Trailer site"
+    }, 
+    {
+      "count": 1, 
+      "id": "fire-extinguisher", 
+      "name": "Fire extinguisher"
+    }, 
+    {
+      "count": 1, 
+      "id": "entrance-station", 
+      "name": "Entrance station"
+    }, 
+    {
+      "count": 1, 
+      "id": "electrical-hookup", 
+      "name": "Electrical hookup"
+    }
+  ], 
+  "map_count": 6, 
   "id": "grand-canyon", 
   "Description": "The Grand Canyon, carved by the mighty Colorado River, is 277 miles (446\u00a0km) long, up to 1 mile (1.6\u00a0km) deep, and up to 15 miles (24\u00a0km) wide. Millions of years of erosion have exposed the colorful layers of the Colorado Plateau in countless mesas and canyon walls, visible from both the north and south rims, or from a number of trails that descend into the canyon itself.[30] (WHS)"
 }

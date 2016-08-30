@@ -1,13 +1,674 @@
 {
+  "symbol_count": 48, 
   "Name": "Zion", 
   "Recreation Visitors (2014)": "3,189,696", 
   "Photo": "", 
   "Date established as park": "November 19, 1919", 
   "Area": "146,597.60 acres (593.3\u00a0km2)", 
   "name": "Zion", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "zion-hiking-map-0", 
+      "img_size": {
+        "width": 2402, 
+        "height": 3001
+      }, 
+      "park": "zion", 
+      "filename": "zion-hiking-map-0.jpg", 
+      "symbols": [], 
+      "totals": []
+    }, 
+    {
+      "map": "zion-canyon-detail-map", 
+      "img_size": {
+        "width": 1695, 
+        "height": 3730
+      }, 
+      "park": "zion", 
+      "filename": "zion-canyon-detail-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 4, 
+            "x": 1043, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 583, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 592, 
+            "height": 16, 
+            "width": 14
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 624, 
+            "height": 16, 
+            "width": 14
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 652, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 664, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 676, 
+            "height": 16, 
+            "width": 15
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 693, 
+            "height": 16, 
+            "width": 21
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 711, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-(rental,-guided-tour)"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 1032, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 46, 
+            "x": 587, 
+            "height": 6, 
+            "width": 6
+          }, 
+          "name": "Bicycle trail", 
+          "id": "bicycle-trail"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 594, 
+            "height": 18, 
+            "width": 6
+          }, 
+          "name": "Pets on leash", 
+          "id": "pets-on-leash"
+        }, 
+        {
+          "pos": {
+            "y": 76, 
+            "x": 660, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 977, 
+            "height": 6, 
+            "width": 19
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 102, 
+            "x": 648, 
+            "height": 19, 
+            "width": 7
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 124, 
+            "x": 648, 
+            "height": 19, 
+            "width": 5
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 125, 
+            "x": 734, 
+            "height": 4, 
+            "width": 5
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 126, 
+            "x": 660, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 130, 
+            "x": 676, 
+            "height": 14, 
+            "width": 6
+          }, 
+          "name": "First aid", 
+          "id": "first-aid"
+        }, 
+        {
+          "pos": {
+            "y": 140, 
+            "x": 939, 
+            "height": 19, 
+            "width": 9
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 146, 
+            "x": 648, 
+            "height": 19, 
+            "width": 6
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 8, 
+          "id": "maps", 
+          "name": "Maps"
+        }, 
+        {
+          "count": 4, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 1, 
+          "id": "bicycle-trail", 
+          "name": "Bicycle trail"
+        }, 
+        {
+          "count": 1, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 1, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "pets-on-leash", 
+          "name": "Pets on leash"
+        }, 
+        {
+          "count": 1, 
+          "id": "first-aid", 
+          "name": "First aid"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
+    }, 
+    {
+      "map": "zion-map", 
+      "img_size": {
+        "width": 5075, 
+        "height": 4055
+      }, 
+      "park": "zion", 
+      "filename": "zion-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 0, 
+            "x": 133, 
+            "height": 380, 
+            "width": 888
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 742, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 771, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 800, 
+            "height": 16, 
+            "width": 7
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 834, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 849, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 84, 
+            "x": 853, 
+            "height": 14, 
+            "width": 5
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 86, 
+            "x": 754, 
+            "height": 12, 
+            "width": 9
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 86, 
+            "x": 794, 
+            "height": 12, 
+            "width": 9
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 86, 
+            "x": 811, 
+            "height": 12, 
+            "width": 6
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 86, 
+            "x": 825, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 86, 
+            "x": 852, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 87, 
+            "x": 751, 
+            "height": 10, 
+            "width": 6
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 87, 
+            "x": 809, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 87, 
+            "x": 823, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 87, 
+            "x": 846, 
+            "height": 11, 
+            "width": 5
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 87, 
+            "x": 859, 
+            "height": 15, 
+            "width": 9
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 87, 
+            "x": 867, 
+            "height": 5, 
+            "width": 4
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 91, 
+            "x": 807, 
+            "height": 7, 
+            "width": 6
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 101, 
+            "x": 566, 
+            "height": 17, 
+            "width": 7
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 102, 
+            "x": 537, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 102, 
+            "x": 599, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 102, 
+            "x": 707, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 102, 
+            "x": 747, 
+            "height": 16, 
+            "width": 6
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 102, 
+            "x": 759, 
+            "height": 16, 
+            "width": 13
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 103, 
+            "x": 773, 
+            "height": 15, 
+            "width": 5
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 104, 
+            "x": 861, 
+            "height": 14, 
+            "width": 6
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 9, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 7, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 5, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 4, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }
+      ]
+    }
+  ], 
   "Location": "Utah 37\u00b018\u2032N 113\u00b003\u2032W\ufeff / \ufeff37.30\u00b0N 113.05\u00b0W\ufeff / 37.30; -113.05\ufeff (Zion)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 11, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 9, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 8, 
+      "id": "maps", 
+      "name": "Maps"
+    }, 
+    {
+      "count": 5, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 4, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 1, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 1, 
+      "id": "bicycle-trail", 
+      "name": "Bicycle trail"
+    }, 
+    {
+      "count": 1, 
+      "id": "horseback-riding-(rental,-guided-tour)", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 1, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 1, 
+      "id": "pets-on-leash", 
+      "name": "Pets on leash"
+    }, 
+    {
+      "count": 1, 
+      "id": "first-aid", 
+      "name": "First aid"
+    }, 
+    {
+      "count": 1, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }
+  ], 
+  "map_count": 3, 
   "id": "zion", 
   "Description": "Located at the junction of the Colorado Plateau, Great Basin, and Mojave Desert, this geological wonder has colorful sandstone canyons, mountainous mesas, and countless rock towers. Natural arches and exposed plateau formations compose a large wilderness roughly divided into four ecosystems: desert, riparian, woodland, and coniferous forest."
 }

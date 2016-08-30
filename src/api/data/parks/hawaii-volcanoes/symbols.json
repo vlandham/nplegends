@@ -1,13 +1,1131 @@
 {
+  "symbol_count": 86, 
   "Name": "Hawaii Volcanoes", 
   "Recreation Visitors (2014)": "1,693,005", 
   "Photo": "", 
   "Date established as park": "August 1, 1916", 
   "Area": "323,431.38 acres (1,308.9\u00a0km2)", 
   "name": "Hawaii Volcanoes", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "hawaii-volcanoes-kahuku-map", 
+      "img_size": {
+        "width": 1596, 
+        "height": 1679
+      }, 
+      "park": "hawaii-volcanoes", 
+      "filename": "hawaii-volcanoes-kahuku-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 31, 
+            "x": 48, 
+            "height": 5, 
+            "width": 9
+          }, 
+          "name": "Trucks", 
+          "id": "trucks"
+        }, 
+        {
+          "pos": {
+            "y": 39, 
+            "x": 64, 
+            "height": 3, 
+            "width": 5
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 1, 
+          "id": "trucks", 
+          "name": "Trucks"
+        }
+      ]
+    }, 
+    {
+      "map": "hawaii-volcanoes-map", 
+      "img_size": {
+        "width": 7855, 
+        "height": 3853
+      }, 
+      "park": "hawaii-volcanoes", 
+      "filename": "hawaii-volcanoes-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 329, 
+            "x": 5129, 
+            "height": 30, 
+            "width": 30
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 350, 
+            "x": 4239, 
+            "height": 11, 
+            "width": 5
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 350, 
+            "x": 4430, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 351, 
+            "x": 4361, 
+            "height": 3, 
+            "width": 10
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 351, 
+            "x": 4387, 
+            "height": 24, 
+            "width": 19
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 357, 
+            "x": 4218, 
+            "height": 18, 
+            "width": 17
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 357, 
+            "x": 4247, 
+            "height": 18, 
+            "width": 17
+          }, 
+          "name": "Entrance station", 
+          "id": "entrance-station"
+        }, 
+        {
+          "pos": {
+            "y": 357, 
+            "x": 4430, 
+            "height": 18, 
+            "width": 5
+          }, 
+          "name": "Entrance station", 
+          "id": "entrance-station"
+        }, 
+        {
+          "pos": {
+            "y": 357, 
+            "x": 4437, 
+            "height": 18, 
+            "width": 16
+          }, 
+          "name": "Entrance station", 
+          "id": "entrance-station"
+        }, 
+        {
+          "pos": {
+            "y": 375, 
+            "x": 4625, 
+            "height": 24, 
+            "width": 14
+          }, 
+          "name": "Entrance station", 
+          "id": "entrance-station"
+        }, 
+        {
+          "pos": {
+            "y": 382, 
+            "x": 4598, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 382, 
+            "x": 4642, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 382, 
+            "x": 4660, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 383, 
+            "x": 4270, 
+            "height": 26, 
+            "width": 5
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 383, 
+            "x": 4571, 
+            "height": 16, 
+            "width": 25
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 383, 
+            "x": 4616, 
+            "height": 16, 
+            "width": 4
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 384, 
+            "x": 4201, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 384, 
+            "x": 4313, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 384, 
+            "x": 4384, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 384, 
+            "x": 4437, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 385, 
+            "x": 4145, 
+            "height": 24, 
+            "width": 19
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 385, 
+            "x": 4289, 
+            "height": 24, 
+            "width": 19
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 385, 
+            "x": 4417, 
+            "height": 24, 
+            "width": 16
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 387, 
+            "x": 4186, 
+            "height": 22, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 387, 
+            "x": 4336, 
+            "height": 22, 
+            "width": 12
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 391, 
+            "x": 4209, 
+            "height": 18, 
+            "width": 19
+          }, 
+          "name": "Trucks", 
+          "id": "trucks"
+        }, 
+        {
+          "pos": {
+            "y": 391, 
+            "x": 4384, 
+            "height": 18, 
+            "width": 5
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 391, 
+            "x": 4392, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 391, 
+            "x": 4437, 
+            "height": 18, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 391, 
+            "x": 4457, 
+            "height": 18, 
+            "width": 17
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 391, 
+            "x": 4509, 
+            "height": 2, 
+            "width": 10
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 392, 
+            "x": 4506, 
+            "height": 2, 
+            "width": 4
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 392, 
+            "x": 4518, 
+            "height": 2, 
+            "width": 4
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 393, 
+            "x": 4503, 
+            "height": 4, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 393, 
+            "x": 4521, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 394, 
+            "x": 4522, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 403, 
+            "x": 4508, 
+            "height": 2, 
+            "width": 6
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 403, 
+            "x": 4514, 
+            "height": 2, 
+            "width": 5
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 416, 
+            "x": 5087, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 431, 
+            "x": 3087, 
+            "height": 22, 
+            "width": 10
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 433, 
+            "x": 3075, 
+            "height": 20, 
+            "width": 7
+          }, 
+          "name": "Trucks", 
+          "id": "trucks"
+        }, 
+        {
+          "pos": {
+            "y": 445, 
+            "x": 5039, 
+            "height": 4, 
+            "width": 2
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 448, 
+            "x": 5040, 
+            "height": 4, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 448, 
+            "x": 5058, 
+            "height": 4, 
+            "width": 4
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 451, 
+            "x": 5043, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 451, 
+            "x": 5056, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 452, 
+            "x": 5046, 
+            "height": 2, 
+            "width": 10
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 461, 
+            "x": 3022, 
+            "height": 20, 
+            "width": 13
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 461, 
+            "x": 3039, 
+            "height": 20, 
+            "width": 12
+          }, 
+          "name": "Lookout tower", 
+          "id": "lookout-tower"
+        }, 
+        {
+          "pos": {
+            "y": 461, 
+            "x": 3053, 
+            "height": 20, 
+            "width": 13
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 461, 
+            "x": 3072, 
+            "height": 20, 
+            "width": 7
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 466, 
+            "x": 3086, 
+            "height": 15, 
+            "width": 21
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 473, 
+            "x": 5822, 
+            "height": 24, 
+            "width": 14
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 476, 
+            "x": 5856, 
+            "height": 7, 
+            "width": 4
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 480, 
+            "x": 5764, 
+            "height": 17, 
+            "width": 16
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 480, 
+            "x": 5784, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 9, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 8, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 7, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 7, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 5, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 4, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 4, 
+          "id": "entrance-station", 
+          "name": "Entrance station"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 2, 
+          "id": "trucks", 
+          "name": "Trucks"
+        }, 
+        {
+          "count": 1, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "lookout-tower", 
+          "name": "Lookout tower"
+        }, 
+        {
+          "count": 1, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
+    }, 
+    {
+      "map": "hawaii-volcanoes-kilauea-map", 
+      "img_size": {
+        "width": 3361, 
+        "height": 1987
+      }, 
+      "park": "hawaii-volcanoes", 
+      "filename": "hawaii-volcanoes-kilauea-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 71, 
+            "x": 2337, 
+            "height": 3, 
+            "width": 10
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 74, 
+            "x": 2358, 
+            "height": 26, 
+            "width": 4
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 76, 
+            "x": 2322, 
+            "height": 9, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 76, 
+            "x": 2331, 
+            "height": 24, 
+            "width": 23
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 76, 
+            "x": 2385, 
+            "height": 9, 
+            "width": 4
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 76, 
+            "x": 2422, 
+            "height": 24, 
+            "width": 13
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 2502, 
+            "height": 22, 
+            "width": 12
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 2366, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 2394, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 2438, 
+            "height": 18, 
+            "width": 17
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 2460, 
+            "height": 18, 
+            "width": 10
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 2471, 
+            "height": 18, 
+            "width": 16
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 2490, 
+            "height": 18, 
+            "width": 10
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 298, 
+            "x": 241, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 298, 
+            "x": 265, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 302, 
+            "x": 271, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 304, 
+            "x": 151, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 306, 
+            "x": 222, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 307, 
+            "x": 164, 
+            "height": 18, 
+            "width": 7
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 307, 
+            "x": 184, 
+            "height": 18, 
+            "width": 11
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 308, 
+            "x": 1164, 
+            "height": 14, 
+            "width": 20
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 311, 
+            "x": 198, 
+            "height": 14, 
+            "width": 19
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 312, 
+            "x": 222, 
+            "height": 13, 
+            "width": 2
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 312, 
+            "x": 276, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 314, 
+            "x": 137, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 314, 
+            "x": 892, 
+            "height": 15, 
+            "width": 19
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 327, 
+            "x": 1184, 
+            "height": 6, 
+            "width": 8
+          }, 
+          "name": "Wilderness", 
+          "id": "wilderness"
+        }, 
+        {
+          "pos": {
+            "y": 347, 
+            "x": 177, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 5, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 4, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 3, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 3, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 3, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 2, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "wilderness", 
+          "name": "Wilderness"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
+    }
+  ], 
   "Location": "Hawaii 19\u00b023\u2032N 155\u00b012\u2032W\ufeff / \ufeff19.38\u00b0N 155.20\u00b0W\ufeff / 19.38; -155.20\ufeff (Hawaii Volcanoes)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 14, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 12, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 10, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 8, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }, 
+    {
+      "count": 8, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 6, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 6, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 4, 
+      "id": "entrance-station", 
+      "name": "Entrance station"
+    }, 
+    {
+      "count": 4, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 3, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 3, 
+      "id": "trucks", 
+      "name": "Trucks"
+    }, 
+    {
+      "count": 3, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 1, 
+      "id": "wilderness", 
+      "name": "Wilderness"
+    }, 
+    {
+      "count": 1, 
+      "id": "lookout-tower", 
+      "name": "Lookout tower"
+    }, 
+    {
+      "count": 1, 
+      "id": "store", 
+      "name": "Store"
+    }
+  ], 
+  "map_count": 3, 
   "id": "hawaii-volcanoes", 
   "Description": "This park on the Big Island protects the famous K\u012blauea and Mauna Loa volcanoes, two of the world's most active geological features. Diverse ecosystems range from tropical forests at sea level to barren lava beds at more than 13,000 feet (4,000\u00a0m).[37] (WHS)"
 }

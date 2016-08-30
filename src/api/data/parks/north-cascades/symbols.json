@@ -1,13 +1,370 @@
 {
+  "symbol_count": 31, 
   "Name": "North Cascades", 
   "Recreation Visitors (2014)": "23,865", 
   "Photo": "", 
   "Date established as park": "October 2, 1968", 
   "Area": "504,780.94 acres (2,042.8\u00a0km2)", 
   "name": "North Cascades", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "north-cascades-map", 
+      "img_size": {
+        "width": 2551, 
+        "height": 3477
+      }, 
+      "park": "north-cascades", 
+      "filename": "north-cascades-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 0, 
+            "x": 2098, 
+            "height": 378, 
+            "width": 454
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 133, 
+            "x": 1716, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 133, 
+            "x": 1778, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 133, 
+            "x": 1798, 
+            "height": 16, 
+            "width": 14
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 137, 
+            "x": 1743, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 137, 
+            "x": 1754, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 145, 
+            "x": 1761, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 146, 
+            "x": 1767, 
+            "height": 5, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 146, 
+            "x": 1814, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 150, 
+            "x": 1767, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 154, 
+            "x": 1686, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 154, 
+            "x": 1730, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 158, 
+            "x": 1709, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 159, 
+            "x": 1720, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 162, 
+            "x": 1688, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 175, 
+            "x": 1687, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 175, 
+            "x": 1699, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 178, 
+            "x": 1702, 
+            "height": 4, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 179, 
+            "x": 1713, 
+            "height": 12, 
+            "width": 7
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 179, 
+            "x": 1725, 
+            "height": 12, 
+            "width": 7
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 179, 
+            "x": 1731, 
+            "height": 12, 
+            "width": 6
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 181, 
+            "x": 1700, 
+            "height": 4, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 249, 
+            "x": 2259, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 275, 
+            "x": 1052, 
+            "height": 17, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 283, 
+            "x": 0, 
+            "height": 3041, 
+            "width": 2552
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 296, 
+            "x": 1043, 
+            "height": 17, 
+            "width": 9
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 304, 
+            "x": 529, 
+            "height": 19, 
+            "width": 19
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 304, 
+            "x": 551, 
+            "height": 19, 
+            "width": 18
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 304, 
+            "x": 572, 
+            "height": 19, 
+            "width": 15
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 304, 
+            "x": 591, 
+            "height": 19, 
+            "width": 15
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 304, 
+            "x": 679, 
+            "height": 19, 
+            "width": 15
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 18, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 11, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }
+      ]
+    }
+  ], 
   "Location": "Washington 48\u00b042\u2032N 121\u00b012\u2032W\ufeff / \ufeff48.70\u00b0N 121.20\u00b0W\ufeff / 48.70; -121.20\ufeff (North Cascades)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 18, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 11, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }, 
+    {
+      "count": 2, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }
+  ], 
+  "map_count": 1, 
   "id": "north-cascades", 
   "Description": "This complex encompasses two units of the national park itself as well as the Ross Lake and Lake Chelan National Recreation Areas. The highly glaciated mountains are spectacular examples of Cascade geology; popular hiking and climbing areas include Cascade Pass, Mount Shuksan, Mount Triumph, and Eldorado Peak."
 }

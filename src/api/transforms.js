@@ -2,6 +2,8 @@ import d3 from 'd3';
 import { metrics } from '../constants';
 import { decodeDate } from '../utils/serialization';
 
+import _ from 'lodash';
+
 // ----------------
 // Data Transforms
 // ----------------
@@ -28,6 +30,18 @@ export function transform(...transformFuncs) {
 
     return body;
   };
+}
+
+function orderCounts(counts) {
+  return _.sortBy(_.toPairs(counts), (s) => -1 * s[1]).filter((s) => s[0].length > 0);
+}
+
+export function transformParkInfo(info) {
+  // const parkTotals = info.totals;
+  // const orderedTotals = orderCounts(parkTotals);
+  // info.totals = orderedTotals.map((s) => ({ id: s[0], count: s[1] }));
+
+  return info;
 }
 
 /**

@@ -33,7 +33,7 @@ class OmniSearch extends PureComponent {
 
     this.state = {
       value: '',
-      suggestions: this.formatSuggestions(props.searchResults),
+      suggestions: props.searchResults,
     };
 
     this.onChange = this.onChange.bind(this);
@@ -51,7 +51,7 @@ class OmniSearch extends PureComponent {
   componentWillReceiveProps(nextProps) {
     if (nextProps.searchResults) {
       this.setState({
-        suggestions: this.formatSuggestions(nextProps.searchResults),
+        suggestions: nextProps.searchResults,
       });
     }
   }
@@ -144,7 +144,7 @@ class OmniSearch extends PureComponent {
   */
   renderSuggestion(suggestion) {
     return (
-      <span>{suggestion.name} <span className="text-muted">{formatNumber(suggestion.data.test_count)}</span></span>
+      <span>{suggestion.name}</span>
     );
   }
 
@@ -155,6 +155,8 @@ class OmniSearch extends PureComponent {
   render() {
     // const { searchQuery, searchResults } = this.props;
     const { value, suggestions } = this.state;
+
+    console.log(suggestions)
     // const { value, suggestions } = this.state;
     // const suggestions = this.getSuggestions(value);
     const inputProps = {
@@ -170,7 +172,6 @@ class OmniSearch extends PureComponent {
         getSuggestionValue={this.getSuggestionValue}
         renderSuggestion={this.renderSuggestion}
         inputProps={inputProps}
-        multiSection
         focusInputOnSuggestionClick={false}
         renderSectionTitle={this.renderSectionTitle}
         getSectionSuggestions={this.getSectionSuggestions}

@@ -3,11 +3,13 @@
  */
 
 // import { createSelector } from 'reselect';
+import _ from 'lodash';
 import { initialParkState } from '../parks/reducer';
 
 // ----------------------
 // Input Selectors
 // ----------------------
+
 
 export function getParkInfo(state, props) {
   // read in locationId from props
@@ -17,5 +19,7 @@ export function getParkInfo(state, props) {
     return initialParkState;
   }
 
-  return state.parks[parkId].data;
+  const info = state.parks[parkId].data;
+
+  return info;
 }

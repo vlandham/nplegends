@@ -1,13 +1,821 @@
 {
+  "symbol_count": 72, 
   "Name": "Redwood", 
   "Recreation Visitors (2014)": "429,166", 
   "Photo": "", 
   "Date established as park": "October 2, 1968", 
   "Area": "112,512.05 acres (455.3\u00a0km2)", 
   "name": "Redwood", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "redwood-map", 
+      "img_size": {
+        "width": 5059, 
+        "height": 6588
+      }, 
+      "park": "redwood", 
+      "filename": "redwood-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 6, 
+            "x": 2618, 
+            "height": 2747, 
+            "width": 2436
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 17, 
+            "x": 3356, 
+            "height": 16, 
+            "width": 14
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 17, 
+            "x": 3447, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 17, 
+            "x": 3482, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 17, 
+            "x": 3503, 
+            "height": 16, 
+            "width": 9
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 18, 
+            "x": 3328, 
+            "height": 15, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 18, 
+            "x": 3438, 
+            "height": 15, 
+            "width": 6
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 18, 
+            "x": 3494, 
+            "height": 15, 
+            "width": 6
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 18, 
+            "x": 3511, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 3340, 
+            "height": 12, 
+            "width": 8
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 3378, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 3380, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 3392, 
+            "height": 12, 
+            "width": 8
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 3407, 
+            "height": 12, 
+            "width": 8
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 3423, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 3467, 
+            "height": 12, 
+            "width": 7
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 3473, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 3533, 
+            "height": 12, 
+            "width": 7
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 21, 
+            "x": 3539, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 3337, 
+            "height": 10, 
+            "width": 6
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 3372, 
+            "height": 11, 
+            "width": 5
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 3376, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 3421, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 3461, 
+            "height": 11, 
+            "width": 7
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 3527, 
+            "height": 11, 
+            "width": 7
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 100, 
+            "x": 2737, 
+            "height": 21, 
+            "width": 16
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 100, 
+            "x": 2778, 
+            "height": 21, 
+            "width": 12
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 100, 
+            "x": 2792, 
+            "height": 21, 
+            "width": 20
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 100, 
+            "x": 2814, 
+            "height": 21, 
+            "width": 29
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 100, 
+            "x": 2843, 
+            "height": 21, 
+            "width": 20
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 100, 
+            "x": 2874, 
+            "height": 21, 
+            "width": 17
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 100, 
+            "x": 2895, 
+            "height": 21, 
+            "width": 16
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 100, 
+            "x": 2916, 
+            "height": 21, 
+            "width": 16
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 100, 
+            "x": 2938, 
+            "height": 21, 
+            "width": 12
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 100, 
+            "x": 2953, 
+            "height": 21, 
+            "width": 12
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 135, 
+            "x": 2804, 
+            "height": 21, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 135, 
+            "x": 2818, 
+            "height": 21, 
+            "width": 16
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 135, 
+            "x": 2833, 
+            "height": 21, 
+            "width": 20
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 135, 
+            "x": 2852, 
+            "height": 21, 
+            "width": 16
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 135, 
+            "x": 2870, 
+            "height": 21, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 135, 
+            "x": 2895, 
+            "height": 21, 
+            "width": 13
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 135, 
+            "x": 2908, 
+            "height": 21, 
+            "width": 20
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 135, 
+            "x": 2931, 
+            "height": 21, 
+            "width": 15
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 135, 
+            "x": 2949, 
+            "height": 21, 
+            "width": 16
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 148, 
+            "x": 4655, 
+            "height": 16, 
+            "width": 14
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 148, 
+            "x": 4735, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 148, 
+            "x": 4836, 
+            "height": 16, 
+            "width": 9
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 148, 
+            "x": 4849, 
+            "height": 7, 
+            "width": 8
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 148, 
+            "x": 4881, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 148, 
+            "x": 4907, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 148, 
+            "x": 4933, 
+            "height": 16, 
+            "width": 10
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 149, 
+            "x": 4181, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 149, 
+            "x": 4627, 
+            "height": 15, 
+            "width": 12
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 149, 
+            "x": 4794, 
+            "height": 15, 
+            "width": 15
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 149, 
+            "x": 4809, 
+            "height": 15, 
+            "width": 13
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 149, 
+            "x": 4823, 
+            "height": 15, 
+            "width": 5
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 149, 
+            "x": 4844, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 149, 
+            "x": 4899, 
+            "height": 15, 
+            "width": 6
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 149, 
+            "x": 4922, 
+            "height": 15, 
+            "width": 6
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 150, 
+            "x": 3982, 
+            "height": 18, 
+            "width": 16
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 150, 
+            "x": 4084, 
+            "height": 18, 
+            "width": 23
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 151, 
+            "x": 4068, 
+            "height": 17, 
+            "width": 9
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 151, 
+            "x": 4154, 
+            "height": 17, 
+            "width": 9
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 151, 
+            "x": 4821, 
+            "height": 6, 
+            "width": 4
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 152, 
+            "x": 4639, 
+            "height": 12, 
+            "width": 8
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 152, 
+            "x": 4676, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 152, 
+            "x": 4678, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 152, 
+            "x": 4691, 
+            "height": 12, 
+            "width": 8
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 152, 
+            "x": 4706, 
+            "height": 12, 
+            "width": 9
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 152, 
+            "x": 4721, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 152, 
+            "x": 4751, 
+            "height": 12, 
+            "width": 6
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 152, 
+            "x": 4769, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 21, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 17, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 13, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 9, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 8, 
+          "id": "fishing", 
+          "name": "Fishing"
+        }, 
+        {
+          "count": 4, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }
+      ]
+    }, 
+    {
+      "map": "redwood-range-map", 
+      "img_size": {
+        "width": 3567, 
+        "height": 2552
+      }, 
+      "park": "redwood", 
+      "filename": "redwood-range-map.jpg", 
+      "symbols": [], 
+      "totals": []
+    }
+  ], 
   "Location": "California 41\u00b018\u2032N 124\u00b000\u2032W\ufeff / \ufeff41.30\u00b0N 124.00\u00b0W\ufeff / 41.30; -124.00\ufeff (Redwood)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 21, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 17, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 13, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 9, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 8, 
+      "id": "fishing", 
+      "name": "Fishing"
+    }, 
+    {
+      "count": 4, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }
+  ], 
+  "map_count": 2, 
   "id": "redwood", 
   "Description": "This park and the co-managed state parks protect almost half of all remaining coastal redwoods, the tallest trees on earth. There are three large river systems in this very seismically active area, and 37 miles (60\u00a0km) of protected coastline reveal tide pools and seastacks. The prairie, estuary, coast, river, and forest ecosystems contain a huge variety of animal and plant species.[54] (WHS)"
 }

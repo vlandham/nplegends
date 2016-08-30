@@ -1,4 +1,5 @@
 {
+  "symbol_count": 105, 
   "Name": "Bryce Canyon", 
   "Recreation Visitors (2014)": "1,435,741", 
   "Photo": "", 
@@ -7,998 +8,160 @@
   "name": "Bryce Canyon", 
   "maps": [
     {
-      "map": "bryce-canyon-map", 
-      "img_size": {
-        "width": 2443, 
-        "height": 6427
-      }, 
-      "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-map.jpg", 
-      "symbols": [
-        {
-          "pos": {
-            "y": 53, 
-            "x": 1017
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 74, 
-            "x": 125
-          }, 
-          "name": "Amphitheater", 
-          "id": "amphitheater"
-        }, 
-        {
-          "pos": {
-            "y": 74, 
-            "x": 526
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 74, 
-            "x": 927
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 62, 
-            "x": 1004
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 74, 
-            "x": 1295
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 61, 
-            "x": 925
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 58, 
-            "x": 954
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 1025
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 1047
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 1062
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 1075
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 1088
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 1017
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 936
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 941
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 947
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 68, 
-            "x": 125
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 74, 
-            "x": 297
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 925
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 75, 
-            "x": 1815
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 75, 
-            "x": 1868
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 76, 
-            "x": 1353
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 76, 
-            "x": 1365
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 76, 
-            "x": 1386
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }
-      ], 
-      "totals": {
-        "amphitheater": 1, 
-        "restrooms": 4, 
-        "ranger-station": 2, 
-        "picnic-area": 4, 
-        "bus-stop/shuttle-stop": 10, 
-        "campground": 4
-      }
-    }, 
-    {
       "map": "bryce-canyon-amphitheater-map", 
       "img_size": {
         "width": 1147, 
         "height": 1621
       }, 
       "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-amphitheater-map.jpg", 
+      "filename": "bryce-canyon-amphitheater-map.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 811, 
-            "x": 574
+            "y": 1, 
+            "x": 0, 
+            "height": 1620, 
+            "width": 1148
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 18, 
-            "x": 880
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 18, 
-            "x": 242
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 23, 
-            "x": 900
-          }, 
-          "name": "Amphitheater", 
-          "id": "amphitheater"
-        }, 
-        {
-          "pos": {
-            "y": 23, 
-            "x": 859
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 25, 
-            "x": 915
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 25, 
-            "x": 745
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 27, 
-            "x": 768
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 33, 
-            "x": 655
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 30, 
-            "x": 723
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 30, 
-            "x": 699
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 35, 
-            "x": 678
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 31, 
-            "x": 792
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 33, 
-            "x": 838
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 32, 
-            "x": 645
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 34, 
-            "x": 815
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }
-      ], 
-      "totals": {
-        "campground": 2, 
-        "picnic-area": 3, 
-        "restrooms": 2, 
-        "amphitheater": 1, 
-        "bus-stop/shuttle-stop": 8
-      }
-    }, 
-    {
-      "map": "bryce-canyon-national-park-detail-map", 
-      "img_size": {
-        "width": 2103, 
-        "height": 3764
-      }, 
-      "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-national-park-detail-map.jpg", 
-      "symbols": [
-        {
-          "pos": {
-            "y": 28, 
-            "x": 205
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
             "y": 9, 
-            "x": 307
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 17, 
-            "x": 284
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 20, 
-            "x": 281
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 36, 
-            "x": 198
+            "x": 871, 
+            "height": 19, 
+            "width": 18
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
-            "y": 36, 
-            "x": 212
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 54, 
-            "x": 1357
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 56, 
-            "x": 1252
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 58, 
-            "x": 1190
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 60, 
-            "x": 1210
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 60, 
-            "x": 1231
+            "y": 10, 
+            "x": 237, 
+            "height": 17, 
+            "width": 10
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 64, 
-            "x": 1272
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 1108
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 63, 
-            "x": 1128
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 1151
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 77, 
-            "x": 1394
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 76, 
-            "x": 1653
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 82, 
-            "x": 1093
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 1367
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 83, 
-            "x": 1416
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 83, 
-            "x": 1440
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 1466
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 1659
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 94, 
-            "x": 178
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 95, 
-            "x": 140
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 652
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 94, 
-            "x": 1330
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 97, 
-            "x": 153
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 97, 
-            "x": 166
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 95, 
-            "x": 1669
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 98, 
-            "x": 637
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 98, 
-            "x": 644
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 98, 
-            "x": 652
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 96, 
-            "x": 1352
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 101, 
-            "x": 1674
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 101, 
-            "x": 1080
+            "y": 16, 
+            "x": 892, 
+            "height": 14, 
+            "width": 16
           }, 
           "name": "Amphitheater", 
           "id": "amphitheater"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 1451
+            "y": 17, 
+            "x": 851, 
+            "height": 12, 
+            "width": 17
           }, 
           "name": "Campground", 
           "id": "campground"
-        }
-      ], 
-      "totals": {
-        "telephone": 4, 
-        "amphitheater": 1, 
-        "restrooms": 7, 
-        "ranger-station": 2, 
-        "picnic-area": 4, 
-        "bus-stop/shuttle-stop": 8, 
-        "campground": 3, 
-        "drinking-water": 8
-      }
-    }, 
-    {
-      "map": "bryce-canyon-amphitheater-alternate-map", 
-      "img_size": {
-        "width": 1726, 
-        "height": 3000
-      }, 
-      "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-amphitheater-alternate-map.jpg", 
-      "symbols": [
-        {
-          "pos": {
-            "y": 1469, 
-            "x": 863
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 107, 
-            "x": 57
+            "y": 17, 
+            "x": 911, 
+            "height": 16, 
+            "width": 8
           }, 
-          "name": "Calendar/Events", 
-          "id": "calendar/events"
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
-            "y": 108, 
-            "x": 1023
-          }, 
-          "name": "Photography", 
-          "id": "photography"
-        }, 
-        {
-          "pos": {
-            "y": 116, 
-            "x": 345
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 120, 
-            "x": 1081
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 131, 
-            "x": 502
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 131, 
-            "x": 1138
-          }, 
-          "name": "Calendar/Events", 
-          "id": "calendar/events"
-        }, 
-        {
-          "pos": {
-            "y": 131, 
-            "x": 1229
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 196, 
-            "x": 490
-          }, 
-          "name": "Maps", 
-          "id": "maps"
-        }, 
-        {
-          "pos": {
-            "y": 200, 
-            "x": 491
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 203, 
-            "x": 493
-          }, 
-          "name": "Playground", 
-          "id": "playground"
-        }, 
-        {
-          "pos": {
-            "y": 208, 
-            "x": 1469
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 207, 
-            "x": 494
-          }, 
-          "name": "Shipwreck", 
-          "id": "shipwreck"
-        }, 
-        {
-          "pos": {
-            "y": 206, 
-            "x": 553
-          }, 
-          "name": "Maps", 
-          "id": "maps"
-        }, 
-        {
-          "pos": {
-            "y": 207, 
-            "x": 550
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 210, 
-            "x": 556
+            "y": 23, 
+            "x": 736, 
+            "height": 4, 
+            "width": 19
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 210, 
-            "x": 496
+            "y": 24, 
+            "x": 759, 
+            "height": 7, 
+            "width": 19
           }, 
-          "name": "Recycling", 
-          "id": "recycling"
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
-            "y": 214, 
-            "x": 535
+            "y": 25, 
+            "x": 648, 
+            "height": 16, 
+            "width": 15
           }, 
-          "name": "Emergencies", 
-          "id": "emergencies"
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
-            "y": 217, 
-            "x": 559
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 216, 
-            "x": 530
+            "y": 26, 
+            "x": 714, 
+            "height": 9, 
+            "width": 18
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
-        {
-          "pos": {
-            "y": 220, 
-            "x": 500
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 217, 
-            "x": 527
-          }, 
-          "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding\n(rental,-guided-tour)"
-        }, 
-        {
-          "pos": {
-            "y": 219, 
-            "x": 523
-          }, 
-          "name": "Maps", 
-          "id": "maps"
-        }, 
-        {
-          "pos": {
-            "y": 220, 
-            "x": 520
-          }, 
-          "name": "Recycling", 
-          "id": "recycling"
-        }, 
-        {
-          "pos": {
-            "y": 223, 
-            "x": 561
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 228, 
-            "x": 1556
-          }, 
-          "name": "Recycling", 
-          "id": "recycling"
-        }, 
-        {
-          "pos": {
-            "y": 228, 
-            "x": 1568
-          }, 
-          "name": "Recycling", 
-          "id": "recycling"
-        }
-      ], 
-      "totals": {
-        "safety/caution/alerts": 2, 
-        "shipwreck": 1, 
-        "photography": 1, 
-        "recycling": 4, 
-        "telephone": 6, 
-        "restrooms": 1, 
-        "emergencies": 1, 
-        "maps": 3, 
-        "picnic-area": 2, 
-        "playground": 1, 
-        "parking": 2, 
-        "horseback-riding\n(rental,-guided-tour)": 1, 
-        "calendar/events": 2
-      }
-    }, 
-    {
-      "map": "bryce-canyon-national-park-map", 
-      "img_size": {
-        "width": 1805, 
-        "height": 4704
-      }, 
-      "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-national-park-map.jpg", 
-      "symbols": [
         {
           "pos": {
             "y": 28, 
-            "x": 1112
+            "x": 690, 
+            "height": 5, 
+            "width": 19
           }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 29, 
+            "x": 670, 
+            "height": 13, 
+            "width": 16
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 29, 
+            "x": 783, 
+            "height": 4, 
+            "width": 18
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 29, 
+            "x": 829, 
+            "height": 8, 
+            "width": 19
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
             "y": 30, 
-            "x": 560
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 29, 
-            "x": 1067
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 29, 
-            "x": 1101
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 29, 
-            "x": 1118
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 29, 
-            "x": 1130
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 29, 
-            "x": 1146
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 29, 
-            "x": 1159
+            "x": 643, 
+            "height": 5, 
+            "width": 4
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
@@ -1006,125 +169,41 @@
         {
           "pos": {
             "y": 31, 
-            "x": 1171
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 42, 
-            "x": 563
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 49, 
-            "x": 222
+            "x": 806, 
+            "height": 6, 
+            "width": 19
           }, 
           "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 41, 
-            "x": 216
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 43, 
-            "x": 1055
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 48, 
-            "x": 1067
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 50, 
-            "x": 43
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 50, 
-            "x": 103
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop/shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 50, 
-            "x": 124
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 50, 
-            "x": 181
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 50, 
-            "x": 205
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 50, 
-            "x": 283
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 50, 
-            "x": 1082
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 50, 
-            "x": 1095
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
+          "id": "bus-stop-shuttle-stop"
         }
       ], 
-      "totals": {
-        "telephone": 1, 
-        "restrooms": 4, 
-        "ranger-station": 1, 
-        "picnic-area": 3, 
-        "bus-stop/shuttle-stop": 9, 
-        "campground": 3, 
-        "drinking-water": 1
-      }
+      "totals": [
+        {
+          "count": 8, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 1, 
+          "id": "amphitheater", 
+          "name": "Amphitheater"
+        }
+      ]
     }, 
     {
       "map": "bryce-canyon-backcountry-trail-map-1", 
@@ -1133,62 +212,1196 @@
         "height": 4952
       }, 
       "park": "bryce-canyon", 
-      "filename": "./data/npmaps_jpg/bryce-canyon-backcountry-trail-map-1.jpg", 
+      "filename": "bryce-canyon-backcountry-trail-map-1.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 87, 
-            "x": 337
+            "y": 80, 
+            "x": 323, 
+            "height": 15, 
+            "width": 29
           }, 
           "name": "Sewer hookup", 
           "id": "sewer-hookup"
         }, 
         {
           "pos": {
-            "y": 201, 
-            "x": 1451
+            "y": 199, 
+            "x": 1449, 
+            "height": 4, 
+            "width": 4
           }, 
           "name": "Bottles", 
           "id": "bottles"
         }, 
         {
           "pos": {
-            "y": 227, 
-            "x": 2561
+            "y": 224, 
+            "x": 2553, 
+            "height": 7, 
+            "width": 16
           }, 
           "name": "Bottles", 
           "id": "bottles"
         }
       ], 
-      "totals": {
-        "sewer-hookup": 1, 
-        "bottles": 2
-      }
+      "totals": [
+        {
+          "count": 2, 
+          "id": "bottles", 
+          "name": "Bottles"
+        }, 
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }
+      ]
+    }, 
+    {
+      "map": "bryce-canyon-amphitheater-alternate-map", 
+      "img_size": {
+        "width": 1726, 
+        "height": 3000
+      }, 
+      "park": "bryce-canyon", 
+      "filename": "bryce-canyon-amphitheater-alternate-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 0, 
+            "x": 0, 
+            "height": 2938, 
+            "width": 1727
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 99, 
+            "x": 47, 
+            "height": 17, 
+            "width": 20
+          }, 
+          "name": "Calendar/Events", 
+          "id": "calendar-events"
+        }, 
+        {
+          "pos": {
+            "y": 99, 
+            "x": 1013, 
+            "height": 19, 
+            "width": 20
+          }, 
+          "name": "Photography", 
+          "id": "photography"
+        }, 
+        {
+          "pos": {
+            "y": 102, 
+            "x": 335, 
+            "height": 29, 
+            "width": 20
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 114, 
+            "x": 1070, 
+            "height": 13, 
+            "width": 23
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 115, 
+            "x": 491, 
+            "height": 33, 
+            "width": 23
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 115, 
+            "x": 1127, 
+            "height": 32, 
+            "width": 23
+          }, 
+          "name": "Calendar/Events", 
+          "id": "calendar-events"
+        }, 
+        {
+          "pos": {
+            "y": 115, 
+            "x": 1216, 
+            "height": 33, 
+            "width": 26
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 195, 
+            "x": 489, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 197, 
+            "x": 490, 
+            "height": 6, 
+            "width": 3
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 202, 
+            "x": 492, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Playground", 
+          "id": "playground"
+        }, 
+        {
+          "pos": {
+            "y": 202, 
+            "x": 1461, 
+            "height": 12, 
+            "width": 17
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 204, 
+            "x": 493, 
+            "height": 6, 
+            "width": 3
+          }, 
+          "name": "Shipwreck", 
+          "id": "shipwreck"
+        }, 
+        {
+          "pos": {
+            "y": 205, 
+            "x": 552, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 206, 
+            "x": 547, 
+            "height": 3, 
+            "width": 6
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 206, 
+            "x": 554, 
+            "height": 8, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 209, 
+            "x": 495, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 212, 
+            "x": 531, 
+            "height": 4, 
+            "width": 8
+          }, 
+          "name": "Emergencies", 
+          "id": "emergencies"
+        }, 
+        {
+          "pos": {
+            "y": 213, 
+            "x": 557, 
+            "height": 8, 
+            "width": 4
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 215, 
+            "x": 529, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 216, 
+            "x": 498, 
+            "height": 8, 
+            "width": 4
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 216, 
+            "x": 524, 
+            "height": 3, 
+            "width": 6
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-(rental,-guided-tour)"
+        }, 
+        {
+          "pos": {
+            "y": 218, 
+            "x": 522, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 219, 
+            "x": 517, 
+            "height": 3, 
+            "width": 6
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 220, 
+            "x": 560, 
+            "height": 6, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 220, 
+            "x": 1551, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }, 
+        {
+          "pos": {
+            "y": 220, 
+            "x": 1563, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Recycling", 
+          "id": "recycling"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 6, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 4, 
+          "id": "recycling", 
+          "name": "Recycling"
+        }, 
+        {
+          "count": 3, 
+          "id": "maps", 
+          "name": "Maps"
+        }, 
+        {
+          "count": 2, 
+          "id": "calendar-events", 
+          "name": "Calendar/Events"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 2, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }, 
+        {
+          "count": 1, 
+          "id": "shipwreck", 
+          "name": "Shipwreck"
+        }, 
+        {
+          "count": 1, 
+          "id": "photography", 
+          "name": "Photography"
+        }, 
+        {
+          "count": 1, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 1, 
+          "id": "emergencies", 
+          "name": "Emergencies"
+        }, 
+        {
+          "count": 1, 
+          "id": "horseback-riding-(rental,-guided-tour)", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 1, 
+          "id": "playground", 
+          "name": "Playground"
+        }
+      ]
+    }, 
+    {
+      "map": "bryce-canyon-national-park-detail-map", 
+      "img_size": {
+        "width": 2103, 
+        "height": 3764
+      }, 
+      "park": "bryce-canyon", 
+      "filename": "bryce-canyon-national-park-detail-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 0, 
+            "x": 180, 
+            "height": 57, 
+            "width": 50
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 0, 
+            "x": 286, 
+            "height": 18, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 16, 
+            "x": 283, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 19, 
+            "x": 280, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 27, 
+            "x": 192, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 27, 
+            "x": 206, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 49, 
+            "x": 1351, 
+            "height": 10, 
+            "width": 13
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 51, 
+            "x": 1245, 
+            "height": 10, 
+            "width": 15
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 52, 
+            "x": 1183, 
+            "height": 12, 
+            "width": 15
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 56, 
+            "x": 1202, 
+            "height": 9, 
+            "width": 16
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 1222, 
+            "height": 7, 
+            "width": 19
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 59, 
+            "x": 1263, 
+            "height": 10, 
+            "width": 19
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 60, 
+            "x": 1102, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 60, 
+            "x": 1119, 
+            "height": 6, 
+            "width": 19
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 64, 
+            "x": 1142, 
+            "height": 6, 
+            "width": 18
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 71, 
+            "x": 1386, 
+            "height": 12, 
+            "width": 17
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 71, 
+            "x": 1644, 
+            "height": 10, 
+            "width": 18
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 74, 
+            "x": 1088, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 81, 
+            "x": 1362, 
+            "height": 16, 
+            "width": 10
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 81, 
+            "x": 1407, 
+            "height": 4, 
+            "width": 19
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 81, 
+            "x": 1431, 
+            "height": 5, 
+            "width": 19
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 1455, 
+            "height": 15, 
+            "width": 22
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 82, 
+            "x": 1650, 
+            "height": 14, 
+            "width": 18
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 84, 
+            "x": 172, 
+            "height": 20, 
+            "width": 12
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 86, 
+            "x": 134, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 88, 
+            "x": 651, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 88, 
+            "x": 1322, 
+            "height": 12, 
+            "width": 17
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 90, 
+            "x": 147, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 90, 
+            "x": 162, 
+            "height": 14, 
+            "width": 8
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 90, 
+            "x": 1662, 
+            "height": 10, 
+            "width": 14
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 92, 
+            "x": 632, 
+            "height": 12, 
+            "width": 10
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 92, 
+            "x": 641, 
+            "height": 12, 
+            "width": 7
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 92, 
+            "x": 651, 
+            "height": 12, 
+            "width": 3
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 92, 
+            "x": 1343, 
+            "height": 8, 
+            "width": 19
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 93, 
+            "x": 1666, 
+            "height": 16, 
+            "width": 17
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 94, 
+            "x": 1072, 
+            "height": 14, 
+            "width": 17
+          }, 
+          "name": "Amphitheater", 
+          "id": "amphitheater"
+        }, 
+        {
+          "pos": {
+            "y": 96, 
+            "x": 1447, 
+            "height": 13, 
+            "width": 9
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 8, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 8, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 7, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 4, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 4, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "amphitheater", 
+          "name": "Amphitheater"
+        }
+      ]
+    }, 
+    {
+      "map": "bryce-canyon-national-park-map", 
+      "img_size": {
+        "width": 1805, 
+        "height": 4704
+      }, 
+      "park": "bryce-canyon", 
+      "filename": "bryce-canyon-national-park-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 21, 
+            "x": 1109, 
+            "height": 14, 
+            "width": 7
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 22, 
+            "x": 551, 
+            "height": 16, 
+            "width": 18
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 23, 
+            "x": 1061, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 23, 
+            "x": 1095, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 23, 
+            "x": 1116, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 23, 
+            "x": 1122, 
+            "height": 12, 
+            "width": 17
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 23, 
+            "x": 1140, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 23, 
+            "x": 1153, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 23, 
+            "x": 1165, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 557, 
+            "height": 11, 
+            "width": 12
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 39, 
+            "x": 221, 
+            "height": 20, 
+            "width": 3
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 214, 
+            "height": 3, 
+            "width": 4
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 1051, 
+            "height": 7, 
+            "width": 9
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 1061, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 37, 
+            "height": 18, 
+            "width": 13
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 97, 
+            "height": 18, 
+            "width": 13
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 119, 
+            "height": 18, 
+            "width": 11
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 178, 
+            "height": 18, 
+            "width": 7
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 198, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 42, 
+            "x": 278, 
+            "height": 17, 
+            "width": 10
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1074, 
+            "height": 12, 
+            "width": 17
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1093, 
+            "height": 12, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 9, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 4, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }
+      ]
     }
   ], 
   "Location": "Utah 37\u00b034\u2032N 112\u00b011\u2032W\ufeff / \ufeff37.57\u00b0N 112.18\u00b0W\ufeff / 37.57; -112.18\ufeff (Bryce Canyon)", 
-  "totals": {
-    "safety/caution/alerts": 2, 
-    "bottles": 2, 
-    "shipwreck": 1, 
-    "sewer-hookup": 1, 
-    "photography": 1, 
-    "parking": 2, 
-    "telephone": 11, 
-    "amphitheater": 3, 
-    "restrooms": 18, 
-    "emergencies": 1, 
-    "maps": 3, 
-    "ranger-station": 5, 
-    "picnic-area": 16, 
-    "recycling": 4, 
-    "calendar/events": 2, 
-    "bus-stop/shuttle-stop": 35, 
-    "campground": 12, 
-    "drinking-water": 9, 
-    "horseback-riding\n(rental,-guided-tour)": 1, 
-    "playground": 1
-  }, 
+  "totals": [
+    {
+      "count": 25, 
+      "id": "bus-stop-shuttle-stop", 
+      "name": "Bus stop/Shuttle stop"
+    }, 
+    {
+      "count": 14, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 12, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 11, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 9, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 8, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "recycling", 
+      "name": "Recycling"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 3, 
+      "id": "maps", 
+      "name": "Maps"
+    }, 
+    {
+      "count": 2, 
+      "id": "bottles", 
+      "name": "Bottles"
+    }, 
+    {
+      "count": 2, 
+      "id": "calendar-events", 
+      "name": "Calendar/Events"
+    }, 
+    {
+      "count": 2, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 2, 
+      "id": "amphitheater", 
+      "name": "Amphitheater"
+    }, 
+    {
+      "count": 2, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }, 
+    {
+      "count": 1, 
+      "id": "shipwreck", 
+      "name": "Shipwreck"
+    }, 
+    {
+      "count": 1, 
+      "id": "photography", 
+      "name": "Photography"
+    }, 
+    {
+      "count": 1, 
+      "id": "emergencies", 
+      "name": "Emergencies"
+    }, 
+    {
+      "count": 1, 
+      "id": "horseback-riding-(rental,-guided-tour)", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 1, 
+      "id": "playground", 
+      "name": "Playground"
+    }, 
+    {
+      "count": 1, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }
+  ], 
+  "map_count": 5, 
   "id": "bryce-canyon", 
   "Description": "Bryce Canyon is a giant geological amphitheater on the Paunsaugunt Plateau. The unique area has hundreds of tall sandstone hoodoos formed by erosion. The region was originally settled by Native Americans and later by Mormon pioneers."
 }

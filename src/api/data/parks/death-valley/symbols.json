@@ -1,4 +1,5 @@
 {
+  "symbol_count": 224, 
   "Name": "Death Valley", 
   "Recreation Visitors (2014)": "1,101,312", 
   "Photo": "", 
@@ -7,334 +8,530 @@
   "name": "Death Valley", 
   "maps": [
     {
-      "map": "death-valley-new-furnace-creek-map", 
+      "map": "death-valley-furnace-creek-map", 
       "img_size": {
-        "width": 1532, 
-        "height": 1126
+        "width": 945, 
+        "height": 715
       }, 
       "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-new-furnace-creek-map.jpg", 
+      "filename": "death-valley-furnace-creek-map.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 41, 
-            "x": 761
+            "y": 11, 
+            "x": 455, 
+            "height": 15, 
+            "width": 12
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 34, 
-            "x": 826
+            "y": 14, 
+            "x": 468, 
+            "height": 12, 
+            "width": 8
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 893
+            "y": 15, 
+            "x": 465, 
+            "height": 10, 
+            "width": 6
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 899
+            "y": 30, 
+            "x": 454, 
+            "height": 16, 
+            "width": 10
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 733
+            "y": 30, 
+            "x": 523, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 30, 
+            "x": 588, 
+            "height": 16, 
+            "width": 6
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 863
+            "y": 30, 
+            "x": 594, 
+            "height": 16, 
+            "width": 6
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 873
+            "y": 31, 
+            "x": 557, 
+            "height": 15, 
+            "width": 7
           }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
+          "name": "Sanitary disposal station", 
+          "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 42, 
-            "x": 770
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 38, 
-            "x": 743
-          }, 
-          "name": "Wheelchair accessible", 
-          "id": "wheelchair-accessible"
-        }, 
-        {
-          "pos": {
-            "y": 38, 
-            "x": 781
+            "y": 31, 
+            "x": 564, 
+            "height": 15, 
+            "width": 13
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 804
+            "y": 32, 
+            "x": 466, 
+            "height": 14, 
+            "width": 5
           }, 
-          "name": "Sanitary disposal station", 
-          "id": "sanitary-disposal-station"
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 814
+            "y": 34, 
+            "x": 475, 
+            "height": 12, 
+            "width": 8
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 833
+            "y": 34, 
+            "x": 495, 
+            "height": 12, 
+            "width": 11
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 846
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 38, 
-            "x": 885
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 38, 
-            "x": 907
+            "y": 34, 
+            "x": 506, 
+            "height": 16, 
+            "width": 12
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 39, 
-            "x": 741
+            "y": 34, 
+            "x": 524, 
+            "height": 16, 
+            "width": 12
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 43, 
-            "x": 744
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 39, 
-            "x": 779
+            "y": 34, 
+            "x": 538, 
+            "height": 12, 
+            "width": 11
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 43, 
-            "x": 782
+            "y": 34, 
+            "x": 576, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 34, 
+            "x": 598, 
+            "height": 12, 
+            "width": 9
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 35, 
+            "x": 472, 
+            "height": 10, 
+            "width": 6
           }, 
           "name": "Food service", 
           "id": "food-service"
         }
       ], 
-      "totals": {
-        "food-service": 2, 
-        "sanitary-disposal-station": 4, 
-        "wheelchair-accessible": 1, 
-        "ranger-station": 1, 
-        "restrooms": 1, 
-        "airport": 1, 
-        "picnic-area": 1, 
-        "telephone": 1, 
-        "lodging": 2, 
-        "campground": 3, 
-        "drinking-water": 1, 
-        "store": 1, 
-        "gas-station": 1
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "sanitary-disposal-station", 
+          "name": "Sanitary disposal station"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 1, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }, 
     {
-      "map": "death-valley-backcountry-roads-map", 
+      "map": "death-valley-new-furnace-creek-map", 
       "img_size": {
-        "width": 5058, 
-        "height": 7090
+        "width": 1532, 
+        "height": 1126
       }, 
       "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-backcountry-roads-map.jpg", 
+      "filename": "death-valley-new-furnace-creek-map.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 195, 
-            "x": 1477
+            "y": 33, 
+            "x": 756, 
+            "height": 16, 
+            "width": 10
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 825, 
+            "height": 3, 
+            "width": 3
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 400, 
-            "x": 472
+            "y": 33, 
+            "x": 890, 
+            "height": 16, 
+            "width": 6
+          }, 
+          "name": "Sanitary disposal station", 
+          "id": "sanitary-disposal-station"
+        }, 
+        {
+          "pos": {
+            "y": 33, 
+            "x": 896, 
+            "height": 16, 
+            "width": 6
+          }, 
+          "name": "Sanitary disposal station", 
+          "id": "sanitary-disposal-station"
+        }, 
+        {
+          "pos": {
+            "y": 34, 
+            "x": 727, 
+            "height": 15, 
+            "width": 12
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 394, 
-            "x": 2604
+            "y": 34, 
+            "x": 860, 
+            "height": 15, 
+            "width": 7
           }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "name": "Sanitary disposal station", 
+          "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 399, 
-            "x": 2884
+            "y": 34, 
+            "x": 867, 
+            "height": 15, 
+            "width": 13
           }, 
-          "name": "Gas station", 
-          "id": "gas-station"
+          "name": "Drinking water", 
+          "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 401, 
-            "x": 2390
+            "y": 35, 
+            "x": 768, 
+            "height": 14, 
+            "width": 5
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 742, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 780, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 803, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Sanitary disposal station", 
+          "id": "sanitary-disposal-station"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 808, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 827, 
+            "height": 16, 
+            "width": 12
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 401, 
-            "x": 3789
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 401, 
-            "x": 2375
+            "y": 37, 
+            "x": 845, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 395, 
-            "x": 2460
+            "y": 37, 
+            "x": 884, 
+            "height": 2, 
+            "width": 3
           }, 
-          "name": "Gas station", 
-          "id": "gas-station"
+          "name": "Lodging", 
+          "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 402, 
-            "x": 2449
+            "y": 37, 
+            "x": 905, 
+            "height": 2, 
+            "width": 4
           }, 
-          "name": "Campground", 
-          "id": "campground"
+          "name": "Store", 
+          "id": "store"
         }, 
         {
           "pos": {
-            "y": 401, 
-            "x": 2903
+            "y": 38, 
+            "x": 740, 
+            "height": 2, 
+            "width": 3
           }, 
-          "name": "Campground", 
-          "id": "campground"
+          "name": "Telephone", 
+          "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 401, 
-            "x": 2914
+            "y": 38, 
+            "x": 740, 
+            "height": 11, 
+            "width": 8
           }, 
-          "name": "Campground", 
-          "id": "campground"
+          "name": "Food service", 
+          "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 401, 
-            "x": 2951
+            "y": 38, 
+            "x": 778, 
+            "height": 2, 
+            "width": 3
           }, 
-          "name": "Campground", 
-          "id": "campground"
+          "name": "Lodging", 
+          "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 401, 
-            "x": 3041
+            "y": 38, 
+            "x": 778, 
+            "height": 11, 
+            "width": 8
           }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 403, 
-            "x": 2423
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 403, 
-            "x": 2427
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 403, 
-            "x": 2435
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
+          "name": "Food service", 
+          "id": "food-service"
         }
       ], 
-      "totals": {
-        "campground": 7, 
-        "safety/caution/alerts": 2, 
-        "gas-station": 7
-      }
+      "totals": [
+        {
+          "count": 4, 
+          "id": "sanitary-disposal-station", 
+          "name": "Sanitary disposal station"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 1, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 1, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 1, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 1, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
     }, 
     {
       "map": "death-valley-printable-map", 
@@ -343,84 +540,184 @@
         "height": 6733
       }, 
       "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-printable-map.jpg", 
+      "filename": "death-valley-printable-map.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 3367, 
-            "x": 2528
+            "y": 1, 
+            "x": 1, 
+            "height": 6732, 
+            "width": 5055
           }, 
           "name": "Lockers/Storage", 
-          "id": "lockers/storage"
+          "id": "lockers-storage"
+        }, 
+        {
+          "pos": {
+            "y": 23, 
+            "x": 2621, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 24, 
+            "x": 2518, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 28, 
+            "x": 2571, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
             "y": 31, 
-            "x": 2627
+            "x": 2870, 
+            "height": 5, 
+            "width": 5
           }, 
-          "name": "Campground", 
-          "id": "campground"
+          "name": "Restrooms", 
+          "id": "restrooms"
         }, 
         {
           "pos": {
             "y": 32, 
-            "x": 2524
+            "x": 2964, 
+            "height": 4, 
+            "width": 2
           }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 34, 
-            "x": 2577
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "name": "Restrooms", 
+          "id": "restrooms"
         }, 
         {
           "pos": {
             "y": 33, 
-            "x": 2872
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 34, 
-            "x": 2965
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 35, 
-            "x": 2975
+            "x": 2974, 
+            "height": 5, 
+            "width": 3
           }, 
           "name": "Audio tour", 
           "id": "audio-tour"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 2893
+            "y": 35, 
+            "x": 2890, 
+            "height": 13, 
+            "width": 6
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 2959
+            "y": 35, 
+            "x": 2958, 
+            "height": 6, 
+            "width": 2
           }, 
           "name": "Lockers/Storage", 
-          "id": "lockers/storage"
+          "id": "lockers-storage"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 2361
+            "y": 36, 
+            "x": 2357, 
+            "height": 16, 
+            "width": 9
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 36, 
+            "x": 2367, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 36, 
+            "x": 2402, 
+            "height": 16, 
+            "width": 6
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 2900, 
+            "height": 8, 
+            "width": 7
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 2936, 
+            "height": 4, 
+            "width": 3
+          }, 
+          "name": "Audio tour", 
+          "id": "audio-tour"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 2944, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 2994, 
+            "height": 8, 
+            "width": 7
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 3003, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 37, 
+            "x": 3013, 
+            "height": 12, 
+            "width": 6
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
@@ -428,103 +725,109 @@
         {
           "pos": {
             "y": 37, 
-            "x": 2368
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 44, 
-            "x": 2405
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 41, 
-            "x": 2903
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 39, 
-            "x": 2937
-          }, 
-          "name": "Audio tour", 
-          "id": "audio-tour"
-        }, 
-        {
-          "pos": {
-            "y": 38, 
-            "x": 2945
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 41, 
-            "x": 2997
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 38, 
-            "x": 3004
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 43, 
-            "x": 3016
+            "x": 3051, 
+            "height": 9, 
+            "width": 5
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 3053
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 45, 
-            "x": 2448
+            "y": 38, 
+            "x": 2445, 
+            "height": 14, 
+            "width": 7
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 39, 
-            "x": 2922
+            "y": 38, 
+            "x": 2921, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 39, 
-            "x": 2993
+            "y": 38, 
+            "x": 2992, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 43, 
-            "x": 2924
+            "y": 39, 
+            "x": 2919, 
+            "height": 8, 
+            "width": 10
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 39, 
+            "x": 2991, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 39, 
+            "x": 3001, 
+            "height": 10, 
+            "width": 7
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 2385, 
+            "height": 12, 
+            "width": 10
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 2454, 
+            "height": 12, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 2459, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 2935, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
@@ -532,839 +835,146 @@
         {
           "pos": {
             "y": 40, 
-            "x": 2992
+            "x": 2956, 
+            "height": 9, 
+            "width": 3
           }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
+          "name": "Airport", 
+          "id": "airport"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 3004
+            "y": 40, 
+            "x": 2961, 
+            "height": 9, 
+            "width": 3
           }, 
-          "name": "Campground", 
-          "id": "campground"
+          "name": "Gas station", 
+          "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 46, 
-            "x": 2390
+            "y": 40, 
+            "x": 3042, 
+            "height": 9, 
+            "width": 3
           }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 46, 
-            "x": 2455
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 46, 
-            "x": 2465
-          }, 
-          "name": "Campground", 
-          "id": "campground"
+          "name": "Gas station", 
+          "id": "gas-station"
         }, 
         {
           "pos": {
             "y": 41, 
-            "x": 2936
+            "x": 2934, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 2971, 
+            "height": 8, 
+            "width": 3
+          }, 
+          "name": "Lockers/Storage", 
+          "id": "lockers-storage"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 2990, 
+            "height": 6, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 44, 
-            "x": 2957
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 44, 
-            "x": 2962
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 44, 
-            "x": 3043
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
         }, 
         {
           "pos": {
             "y": 42, 
-            "x": 2935
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 45, 
-            "x": 2972
-          }, 
-          "name": "Lockers/Storage", 
-          "id": "lockers/storage"
-        }, 
-        {
-          "pos": {
-            "y": 44, 
-            "x": 2991
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 44, 
-            "x": 2886
+            "x": 2885, 
+            "height": 5, 
+            "width": 2
           }, 
           "name": "Airport", 
           "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 42, 
+            "x": 2947, 
+            "height": 2, 
+            "width": 4
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
         }, 
         {
           "pos": {
             "y": 43, 
-            "x": 2949
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 51, 
-            "x": 448
+            "x": 442, 
+            "height": 16, 
+            "width": 12
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 2934
+            "y": 43, 
+            "x": 2933, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Airport", 
           "id": "airport"
         }
       ], 
-      "totals": {
-        "safety/caution/alerts": 4, 
-        "restrooms": 10, 
-        "airport": 6, 
-        "picnic-area": 1, 
-        "campground": 7, 
-        "audio-tour": 2, 
-        "lockers/storage": 3, 
-        "gas-station": 6
-      }
-    }, 
-    {
-      "map": "death-valley-map", 
-      "img_size": {
-        "width": 5088, 
-        "height": 6780
-      }, 
-      "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-map.jpg", 
-      "symbols": [
+      "totals": [
         {
-          "pos": {
-            "y": 52, 
-            "x": 2640
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
+          "count": 10, 
+          "id": "restrooms", 
+          "name": "Restrooms"
         }, 
         {
-          "pos": {
-            "y": 63, 
-            "x": 2518
-          }, 
-          "name": "Store", 
-          "id": "store"
+          "count": 7, 
+          "id": "campground", 
+          "name": "Campground"
         }, 
         {
-          "pos": {
-            "y": 53, 
-            "x": 2537
-          }, 
-          "name": "Wheelchair accessible", 
-          "id": "wheelchair-accessible"
+          "count": 6, 
+          "id": "gas-station", 
+          "name": "Gas station"
         }, 
         {
-          "pos": {
-            "y": 53, 
-            "x": 2567
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
+          "count": 6, 
+          "id": "airport", 
+          "name": "Airport"
         }, 
         {
-          "pos": {
-            "y": 55, 
-            "x": 2547
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
+          "count": 4, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
         }, 
         {
-          "pos": {
-            "y": 55, 
-            "x": 2577
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
+          "count": 3, 
+          "id": "lockers-storage", 
+          "name": "Lockers/Storage"
         }, 
         {
-          "pos": {
-            "y": 55, 
-            "x": 2590
-          }, 
-          "name": "Wheelchair accessible", 
-          "id": "wheelchair-accessible"
+          "count": 2, 
+          "id": "audio-tour", 
+          "name": "Audio tour"
         }, 
         {
-          "pos": {
-            "y": 55, 
-            "x": 2603
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 57, 
-            "x": 2614
-          }, 
-          "name": "Sanitary disposal station", 
-          "id": "sanitary-disposal-station"
-        }, 
-        {
-          "pos": {
-            "y": 55, 
-            "x": 2627
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 63, 
-            "x": 2390
-          }, 
-          "name": "Store", 
-          "id": "store"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 2374
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 57, 
-            "x": 2381
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 2418
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 57, 
-            "x": 2468
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 65, 
-            "x": 2461
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 60, 
-            "x": 2978
-          }, 
-          "name": "Store", 
-          "id": "store"
-        }, 
-        {
-          "pos": {
-            "y": 60, 
-            "x": 2983
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 60, 
-            "x": 2905
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 61, 
-            "x": 2993
-          }, 
-          "name": "Store", 
-          "id": "store"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 3005
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 60, 
-            "x": 3064
-          }, 
-          "name": "Sanitary disposal station", 
-          "id": "sanitary-disposal-station"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2381
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2403
-          }, 
-          "name": "Store", 
-          "id": "store"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2429
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2442
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2452
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2468
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2478
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2490
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 61, 
-            "x": 2901
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 467
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 63, 
-            "x": 2900
-          }, 
-          "name": "Wheelchair accessible", 
-          "id": "wheelchair-accessible"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 2911
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 2977
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 2982
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 3047
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 65, 
-            "x": 2992
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 63, 
-            "x": 3004
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 2921
-          }, 
-          "name": "Store", 
-          "id": "store"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 2929
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 2933
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 2943
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 65, 
-            "x": 2956
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 2964
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 2970
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2995
-          }, 
-          "name": "Sanitary disposal station", 
-          "id": "sanitary-disposal-station"
-        }, 
-        {
-          "pos": {
-            "y": 64, 
-            "x": 3003
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 3015
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 3023
-          }, 
-          "name": "Wheelchair accessible", 
-          "id": "wheelchair-accessible"
-        }, 
-        {
-          "pos": {
-            "y": 65, 
-            "x": 3030
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 3034
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 3038
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 3056
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 65, 
-            "x": 3063
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 3068
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 3072
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 72, 
-            "x": 2566
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2917
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 65, 
-            "x": 2940
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 65, 
-            "x": 2945
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 2951
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 3011
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 71, 
-            "x": 478
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 73, 
-            "x": 2584
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2902
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2939
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 2942
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2963
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 3001
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 67, 
-            "x": 2955
-          }, 
-          "name": "Store", 
-          "id": "store"
-        }, 
-        {
-          "pos": {
-            "y": 70, 
-            "x": 2975
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 70, 
-            "x": 2980
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 70, 
-            "x": 3028
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 70, 
-            "x": 3061
-          }, 
-          "name": "Wheelchair accessible", 
-          "id": "wheelchair-accessible"
-        }, 
-        {
-          "pos": {
-            "y": 68, 
-            "x": 2904
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 70, 
-            "x": 2915
-          }, 
-          "name": "Store", 
-          "id": "store"
-        }, 
-        {
-          "pos": {
-            "y": 68, 
-            "x": 2954
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 71, 
-            "x": 2958
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 68, 
-            "x": 2962
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 71, 
-            "x": 2990
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 70, 
-            "x": 3009
-          }, 
-          "name": "Sanitary disposal station", 
-          "id": "sanitary-disposal-station"
-        }, 
-        {
-          "pos": {
-            "y": 70, 
-            "x": 2905
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 69, 
-            "x": 2967
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
         }
-      ], 
-      "totals": {
-        "airport": 7, 
-        "safety/caution/alerts": 1, 
-        "food-service": 10, 
-        "sanitary-disposal-station": 4, 
-        "wheelchair-accessible": 5, 
-        "telephone": 13, 
-        "ranger-station": 5, 
-        "picnic-area": 4, 
-        "lodging": 11, 
-        "campground": 7, 
-        "store": 8, 
-        "gas-station": 9
-      }
+      ]
     }, 
     {
       "map": "death-valley-national-park-map", 
@@ -1373,772 +983,994 @@
         "height": 6719
       }, 
       "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-national-park-map.jpg", 
+      "filename": "death-valley-national-park-map.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 49, 
-            "x": 418
+            "y": 42, 
+            "x": 414, 
+            "height": 15, 
+            "width": 9
           }, 
           "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 61, 
-            "x": 2473
+            "y": 42, 
+            "x": 2468, 
+            "height": 39, 
+            "width": 11
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 50, 
-            "x": 2593
+            "y": 42, 
+            "x": 2590, 
+            "height": 16, 
+            "width": 7
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 50, 
-            "x": 2493
+            "y": 43, 
+            "x": 2487, 
+            "height": 15, 
+            "width": 12
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 50, 
-            "x": 2523
+            "y": 43, 
+            "x": 2517, 
+            "height": 15, 
+            "width": 12
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 50, 
-            "x": 400
+            "y": 44, 
+            "x": 396, 
+            "height": 12, 
+            "width": 8
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 2886
+            "y": 44, 
+            "x": 2885, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 2894
+            "y": 44, 
+            "x": 2893, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 50, 
-            "x": 396
+            "y": 45, 
+            "x": 393, 
+            "height": 10, 
+            "width": 6
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 46, 
-            "x": 2776
+            "y": 45, 
+            "x": 2775, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 46, 
-            "x": 2780
+            "y": 45, 
+            "x": 2779, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2502
+            "y": 46, 
+            "x": 2497, 
+            "height": 12, 
+            "width": 11
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2534
+            "y": 46, 
+            "x": 2530, 
+            "height": 12, 
+            "width": 8
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2548
+            "y": 46, 
+            "x": 2546, 
+            "height": 12, 
+            "width": 5
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2560
+            "y": 46, 
+            "x": 2556, 
+            "height": 12, 
+            "width": 8
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2585
+            "y": 46, 
+            "x": 2582, 
+            "height": 12, 
+            "width": 6
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2598
+            "y": 46, 
+            "x": 2596, 
+            "height": 12, 
+            "width": 5
           }, 
           "name": "Store", 
           "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 46, 
+            "x": 2773, 
+            "height": 3, 
+            "width": 2
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 46, 
+            "x": 2884, 
+            "height": 5, 
+            "width": 2
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 46, 
+            "x": 2892, 
+            "height": 5, 
+            "width": 2
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
         }, 
         {
           "pos": {
             "y": 47, 
-            "x": 2774
-          }, 
-          "name": "Telephone", 
-          "id": "telephone"
-        }, 
-        {
-          "pos": {
-            "y": 48, 
-            "x": 2885
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 48, 
-            "x": 2893
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 52, 
-            "x": 2530
+            "x": 2527, 
+            "height": 10, 
+            "width": 6
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2542
+            "y": 47, 
+            "x": 2540, 
+            "height": 11, 
+            "width": 5
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2556
+            "y": 47, 
+            "x": 2553, 
+            "height": 10, 
+            "width": 6
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
+            "y": 47, 
+            "x": 2569, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
             "y": 48, 
-            "x": 2570
+            "x": 2772, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 49, 
-            "x": 2773
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 51, 
-            "x": 2806
+            "y": 50, 
+            "x": 2805, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2815
+            "y": 50, 
+            "x": 2814, 
+            "height": 5, 
+            "width": 3
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 51, 
-            "x": 2833
+            "y": 50, 
+            "x": 2832, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2854
+            "y": 50, 
+            "x": 2853, 
+            "height": 4, 
+            "width": 3
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 51, 
-            "x": 2875
+            "y": 50, 
+            "x": 2874, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 1341
+            "y": 51, 
+            "x": 1340, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 54, 
-            "x": 2581
+            "y": 51, 
+            "x": 2578, 
+            "height": 7, 
+            "width": 6
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2775
+            "y": 51, 
+            "x": 2774, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2799
+            "y": 51, 
+            "x": 2798, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2807
+            "y": 51, 
+            "x": 2806, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 54, 
-            "x": 2823
+            "y": 51, 
+            "x": 2822, 
+            "height": 6, 
+            "width": 2
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2839
+            "y": 51, 
+            "x": 2838, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 2862
+            "y": 51, 
+            "x": 2861, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 53, 
-            "x": 2884
+            "y": 51, 
+            "x": 2883, 
+            "height": 4, 
+            "width": 2
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 53, 
-            "x": 2892
+            "y": 51, 
+            "x": 2891, 
+            "height": 4, 
+            "width": 2
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 53, 
-            "x": 2776
+            "y": 52, 
+            "x": 2775, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 54, 
-            "x": 2777
+            "y": 53, 
+            "x": 2776, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 54, 
-            "x": 2798
+            "y": 53, 
+            "x": 2797, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 55, 
-            "x": 2808
+            "y": 53, 
+            "x": 2807, 
+            "height": 4, 
+            "width": 2
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 55, 
-            "x": 2835
+            "y": 53, 
+            "x": 2830, 
+            "height": 4, 
+            "width": 10
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 54, 
-            "x": 2840
+            "y": 53, 
+            "x": 2839, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 54, 
-            "x": 2861
+            "y": 53, 
+            "x": 2860, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 55, 
-            "x": 1345
+            "y": 54, 
+            "x": 1344, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 56, 
-            "x": 2584
+            "y": 55, 
+            "x": 2583, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 58, 
-            "x": 2788
+            "y": 55, 
+            "x": 2787, 
+            "height": 7, 
+            "width": 2
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 57, 
-            "x": 2797
+            "y": 55, 
+            "x": 2796, 
+            "height": 4, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 57, 
-            "x": 2814
+            "y": 55, 
+            "x": 2813, 
+            "height": 5, 
+            "width": 2
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 56, 
-            "x": 2851
+            "y": 55, 
+            "x": 2850, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 56, 
-            "x": 2860
+            "y": 55, 
+            "x": 2859, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 56, 
-            "x": 2869
+            "y": 55, 
+            "x": 2868, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 65, 
-            "x": 424
+            "y": 56, 
+            "x": 420, 
+            "height": 18, 
+            "width": 8
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 57, 
-            "x": 1336
+            "y": 56, 
+            "x": 1335, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 57, 
-            "x": 1345
+            "y": 56, 
+            "x": 1344, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 57, 
-            "x": 2780
+            "y": 56, 
+            "x": 2779, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 57, 
-            "x": 2830
+            "y": 56, 
+            "x": 2829, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 58, 
-            "x": 2874
+            "y": 56, 
+            "x": 2873, 
+            "height": 5, 
+            "width": 3
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 58, 
-            "x": 2883
+            "y": 56, 
+            "x": 2882, 
+            "height": 4, 
+            "width": 2
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 58, 
-            "x": 2891
+            "y": 56, 
+            "x": 2890, 
+            "height": 4, 
+            "width": 2
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 58, 
-            "x": 1337
+            "y": 57, 
+            "x": 1336, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 58, 
-            "x": 2807
+            "y": 57, 
+            "x": 2806, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 59, 
-            "x": 2822
+            "y": 57, 
+            "x": 2821, 
+            "height": 5, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 60, 
-            "x": 2847
+            "y": 57, 
+            "x": 2846, 
+            "height": 6, 
+            "width": 3
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 58, 
-            "x": 2850
+            "y": 57, 
+            "x": 2849, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 60, 
-            "x": 2856
+            "y": 57, 
+            "x": 2855, 
+            "height": 6, 
+            "width": 3
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 58, 
-            "x": 2859
+            "y": 57, 
+            "x": 2858, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 59, 
-            "x": 2867
+            "y": 57, 
+            "x": 2866, 
+            "height": 5, 
+            "width": 2
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 59, 
-            "x": 1339
+            "y": 58, 
+            "x": 1338, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 59, 
-            "x": 1344
+            "y": 58, 
+            "x": 1343, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 60, 
-            "x": 1332
+            "y": 59, 
+            "x": 1331, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 60, 
-            "x": 1341
+            "y": 59, 
+            "x": 1340, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 60, 
-            "x": 2779
+            "y": 59, 
+            "x": 2778, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 60, 
-            "x": 2806
+            "y": 59, 
+            "x": 2805, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 60, 
-            "x": 2849
+            "y": 59, 
+            "x": 2848, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 60, 
-            "x": 2858
+            "y": 59, 
+            "x": 2857, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 61, 
-            "x": 1331
+            "y": 60, 
+            "x": 1330, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 61, 
-            "x": 1352
+            "y": 60, 
+            "x": 1351, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 61, 
-            "x": 1354
+            "y": 60, 
+            "x": 1353, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 61, 
-            "x": 2422
+            "y": 60, 
+            "x": 2421, 
+            "height": 3, 
+            "width": 3
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 68, 
-            "x": 2430
+            "y": 60, 
+            "x": 2425, 
+            "height": 16, 
+            "width": 11
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 61, 
-            "x": 2799
+            "y": 60, 
+            "x": 2798, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 61, 
-            "x": 2805
+            "y": 60, 
+            "x": 2804, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 61, 
-            "x": 2813
+            "y": 60, 
+            "x": 2812, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 61, 
-            "x": 2882
+            "y": 60, 
+            "x": 2881, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 61, 
-            "x": 2890
+            "y": 60, 
+            "x": 2889, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 62, 
-            "x": 1350
+            "y": 61, 
+            "x": 1349, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 68, 
-            "x": 2414
+            "y": 61, 
+            "x": 2410, 
+            "height": 15, 
+            "width": 9
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 62, 
-            "x": 2774
+            "y": 61, 
+            "x": 2771, 
+            "height": 2, 
+            "width": 6
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 62, 
-            "x": 2789
+            "y": 61, 
+            "x": 2788, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 62, 
-            "x": 2801
+            "y": 61, 
+            "x": 2799, 
+            "height": 2, 
+            "width": 5
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 62, 
-            "x": 2835
+            "y": 61, 
+            "x": 2832, 
+            "height": 2, 
+            "width": 6
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 69, 
-            "x": 368
+            "y": 62, 
+            "x": 361, 
+            "height": 15, 
+            "width": 14
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 62, 
+            "x": 1347, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 62, 
+            "x": 2522, 
+            "height": 16, 
+            "width": 7
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 63, 
+            "x": 1344, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Campground", 
           "id": "campground"
@@ -2146,15 +1978,19 @@
         {
           "pos": {
             "y": 63, 
-            "x": 1348
+            "x": 1352, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 2525
+            "y": 63, 
+            "x": 2534, 
+            "height": 15, 
+            "width": 12
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
@@ -2162,23 +1998,49 @@
         {
           "pos": {
             "y": 64, 
-            "x": 1345
+            "x": 1342, 
+            "height": 2, 
+            "width": 2
           }, 
-          "name": "Campground", 
-          "id": "campground"
+          "name": "Gas station", 
+          "id": "gas-station"
         }, 
         {
           "pos": {
             "y": 64, 
-            "x": 1353
+            "x": 2441, 
+            "height": 12, 
+            "width": 7
           }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
+          "name": "Lodging", 
+          "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 2540
+            "y": 65, 
+            "x": 386, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 65, 
+            "x": 404, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 65, 
+            "x": 1343, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
@@ -2186,449 +2048,600 @@
         {
           "pos": {
             "y": 65, 
-            "x": 1343
+            "x": 2440, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 2444
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 71, 
-            "x": 391
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
             "y": 66, 
-            "x": 405
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 1344
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 66, 
-            "x": 2441
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 73, 
-            "x": 379
+            "x": 375, 
+            "height": 15, 
+            "width": 9
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 68, 
-            "x": 385
+            "y": 66, 
+            "x": 383, 
+            "height": 5, 
+            "width": 4
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 71, 
-            "x": 400
+            "y": 66, 
+            "x": 398, 
+            "height": 11, 
+            "width": 5
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 67, 
-            "x": 403
+            "y": 66, 
+            "x": 402, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 67, 
-            "x": 1338
+            "y": 66, 
+            "x": 1337, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 67, 
-            "x": 2305
+            "y": 66, 
+            "x": 2304, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 2498
+            "y": 66, 
+            "x": 2495, 
+            "height": 12, 
+            "width": 6
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 2511
+            "y": 66, 
+            "x": 2509, 
+            "height": 12, 
+            "width": 5
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 2520
+            "y": 66, 
+            "x": 2516, 
+            "height": 12, 
+            "width": 9
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 2552
+            "y": 66, 
+            "x": 2547, 
+            "height": 12, 
+            "width": 11
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 2566
+            "y": 66, 
+            "x": 2564, 
+            "height": 12, 
+            "width": 5
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 2578
+            "y": 66, 
+            "x": 2574, 
+            "height": 12, 
+            "width": 8
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 68, 
-            "x": 1347
+            "y": 67, 
+            "x": 1346, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 68, 
-            "x": 1351
+            "y": 67, 
+            "x": 1350, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 68, 
-            "x": 1363
+            "y": 67, 
+            "x": 1362, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 68, 
-            "x": 2311
+            "y": 67, 
+            "x": 2310, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 68, 
-            "x": 2314
+            "y": 67, 
+            "x": 2313, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 2505
+            "y": 67, 
+            "x": 2503, 
+            "height": 11, 
+            "width": 5
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 68, 
-            "x": 2508
+            "y": 67, 
+            "x": 2507, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 2560
+            "y": 67, 
+            "x": 2558, 
+            "height": 11, 
+            "width": 5
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 68, 
-            "x": 2563
+            "y": 67, 
+            "x": 2562, 
+            "height": 2, 
+            "width": 3
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 69, 
-            "x": 1348
+            "y": 68, 
+            "x": 1347, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Telephone", 
           "id": "telephone"
         }, 
         {
           "pos": {
-            "y": 69, 
-            "x": 1362
+            "y": 68, 
+            "x": 1361, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 1350
+            "y": 69, 
+            "x": 1349, 
+            "height": 3, 
+            "width": 2
           }, 
           "name": "Airport", 
           "id": "airport"
         }
       ], 
-      "totals": {
-        "airport": 8, 
-        "safety/caution/alerts": 1, 
-        "food-service": 11, 
-        "sanitary-disposal-station": 4, 
-        "wheelchair-accessible": 5, 
-        "telephone": 12, 
-        "restrooms": 27, 
-        "ranger-station": 4, 
-        "picnic-area": 5, 
-        "lodging": 11, 
-        "campground": 11, 
-        "drinking-water": 13, 
-        "store": 8, 
-        "gas-station": 11
-      }
+      "totals": [
+        {
+          "count": 27, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 13, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 12, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 11, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 11, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 11, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 11, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 8, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 8, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 5, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "sanitary-disposal-station", 
+          "name": "Sanitary disposal station"
+        }, 
+        {
+          "count": 4, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
     }, 
     {
-      "map": "death-valley-furnace-creek-map", 
+      "map": "death-valley-backcountry-roads-map", 
       "img_size": {
-        "width": 945, 
-        "height": 715
+        "width": 5058, 
+        "height": 7090
       }, 
       "park": "death-valley", 
-      "filename": "./data/npmaps_jpg/death-valley-furnace-creek-map.jpg", 
+      "filename": "death-valley-backcountry-roads-map.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 18, 
-            "x": 461
-          }, 
-          "name": "Airport", 
-          "id": "airport"
-        }, 
-        {
-          "pos": {
-            "y": 20, 
-            "x": 472
+            "y": 181, 
+            "x": 1463, 
+            "height": 28, 
+            "width": 29
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 20, 
-            "x": 468
-          }, 
-          "name": "Sanitary disposal station", 
-          "id": "sanitary-disposal-station"
-        }, 
-        {
-          "pos": {
-            "y": 38, 
-            "x": 459
-          }, 
-          "name": "Sanitary disposal station", 
-          "id": "sanitary-disposal-station"
-        }, 
-        {
-          "pos": {
-            "y": 31, 
-            "x": 524
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 38, 
-            "x": 591
+            "y": 381, 
+            "x": 463, 
+            "height": 39, 
+            "width": 19
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 597
+            "y": 391, 
+            "x": 2601, 
+            "height": 6, 
+            "width": 6
           }, 
-          "name": "Sanitary disposal station", 
-          "id": "sanitary-disposal-station"
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 560
+            "y": 392, 
+            "x": 2880, 
+            "height": 15, 
+            "width": 9
           }, 
-          "name": "Sanitary disposal station", 
-          "id": "sanitary-disposal-station"
+          "name": "Gas station", 
+          "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 570
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 39, 
-            "x": 468
-          }, 
-          "name": "Wheelchair accessible", 
-          "id": "wheelchair-accessible"
-        }, 
-        {
-          "pos": {
-            "y": 40, 
-            "x": 479
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 40, 
-            "x": 500
+            "y": 393, 
+            "x": 2385, 
+            "height": 16, 
+            "width": 10
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 42, 
-            "x": 512
+            "y": 393, 
+            "x": 3788, 
+            "height": 16, 
+            "width": 2
           }, 
-          "name": "Store", 
-          "id": "store"
+          "name": "Gas station", 
+          "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 42, 
-            "x": 530
+            "y": 394, 
+            "x": 2371, 
+            "height": 15, 
+            "width": 8
           }, 
-          "name": "Telephone", 
-          "id": "telephone"
+          "name": "Campground", 
+          "id": "campground"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 543
+            "y": 394, 
+            "x": 2459, 
+            "height": 3, 
+            "width": 2
           }, 
-          "name": "Lodging", 
-          "id": "lodging"
+          "name": "Gas station", 
+          "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 581
+            "y": 395, 
+            "x": 2442, 
+            "height": 14, 
+            "width": 15
           }, 
-          "name": "Food service", 
-          "id": "food-service"
+          "name": "Campground", 
+          "id": "campground"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 602
+            "y": 396, 
+            "x": 2898, 
+            "height": 11, 
+            "width": 11
           }, 
-          "name": "Lodging", 
-          "id": "lodging"
+          "name": "Campground", 
+          "id": "campground"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 475
+            "y": 396, 
+            "x": 2910, 
+            "height": 11, 
+            "width": 9
           }, 
-          "name": "Food service", 
-          "id": "food-service"
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 396, 
+            "x": 2947, 
+            "height": 11, 
+            "width": 8
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 396, 
+            "x": 3040, 
+            "height": 11, 
+            "width": 2
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 398, 
+            "x": 2420, 
+            "height": 11, 
+            "width": 6
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 398, 
+            "x": 2425, 
+            "height": 11, 
+            "width": 4
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 398, 
+            "x": 2431, 
+            "height": 11, 
+            "width": 9
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
         }
       ], 
-      "totals": {
-        "food-service": 2, 
-        "sanitary-disposal-station": 4, 
-        "wheelchair-accessible": 1, 
-        "ranger-station": 1, 
-        "telephone": 1, 
-        "airport": 1, 
-        "picnic-area": 1, 
-        "lodging": 2, 
-        "campground": 3, 
-        "store": 1, 
-        "gas-station": 1
-      }
+      "totals": [
+        {
+          "count": 7, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 7, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 2, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }
+      ]
     }
   ], 
   "Location": "California, Nevada 36\u00b014\u2032N 116\u00b049\u2032W\ufeff / \ufeff36.24\u00b0N 116.82\u00b0W\ufeff / 36.24; -116.82\ufeff (Death Valley)", 
-  "totals": {
-    "safety/caution/alerts": 8, 
-    "food-service": 25, 
-    "sanitary-disposal-station": 16, 
-    "wheelchair-accessible": 12, 
-    "ranger-station": 11, 
-    "restrooms": 38, 
-    "airport": 23, 
-    "picnic-area": 12, 
-    "telephone": 27, 
-    "lockers/storage": 3, 
-    "lodging": 26, 
-    "campground": 38, 
-    "drinking-water": 14, 
-    "audio-tour": 2, 
-    "store": 18, 
-    "gas-station": 35
-  }, 
+  "totals": [
+    {
+      "count": 38, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 31, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 26, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 16, 
+      "id": "airport", 
+      "name": "Airport"
+    }, 
+    {
+      "count": 15, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 15, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 14, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 14, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 12, 
+      "id": "sanitary-disposal-station", 
+      "name": "Sanitary disposal station"
+    }, 
+    {
+      "count": 10, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 8, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 7, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 7, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }, 
+    {
+      "count": 6, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 3, 
+      "id": "lockers-storage", 
+      "name": "Lockers/Storage"
+    }, 
+    {
+      "count": 2, 
+      "id": "audio-tour", 
+      "name": "Audio tour"
+    }
+  ], 
+  "map_count": 5, 
   "id": "death-valley", 
   "Description": "Death Valley is the hottest, lowest, and driest place in the United States. Daytime temperatures have topped 130\u00a0\u00b0F (54\u00a0\u00b0C) and it is home to Badwater Basin, the lowest elevation in North America. A diversity of colorful canyons, desolate badlands, shifting sand dunes, sprawling mountains, and over 1000 species of plants populate this geologic graben. Additional points of interest include salt flats, historic mines, and springs."
 }

@@ -1,13 +1,100 @@
 {
+  "symbol_count": 6, 
   "Name": "Lake Clark", 
   "Recreation Visitors (2014)": "16,100", 
   "Photo": "", 
   "Date established as park": "December 2, 1980", 
   "Area": "2,619,733.21 acres (10,601.7\u00a0km2)", 
   "name": "Lake Clark", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "lake-clark-map", 
+      "img_size": {
+        "width": 5054, 
+        "height": 4394
+      }, 
+      "park": "lake-clark", 
+      "filename": "lake-clark-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 50, 
+            "x": 180, 
+            "height": 26, 
+            "width": 17
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 50, 
+            "x": 622, 
+            "height": 26, 
+            "width": 6
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 379, 
+            "height": 26, 
+            "width": 18
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 665, 
+            "height": 19, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 677, 
+            "height": 19, 
+            "width": 17
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 57, 
+            "x": 724, 
+            "height": 19, 
+            "width": 17
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 6, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
+    }
+  ], 
   "Location": "Alaska 60\u00b058\u2032N 153\u00b025\u2032W\ufeff / \ufeff60.97\u00b0N 153.42\u00b0W\ufeff / 60.97; -153.42\ufeff (Lake Clark)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 6, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }
+  ], 
+  "map_count": 1, 
   "id": "lake-clark", 
   "Description": "The region around Lake Clark features four active volcanoes, including Mount Redoubt, as well as an abundance of rivers, glaciers, and waterfalls. Temperate rainforests, a tundra plateau, and three mountain ranges fill in the remaining landscape."
 }

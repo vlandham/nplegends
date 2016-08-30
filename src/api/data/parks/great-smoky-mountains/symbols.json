@@ -1,13 +1,480 @@
 {
+  "symbol_count": 37, 
   "Name": "Great Smoky Mountains", 
   "Recreation Visitors (2014)": "10,099,276", 
   "Photo": "", 
   "Date established as park": "June 15, 1934", 
   "Area": "521,490.13 acres (2,110.4\u00a0km2)", 
   "name": "Great Smoky Mountains", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "great-smoky-mountains-map", 
+      "img_size": {
+        "width": 4008, 
+        "height": 2719
+      }, 
+      "park": "great-smoky-mountains", 
+      "filename": "great-smoky-mountains-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 38, 
+            "x": 3214, 
+            "height": 7, 
+            "width": 2
+          }, 
+          "name": "Playground", 
+          "id": "playground"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 234, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 237, 
+            "height": 16, 
+            "width": 6
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 242, 
+            "height": 16, 
+            "width": 6
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 1078, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 40, 
+            "x": 1087, 
+            "height": 16, 
+            "width": 6
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 142, 
+            "height": 15, 
+            "width": 12
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 171, 
+            "height": 15, 
+            "width": 12
+          }, 
+          "name": "Playground", 
+          "id": "playground"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 987, 
+            "height": 15, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 41, 
+            "x": 3235, 
+            "height": 15, 
+            "width": 12
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 156, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 253, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1035, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Trucks", 
+          "id": "trucks"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 1046, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 3249, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Trucks", 
+          "id": "trucks"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 3283, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 44, 
+            "x": 3306, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 154, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 188, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 192, 
+            "height": 11, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 200, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Trucks", 
+          "id": "trucks"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 200, 
+            "height": 11, 
+            "width": 8
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 216, 
+            "height": 4, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 221, 
+            "height": 11, 
+            "width": 8
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 1029, 
+            "height": 11, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 1037, 
+            "height": 11, 
+            "width": 3
+          }, 
+          "name": "Trucks", 
+          "id": "trucks"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 1044, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Audio tour", 
+          "id": "audio-tour"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 1044, 
+            "height": 11, 
+            "width": 8
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 1056, 
+            "height": 11, 
+            "width": 7
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 3247, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 3247, 
+            "height": 11, 
+            "width": 8
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 3281, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 3278, 
+            "height": 11, 
+            "width": 11
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 3291, 
+            "height": 11, 
+            "width": 4
+          }, 
+          "name": "Trucks", 
+          "id": "trucks"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 3294, 
+            "height": 9, 
+            "width": 7
+          }, 
+          "name": "Safety/Caution/Alerts", 
+          "id": "safety-caution-alerts"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 3304, 
+            "height": 5, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 45, 
+            "x": 3323, 
+            "height": 2, 
+            "width": 3
+          }, 
+          "name": "Audio tour", 
+          "id": "audio-tour"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 11, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 8, 
+          "id": "safety-caution-alerts", 
+          "name": "Safety/Caution/Alerts"
+        }, 
+        {
+          "count": 5, 
+          "id": "trucks", 
+          "name": "Trucks"
+        }, 
+        {
+          "count": 4, 
+          "id": "birdingnvildlife-viewing", 
+          "name": "BirdingNVildlife Viewing"
+        }, 
+        {
+          "count": 3, 
+          "id": "maps", 
+          "name": "Maps"
+        }, 
+        {
+          "count": 2, 
+          "id": "playground", 
+          "name": "Playground"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "audio-tour", 
+          "name": "Audio tour"
+        }
+      ]
+    }
+  ], 
   "Location": "Tennessee, North Carolina 35\u00b041\u2032N 83\u00b032\u2032W\ufeff / \ufeff35.68\u00b0N 83.53\u00b0W\ufeff / 35.68; -83.53\ufeff (Great Smoky Mountains)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 11, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 8, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }, 
+    {
+      "count": 5, 
+      "id": "trucks", 
+      "name": "Trucks"
+    }, 
+    {
+      "count": 4, 
+      "id": "birdingnvildlife-viewing", 
+      "name": "BirdingNVildlife Viewing"
+    }, 
+    {
+      "count": 3, 
+      "id": "maps", 
+      "name": "Maps"
+    }, 
+    {
+      "count": 2, 
+      "id": "playground", 
+      "name": "Playground"
+    }, 
+    {
+      "count": 2, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 2, 
+      "id": "audio-tour", 
+      "name": "Audio tour"
+    }
+  ], 
+  "map_count": 1, 
   "id": "great-smoky-mountains", 
   "Description": "The Great Smoky Mountains, part of the Appalachian Mountains, span a wide range of elevations, making them home to over 400 vertebrate species, 100 tree species, and 5000 plant species. Hiking is the park's main attraction, with over 800 miles (1,300\u00a0km) of trails, including 70 miles (110\u00a0km) of the Appalachian Trail. Other activities include fishing, horseback riding, and touring nearly 80 historic structures.[34] (WHS)"
 }

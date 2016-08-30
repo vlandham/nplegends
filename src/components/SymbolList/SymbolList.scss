@@ -1,0 +1,23 @@
+@import "../../assets/variables";
+
+.SymbolList {
+  display: inline-block;
+  margin-bottom: 10px;
+
+  .symbol-name {
+    width: 300px;
+    display: block;
+    padding: 2px 0px 2px 8px;
+    background-color: $brand-primary;
+    color: #fff;
+    margin: 0 4px 4px 0;
+    border-radius: 4px;
+    white-space: nowrap;
+
+  }
+  .symbol-count {
+    float:right;
+    padding: 0 6px;
+
+  }
+}

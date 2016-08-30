@@ -1,13 +1,950 @@
 {
+  "symbol_count": 84, 
   "Name": "Olympic", 
   "Recreation Visitors (2014)": "3,243,872", 
   "Photo": "", 
   "Date established as park": "June 29, 1938", 
   "Area": "922,650.86 acres (3,733.8\u00a0km2)", 
   "name": "Olympic", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "olympic-map", 
+      "img_size": {
+        "width": 7031, 
+        "height": 5014
+      }, 
+      "park": "olympic", 
+      "filename": "olympic-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 126, 
+            "x": 309, 
+            "height": 5, 
+            "width": 6
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 163, 
+            "x": 537, 
+            "height": 4852, 
+            "width": 6495
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 168, 
+            "x": 6582, 
+            "height": 13, 
+            "width": 15
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 531, 
+            "height": 18, 
+            "width": 20
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 5981, 
+            "height": 20, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 6359, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 172, 
+            "x": 6421, 
+            "height": 5, 
+            "width": 5
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 173, 
+            "x": 6337, 
+            "height": 22, 
+            "width": 20
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 173, 
+            "x": 6467, 
+            "height": 17, 
+            "width": 17
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 174, 
+            "x": 5934, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 175, 
+            "x": 6378, 
+            "height": 20, 
+            "width": 12
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 178, 
+            "x": 425, 
+            "height": 20, 
+            "width": 7
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 178, 
+            "x": 5952, 
+            "height": 14, 
+            "width": 13
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 178, 
+            "x": 5966, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 179, 
+            "x": 6360, 
+            "height": 16, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 179, 
+            "x": 6366, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 179, 
+            "x": 6391, 
+            "height": 16, 
+            "width": 17
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 179, 
+            "x": 6410, 
+            "height": 16, 
+            "width": 10
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 179, 
+            "x": 6422, 
+            "height": 16, 
+            "width": 4
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 179, 
+            "x": 6429, 
+            "height": 16, 
+            "width": 14
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 180, 
+            "x": 345, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 180, 
+            "x": 412, 
+            "height": 18, 
+            "width": 14
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 180, 
+            "x": 6575, 
+            "height": 14, 
+            "width": 17
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 181, 
+            "x": 448, 
+            "height": 17, 
+            "width": 9
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 181, 
+            "x": 458, 
+            "height": 17, 
+            "width": 9
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 184, 
+            "x": 360, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 184, 
+            "x": 373, 
+            "height": 19, 
+            "width": 15
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 184, 
+            "x": 390, 
+            "height": 14, 
+            "width": 13
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 184, 
+            "x": 432, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 184, 
+            "x": 481, 
+            "height": 14, 
+            "width": 10
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 188, 
+            "x": 6527, 
+            "height": 15, 
+            "width": 17
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 191, 
+            "x": 516, 
+            "height": 5, 
+            "width": 10
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 194, 
+            "x": 5954, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 198, 
+            "x": 5968, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 198, 
+            "x": 5981, 
+            "height": 20, 
+            "width": 13
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 199, 
+            "x": 6515, 
+            "height": 16, 
+            "width": 17
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 204, 
+            "x": 5996, 
+            "height": 18, 
+            "width": 17
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 207, 
+            "x": 910, 
+            "height": 20, 
+            "width": 12
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 207, 
+            "x": 6563, 
+            "height": 15, 
+            "width": 17
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 209, 
+            "x": 864, 
+            "height": 18, 
+            "width": 15
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 210, 
+            "x": 6715, 
+            "height": 37, 
+            "width": 47
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 213, 
+            "x": 895, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 216, 
+            "x": 6552, 
+            "height": 14, 
+            "width": 16
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 220, 
+            "x": 6492, 
+            "height": 19, 
+            "width": 19
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 220, 
+            "x": 6725, 
+            "height": 18, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 220, 
+            "x": 6739, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 228, 
+            "x": 6545, 
+            "height": 16, 
+            "width": 15
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 232, 
+            "x": 6483, 
+            "height": 18, 
+            "width": 16
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 238, 
+            "x": 878, 
+            "height": 14, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 238, 
+            "x": 892, 
+            "height": 19, 
+            "width": 12
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 239, 
+            "x": 697, 
+            "height": 7, 
+            "width": 6
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 239, 
+            "x": 6470, 
+            "height": 16, 
+            "width": 16
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 246, 
+            "x": 6527, 
+            "height": 17, 
+            "width": 17
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 251, 
+            "x": 676, 
+            "height": 17, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 252, 
+            "x": 740, 
+            "height": 16, 
+            "width": 12
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 256, 
+            "x": 689, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 256, 
+            "x": 713, 
+            "height": 12, 
+            "width": 7
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 256, 
+            "x": 719, 
+            "height": 12, 
+            "width": 6
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 256, 
+            "x": 725, 
+            "height": 12, 
+            "width": 9
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 256, 
+            "x": 752, 
+            "height": 12, 
+            "width": 11
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 256, 
+            "x": 764, 
+            "height": 12, 
+            "width": 10
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 256, 
+            "x": 780, 
+            "height": 5, 
+            "width": 6
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 264, 
+            "x": 6503, 
+            "height": 16, 
+            "width": 15
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 269, 
+            "x": 911, 
+            "height": 12, 
+            "width": 12
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 272, 
+            "x": 698, 
+            "height": 17, 
+            "width": 8
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 273, 
+            "x": 654, 
+            "height": 16, 
+            "width": 6
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 273, 
+            "x": 664, 
+            "height": 9, 
+            "width": 9
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 273, 
+            "x": 675, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 273, 
+            "x": 687, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 273, 
+            "x": 6498, 
+            "height": 14, 
+            "width": 11
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 275, 
+            "x": 707, 
+            "height": 14, 
+            "width": 7
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 281, 
+            "x": 663, 
+            "height": 8, 
+            "width": 10
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 285, 
+            "x": 916, 
+            "height": 32, 
+            "width": 3
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 285, 
+            "x": 6876, 
+            "height": 47, 
+            "width": 47
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 287, 
+            "x": 6469, 
+            "height": 18, 
+            "width": 16
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 290, 
+            "x": 5938, 
+            "height": 23, 
+            "width": 21
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 292, 
+            "x": 5996, 
+            "height": 21, 
+            "width": 11
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 292, 
+            "x": 6009, 
+            "height": 21, 
+            "width": 11
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 294, 
+            "x": 663, 
+            "height": 16, 
+            "width": 10
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 294, 
+            "x": 677, 
+            "height": 16, 
+            "width": 6
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 294, 
+            "x": 6628, 
+            "height": 18, 
+            "width": 12
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 296, 
+            "x": 5962, 
+            "height": 17, 
+            "width": 14
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 296, 
+            "x": 5979, 
+            "height": 17, 
+            "width": 15
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 296, 
+            "x": 6023, 
+            "height": 17, 
+            "width": 15
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 21, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }, 
+        {
+          "count": 17, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 14, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 13, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 7, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 5, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 5, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }
+      ]
+    }
+  ], 
   "Location": "Washington 47\u00b058\u2032N 123\u00b030\u2032W\ufeff / \ufeff47.97\u00b0N 123.50\u00b0W\ufeff / 47.97; -123.50\ufeff (Olympic)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 21, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }, 
+    {
+      "count": 17, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 14, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 13, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 7, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 5, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 5, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }
+  ], 
+  "map_count": 1, 
   "id": "olympic", 
   "Description": "Situated on the Olympic Peninsula, this park straddles a diversity of ecosystems from Pacific shoreline to temperate rainforests to the alpine slopes of Mount Olympus. The scenic Olympic Mountains overlook the Hoh Rain Forest and Quinault Rain Forest, the wettest area in the continental United States.[51] (WHS)"
 }

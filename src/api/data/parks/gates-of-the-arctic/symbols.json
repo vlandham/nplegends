@@ -1,13 +1,230 @@
 {
+  "symbol_count": 16, 
   "Name": "Gates of the Arctic", 
   "Recreation Visitors (2014)": "12,669", 
   "Photo": "", 
   "Date established as park": "December 2, 1980", 
   "Area": "7,523,897.74 acres (30,448.1\u00a0km2)", 
   "name": "Gates of the Arctic", 
-  "maps": [], 
+  "maps": [
+    {
+      "map": "gates-of-the-arctic-map", 
+      "img_size": {
+        "width": 4995, 
+        "height": 4238
+      }, 
+      "park": "gates-of-the-arctic", 
+      "filename": "gates-of-the-arctic-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 5, 
+            "x": 4894, 
+            "height": 7, 
+            "width": 2
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 27, 
+            "x": 4891, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 28, 
+            "x": 4889, 
+            "height": 4, 
+            "width": 3
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 53, 
+            "x": 4881, 
+            "height": 15, 
+            "width": 2
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 73, 
+            "x": 4892, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 75, 
+            "x": 4894, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 76, 
+            "x": 4886, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 76, 
+            "x": 4895, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 77, 
+            "x": 4887, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 77, 
+            "x": 4896, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 4888, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 78, 
+            "x": 4897, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 79, 
+            "x": 4889, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 79, 
+            "x": 4898, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 80, 
+            "x": 4890, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 80, 
+            "x": 4899, 
+            "height": 2, 
+            "width": 2
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 8, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 4, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }
+      ]
+    }
+  ], 
   "Location": "Alaska 67\u00b047\u2032N 153\u00b018\u2032W\ufeff / \ufeff67.78\u00b0N 153.30\u00b0W\ufeff / 67.78; -153.30\ufeff (Gates of the Arctic)", 
-  "totals": {}, 
+  "totals": [
+    {
+      "count": 8, 
+      "id": "airport", 
+      "name": "Airport"
+    }, 
+    {
+      "count": 4, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 3, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 1, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }
+  ], 
+  "map_count": 1, 
   "id": "gates-of-the-arctic", 
   "Description": "The country's northernmost park protects an expanse of pure wilderness in Alaska's Brooks Range and has no park facilities. The land is home to Alaska natives, who have relied on the land and caribou for 11,000 years."
 }

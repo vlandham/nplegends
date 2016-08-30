@@ -1,4 +1,5 @@
 {
+  "symbol_count": 40, 
   "Name": "Canyonlands", 
   "Recreation Visitors (2014)": "542,431", 
   "Photo": "", 
@@ -7,945 +8,493 @@
   "name": "Canyonlands", 
   "maps": [
     {
-      "map": "canyonlands-printable-map", 
-      "img_size": {
-        "width": 4809, 
-        "height": 6303
-      }, 
-      "park": "canyonlands", 
-      "filename": "./data/npmaps_jpg/canyonlands-printable-map.jpg", 
-      "symbols": [
-        {
-          "pos": {
-            "y": 26, 
-            "x": 3658
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 26, 
-            "x": 3723
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 26, 
-            "x": 3775
-          }, 
-          "name": "Entrance station", 
-          "id": "entrance-station"
-        }, 
-        {
-          "pos": {
-            "y": 27, 
-            "x": 792
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 27, 
-            "x": 851
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 27, 
-            "x": 943
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 20, 
-            "x": 969
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 21, 
-            "x": 4464
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 29, 
-            "x": 3644
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 29, 
-            "x": 3737
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 30, 
-            "x": 752
-          }, 
-          "name": "Laundromat", 
-          "id": "laundromat"
-        }, 
-        {
-          "pos": {
-            "y": 54, 
-            "x": 174
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 56, 
-            "x": 763
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 58, 
-            "x": 3618
-          }, 
-          "name": "Laundromat", 
-          "id": "laundromat"
-        }, 
-        {
-          "pos": {
-            "y": 58, 
-            "x": 3664
-          }, 
-          "name": "Laundromat", 
-          "id": "laundromat"
-        }, 
-        {
-          "pos": {
-            "y": 58, 
-            "x": 3701
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 59, 
-            "x": 789
-          }, 
-          "name": "Laundromat", 
-          "id": "laundromat"
-        }, 
-        {
-          "pos": {
-            "y": 59, 
-            "x": 817
-          }, 
-          "name": "Laundromat", 
-          "id": "laundromat"
-        }, 
-        {
-          "pos": {
-            "y": 59, 
-            "x": 852
-          }, 
-          "name": "Laundromat", 
-          "id": "laundromat"
-        }, 
-        {
-          "pos": {
-            "y": 59, 
-            "x": 861
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 59, 
-            "x": 873
-          }, 
-          "name": "Laundromat", 
-          "id": "laundromat"
-        }, 
-        {
-          "pos": {
-            "y": 60, 
-            "x": 4553
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }
-      ], 
-      "totals": {
-        "sewer-hookup": 6, 
-        "picnic-area": 3, 
-        "entrance-station": 1, 
-        "campground": 2, 
-        "drinking-water": 1, 
-        "laundromat": 7, 
-        "gas-station": 2
-      }
-    }, 
-    {
-      "map": "canyonlands-map", 
-      "img_size": {
-        "width": 5082, 
-        "height": 6622
-      }, 
-      "park": "canyonlands", 
-      "filename": "./data/npmaps_jpg/canyonlands-map.jpg", 
-      "symbols": [
-        {
-          "pos": {
-            "y": 23, 
-            "x": 3591
-          }, 
-          "name": "Boat trailer parking", 
-          "id": "boat-trailer-parking"
-        }, 
-        {
-          "pos": {
-            "y": 15, 
-            "x": 3939
-          }, 
-          "name": "Playground", 
-          "id": "playground"
-        }, 
-        {
-          "pos": {
-            "y": 23, 
-            "x": 3946
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 23, 
-            "x": 4290
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 36, 
-            "x": 3425
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 36, 
-            "x": 4189
-          }, 
-          "name": "Boat trailer parking", 
-          "id": "boat-trailer-parking"
-        }, 
-        {
-          "pos": {
-            "y": 24, 
-            "x": 4232
-          }, 
-          "name": "Trucks", 
-          "id": "trucks"
-        }, 
-        {
-          "pos": {
-            "y": 16, 
-            "x": 4650
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 16, 
-            "x": 4680
-          }, 
-          "name": "Boat trailer parking", 
-          "id": "boat-trailer-parking"
-        }, 
-        {
-          "pos": {
-            "y": 16, 
-            "x": 4697
-          }, 
-          "name": "Boat trailer parking", 
-          "id": "boat-trailer-parking"
-        }, 
-        {
-          "pos": {
-            "y": 16, 
-            "x": 4810
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 24, 
-            "x": 4274
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 25, 
-            "x": 4688
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 25, 
-            "x": 4818
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 26, 
-            "x": 3520
-          }, 
-          "name": "Radiator water", 
-          "id": "radiator-water"
-        }, 
-        {
-          "pos": {
-            "y": 26, 
-            "x": 3549
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 26, 
-            "x": 3928
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 26, 
-            "x": 4248
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 26, 
-            "x": 4300
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 26, 
-            "x": 4330
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 27, 
-            "x": 4664
-          }, 
-          "name": "Playground", 
-          "id": "playground"
-        }, 
-        {
-          "pos": {
-            "y": 27, 
-            "x": 4752
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 29, 
-            "x": 4789
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 27, 
-            "x": 4810
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 49, 
-            "x": 3500
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 51, 
-            "x": 3559
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 51, 
-            "x": 3573
-          }, 
-          "name": "Trucks", 
-          "id": "trucks"
-        }, 
-        {
-          "pos": {
-            "y": 51, 
-            "x": 3668
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 51, 
-            "x": 3694
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 51, 
-            "x": 3527
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }
-      ], 
-      "totals": {
-        "safety/caution/alerts": 3, 
-        "trucks": 2, 
-        "sewer-hookup": 3, 
-        "radiator-water": 1, 
-        "boat-trailer-parking": 4, 
-        "picnic-area": 6, 
-        "playground": 2, 
-        "campground": 3, 
-        "drinking-water": 6
-      }
-    }, 
-    {
-      "map": "canyonlands-simple-map", 
-      "img_size": {
-        "width": 5032, 
-        "height": 6576
-      }, 
-      "park": "canyonlands", 
-      "filename": "./data/npmaps_jpg/canyonlands-simple-map.jpg", 
-      "symbols": [
-        {
-          "pos": {
-            "y": 122, 
-            "x": 3174
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 122, 
-            "x": 3928
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 122, 
-            "x": 4227
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 114, 
-            "x": 4307
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 114, 
-            "x": 4386
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 136, 
-            "x": 3399
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 123, 
-            "x": 3803
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 123, 
-            "x": 4204
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 115, 
-            "x": 4658
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 124, 
-            "x": 3477
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 125, 
-            "x": 3884
-          }, 
-          "name": "Sewer hookup", 
-          "id": "sewer-hookup"
-        }, 
-        {
-          "pos": {
-            "y": 128, 
-            "x": 3506
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety/caution/alerts"
-        }, 
-        {
-          "pos": {
-            "y": 126, 
-            "x": 3516
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }
-      ], 
-      "totals": {
-        "campground": 3, 
-        "sewer-hookup": 1, 
-        "drinking-water": 4, 
-        "safety/caution/alerts": 2, 
-        "picnic-area": 3
-      }
-    }, 
-    {
       "map": "canyonlands-national-park-map", 
       "img_size": {
         "width": 5054, 
         "height": 6806
       }, 
       "park": "canyonlands", 
-      "filename": "./data/npmaps_jpg/canyonlands-national-park-map.jpg", 
+      "filename": "canyonlands-national-park-map.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 99, 
-            "x": 3917
+            "y": 89, 
+            "x": 3915, 
+            "height": 20, 
+            "width": 4
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 99, 
-            "x": 4266
+            "y": 89, 
+            "x": 4264, 
+            "height": 20, 
+            "width": 4
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 99, 
-            "x": 4333
+            "y": 89, 
+            "x": 4327, 
+            "height": 20, 
+            "width": 12
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 99, 
-            "x": 4661
+            "y": 89, 
+            "x": 4659, 
+            "height": 20, 
+            "width": 4
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 99, 
-            "x": 4716
+            "y": 89, 
+            "x": 4710, 
+            "height": 20, 
+            "width": 13
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 99, 
-            "x": 4873
+            "y": 89, 
+            "x": 4867, 
+            "height": 20, 
+            "width": 13
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 100, 
-            "x": 3480
+            "y": 91, 
+            "x": 3473, 
+            "height": 18, 
+            "width": 15
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 100, 
-            "x": 3877
+            "y": 91, 
+            "x": 3870, 
+            "height": 18, 
+            "width": 15
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 112, 
-            "x": 4164
+            "y": 91, 
+            "x": 4143, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 100, 
-            "x": 4208
+            "y": 91, 
+            "x": 4202, 
+            "height": 18, 
+            "width": 12
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 112, 
-            "x": 4562
+            "y": 91, 
+            "x": 4541, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 100, 
-            "x": 4250
+            "y": 92, 
+            "x": 4245, 
+            "height": 17, 
+            "width": 10
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 3497
+            "y": 95, 
+            "x": 3491, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 104, 
-            "x": 3512
+            "y": 95, 
+            "x": 3506, 
+            "height": 19, 
+            "width": 13
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 3540
+            "y": 95, 
+            "x": 3534, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 3553
+            "y": 95, 
+            "x": 3547, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 3888
+            "y": 95, 
+            "x": 3884, 
+            "height": 14, 
+            "width": 8
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 3899
+            "y": 95, 
+            "x": 3893, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 3910
+            "y": 95, 
+            "x": 3908, 
+            "height": 14, 
+            "width": 4
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 4224
+            "y": 95, 
+            "x": 4217, 
+            "height": 14, 
+            "width": 14
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 4238
+            "y": 95, 
+            "x": 4232, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 4320
+            "y": 95, 
+            "x": 4315, 
+            "height": 14, 
+            "width": 10
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 4623
+            "y": 95, 
+            "x": 4617, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 4636
+            "y": 95, 
+            "x": 4630, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 4650
+            "y": 95, 
+            "x": 4644, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 4672
+            "y": 95, 
+            "x": 4665, 
+            "height": 14, 
+            "width": 14
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 104, 
-            "x": 4688
+            "y": 95, 
+            "x": 4682, 
+            "height": 19, 
+            "width": 13
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 4737
+            "y": 95, 
+            "x": 4732, 
+            "height": 14, 
+            "width": 10
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 127, 
-            "x": 3537
+            "y": 120, 
+            "x": 3531, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 127, 
-            "x": 3551
+            "y": 120, 
+            "x": 3545, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 127, 
-            "x": 3595
+            "y": 120, 
+            "x": 3591, 
+            "height": 14, 
+            "width": 8
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 127, 
-            "x": 3602
+            "y": 120, 
+            "x": 3600, 
+            "height": 14, 
+            "width": 4
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 127, 
-            "x": 3611
+            "y": 120, 
+            "x": 3605, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 127, 
-            "x": 3625
+            "y": 120, 
+            "x": 3619, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 127, 
-            "x": 3645
+            "y": 120, 
+            "x": 3641, 
+            "height": 14, 
+            "width": 8
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 127, 
-            "x": 3671
+            "y": 120, 
+            "x": 3665, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 148, 
-            "x": 4672
+            "y": 146, 
+            "x": 4670, 
+            "height": 4, 
+            "width": 4
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 148, 
-            "x": 4786
+            "y": 146, 
+            "x": 4784, 
+            "height": 4, 
+            "width": 4
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 168, 
-            "x": 4164
+            "y": 147, 
+            "x": 4143, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 156, 
-            "x": 4208
+            "y": 147, 
+            "x": 4202, 
+            "height": 18, 
+            "width": 13
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }
       ], 
-      "totals": {
-        "boat-launch": 3, 
-        "restrooms": 10, 
-        "self-guiding-trail": 5, 
-        "ranger-station": 5, 
-        "picnic-area": 5, 
-        "campground": 6, 
-        "drinking-water": 6
-      }
+      "totals": [
+        {
+          "count": 10, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 6, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 6, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 5, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 5, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }
+      ]
     }
   ], 
   "Location": "Utah 38\u00b012\u2032N 109\u00b056\u2032W\ufeff / \ufeff38.2\u00b0N 109.93\u00b0W\ufeff / 38.2; -109.93\ufeff (Canyonlands)", 
-  "totals": {
-    "safety/caution/alerts": 5, 
-    "restrooms": 10, 
-    "trucks": 2, 
-    "self-guiding-trail": 5, 
-    "sewer-hookup": 10, 
-    "boat-launch": 3, 
-    "radiator-water": 1, 
-    "boat-trailer-parking": 4, 
-    "playground": 2, 
-    "ranger-station": 5, 
-    "picnic-area": 17, 
-    "entrance-station": 1, 
-    "campground": 14, 
-    "drinking-water": 17, 
-    "laundromat": 7, 
-    "gas-station": 2
-  }, 
+  "totals": [
+    {
+      "count": 10, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 6, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 6, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 5, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 5, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 3, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }
+  ], 
+  "map_count": 1, 
   "id": "canyonlands", 
   "Description": "This landscape was eroded into a maze of canyons, buttes, and mesas by the combined efforts of the Colorado River, Green River, and their tributaries, which divide the park into three districts. There are rock pinnacles and other naturally sculpted rock formations, as well as artifacts from Ancient Pueblo peoples."
 }

@@ -1,6 +1,8 @@
 // import get from './get';
 import { getQuick } from './get';
 
+import { transformParkInfo } from './transforms';
+
 // -------------
 // API Calls
 // -------------
@@ -11,7 +13,12 @@ import { getQuick } from './get';
  * @return {Promise} A promise after the get request was made
  */
 export function getParkData(parkId) {
-  return getQuick('parks', parkId);
+  return getQuick('parks', parkId)
+    .then(transformParkInfo);
+}
+
+export function getParkSearch() {
+  return getQuick('parks', 'park_ids');
 }
 
 export function getSymbolsData() {

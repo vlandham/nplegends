@@ -1,4 +1,5 @@
 {
+  "symbol_count": 0, 
   "Name": "Wrangell\u2013\u200bSt.\u00a0Elias", 
   "Recreation Visitors (2014)": "74,722", 
   "Photo": "", 
@@ -7,7 +8,8 @@
   "name": "Wrangell\u2013\u200bSt.\u00a0Elias", 
   "maps": [], 
   "Location": "Alaska 61\u00b000\u2032N 142\u00b000\u2032W\ufeff / \ufeff61.00\u00b0N 142.00\u00b0W\ufeff / 61.00; -142.00\ufeff (Wrangell \u2013 St. Elias)", 
-  "totals": {}, 
+  "totals": [], 
+  "map_count": 0, 
   "id": "wrangell\u2013\u200bst.\u00a0elias", 
   "Description": "An immense plot of mountainous country protects the convergence of the Alaska, Chugach, and Wrangell-Saint Elias Ranges, which include many of the continent's tallest mountains and volcanoes, including the 18,008-foot Mount Saint Elias. More than a quarter of the park is covered with glaciers, including the tidewater Hubbard Glacier, piedmont Malaspina Glacier, and valley Nabesna Glacier.[63] (WHS)"
 }

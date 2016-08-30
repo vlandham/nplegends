@@ -1,4 +1,5 @@
 {
+  "symbol_count": 88, 
   "Name": "Big Bend", 
   "Recreation Visitors (2014)": "314,102", 
   "Photo": "", 
@@ -13,368 +14,351 @@
         "height": 3040
       }, 
       "park": "big-bend", 
-      "filename": "./data/npmaps_jpg/big-bend-detail-maps.jpg", 
+      "filename": "big-bend-detail-maps.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 67, 
-            "x": 1162
+            "y": 0, 
+            "x": 1, 
+            "height": 135, 
+            "width": 2323
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 39, 
-            "x": 230
+            "y": 34, 
+            "x": 224, 
+            "height": 10, 
+            "width": 12
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 53, 
-            "x": 152
+            "y": 43, 
+            "x": 144, 
+            "height": 20, 
+            "width": 16
           }, 
           "name": "Amphitheater", 
           "id": "amphitheater"
         }, 
         {
           "pos": {
-            "y": 56, 
-            "x": 230
+            "y": 50, 
+            "x": 224, 
+            "height": 12, 
+            "width": 13
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 59, 
-            "x": 263
+            "y": 54, 
+            "x": 257, 
+            "height": 10, 
+            "width": 13
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 110, 
-            "x": 55
+            "y": 103, 
+            "x": 52, 
+            "height": 14, 
+            "width": 6
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 109, 
-            "x": 143
+            "y": 105, 
+            "x": 141, 
+            "height": 8, 
+            "width": 5
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 113, 
-            "x": 158
+            "y": 110, 
+            "x": 156, 
+            "height": 7, 
+            "width": 5
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 150, 
-            "x": 2206
+            "y": 141, 
+            "x": 2199, 
+            "height": 19, 
+            "width": 15
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 151, 
-            "x": 2249
+            "y": 142, 
+            "x": 2244, 
+            "height": 18, 
+            "width": 10
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 153, 
-            "x": 2224
+            "y": 146, 
+            "x": 2217, 
+            "height": 14, 
+            "width": 15
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 153, 
-            "x": 2239
+            "y": 146, 
+            "x": 2235, 
+            "height": 14, 
+            "width": 8
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 440, 
-            "x": 722
+            "y": 164, 
+            "x": 375, 
+            "height": 553, 
+            "width": 695
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 223, 
-            "x": 2234
+            "y": 169, 
+            "x": 2179, 
+            "height": 109, 
+            "width": 110
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 192, 
-            "x": 1726
+            "y": 184, 
+            "x": 1721, 
+            "height": 16, 
+            "width": 11
           }, 
           "name": "Amphitheater", 
           "id": "amphitheater"
         }, 
         {
           "pos": {
-            "y": 192, 
-            "x": 1939
+            "y": 184, 
+            "x": 1934, 
+            "height": 16, 
+            "width": 11
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 192, 
-            "x": 1956
+            "y": 184, 
+            "x": 1951, 
+            "height": 16, 
+            "width": 10
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 192, 
-            "x": 1968
+            "y": 184, 
+            "x": 1964, 
+            "height": 16, 
+            "width": 9
           }, 
           "name": "Laundromat", 
           "id": "laundromat"
         }, 
         {
           "pos": {
-            "y": 185, 
-            "x": 1996
+            "y": 184, 
+            "x": 1995, 
+            "height": 3, 
+            "width": 3
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 192, 
-            "x": 2052
+            "y": 185, 
+            "x": 2048, 
+            "height": 15, 
+            "width": 8
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 194, 
-            "x": 1996
+            "y": 188, 
+            "x": 1995, 
+            "height": 12, 
+            "width": 3
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 194, 
-            "x": 2011
+            "y": 188, 
+            "x": 2005, 
+            "height": 12, 
+            "width": 12
           }, 
           "name": "Laundromat", 
           "id": "laundromat"
         }, 
         {
           "pos": {
-            "y": 194, 
-            "x": 2042
+            "y": 188, 
+            "x": 2037, 
+            "height": 12, 
+            "width": 11
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 223, 
-            "x": 2234
+            "y": 189, 
+            "x": 2212, 
+            "height": 68, 
+            "width": 44
           }, 
           "name": "RV campground", 
           "id": "rv-campground"
         }, 
         {
           "pos": {
-            "y": 197, 
-            "x": 2047
+            "y": 196, 
+            "x": 2046, 
+            "height": 2, 
+            "width": 2
           }, 
           "name": "Sanitary disposal station", 
           "id": "sanitary-disposal-station"
         }, 
         {
           "pos": {
-            "y": 198, 
-            "x": 1947
+            "y": 197, 
+            "x": 1946, 
+            "height": 3, 
+            "width": 3
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 205, 
-            "x": 204
+            "y": 202, 
+            "x": 195, 
+            "height": 6, 
+            "width": 19
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 216, 
-            "x": 1901
+            "y": 203, 
+            "x": 1726, 
+            "height": 26, 
+            "width": 351
           }, 
           "name": "Store", 
           "id": "store"
         }
       ], 
-      "totals": {
-        "food-service": 2, 
-        "sanitary-disposal-station": 4, 
-        "wheelchair-accessible": 1, 
-        "amphitheater": 2, 
-        "self-guiding-trail": 3, 
-        "picnic-area": 1, 
-        "lodging": 1, 
-        "campground": 5, 
-        "laundromat": 2, 
-        "rv-campground": 1, 
-        "store": 4, 
-        "gas-station": 2
-      }
-    }, 
-    {
-      "map": "big-bend-simple-map", 
-      "img_size": {
-        "width": 3591, 
-        "height": 2576
-      }, 
-      "park": "big-bend", 
-      "filename": "./data/npmaps_jpg/big-bend-simple-map.jpg", 
-      "symbols": [
+      "totals": [
         {
-          "pos": {
-            "y": 93, 
-            "x": 2171
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
+          "count": 5, 
+          "id": "campground", 
+          "name": "Campground"
         }, 
         {
-          "pos": {
-            "y": 95, 
-            "x": 2265
-          }, 
-          "name": "Campground", 
-          "id": "campground"
+          "count": 4, 
+          "id": "sanitary-disposal-station", 
+          "name": "Sanitary disposal station"
         }, 
         {
-          "pos": {
-            "y": 95, 
-            "x": 2331
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
+          "count": 4, 
+          "id": "store", 
+          "name": "Store"
         }, 
         {
-          "pos": {
-            "y": 95, 
-            "x": 1178
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
+          "count": 3, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
         }, 
         {
-          "pos": {
-            "y": 104, 
-            "x": 1132
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
         }, 
         {
-          "pos": {
-            "y": 104, 
-            "x": 1178
-          }, 
-          "name": "Campground", 
-          "id": "campground"
+          "count": 2, 
+          "id": "amphitheater", 
+          "name": "Amphitheater"
         }, 
         {
-          "pos": {
-            "y": 104, 
-            "x": 1183
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
+          "count": 2, 
+          "id": "laundromat", 
+          "name": "Laundromat"
         }, 
         {
-          "pos": {
-            "y": 104, 
-            "x": 1197
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
         }, 
         {
-          "pos": {
-            "y": 101, 
-            "x": 2348
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
+          "count": 1, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
         }, 
         {
-          "pos": {
-            "y": 119, 
-            "x": 2401
-          }, 
-          "name": "Campground", 
-          "id": "campground"
+          "count": 1, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
         }, 
         {
-          "pos": {
-            "y": 106, 
-            "x": 2218
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
+          "count": 1, 
+          "id": "lodging", 
+          "name": "Lodging"
         }, 
         {
-          "pos": {
-            "y": 113, 
-            "x": 2257
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 107, 
-            "x": 1200
-          }, 
-          "name": "Campground", 
-          "id": "campground"
+          "count": 1, 
+          "id": "rv-campground", 
+          "name": "RV campground"
         }
-      ], 
-      "totals": {
-        "campground": 4, 
-        "gas-station": 2, 
-        "picnic-area": 4, 
-        "restrooms": 3
-      }
+      ]
     }, 
     {
       "map": "big-bend-national-park-map", 
@@ -383,515 +367,757 @@
         "height": 4437
       }, 
       "park": "big-bend", 
-      "filename": "./data/npmaps_jpg/big-bend-national-park-map.jpg", 
+      "filename": "big-bend-national-park-map.jpg", 
       "symbols": [
         {
           "pos": {
-            "y": 29, 
-            "x": 3280
+            "y": 21, 
+            "x": 3274, 
+            "height": 17, 
+            "width": 12
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 30, 
-            "x": 3193
+            "y": 22, 
+            "x": 3187, 
+            "height": 16, 
+            "width": 12
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 30, 
-            "x": 3225
+            "y": 22, 
+            "x": 3215, 
+            "height": 16, 
+            "width": 20
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 3270
+            "y": 24, 
+            "x": 3267, 
+            "height": 14, 
+            "width": 7
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 3202
+            "y": 26, 
+            "x": 3196, 
+            "height": 12, 
+            "width": 12
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 3240
+            "y": 26, 
+            "x": 3235, 
+            "height": 12, 
+            "width": 10
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 3250
+            "y": 26, 
+            "x": 3246, 
+            "height": 12, 
+            "width": 9
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 3259
+            "y": 26, 
+            "x": 3254, 
+            "height": 12, 
+            "width": 10
           }, 
           "name": "RV campground", 
           "id": "rv-campground"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 3293
+            "y": 26, 
+            "x": 3287, 
+            "height": 12, 
+            "width": 12
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 3305
+            "y": 26, 
+            "x": 3299, 
+            "height": 12, 
+            "width": 12
           }, 
           "name": "Wi-Fi", 
           "id": "wi-fi"
+        }, 
+        {
+          "pos": {
+            "y": 43, 
+            "x": 3187, 
+            "height": 9, 
+            "width": 9
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 43, 
+            "x": 3198, 
+            "height": 16, 
+            "width": 10
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 43, 
+            "x": 3232, 
+            "height": 3, 
+            "width": 3
+          }, 
+          "name": "RV campground", 
+          "id": "rv-campground"
         }, 
         {
           "pos": {
             "y": 47, 
-            "x": 3191
-          }, 
-          "name": "Store", 
-          "id": "store"
-        }, 
-        {
-          "pos": {
-            "y": 51, 
-            "x": 3203
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 44, 
-            "x": 3233
-          }, 
-          "name": "RV campground", 
-          "id": "rv-campground"
-        }, 
-        {
-          "pos": {
-            "y": 53, 
-            "x": 3218
+            "x": 3213, 
+            "height": 12, 
+            "width": 10
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 53, 
-            "x": 3233
+            "y": 47, 
+            "x": 3232, 
+            "height": 12, 
+            "width": 3
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 346
+            "y": 62, 
+            "x": 340, 
+            "height": 20, 
+            "width": 13
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 407
+            "y": 62, 
+            "x": 401, 
+            "height": 20, 
+            "width": 13
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 782
+            "y": 62, 
+            "x": 776, 
+            "height": 20, 
+            "width": 13
           }, 
           "name": "RV campground", 
           "id": "rv-campground"
         }, 
         {
           "pos": {
-            "y": 64, 
-            "x": 669
+            "y": 63, 
+            "x": 667, 
+            "height": 3, 
+            "width": 4
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 64, 
-            "x": 757
+            "y": 63, 
+            "x": 755, 
+            "height": 3, 
+            "width": 4
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 64, 
-            "x": 794
+            "y": 63, 
+            "x": 792, 
+            "height": 3, 
+            "width": 4
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 64, 
-            "x": 1079
+            "y": 63, 
+            "x": 1077, 
+            "height": 3, 
+            "width": 4
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 71, 
-            "x": 3218
+            "y": 63, 
+            "x": 3213, 
+            "height": 17, 
+            "width": 10
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 85, 
-            "x": 187
+            "y": 64, 
+            "x": 133, 
+            "height": 43, 
+            "width": 108
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 73, 
-            "x": 259
+            "y": 64, 
+            "x": 252, 
+            "height": 18, 
+            "width": 15
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 85, 
-            "x": 584
+            "y": 64, 
+            "x": 530, 
+            "height": 43, 
+            "width": 109
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 73, 
-            "x": 656
+            "y": 64, 
+            "x": 649, 
+            "height": 18, 
+            "width": 15
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 85, 
-            "x": 980
+            "y": 64, 
+            "x": 926, 
+            "height": 43, 
+            "width": 109
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 73, 
-            "x": 1052
+            "y": 64, 
+            "x": 1046, 
+            "height": 18, 
+            "width": 13
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 73, 
-            "x": 687
+            "y": 64, 
+            "x": 3186, 
+            "height": 16, 
+            "width": 11
+          }, 
+          "name": "", 
+          "id": ""
+        }, 
+        {
+          "pos": {
+            "y": 65, 
+            "x": 682, 
+            "height": 17, 
+            "width": 10
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 73, 
-            "x": 827
+            "y": 65, 
+            "x": 822, 
+            "height": 17, 
+            "width": 10
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 1346
+            "y": 65, 
+            "x": 1325, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 66, 
-            "x": 1513
+            "y": 65, 
+            "x": 1511, 
+            "height": 3, 
+            "width": 4
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 85, 
-            "x": 1741
+            "y": 65, 
+            "x": 1720, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 66, 
-            "x": 1789
+            "y": 65, 
+            "x": 1787, 
+            "height": 3, 
+            "width": 4
           }, 
           "name": "RV campground", 
           "id": "rv-campground"
         }, 
         {
           "pos": {
-            "y": 66, 
-            "x": 1823
+            "y": 65, 
+            "x": 1821, 
+            "height": 3, 
+            "width": 4
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 1383
+            "y": 66, 
+            "x": 1377, 
+            "height": 18, 
+            "width": 13
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 1504
+            "y": 67, 
+            "x": 1499, 
+            "height": 17, 
+            "width": 10
           }, 
           "name": "Wi-Fi", 
           "id": "wi-fi"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 276
+            "y": 68, 
+            "x": 270, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 77, 
-            "x": 291
+            "y": 68, 
+            "x": 285, 
+            "height": 19, 
+            "width": 13
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 305
+            "y": 68, 
+            "x": 299, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 319
+            "y": 68, 
+            "x": 313, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 332
+            "y": 68, 
+            "x": 326, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 367
+            "y": 68, 
+            "x": 363, 
+            "height": 14, 
+            "width": 8
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 713
+            "y": 68, 
+            "x": 707, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Sewer hookup", 
           "id": "sewer-hookup"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 727
+            "y": 68, 
+            "x": 722, 
+            "height": 14, 
+            "width": 10
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 739
+            "y": 68, 
+            "x": 733, 
+            "height": 14, 
+            "width": 13
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 768
+            "y": 68, 
+            "x": 762, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 793
+            "y": 68, 
+            "x": 792, 
+            "height": 14, 
+            "width": 3
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 803
+            "y": 68, 
+            "x": 798, 
+            "height": 14, 
+            "width": 10
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 815
+            "y": 68, 
+            "x": 809, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 840
+            "y": 68, 
+            "x": 833, 
+            "height": 14, 
+            "width": 14
           }, 
           "name": "RV campground", 
           "id": "rv-campground"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 853
+            "y": 68, 
+            "x": 849, 
+            "height": 14, 
+            "width": 8
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 1065
+            "y": 68, 
+            "x": 1061, 
+            "height": 14, 
+            "width": 9
           }, 
           "name": "Wi-Fi", 
           "id": "wi-fi"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 1071
+            "y": 68, 
+            "x": 1069, 
+            "height": 14, 
+            "width": 4
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 1090
+            "y": 68, 
+            "x": 1084, 
+            "height": 14, 
+            "width": 12
           }, 
           "name": "Sewer hookup", 
           "id": "sewer-hookup"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 1102
+            "y": 68, 
+            "x": 1098, 
+            "height": 14, 
+            "width": 9
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 74, 
-            "x": 3230
+            "y": 68, 
+            "x": 3225, 
+            "height": 12, 
+            "width": 10
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 74, 
-            "x": 3237
+            "y": 68, 
+            "x": 3234, 
+            "height": 12, 
+            "width": 7
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }
       ], 
-      "totals": {
-        "food-service": 5, 
-        "sewer-hookup": 2, 
-        "rv-campground": 5, 
-        "self-guiding-trail": 6, 
-        "ranger-station": 6, 
-        "picnic-area": 7, 
-        "lodging": 5, 
-        "campground": 7, 
-        "wi-fi": 3, 
-        "store": 8, 
-        "gas-station": 5
-      }
+      "totals": [
+        {
+          "count": 8, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 7, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 7, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 6, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 6, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 5, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 5, 
+          "id": "rv-campground", 
+          "name": "RV campground"
+        }, 
+        {
+          "count": 5, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 5, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 3, 
+          "id": "wi-fi", 
+          "name": "Wi-Fi"
+        }, 
+        {
+          "count": 2, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }, 
+        {
+          "count": 1, 
+          "id": "", 
+          "name": ""
+        }
+      ]
     }
   ], 
   "Location": "Texas 29\u00b015\u2032N 103\u00b015\u2032W\ufeff / \ufeff29.25\u00b0N 103.25\u00b0W\ufeff / 29.25; -103.25\ufeff (Big Bend)", 
-  "totals": {
-    "wi-fi": 3, 
-    "food-service": 7, 
-    "sanitary-disposal-station": 4, 
-    "wheelchair-accessible": 1, 
-    "amphitheater": 2, 
-    "restrooms": 3, 
-    "self-guiding-trail": 9, 
-    "ranger-station": 6, 
-    "picnic-area": 12, 
-    "sewer-hookup": 2, 
-    "lodging": 6, 
-    "campground": 16, 
-    "laundromat": 2, 
-    "rv-campground": 6, 
-    "store": 12, 
-    "gas-station": 9
-  }, 
+  "totals": [
+    {
+      "count": 12, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 12, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 9, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 8, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 7, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 7, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 6, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 6, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 6, 
+      "id": "rv-campground", 
+      "name": "RV campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "sanitary-disposal-station", 
+      "name": "Sanitary disposal station"
+    }, 
+    {
+      "count": 3, 
+      "id": "wi-fi", 
+      "name": "Wi-Fi"
+    }, 
+    {
+      "count": 2, 
+      "id": "amphitheater", 
+      "name": "Amphitheater"
+    }, 
+    {
+      "count": 2, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }, 
+    {
+      "count": 2, 
+      "id": "laundromat", 
+      "name": "Laundromat"
+    }, 
+    {
+      "count": 1, 
+      "id": "", 
+      "name": ""
+    }, 
+    {
+      "count": 1, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }
+  ], 
+  "map_count": 2, 
   "id": "big-bend", 
   "Description": "Named for the prominent bend in the Rio Grande along the US\u2013Mexico border, this park encompasses a large and remote part of the Chihuahuan Desert. Its main attraction is backcountry recreation in the arid Chisos Mountains and in canyons along the river. A wide variety of Cretaceous and Tertiary fossils as well as cultural artifacts of Native Americans also exist within its borders."
 }

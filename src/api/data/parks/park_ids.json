@@ -1,0 +1,356 @@
+{
+  "great-sand-dunes": {
+    "map_count": 1, 
+    "symbol_count": 23, 
+    "name": "Great Sand Dunes", 
+    "id": "great-sand-dunes"
+  }, 
+  "death-valley": {
+    "map_count": 5, 
+    "symbol_count": 224, 
+    "name": "Death Valley", 
+    "id": "death-valley"
+  }, 
+  "wind-cave": {
+    "map_count": 1, 
+    "symbol_count": 0, 
+    "name": "Wind Cave", 
+    "id": "wind-cave"
+  }, 
+  "gates-of-the-arctic": {
+    "map_count": 1, 
+    "symbol_count": 16, 
+    "name": "Gates of the Arctic", 
+    "id": "gates-of-the-arctic"
+  }, 
+  "channel-islands": {
+    "map_count": 1, 
+    "symbol_count": 15, 
+    "name": "Channel Islands", 
+    "id": "channel-islands"
+  }, 
+  "black-canyon-of-the-gunnison": {
+    "map_count": 2, 
+    "symbol_count": 42, 
+    "name": "Black Canyon of the Gunnison", 
+    "id": "black-canyon-of-the-gunnison"
+  }, 
+  "olympic": {
+    "map_count": 1, 
+    "symbol_count": 84, 
+    "name": "Olympic", 
+    "id": "olympic"
+  }, 
+  "petrified-forest": {
+    "map_count": 2, 
+    "symbol_count": 56, 
+    "name": "Petrified Forest", 
+    "id": "petrified-forest"
+  }, 
+  "mesa-verde": {
+    "map_count": 1, 
+    "symbol_count": 43, 
+    "name": "Mesa Verde", 
+    "id": "mesa-verde"
+  }, 
+  "wrangell\u2013\u200bst.\u00a0elias": {
+    "map_count": 0, 
+    "symbol_count": 0, 
+    "name": "Wrangell\u2013\u200bSt.\u00a0Elias", 
+    "id": "wrangell\u2013\u200bst.\u00a0elias"
+  }, 
+  "katmai": {
+    "map_count": 2, 
+    "symbol_count": 50, 
+    "name": "Katmai", 
+    "id": "katmai"
+  }, 
+  "virgin-islands": {
+    "map_count": 1, 
+    "symbol_count": 21, 
+    "name": "Virgin Islands", 
+    "id": "virgin-islands"
+  }, 
+  "isle-royale": {
+    "map_count": 1, 
+    "symbol_count": 37, 
+    "name": "Isle Royale", 
+    "id": "isle-royale"
+  }, 
+  "hawaii-volcanoes": {
+    "map_count": 3, 
+    "symbol_count": 86, 
+    "name": "Hawaii Volcanoes", 
+    "id": "hawaii-volcanoes"
+  }, 
+  "lake-clark": {
+    "map_count": 1, 
+    "symbol_count": 6, 
+    "name": "Lake Clark", 
+    "id": "lake-clark"
+  }, 
+  "glacier": {
+    "map_count": 7, 
+    "symbol_count": 78, 
+    "name": "Glacier", 
+    "id": "glacier"
+  }, 
+  "redwood": {
+    "map_count": 2, 
+    "symbol_count": 72, 
+    "name": "Redwood", 
+    "id": "redwood"
+  }, 
+  "denali": {
+    "map_count": 2, 
+    "symbol_count": 28, 
+    "name": "Denali", 
+    "id": "denali"
+  }, 
+  "dry-tortugas": {
+    "map_count": 0, 
+    "symbol_count": 0, 
+    "name": "Dry Tortugas", 
+    "id": "dry-tortugas"
+  }, 
+  "theodore-roosevelt": {
+    "map_count": 2, 
+    "symbol_count": 11, 
+    "name": "Theodore Roosevelt", 
+    "id": "theodore-roosevelt"
+  }, 
+  "lassen-volcanic": {
+    "map_count": 1, 
+    "symbol_count": 38, 
+    "name": "Lassen Volcanic", 
+    "id": "lassen-volcanic"
+  }, 
+  "mount-rainier": {
+    "map_count": 2, 
+    "symbol_count": 77, 
+    "name": "Mount Rainier", 
+    "id": "mount-rainier"
+  }, 
+  "biscayne": {
+    "map_count": 1, 
+    "symbol_count": 38, 
+    "name": "Biscayne", 
+    "id": "biscayne"
+  }, 
+  "pinnacles": {
+    "map_count": 2, 
+    "symbol_count": 31, 
+    "name": "Pinnacles", 
+    "id": "pinnacles"
+  }, 
+  "zion": {
+    "map_count": 3, 
+    "symbol_count": 48, 
+    "name": "Zion", 
+    "id": "zion"
+  }, 
+  "kings-canyon": {
+    "map_count": 2, 
+    "symbol_count": 79, 
+    "name": "Kings Canyon", 
+    "id": "kings-canyon"
+  }, 
+  "glacier-bay": {
+    "map_count": 0, 
+    "symbol_count": 0, 
+    "name": "Glacier Bay", 
+    "id": "glacier-bay"
+  }, 
+  "great-basin": {
+    "map_count": 1, 
+    "symbol_count": 40, 
+    "name": "Great Basin", 
+    "id": "great-basin"
+  }, 
+  "carlsbad-caverns": {
+    "map_count": 1, 
+    "symbol_count": 0, 
+    "name": "Carlsbad Caverns", 
+    "id": "carlsbad-caverns"
+  }, 
+  "congaree": {
+    "map_count": 1, 
+    "symbol_count": 4, 
+    "name": "Congaree", 
+    "id": "congaree"
+  }, 
+  "haleakal\u0101": {
+    "map_count": 0, 
+    "symbol_count": 0, 
+    "name": "Haleakal\u0101", 
+    "id": "haleakal\u0101"
+  }, 
+  "mammoth-cave": {
+    "map_count": 1, 
+    "symbol_count": 22, 
+    "name": "Mammoth Cave", 
+    "id": "mammoth-cave"
+  }, 
+  "everglades": {
+    "map_count": 1, 
+    "symbol_count": 40, 
+    "name": "Everglades", 
+    "id": "everglades"
+  }, 
+  "north-cascades": {
+    "map_count": 1, 
+    "symbol_count": 31, 
+    "name": "North Cascades", 
+    "id": "north-cascades"
+  }, 
+  "acadia": {
+    "map_count": 3, 
+    "symbol_count": 102, 
+    "name": "Acadia", 
+    "id": "acadia"
+  }, 
+  "yellowstone": {
+    "map_count": 1, 
+    "symbol_count": 161, 
+    "name": "Yellowstone", 
+    "id": "yellowstone"
+  }, 
+  "yosemite": {
+    "map_count": 3, 
+    "symbol_count": 71, 
+    "name": "Yosemite", 
+    "id": "yosemite"
+  }, 
+  "sequoia": {
+    "map_count": 0, 
+    "symbol_count": 0, 
+    "name": "Sequoia", 
+    "id": "sequoia"
+  }, 
+  "capitol-reef": {
+    "map_count": 1, 
+    "symbol_count": 10, 
+    "name": "Capitol Reef", 
+    "id": "capitol-reef"
+  }, 
+  "big-bend": {
+    "map_count": 2, 
+    "symbol_count": 88, 
+    "name": "Big Bend", 
+    "id": "big-bend"
+  }, 
+  "shenandoah": {
+    "map_count": 2, 
+    "symbol_count": 68, 
+    "name": "Shenandoah", 
+    "id": "shenandoah"
+  }, 
+  "cuyahoga-valley": {
+    "map_count": 4, 
+    "symbol_count": 162, 
+    "name": "Cuyahoga Valley", 
+    "id": "cuyahoga-valley"
+  }, 
+  "rocky-mountain": {
+    "map_count": 0, 
+    "symbol_count": 0, 
+    "name": "Rocky Mountain", 
+    "id": "rocky-mountain"
+  }, 
+  "great-smoky-mountains": {
+    "map_count": 1, 
+    "symbol_count": 37, 
+    "name": "Great Smoky Mountains", 
+    "id": "great-smoky-mountains"
+  }, 
+  "kobuk-valley": {
+    "map_count": 0, 
+    "symbol_count": 0, 
+    "name": "Kobuk Valley", 
+    "id": "kobuk-valley"
+  }, 
+  "canyonlands": {
+    "map_count": 1, 
+    "symbol_count": 40, 
+    "name": "Canyonlands", 
+    "id": "canyonlands"
+  }, 
+  "american-samoa": {
+    "map_count": 1, 
+    "symbol_count": 0, 
+    "name": "American Samoa", 
+    "id": "american-samoa"
+  }, 
+  "badlands": {
+    "map_count": 2, 
+    "symbol_count": 14, 
+    "name": "Badlands", 
+    "id": "badlands"
+  }, 
+  "guadalupe-mountains": {
+    "map_count": 2, 
+    "symbol_count": 29, 
+    "name": "Guadalupe Mountains", 
+    "id": "guadalupe-mountains"
+  }, 
+  "voyageurs": {
+    "map_count": 1, 
+    "symbol_count": 40, 
+    "name": "Voyageurs", 
+    "id": "voyageurs"
+  }, 
+  "bryce-canyon": {
+    "map_count": 5, 
+    "symbol_count": 105, 
+    "name": "Bryce Canyon", 
+    "id": "bryce-canyon"
+  }, 
+  "hot-springs": {
+    "map_count": 1, 
+    "symbol_count": 12, 
+    "name": "Hot Springs", 
+    "id": "hot-springs"
+  }, 
+  "kenai-fjords": {
+    "map_count": 1, 
+    "symbol_count": 2, 
+    "name": "Kenai Fjords", 
+    "id": "kenai-fjords"
+  }, 
+  "arches": {
+    "map_count": 1, 
+    "symbol_count": 20, 
+    "name": "Arches", 
+    "id": "arches"
+  }, 
+  "saguaro": {
+    "map_count": 2, 
+    "symbol_count": 12, 
+    "name": "Saguaro", 
+    "id": "saguaro"
+  }, 
+  "joshua-tree": {
+    "map_count": 3, 
+    "symbol_count": 74, 
+    "name": "Joshua Tree", 
+    "id": "joshua-tree"
+  }, 
+  "grand-teton": {
+    "map_count": 2, 
+    "symbol_count": 94, 
+    "name": "Grand Teton", 
+    "id": "grand-teton"
+  }, 
+  "grand-canyon": {
+    "map_count": 6, 
+    "symbol_count": 149, 
+    "name": "Grand Canyon", 
+    "id": "grand-canyon"
+  }, 
+  "crater-lake": {
+    "map_count": 1, 
+    "symbol_count": 28, 
+    "name": "Crater Lake", 
+    "id": "crater-lake"
+  }
+}
