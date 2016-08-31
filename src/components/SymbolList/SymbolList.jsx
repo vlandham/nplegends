@@ -13,13 +13,15 @@ export default class SymbolList extends PureComponent {
 
   renderSymbol(symbol) {
     return (
-      <span key={symbol.id} className="symbol-name">{symbol.id} <span className="symbol-count">{symbol.count}</span></span>
+      <span key={symbol.id} className="symbol-name">
+        <img src={`/symbols/${symbol.id}.png`} alt={symbol.id} />
+        {symbol.name} <span className="symbol-count">{symbol.count}</span>
+      </span>
     );
   }
 
   render() {
     const { symbolCounts } = this.props;
-    console.log(symbolCounts)
     return (
       <div className="SymbolList">
         {symbolCounts.map((s) => this.renderSymbol(s))}

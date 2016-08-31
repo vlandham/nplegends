@@ -100,6 +100,7 @@ module.exports = {
       { test: /\.ttf(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=application/octet-stream' },
       { test: /\.eot(\?v=\d+\.\d+\.\d+)?$/, loader: 'file' },
       { test: /\.svg(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=image/svg+xml' },
+      { test: /\.(png|jpg)$/, loader: 'file-loader?name=images/[name].[ext]' },
       { test: webpackIsomorphicToolsPlugin.regular_expression('images'), loader: 'url-loader?limit=10240' },
     ],
   },
@@ -134,7 +135,7 @@ module.exports = {
     }),
 
     // new CopyWebpackPlugin([
-    //   {from: path.resolve(projectRootPath, './data') }
+    //   {from: path.resolve(projectRootPath, './symbols'), to: 'symbols' }
     // ]),
     webpackIsomorphicToolsPlugin.development(),
   ],

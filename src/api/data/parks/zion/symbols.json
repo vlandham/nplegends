@@ -115,7 +115,7 @@
             "width": 12
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -261,13 +261,13 @@
         }, 
         {
           "count": 1, 
-          "id": "bicycle-trail", 
-          "name": "Bicycle trail"
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
           "count": 1, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
-          "name": "Horseback riding\n(rental, guided tour)"
+          "id": "bicycle-trail", 
+          "name": "Bicycle trail"
         }, 
         {
           "count": 1, 
@@ -639,13 +639,13 @@
     }, 
     {
       "count": 1, 
-      "id": "bicycle-trail", 
-      "name": "Bicycle trail"
+      "id": "horseback-riding-rental,-guided-tour", 
+      "name": "Horseback riding\n(rental, guided tour)"
     }, 
     {
       "count": 1, 
-      "id": "horseback-riding-(rental,-guided-tour)", 
-      "name": "Horseback riding\n(rental, guided tour)"
+      "id": "bicycle-trail", 
+      "name": "Bicycle trail"
     }, 
     {
       "count": 1, 

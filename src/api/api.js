@@ -22,7 +22,7 @@ export function getParkSearch() {
 }
 
 export function getSymbolsData() {
-  return getQuick('symbols');
+  return getQuick('all_symbols');
 }
 
 /**

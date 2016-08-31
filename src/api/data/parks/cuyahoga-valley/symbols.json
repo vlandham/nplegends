@@ -94,7 +94,7 @@
             "width": 14
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -214,7 +214,7 @@
             "width": 20
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -264,7 +264,7 @@
             "width": 4
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -344,7 +344,7 @@
             "width": 12
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -774,7 +774,7 @@
             "width": 6
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -944,7 +944,7 @@
             "width": 14
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1010,7 +1010,7 @@
         }, 
         {
           "count": 6, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
+          "id": "horseback-riding-rental,-guided-tour", 
           "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
@@ -1222,7 +1222,7 @@
             "width": 27
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1323,13 +1323,13 @@
         }, 
         {
           "count": 1, 
-          "id": "ranger-station", 
-          "name": "Ranger station"
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
           "count": 1, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
-          "name": "Horseback riding\n(rental, guided tour)"
+          "id": "ranger-station", 
+          "name": "Ranger station"
         }
       ]
     }, 
@@ -1360,7 +1360,7 @@
             "width": 15
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1576,13 +1576,13 @@
         }, 
         {
           "count": 1, 
-          "id": "ranger-station", 
-          "name": "Ranger station"
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
           "count": 1, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
-          "name": "Horseback riding\n(rental, guided tour)"
+          "id": "ranger-station", 
+          "name": "Ranger station"
         }, 
         {
           "count": 1, 
@@ -1718,7 +1718,7 @@
             "width": 11
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1788,7 +1788,7 @@
             "width": 26
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -1814,7 +1814,7 @@
         }, 
         {
           "count": 2, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
+          "id": "horseback-riding-rental,-guided-tour", 
           "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
@@ -1859,7 +1859,7 @@
     }, 
     {
       "count": 10, 
-      "id": "horseback-riding-(rental,-guided-tour)", 
+      "id": "horseback-riding-rental,-guided-tour", 
       "name": "Horseback riding\n(rental, guided tour)"
     }, 
     {

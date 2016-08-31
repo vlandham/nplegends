@@ -4,7 +4,7 @@
 import * as Actions from './actions';
 
 const initialSymbolsState = {
-  data: [],
+  data: {},
   isFetching: false,
   isFetched: false,
 };

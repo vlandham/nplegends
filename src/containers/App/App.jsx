@@ -1,6 +1,10 @@
 import React, { PureComponent, PropTypes } from 'react';
 import { connect } from 'react-redux';
 import Helmet from 'react-helmet';
+import { Navbar, Nav, NavItem } from 'react-bootstrap';
+import { IndexLinkContainer, LinkContainer } from 'react-router-bootstrap';
+import { IndexLink } from 'react-router';
+
 import { Link } from 'react-router';
 
 import config from '../../config';
@@ -23,19 +27,32 @@ class App extends PureComponent {
     store: PropTypes.object.isRequired,
   };
 
+  renderNav() {
+    return (
+      <Navbar>
+        <Navbar.Header>
+          <Navbar.Brand>
+            <IndexLink to="/">
+              <img alt="MLab" src="/img/mlab_logo_white.png" />
+              <span>vis</span>
+            </IndexLink>
+          </Navbar.Brand>
+        </Navbar.Header>
+        <Nav>
+          <IndexLinkContainer to="/"><NavItem eventKey={1}>Home</NavItem></IndexLinkContainer>
+          <LinkContainer to="/park/acadia"><NavItem eventKey={2}>Acadia</NavItem></LinkContainer>
+          <LinkContainer to="/park/arches"><NavItem eventKey={3}>Arches</NavItem></LinkContainer>
+        </Nav>
+      </Navbar>
+    );
+  }
+
+
   render() {
     return (
       <div>
         <Helmet {...config.app.head} />
-        <div className="nav">
-          <div className="container">
-            <ul className="list-inline">
-              <li><Link to="/">Home</Link></li>
-              <li><Link to="/park/acadia">Acadia</Link></li>
-              <li><Link to="/park/arches">Arches</Link></li>
-            </ul>
-          </div>
-        </div>
+        {this.renderNav()}
         <div className="container">
           {this.props.children}
         </div>

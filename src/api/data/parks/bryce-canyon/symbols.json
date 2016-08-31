@@ -485,7 +485,7 @@
             "width": 6
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -581,6 +581,11 @@
         }, 
         {
           "count": 1, 
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 1, 
           "id": "photography", 
           "name": "Photography"
         }, 
@@ -593,11 +598,6 @@
           "count": 1, 
           "id": "emergencies", 
           "name": "Emergencies"
-        }, 
-        {
-          "count": 1, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
-          "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
           "count": 1, 
@@ -1337,13 +1337,13 @@
     }, 
     {
       "count": 3, 
-      "id": "ranger-station", 
-      "name": "Ranger station"
+      "id": "maps", 
+      "name": "Maps"
     }, 
     {
       "count": 3, 
-      "id": "maps", 
-      "name": "Maps"
+      "id": "ranger-station", 
+      "name": "Ranger station"
     }, 
     {
       "count": 2, 
@@ -1377,6 +1377,11 @@
     }, 
     {
       "count": 1, 
+      "id": "horseback-riding-rental,-guided-tour", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 1, 
       "id": "photography", 
       "name": "Photography"
     }, 
@@ -1384,11 +1389,6 @@
       "count": 1, 
       "id": "emergencies", 
       "name": "Emergencies"
-    }, 
-    {
-      "count": 1, 
-      "id": "horseback-riding-(rental,-guided-tour)", 
-      "name": "Horseback riding\n(rental, guided tour)"
     }, 
     {
       "count": 1, 

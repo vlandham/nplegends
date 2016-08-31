@@ -11,9 +11,9 @@
 export function getSymbols(state) {
   const { symbols } = state;
 
-  if (symbols.symbols & symbols.symbols.data) {
+  if (symbols.symbols && symbols.symbols.data) {
     return symbols.symbols.data;
   }
 
-  return [];
+  return {};
 }

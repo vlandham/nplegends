@@ -3,9 +3,7 @@ import Helmet from 'react-helmet';
 import { browserHistory } from 'react-router';
 // import { Row, Col } from 'react-bootstrap';
 import * as ParksActions from '../../redux/parks/actions';
-import * as SymbolsActions from '../../redux/symbols/actions';
 import * as ParksSelectors from '../../redux/parks/selectors';
-import * as SymbolsSelectors from '../../redux/symbols/selectors';
 
 import UrlHandler from '../../url/UrlHandler';
 import urlConnect from '../../url/urlConnect';
@@ -27,7 +25,6 @@ function mapStateToProps(state, propsWithUrl) {
   return {
     ...propsWithUrl,
     parkInfo: ParksSelectors.getParkInfo(state, propsWithUrl),
-    symbolKey: SymbolsSelectors.getSymbols(state),
   };
 }
 
@@ -63,7 +60,6 @@ class ParkPage extends PureComponent {
   fetchData(props) {
     const { dispatch, parkId } = props;
     dispatch(ParksActions.fetchParkSymbolsIfNeeded(parkId));
-    dispatch(SymbolsActions.fetchSymbolsIfNeeded());
   }
 
   renderSymbolList() {

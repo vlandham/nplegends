@@ -163,7 +163,6 @@ class OmniSearch extends PureComponent {
     // const { searchQuery, searchResults } = this.props;
     const { value, suggestions } = this.state;
 
-    console.log(suggestions)
     // const { value, suggestions } = this.state;
     // const suggestions = this.getSuggestions(value);
     const inputProps = {

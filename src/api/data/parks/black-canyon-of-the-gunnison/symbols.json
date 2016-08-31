@@ -164,7 +164,7 @@
             "width": 2
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
@@ -434,7 +434,7 @@
             "width": 9
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-(rental,-guided-tour)"
+          "id": "horseback-riding-rental,-guided-tour"
         }
       ], 
       "totals": [
@@ -480,13 +480,13 @@
         }, 
         {
           "count": 2, 
-          "id": "river-rafting", 
-          "name": "River rafting"
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
         }, 
         {
           "count": 2, 
-          "id": "horseback-riding-(rental,-guided-tour)", 
-          "name": "Horseback riding\n(rental, guided tour)"
+          "id": "river-rafting", 
+          "name": "River rafting"
         }, 
         {
           "count": 2, 
@@ -551,13 +551,13 @@
     }, 
     {
       "count": 2, 
-      "id": "river-rafting", 
-      "name": "River rafting"
+      "id": "horseback-riding-rental,-guided-tour", 
+      "name": "Horseback riding\n(rental, guided tour)"
     }, 
     {
       "count": 2, 
-      "id": "horseback-riding-(rental,-guided-tour)", 
-      "name": "Horseback riding\n(rental, guided tour)"
+      "id": "river-rafting", 
+      "name": "River rafting"
     }, 
     {
       "count": 2, 
