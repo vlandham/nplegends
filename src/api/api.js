@@ -1,5 +1,5 @@
 // import get from './get';
-import { getQuick } from './get';
+import { remoteGet } from './remote_get';
 
 import { transformParkInfo } from './transforms';
 
@@ -13,16 +13,16 @@ import { transformParkInfo } from './transforms';
  * @return {Promise} A promise after the get request was made
  */
 export function getParkData(parkId) {
-  return getQuick('parks', parkId)
+  return remoteGet('parks', parkId)
     .then(transformParkInfo);
 }
 
 export function getParkSearch() {
-  return getQuick('park_ids');
+  return remoteGet('park_ids');
 }
 
 export function getSymbolsData() {
-  return getQuick('all_symbols');
+  return remoteGet('all_symbols');
 }
 
 /**

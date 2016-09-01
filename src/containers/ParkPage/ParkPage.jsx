@@ -1,6 +1,7 @@
 import React, { PureComponent, PropTypes } from 'react';
 import Helmet from 'react-helmet';
 import { browserHistory } from 'react-router';
+import { Link } from 'react-router';
 // import { Row, Col } from 'react-bootstrap';
 import * as ParksActions from '../../redux/parks/actions';
 import * as ParksSelectors from '../../redux/parks/selectors';
@@ -78,10 +79,11 @@ class ParkPage extends PureComponent {
     return (
       <div>
         <Helmet title="Park" />
+        <Link to={'/'}>&#171; Symbols</Link>
         <h1>{ parkInfo['Name'] }</h1>
-        <h2>{ parkInfo.symbol_count } Symbols in { parkInfo.map_count } Maps</h2>
         <div><p>{ parkInfo['Description'] }</p></div>
-        <h2>Symbols</h2>
+        <h2 className="banner">Symbols</h2>
+        <strong>{ parkInfo.symbol_count } Symbols in { parkInfo.map_count } Maps</strong>
         {this.renderSymbolList()}
       </div>
     );

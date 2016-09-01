@@ -7,7 +7,7 @@ import * as SymbolsActions from '../../redux/symbols/actions';
 import * as SearchSelectors from '../../redux/search/selectors';
 import * as SymbolsSelectors from '../../redux/symbols/selectors';
 
-import { OmniSearch, SymbolList } from '../../components';
+import { OmniSearch, SymbolParks } from '../../components';
 
 import './HomePage.scss';
 
@@ -67,14 +67,25 @@ class HomePage extends PureComponent {
     );
   }
 
-  renderSymbolList(symbols) {
+  renderSymbolParks(symbol, parks) {
     return (
-      <div>
-        <SymbolList
-          symbolCounts={symbols}
-        />
-      </div>
+      <SymbolParks
+        symbol={symbol}
+        parks={parks}
+        key={symbol.id}
+      />
     );
+  }
+
+  renderAllSymbolParks(symbols, parks) {
+    if (symbols) {
+      return (
+        <div>
+          {symbols.map((s) => this.renderSymbolParks(s, parks[s.id]))}
+        </div>
+      );
+    }
+    return null;
   }
 
   render() {
@@ -83,11 +94,15 @@ class HomePage extends PureComponent {
     return (
       <div className="home-page">
         <Helmet title="Home" />
-        <h1>Home</h1>
+        <h1>NP Legends</h1>
+        <p>Exploring the symbols on maps of the US National Park Service</p>
 
         <div className="omni-search-container">
           {this.renderSearch()}
-          {this.renderSymbolList(symbolInfo.totals)}
+        </div>
+        <h2 className="banner">Symbols</h2>
+        <div className="symbol-list-container">
+          {this.renderAllSymbolParks(symbolInfo.totals, symbolInfo.parks)}
         </div>
 
       </div>

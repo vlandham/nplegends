@@ -14,7 +14,7 @@ export default class SymbolList extends PureComponent {
   renderSymbol(symbol) {
     return (
       <span key={symbol.id} className="symbol-name">
-        <img src={`/symbols/${symbol.id}.png`} alt={symbol.id} />
+        <img className="symbol-icon" src={`/symbols/${symbol.id}.png`} alt={symbol.id} />
         {symbol.name} <span className="symbol-count">{symbol.count}</span>
       </span>
     );

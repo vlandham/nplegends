@@ -1,0 +1,37 @@
+@import "../../assets/variables";
+
+.SymbolParks {
+  border-bottom: 1px solid black;
+
+  h3 {
+  }
+
+  .found-line {
+    padding-left: 55px;
+    font-size: 0.6em;
+    float:right;
+  }
+
+  .parks {
+    padding-bottom: 20px;
+  }
+
+  .park-name {
+    display: inline-block;
+    padding-right: 15px;
+    line-height: 2.2em;
+  }
+
+  .park-count {
+    // float:right;
+    background-color: #222;
+    color: #fff;
+    border-radius: 4px;
+    padding: 3px 4px;
+  }
+
+  .park-count:hover {
+    // background-color: #222;
+  }
+
+}

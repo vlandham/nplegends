@@ -5,11 +5,10 @@ import { Navbar, Nav, NavItem } from 'react-bootstrap';
 import { IndexLinkContainer, LinkContainer } from 'react-router-bootstrap';
 import { IndexLink } from 'react-router';
 
-import { Link } from 'react-router';
-
 import config from '../../config';
 
 import '../../assets/base.scss';
+import './App.scss';
 
 function mapStateToProps() {
   return {
@@ -31,17 +30,15 @@ class App extends PureComponent {
     return (
       <Navbar>
         <Navbar.Header>
-          <Navbar.Brand>
+          <span className="logo">
             <IndexLink to="/">
-              <img alt="MLab" src="/img/mlab_logo_white.png" />
-              <span>vis</span>
+              <img className="logo-img" alt="MLab" src="/img/logo_white.png" style={{ height: 60 }} />
             </IndexLink>
-          </Navbar.Brand>
+          </span>
         </Navbar.Header>
-        <Nav>
+        <Nav className="pull-right">
           <IndexLinkContainer to="/"><NavItem eventKey={1}>Home</NavItem></IndexLinkContainer>
-          <LinkContainer to="/park/acadia"><NavItem eventKey={2}>Acadia</NavItem></LinkContainer>
-          <LinkContainer to="/park/arches"><NavItem eventKey={3}>Arches</NavItem></LinkContainer>
+          <LinkContainer to="/about"><NavItem eventKey={2}>About</NavItem></LinkContainer>
         </Nav>
       </Navbar>
     );

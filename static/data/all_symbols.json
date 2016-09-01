@@ -1,0 +1,2590 @@
+{
+  "parks": {
+    "": [
+      {
+        "count": 1, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 2, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }, 
+      {
+        "count": 1, 
+        "id": "great-sand-dunes", 
+        "name": "Great Sand Dunes"
+      }, 
+      {
+        "count": 4, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }, 
+      {
+        "count": 1, 
+        "id": "voyageurs", 
+        "name": "Voyageurs"
+      }
+    ], 
+    "lockers-storage": [
+      {
+        "count": 3, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }
+    ], 
+    "hiking": [
+      {
+        "count": 4, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }, 
+      {
+        "count": 2, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }
+    ], 
+    "sanitary-disposal-station": [
+      {
+        "count": 4, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 12, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }
+    ], 
+    "wheelchair-accessible": [
+      {
+        "count": 1, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 8, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }, 
+      {
+        "count": 7, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 4, 
+        "id": "glacier", 
+        "name": "Glacier"
+      }, 
+      {
+        "count": 8, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 2, 
+        "id": "hot-springs", 
+        "name": "Hot Springs"
+      }, 
+      {
+        "count": 6, 
+        "id": "lassen-volcanic", 
+        "name": "Lassen Volcanic"
+      }, 
+      {
+        "count": 7, 
+        "id": "olympic", 
+        "name": "Olympic"
+      }, 
+      {
+        "count": 5, 
+        "id": "pinnacles", 
+        "name": "Pinnacles"
+      }, 
+      {
+        "count": 17, 
+        "id": "redwood", 
+        "name": "Redwood"
+      }
+    ], 
+    "parking": [
+      {
+        "count": 13, 
+        "id": "acadia", 
+        "name": "Acadia"
+      }, 
+      {
+        "count": 2, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 28, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }, 
+      {
+        "count": 4, 
+        "id": "great-sand-dunes", 
+        "name": "Great Sand Dunes"
+      }, 
+      {
+        "count": 1, 
+        "id": "guadalupe-mountains", 
+        "name": "Guadalupe Mountains"
+      }, 
+      {
+        "count": 7, 
+        "id": "mammoth-cave", 
+        "name": "Mammoth Cave"
+      }, 
+      {
+        "count": 1, 
+        "id": "theodore-roosevelt", 
+        "name": "Theodore Roosevelt"
+      }, 
+      {
+        "count": 1, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }
+    ], 
+    "telephone": [
+      {
+        "count": 11, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 14, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 5, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 3, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 10, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 14, 
+        "id": "kings-canyon", 
+        "name": "Kings Canyon"
+      }, 
+      {
+        "count": 6, 
+        "id": "petrified-forest", 
+        "name": "Petrified Forest"
+      }
+    ], 
+    "amphitheater": [
+      {
+        "count": 2, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 2, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }, 
+      {
+        "count": 2, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }
+    ], 
+    "restrooms": [
+      {
+        "count": 26, 
+        "id": "acadia", 
+        "name": "Acadia"
+      }, 
+      {
+        "count": 10, 
+        "id": "arches", 
+        "name": "Arches"
+      }, 
+      {
+        "count": 9, 
+        "id": "biscayne", 
+        "name": "Biscayne"
+      }, 
+      {
+        "count": 6, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }, 
+      {
+        "count": 14, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 10, 
+        "id": "canyonlands", 
+        "name": "Canyonlands"
+      }, 
+      {
+        "count": 8, 
+        "id": "channel-islands", 
+        "name": "Channel Islands"
+      }, 
+      {
+        "count": 37, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }, 
+      {
+        "count": 38, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 23, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 14, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 2, 
+        "id": "hot-springs", 
+        "name": "Hot Springs"
+      }, 
+      {
+        "count": 8, 
+        "id": "katmai", 
+        "name": "Katmai"
+      }, 
+      {
+        "count": 14, 
+        "id": "mesa-verde", 
+        "name": "Mesa Verde"
+      }, 
+      {
+        "count": 20, 
+        "id": "mount-rainier", 
+        "name": "Mount Rainier"
+      }, 
+      {
+        "count": 13, 
+        "id": "petrified-forest", 
+        "name": "Petrified Forest"
+      }, 
+      {
+        "count": 9, 
+        "id": "pinnacles", 
+        "name": "Pinnacles"
+      }, 
+      {
+        "count": 14, 
+        "id": "shenandoah", 
+        "name": "Shenandoah"
+      }, 
+      {
+        "count": 7, 
+        "id": "yosemite", 
+        "name": "Yosemite"
+      }, 
+      {
+        "count": 9, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "crosscountry-ski-trail": [
+      {
+        "count": 5, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }
+    ], 
+    "fishing": [
+      {
+        "count": 10, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 8, 
+        "id": "redwood", 
+        "name": "Redwood"
+      }
+    ], 
+    "showers": [
+      {
+        "count": 2, 
+        "id": "crater-lake", 
+        "name": "Crater Lake"
+      }, 
+      {
+        "count": 3, 
+        "id": "isle-royale", 
+        "name": "Isle Royale"
+      }, 
+      {
+        "count": 3, 
+        "id": "katmai", 
+        "name": "Katmai"
+      }, 
+      {
+        "count": 2, 
+        "id": "virgin-islands", 
+        "name": "Virgin Islands"
+      }
+    ], 
+    "lodging": [
+      {
+        "count": 6, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 3, 
+        "id": "crater-lake", 
+        "name": "Crater Lake"
+      }, 
+      {
+        "count": 15, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 5, 
+        "id": "everglades", 
+        "name": "Everglades"
+      }, 
+      {
+        "count": 11, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 8, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 3, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-sand-dunes", 
+        "name": "Great Sand Dunes"
+      }, 
+      {
+        "count": 3, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 2, 
+        "id": "isle-royale", 
+        "name": "Isle Royale"
+      }, 
+      {
+        "count": 11, 
+        "id": "katmai", 
+        "name": "Katmai"
+      }, 
+      {
+        "count": 8, 
+        "id": "kings-canyon", 
+        "name": "Kings Canyon"
+      }, 
+      {
+        "count": 2, 
+        "id": "mesa-verde", 
+        "name": "Mesa Verde"
+      }, 
+      {
+        "count": 2, 
+        "id": "mount-rainier", 
+        "name": "Mount Rainier"
+      }, 
+      {
+        "count": 2, 
+        "id": "olympic", 
+        "name": "Olympic"
+      }, 
+      {
+        "count": 4, 
+        "id": "shenandoah", 
+        "name": "Shenandoah"
+      }, 
+      {
+        "count": 2, 
+        "id": "voyageurs", 
+        "name": "Voyageurs"
+      }, 
+      {
+        "count": 11, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }, 
+      {
+        "count": 1, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "campground": [
+      {
+        "count": 4, 
+        "id": "acadia", 
+        "name": "Acadia"
+      }, 
+      {
+        "count": 5, 
+        "id": "badlands", 
+        "name": "Badlands"
+      }, 
+      {
+        "count": 12, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 4, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }, 
+      {
+        "count": 8, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 6, 
+        "id": "canyonlands", 
+        "name": "Canyonlands"
+      }, 
+      {
+        "count": 4, 
+        "id": "capitol-reef", 
+        "name": "Capitol Reef"
+      }, 
+      {
+        "count": 3, 
+        "id": "crater-lake", 
+        "name": "Crater Lake"
+      }, 
+      {
+        "count": 1, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }, 
+      {
+        "count": 31, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 10, 
+        "id": "denali", 
+        "name": "Denali"
+      }, 
+      {
+        "count": 5, 
+        "id": "everglades", 
+        "name": "Everglades"
+      }, 
+      {
+        "count": 3, 
+        "id": "gates-of-the-arctic", 
+        "name": "Gates of the Arctic"
+      }, 
+      {
+        "count": 18, 
+        "id": "glacier", 
+        "name": "Glacier"
+      }, 
+      {
+        "count": 19, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 21, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 9, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-sand-dunes", 
+        "name": "Great Sand Dunes"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-smoky-mountains", 
+        "name": "Great Smoky Mountains"
+      }, 
+      {
+        "count": 7, 
+        "id": "guadalupe-mountains", 
+        "name": "Guadalupe Mountains"
+      }, 
+      {
+        "count": 4, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 9, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }, 
+      {
+        "count": 4, 
+        "id": "katmai", 
+        "name": "Katmai"
+      }, 
+      {
+        "count": 1, 
+        "id": "kenai-fjords", 
+        "name": "Kenai Fjords"
+      }, 
+      {
+        "count": 30, 
+        "id": "kings-canyon", 
+        "name": "Kings Canyon"
+      }, 
+      {
+        "count": 7, 
+        "id": "lassen-volcanic", 
+        "name": "Lassen Volcanic"
+      }, 
+      {
+        "count": 4, 
+        "id": "mammoth-cave", 
+        "name": "Mammoth Cave"
+      }, 
+      {
+        "count": 2, 
+        "id": "mesa-verde", 
+        "name": "Mesa Verde"
+      }, 
+      {
+        "count": 10, 
+        "id": "mount-rainier", 
+        "name": "Mount Rainier"
+      }, 
+      {
+        "count": 18, 
+        "id": "north-cascades", 
+        "name": "North Cascades"
+      }, 
+      {
+        "count": 14, 
+        "id": "olympic", 
+        "name": "Olympic"
+      }, 
+      {
+        "count": 2, 
+        "id": "pinnacles", 
+        "name": "Pinnacles"
+      }, 
+      {
+        "count": 13, 
+        "id": "redwood", 
+        "name": "Redwood"
+      }, 
+      {
+        "count": 1, 
+        "id": "saguaro", 
+        "name": "Saguaro"
+      }, 
+      {
+        "count": 7, 
+        "id": "shenandoah", 
+        "name": "Shenandoah"
+      }, 
+      {
+        "count": 5, 
+        "id": "theodore-roosevelt", 
+        "name": "Theodore Roosevelt"
+      }, 
+      {
+        "count": 2, 
+        "id": "virgin-islands", 
+        "name": "Virgin Islands"
+      }, 
+      {
+        "count": 3, 
+        "id": "voyageurs", 
+        "name": "Voyageurs"
+      }, 
+      {
+        "count": 28, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }, 
+      {
+        "count": 14, 
+        "id": "yosemite", 
+        "name": "Yosemite"
+      }, 
+      {
+        "count": 4, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "propane": [
+      {
+        "count": 1, 
+        "id": "glacier", 
+        "name": "Glacier"
+      }
+    ], 
+    "lookout-tower": [
+      {
+        "count": 1, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }
+    ], 
+    "trash-dumpster": [
+      {
+        "count": 1, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }
+    ], 
+    "deer-viewing": [
+      {
+        "count": 2, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }
+    ], 
+    "information": [
+      {
+        "count": 16, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 6, 
+        "id": "lassen-volcanic", 
+        "name": "Lassen Volcanic"
+      }, 
+      {
+        "count": 3, 
+        "id": "petrified-forest", 
+        "name": "Petrified Forest"
+      }
+    ], 
+    "bottles": [
+      {
+        "count": 2, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 1, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }
+    ], 
+    "wilderness": [
+      {
+        "count": 1, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 3, 
+        "id": "yosemite", 
+        "name": "Yosemite"
+      }
+    ], 
+    "food-service": [
+      {
+        "count": 2, 
+        "id": "acadia", 
+        "name": "Acadia"
+      }, 
+      {
+        "count": 7, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 3, 
+        "id": "crater-lake", 
+        "name": "Crater Lake"
+      }, 
+      {
+        "count": 2, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }, 
+      {
+        "count": 15, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 7, 
+        "id": "everglades", 
+        "name": "Everglades"
+      }, 
+      {
+        "count": 11, 
+        "id": "glacier", 
+        "name": "Glacier"
+      }, 
+      {
+        "count": 15, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 8, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 4, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-sand-dunes", 
+        "name": "Great Sand Dunes"
+      }, 
+      {
+        "count": 3, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 4, 
+        "id": "katmai", 
+        "name": "Katmai"
+      }, 
+      {
+        "count": 3, 
+        "id": "lassen-volcanic", 
+        "name": "Lassen Volcanic"
+      }, 
+      {
+        "count": 6, 
+        "id": "mesa-verde", 
+        "name": "Mesa Verde"
+      }, 
+      {
+        "count": 4, 
+        "id": "mount-rainier", 
+        "name": "Mount Rainier"
+      }, 
+      {
+        "count": 5, 
+        "id": "olympic", 
+        "name": "Olympic"
+      }, 
+      {
+        "count": 4, 
+        "id": "petrified-forest", 
+        "name": "Petrified Forest"
+      }, 
+      {
+        "count": 5, 
+        "id": "shenandoah", 
+        "name": "Shenandoah"
+      }, 
+      {
+        "count": 3, 
+        "id": "virgin-islands", 
+        "name": "Virgin Islands"
+      }, 
+      {
+        "count": 2, 
+        "id": "voyageurs", 
+        "name": "Voyageurs"
+      }, 
+      {
+        "count": 13, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }, 
+      {
+        "count": 12, 
+        "id": "yosemite", 
+        "name": "Yosemite"
+      }, 
+      {
+        "count": 1, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "self-guiding-trail": [
+      {
+        "count": 2, 
+        "id": "arches", 
+        "name": "Arches"
+      }, 
+      {
+        "count": 9, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 4, 
+        "id": "biscayne", 
+        "name": "Biscayne"
+      }, 
+      {
+        "count": 4, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }, 
+      {
+        "count": 5, 
+        "id": "canyonlands", 
+        "name": "Canyonlands"
+      }, 
+      {
+        "count": 3, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }, 
+      {
+        "count": 9, 
+        "id": "glacier", 
+        "name": "Glacier"
+      }, 
+      {
+        "count": 6, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 4, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 6, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 3, 
+        "id": "isle-royale", 
+        "name": "Isle Royale"
+      }, 
+      {
+        "count": 11, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }, 
+      {
+        "count": 4, 
+        "id": "lassen-volcanic", 
+        "name": "Lassen Volcanic"
+      }, 
+      {
+        "count": 9, 
+        "id": "mount-rainier", 
+        "name": "Mount Rainier"
+      }, 
+      {
+        "count": 13, 
+        "id": "olympic", 
+        "name": "Olympic"
+      }, 
+      {
+        "count": 12, 
+        "id": "petrified-forest", 
+        "name": "Petrified Forest"
+      }, 
+      {
+        "count": 9, 
+        "id": "redwood", 
+        "name": "Redwood"
+      }, 
+      {
+        "count": 2, 
+        "id": "saguaro", 
+        "name": "Saguaro"
+      }, 
+      {
+        "count": 5, 
+        "id": "virgin-islands", 
+        "name": "Virgin Islands"
+      }, 
+      {
+        "count": 12, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }
+    ], 
+    "horseback-riding-rental,-guided-tour": [
+      {
+        "count": 2, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }, 
+      {
+        "count": 1, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 10, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }, 
+      {
+        "count": 4, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-sand-dunes", 
+        "name": "Great Sand Dunes"
+      }, 
+      {
+        "count": 4, 
+        "id": "kings-canyon", 
+        "name": "Kings Canyon"
+      }, 
+      {
+        "count": 5, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }, 
+      {
+        "count": 5, 
+        "id": "yosemite", 
+        "name": "Yosemite"
+      }, 
+      {
+        "count": 1, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "safety-caution-alerts": [
+      {
+        "count": 2, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 7, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 8, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 7, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 8, 
+        "id": "great-smoky-mountains", 
+        "name": "Great Smoky Mountains"
+      }, 
+      {
+        "count": 1, 
+        "id": "kenai-fjords", 
+        "name": "Kenai Fjords"
+      }, 
+      {
+        "count": 2, 
+        "id": "kings-canyon", 
+        "name": "Kings Canyon"
+      }, 
+      {
+        "count": 1, 
+        "id": "lassen-volcanic", 
+        "name": "Lassen Volcanic"
+      }, 
+      {
+        "count": 2, 
+        "id": "mount-rainier", 
+        "name": "Mount Rainier"
+      }, 
+      {
+        "count": 11, 
+        "id": "north-cascades", 
+        "name": "North Cascades"
+      }, 
+      {
+        "count": 1, 
+        "id": "shenandoah", 
+        "name": "Shenandoah"
+      }, 
+      {
+        "count": 1, 
+        "id": "theodore-roosevelt", 
+        "name": "Theodore Roosevelt"
+      }, 
+      {
+        "count": 1, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }, 
+      {
+        "count": 1, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "airport": [
+      {
+        "count": 16, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 6, 
+        "id": "denali", 
+        "name": "Denali"
+      }, 
+      {
+        "count": 8, 
+        "id": "gates-of-the-arctic", 
+        "name": "Gates of the Arctic"
+      }
+    ], 
+    "maps": [
+      {
+        "count": 3, 
+        "id": "badlands", 
+        "name": "Badlands"
+      }, 
+      {
+        "count": 3, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 3, 
+        "id": "great-smoky-mountains", 
+        "name": "Great Smoky Mountains"
+      }, 
+      {
+        "count": 1, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }, 
+      {
+        "count": 8, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "ranger-station": [
+      {
+        "count": 11, 
+        "id": "acadia", 
+        "name": "Acadia"
+      }, 
+      {
+        "count": 6, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 3, 
+        "id": "biscayne", 
+        "name": "Biscayne"
+      }, 
+      {
+        "count": 3, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }, 
+      {
+        "count": 3, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 5, 
+        "id": "canyonlands", 
+        "name": "Canyonlands"
+      }, 
+      {
+        "count": 2, 
+        "id": "capitol-reef", 
+        "name": "Capitol Reef"
+      }, 
+      {
+        "count": 7, 
+        "id": "channel-islands", 
+        "name": "Channel Islands"
+      }, 
+      {
+        "count": 3, 
+        "id": "crater-lake", 
+        "name": "Crater Lake"
+      }, 
+      {
+        "count": 8, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }, 
+      {
+        "count": 6, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 3, 
+        "id": "denali", 
+        "name": "Denali"
+      }, 
+      {
+        "count": 4, 
+        "id": "gates-of-the-arctic", 
+        "name": "Gates of the Arctic"
+      }, 
+      {
+        "count": 11, 
+        "id": "glacier", 
+        "name": "Glacier"
+      }, 
+      {
+        "count": 5, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 6, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 3, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 2, 
+        "id": "guadalupe-mountains", 
+        "name": "Guadalupe Mountains"
+      }, 
+      {
+        "count": 3, 
+        "id": "hot-springs", 
+        "name": "Hot Springs"
+      }, 
+      {
+        "count": 5, 
+        "id": "isle-royale", 
+        "name": "Isle Royale"
+      }, 
+      {
+        "count": 5, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }, 
+      {
+        "count": 4, 
+        "id": "katmai", 
+        "name": "Katmai"
+      }, 
+      {
+        "count": 4, 
+        "id": "kings-canyon", 
+        "name": "Kings Canyon"
+      }, 
+      {
+        "count": 6, 
+        "id": "lake-clark", 
+        "name": "Lake Clark"
+      }, 
+      {
+        "count": 6, 
+        "id": "lassen-volcanic", 
+        "name": "Lassen Volcanic"
+      }, 
+      {
+        "count": 3, 
+        "id": "mesa-verde", 
+        "name": "Mesa Verde"
+      }, 
+      {
+        "count": 8, 
+        "id": "mount-rainier", 
+        "name": "Mount Rainier"
+      }, 
+      {
+        "count": 5, 
+        "id": "olympic", 
+        "name": "Olympic"
+      }, 
+      {
+        "count": 4, 
+        "id": "pinnacles", 
+        "name": "Pinnacles"
+      }, 
+      {
+        "count": 3, 
+        "id": "saguaro", 
+        "name": "Saguaro"
+      }, 
+      {
+        "count": 11, 
+        "id": "shenandoah", 
+        "name": "Shenandoah"
+      }, 
+      {
+        "count": 2, 
+        "id": "virgin-islands", 
+        "name": "Virgin Islands"
+      }, 
+      {
+        "count": 2, 
+        "id": "voyageurs", 
+        "name": "Voyageurs"
+      }, 
+      {
+        "count": 7, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }, 
+      {
+        "count": 10, 
+        "id": "yosemite", 
+        "name": "Yosemite"
+      }, 
+      {
+        "count": 5, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "quiet": [
+      {
+        "count": 1, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }
+    ], 
+    "playground": [
+      {
+        "count": 1, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 1, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-smoky-mountains", 
+        "name": "Great Smoky Mountains"
+      }
+    ], 
+    "dam": [
+      {
+        "count": 1, 
+        "id": "biscayne", 
+        "name": "Biscayne"
+      }
+    ], 
+    "photography": [
+      {
+        "count": 1, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }
+    ], 
+    "store": [
+      {
+        "count": 12, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 2, 
+        "id": "crater-lake", 
+        "name": "Crater Lake"
+      }, 
+      {
+        "count": 10, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 2, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 6, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-sand-dunes", 
+        "name": "Great Sand Dunes"
+      }, 
+      {
+        "count": 1, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 3, 
+        "id": "isle-royale", 
+        "name": "Isle Royale"
+      }, 
+      {
+        "count": 1, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }, 
+      {
+        "count": 2, 
+        "id": "mesa-verde", 
+        "name": "Mesa Verde"
+      }, 
+      {
+        "count": 2, 
+        "id": "mount-rainier", 
+        "name": "Mount Rainier"
+      }, 
+      {
+        "count": 12, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }
+    ], 
+    "gas-station": [
+      {
+        "count": 7, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 4, 
+        "id": "biscayne", 
+        "name": "Biscayne"
+      }, 
+      {
+        "count": 2, 
+        "id": "crater-lake", 
+        "name": "Crater Lake"
+      }, 
+      {
+        "count": 26, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 9, 
+        "id": "everglades", 
+        "name": "Everglades"
+      }, 
+      {
+        "count": 14, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 6, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-sand-dunes", 
+        "name": "Great Sand Dunes"
+      }, 
+      {
+        "count": 4, 
+        "id": "guadalupe-mountains", 
+        "name": "Guadalupe Mountains"
+      }, 
+      {
+        "count": 2, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 4, 
+        "id": "kings-canyon", 
+        "name": "Kings Canyon"
+      }, 
+      {
+        "count": 2, 
+        "id": "mesa-verde", 
+        "name": "Mesa Verde"
+      }, 
+      {
+        "count": 4, 
+        "id": "petrified-forest", 
+        "name": "Petrified Forest"
+      }, 
+      {
+        "count": 2, 
+        "id": "shenandoah", 
+        "name": "Shenandoah"
+      }, 
+      {
+        "count": 2, 
+        "id": "voyageurs", 
+        "name": "Voyageurs"
+      }, 
+      {
+        "count": 9, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }, 
+      {
+        "count": 5, 
+        "id": "yosemite", 
+        "name": "Yosemite"
+      }
+    ], 
+    "river-rafting": [
+      {
+        "count": 2, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }
+    ], 
+    "shipwreck": [
+      {
+        "count": 1, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }
+    ], 
+    "shelter": [
+      {
+        "count": 1, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }
+    ], 
+    "sewer-hookup": [
+      {
+        "count": 2, 
+        "id": "arches", 
+        "name": "Arches"
+      }, 
+      {
+        "count": 1, 
+        "id": "badlands", 
+        "name": "Badlands"
+      }, 
+      {
+        "count": 2, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 1, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 1, 
+        "id": "gates-of-the-arctic", 
+        "name": "Gates of the Arctic"
+      }, 
+      {
+        "count": 1, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 1, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 1, 
+        "id": "great-sand-dunes", 
+        "name": "Great Sand Dunes"
+      }, 
+      {
+        "count": 8, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 12, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }
+    ], 
+    "rv-campground": [
+      {
+        "count": 6, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }
+    ], 
+    "stable": [
+      {
+        "count": 4, 
+        "id": "glacier", 
+        "name": "Glacier"
+      }
+    ], 
+    "pets-on-leash": [
+      {
+        "count": 1, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "fire-extinguisher": [
+      {
+        "count": 1, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 1, 
+        "id": "yosemite", 
+        "name": "Yosemite"
+      }
+    ], 
+    "emergencies": [
+      {
+        "count": 1, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }
+    ], 
+    "quagga-mussel-decontamination-station": [
+      {
+        "count": 18, 
+        "id": "isle-royale", 
+        "name": "Isle Royale"
+      }
+    ], 
+    "picnic-area": [
+      {
+        "count": 7, 
+        "id": "acadia", 
+        "name": "Acadia"
+      }, 
+      {
+        "count": 3, 
+        "id": "arches", 
+        "name": "Arches"
+      }, 
+      {
+        "count": 4, 
+        "id": "badlands", 
+        "name": "Badlands"
+      }, 
+      {
+        "count": 8, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }, 
+      {
+        "count": 9, 
+        "id": "biscayne", 
+        "name": "Biscayne"
+      }, 
+      {
+        "count": 5, 
+        "id": "black-canyon-of-the-gunnison", 
+        "name": "Black Canyon of the Gunnison"
+      }, 
+      {
+        "count": 12, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 5, 
+        "id": "canyonlands", 
+        "name": "Canyonlands"
+      }, 
+      {
+        "count": 4, 
+        "id": "capitol-reef", 
+        "name": "Capitol Reef"
+      }, 
+      {
+        "count": 10, 
+        "id": "crater-lake", 
+        "name": "Crater Lake"
+      }, 
+      {
+        "count": 40, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }, 
+      {
+        "count": 8, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 5, 
+        "id": "denali", 
+        "name": "Denali"
+      }, 
+      {
+        "count": 6, 
+        "id": "everglades", 
+        "name": "Everglades"
+      }, 
+      {
+        "count": 13, 
+        "id": "glacier", 
+        "name": "Glacier"
+      }, 
+      {
+        "count": 16, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 13, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 5, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 5, 
+        "id": "great-sand-dunes", 
+        "name": "Great Sand Dunes"
+      }, 
+      {
+        "count": 11, 
+        "id": "great-smoky-mountains", 
+        "name": "Great Smoky Mountains"
+      }, 
+      {
+        "count": 9, 
+        "id": "guadalupe-mountains", 
+        "name": "Guadalupe Mountains"
+      }, 
+      {
+        "count": 12, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 5, 
+        "id": "hot-springs", 
+        "name": "Hot Springs"
+      }, 
+      {
+        "count": 8, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }, 
+      {
+        "count": 4, 
+        "id": "katmai", 
+        "name": "Katmai"
+      }, 
+      {
+        "count": 13, 
+        "id": "kings-canyon", 
+        "name": "Kings Canyon"
+      }, 
+      {
+        "count": 5, 
+        "id": "lassen-volcanic", 
+        "name": "Lassen Volcanic"
+      }, 
+      {
+        "count": 5, 
+        "id": "mammoth-cave", 
+        "name": "Mammoth Cave"
+      }, 
+      {
+        "count": 8, 
+        "id": "mesa-verde", 
+        "name": "Mesa Verde"
+      }, 
+      {
+        "count": 20, 
+        "id": "mount-rainier", 
+        "name": "Mount Rainier"
+      }, 
+      {
+        "count": 2, 
+        "id": "north-cascades", 
+        "name": "North Cascades"
+      }, 
+      {
+        "count": 17, 
+        "id": "olympic", 
+        "name": "Olympic"
+      }, 
+      {
+        "count": 8, 
+        "id": "petrified-forest", 
+        "name": "Petrified Forest"
+      }, 
+      {
+        "count": 5, 
+        "id": "pinnacles", 
+        "name": "Pinnacles"
+      }, 
+      {
+        "count": 21, 
+        "id": "redwood", 
+        "name": "Redwood"
+      }, 
+      {
+        "count": 6, 
+        "id": "saguaro", 
+        "name": "Saguaro"
+      }, 
+      {
+        "count": 11, 
+        "id": "shenandoah", 
+        "name": "Shenandoah"
+      }, 
+      {
+        "count": 4, 
+        "id": "theodore-roosevelt", 
+        "name": "Theodore Roosevelt"
+      }, 
+      {
+        "count": 7, 
+        "id": "virgin-islands", 
+        "name": "Virgin Islands"
+      }, 
+      {
+        "count": 9, 
+        "id": "voyageurs", 
+        "name": "Voyageurs"
+      }, 
+      {
+        "count": 47, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }, 
+      {
+        "count": 14, 
+        "id": "yosemite", 
+        "name": "Yosemite"
+      }, 
+      {
+        "count": 4, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "recycling": [
+      {
+        "count": 4, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 13, 
+        "id": "shenandoah", 
+        "name": "Shenandoah"
+      }, 
+      {
+        "count": 8, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }
+    ], 
+    "entrance-station": [
+      {
+        "count": 1, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 4, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 3, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }
+    ], 
+    "trailer-site": [
+      {
+        "count": 1, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }
+    ], 
+    "marina": [
+      {
+        "count": 4, 
+        "id": "biscayne", 
+        "name": "Biscayne"
+      }, 
+      {
+        "count": 2, 
+        "id": "everglades", 
+        "name": "Everglades"
+      }, 
+      {
+        "count": 4, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 3, 
+        "id": "isle-royale", 
+        "name": "Isle Royale"
+      }
+    ], 
+    "canoe-access": [
+      {
+        "count": 4, 
+        "id": "congaree", 
+        "name": "Congaree"
+      }, 
+      {
+        "count": 4, 
+        "id": "voyageurs", 
+        "name": "Voyageurs"
+      }
+    ], 
+    "wi-fi": [
+      {
+        "count": 3, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }
+    ], 
+    "electrical-hookup": [
+      {
+        "count": 1, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }
+    ], 
+    "first-aid": [
+      {
+        "count": 4, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 3, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }, 
+      {
+        "count": 1, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "bear-viewing": [
+      {
+        "count": 7, 
+        "id": "katmai", 
+        "name": "Katmai"
+      }
+    ], 
+    "audio-tour": [
+      {
+        "count": 2, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 2, 
+        "id": "great-smoky-mountains", 
+        "name": "Great Smoky Mountains"
+      }
+    ], 
+    "mens-restroom": [
+      {
+        "count": 3, 
+        "id": "guadalupe-mountains", 
+        "name": "Guadalupe Mountains"
+      }
+    ], 
+    "trucks": [
+      {
+        "count": 3, 
+        "id": "grand-teton", 
+        "name": "Grand Teton"
+      }, 
+      {
+        "count": 5, 
+        "id": "great-smoky-mountains", 
+        "name": "Great Smoky Mountains"
+      }, 
+      {
+        "count": 3, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }
+    ], 
+    "calendar-events": [
+      {
+        "count": 2, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }
+    ], 
+    "bus-stop-shuttle-stop": [
+      {
+        "count": 22, 
+        "id": "acadia", 
+        "name": "Acadia"
+      }, 
+      {
+        "count": 25, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 4, 
+        "id": "denali", 
+        "name": "Denali"
+      }, 
+      {
+        "count": 3, 
+        "id": "katmai", 
+        "name": "Katmai"
+      }, 
+      {
+        "count": 2, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }
+    ], 
+    "boat-tour": [
+      {
+        "count": 7, 
+        "id": "acadia", 
+        "name": "Acadia"
+      }, 
+      {
+        "count": 7, 
+        "id": "glacier", 
+        "name": "Glacier"
+      }, 
+      {
+        "count": 3, 
+        "id": "voyageurs", 
+        "name": "Voyageurs"
+      }
+    ], 
+    "boat-launch": [
+      {
+        "count": 7, 
+        "id": "acadia", 
+        "name": "Acadia"
+      }, 
+      {
+        "count": 4, 
+        "id": "biscayne", 
+        "name": "Biscayne"
+      }, 
+      {
+        "count": 3, 
+        "id": "canyonlands", 
+        "name": "Canyonlands"
+      }, 
+      {
+        "count": 6, 
+        "id": "everglades", 
+        "name": "Everglades"
+      }, 
+      {
+        "count": 2, 
+        "id": "katmai", 
+        "name": "Katmai"
+      }, 
+      {
+        "count": 6, 
+        "id": "mammoth-cave", 
+        "name": "Mammoth Cave"
+      }, 
+      {
+        "count": 21, 
+        "id": "olympic", 
+        "name": "Olympic"
+      }, 
+      {
+        "count": 4, 
+        "id": "redwood", 
+        "name": "Redwood"
+      }, 
+      {
+        "count": 12, 
+        "id": "voyageurs", 
+        "name": "Voyageurs"
+      }, 
+      {
+        "count": 4, 
+        "id": "yellowstone", 
+        "name": "Yellowstone"
+      }
+    ], 
+    "bicycle-trail": [
+      {
+        "count": 1, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "souvenir-shop": [
+      {
+        "count": 4, 
+        "id": "mesa-verde", 
+        "name": "Mesa Verde"
+      }, 
+      {
+        "count": 3, 
+        "id": "petrified-forest", 
+        "name": "Petrified Forest"
+      }
+    ], 
+    "sledding": [
+      {
+        "count": 5, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }
+    ], 
+    "bookstore": [
+      {
+        "count": 3, 
+        "id": "guadalupe-mountains", 
+        "name": "Guadalupe Mountains"
+      }
+    ], 
+    "wine": [
+      {
+        "count": 1, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }
+    ], 
+    "event-facility": [
+      {
+        "count": 1, 
+        "id": "badlands", 
+        "name": "Badlands"
+      }
+    ], 
+    "drinking-water": [
+      {
+        "count": 3, 
+        "id": "arches", 
+        "name": "Arches"
+      }, 
+      {
+        "count": 9, 
+        "id": "bryce-canyon", 
+        "name": "Bryce Canyon"
+      }, 
+      {
+        "count": 6, 
+        "id": "canyonlands", 
+        "name": "Canyonlands"
+      }, 
+      {
+        "count": 14, 
+        "id": "death-valley", 
+        "name": "Death Valley"
+      }, 
+      {
+        "count": 6, 
+        "id": "grand-canyon", 
+        "name": "Grand Canyon"
+      }, 
+      {
+        "count": 6, 
+        "id": "hawaii-volcanoes", 
+        "name": "Hawaii Volcanoes"
+      }, 
+      {
+        "count": 7, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }, 
+      {
+        "count": 3, 
+        "id": "petrified-forest", 
+        "name": "Petrified Forest"
+      }, 
+      {
+        "count": 6, 
+        "id": "pinnacles", 
+        "name": "Pinnacles"
+      }, 
+      {
+        "count": 11, 
+        "id": "zion", 
+        "name": "Zion"
+      }
+    ], 
+    "laundromat": [
+      {
+        "count": 2, 
+        "id": "big-bend", 
+        "name": "Big Bend"
+      }
+    ], 
+    "birdingnvildlife-viewing": [
+      {
+        "count": 1, 
+        "id": "great-basin", 
+        "name": "Great Basin"
+      }, 
+      {
+        "count": 4, 
+        "id": "great-smoky-mountains", 
+        "name": "Great Smoky Mountains"
+      }, 
+      {
+        "count": 7, 
+        "id": "joshua-tree", 
+        "name": "Joshua Tree"
+      }
+    ], 
+    "kennel": [
+      {
+        "count": 8, 
+        "id": "cuyahoga-valley", 
+        "name": "Cuyahoga Valley"
+      }
+    ], 
+    "swimming": [
+      {
+        "count": 3, 
+        "id": "acadia", 
+        "name": "Acadia"
+      }
+    ]
+  }, 
+  "totals": [
+    {
+      "count": 433, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 356, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 293, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 184, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 141, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 132, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 104, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 101, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 71, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }, 
+    {
+      "count": 69, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }, 
+    {
+      "count": 65, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 63, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 57, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 56, 
+      "id": "bus-stop-shuttle-stop", 
+      "name": "Bus stop/Shuttle stop"
+    }, 
+    {
+      "count": 55, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 53, 
+      "id": "safety-caution-alerts", 
+      "name": "Safety/Caution/Alerts"
+    }, 
+    {
+      "count": 34, 
+      "id": "horseback-riding-rental,-guided-tour", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 30, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }, 
+    {
+      "count": 30, 
+      "id": "airport", 
+      "name": "Airport"
+    }, 
+    {
+      "count": 27, 
+      "id": "information", 
+      "name": "Information"
+    }, 
+    {
+      "count": 25, 
+      "id": "recycling", 
+      "name": "Recycling"
+    }, 
+    {
+      "count": 20, 
+      "id": "fishing", 
+      "name": "Fishing"
+    }, 
+    {
+      "count": 18, 
+      "id": "sanitary-disposal-station", 
+      "name": "Sanitary disposal station"
+    }, 
+    {
+      "count": 18, 
+      "id": "maps", 
+      "name": "Maps"
+    }, 
+    {
+      "count": 18, 
+      "id": "quagga-mussel-decontamination-station", 
+      "name": "Quagga mussel\ndecontamination station"
+    }, 
+    {
+      "count": 17, 
+      "id": "boat-tour", 
+      "name": "Boat tour"
+    }, 
+    {
+      "count": 13, 
+      "id": "marina", 
+      "name": "Marina"
+    }, 
+    {
+      "count": 12, 
+      "id": "birdingnvildlife-viewing", 
+      "name": "BirdingNVildlife Viewing"
+    }, 
+    {
+      "count": 11, 
+      "id": "trucks", 
+      "name": "Trucks"
+    }, 
+    {
+      "count": 10, 
+      "id": "showers", 
+      "name": "Showers"
+    }, 
+    {
+      "count": 9, 
+      "id": "", 
+      "name": ""
+    }, 
+    {
+      "count": 8, 
+      "id": "entrance-station", 
+      "name": "Entrance station"
+    }, 
+    {
+      "count": 8, 
+      "id": "canoe-access", 
+      "name": "Canoe access"
+    }, 
+    {
+      "count": 8, 
+      "id": "first-aid", 
+      "name": "First aid"
+    }, 
+    {
+      "count": 8, 
+      "id": "kennel", 
+      "name": "Kennel"
+    }, 
+    {
+      "count": 7, 
+      "id": "bear-viewing", 
+      "name": "Bear Viewing"
+    }, 
+    {
+      "count": 7, 
+      "id": "souvenir-shop", 
+      "name": "Souvenir shop"
+    }, 
+    {
+      "count": 6, 
+      "id": "hiking", 
+      "name": "Hiking"
+    }, 
+    {
+      "count": 6, 
+      "id": "amphitheater", 
+      "name": "Amphitheater"
+    }, 
+    {
+      "count": 6, 
+      "id": "rv-campground", 
+      "name": "RV campground"
+    }, 
+    {
+      "count": 5, 
+      "id": "crosscountry-ski-trail", 
+      "name": "Crosscountry ski trail"
+    }, 
+    {
+      "count": 5, 
+      "id": "sledding", 
+      "name": "Sledding"
+    }, 
+    {
+      "count": 4, 
+      "id": "wilderness", 
+      "name": "Wilderness"
+    }, 
+    {
+      "count": 4, 
+      "id": "playground", 
+      "name": "Playground"
+    }, 
+    {
+      "count": 4, 
+      "id": "stable", 
+      "name": "Stable"
+    }, 
+    {
+      "count": 4, 
+      "id": "audio-tour", 
+      "name": "Audio tour"
+    }, 
+    {
+      "count": 3, 
+      "id": "lockers-storage", 
+      "name": "Lockers/Storage"
+    }, 
+    {
+      "count": 3, 
+      "id": "bottles", 
+      "name": "Bottles"
+    }, 
+    {
+      "count": 3, 
+      "id": "wi-fi", 
+      "name": "Wi-Fi"
+    }, 
+    {
+      "count": 3, 
+      "id": "mens-restroom", 
+      "name": "Mens restroom"
+    }, 
+    {
+      "count": 3, 
+      "id": "bookstore", 
+      "name": "Bookstore"
+    }, 
+    {
+      "count": 3, 
+      "id": "swimming", 
+      "name": "Swimming"
+    }, 
+    {
+      "count": 2, 
+      "id": "river-rafting", 
+      "name": "River rafting"
+    }, 
+    {
+      "count": 2, 
+      "id": "fire-extinguisher", 
+      "name": "Fire extinguisher"
+    }, 
+    {
+      "count": 2, 
+      "id": "calendar-events", 
+      "name": "Calendar/Events"
+    }, 
+    {
+      "count": 2, 
+      "id": "deer-viewing", 
+      "name": "Deer Viewing"
+    }, 
+    {
+      "count": 2, 
+      "id": "laundromat", 
+      "name": "Laundromat"
+    }, 
+    {
+      "count": 1, 
+      "id": "propane", 
+      "name": "Propane"
+    }, 
+    {
+      "count": 1, 
+      "id": "lookout-tower", 
+      "name": "Lookout tower"
+    }, 
+    {
+      "count": 1, 
+      "id": "trash-dumpster", 
+      "name": "Trash dumpster"
+    }, 
+    {
+      "count": 1, 
+      "id": "quiet", 
+      "name": "Quiet"
+    }, 
+    {
+      "count": 1, 
+      "id": "dam", 
+      "name": "Dam"
+    }, 
+    {
+      "count": 1, 
+      "id": "photography", 
+      "name": "Photography"
+    }, 
+    {
+      "count": 1, 
+      "id": "shipwreck", 
+      "name": "Shipwreck"
+    }, 
+    {
+      "count": 1, 
+      "id": "shelter", 
+      "name": "Shelter"
+    }, 
+    {
+      "count": 1, 
+      "id": "pets-on-leash", 
+      "name": "Pets on leash"
+    }, 
+    {
+      "count": 1, 
+      "id": "emergencies", 
+      "name": "Emergencies"
+    }, 
+    {
+      "count": 1, 
+      "id": "trailer-site", 
+      "name": "Trailer site"
+    }, 
+    {
+      "count": 1, 
+      "id": "electrical-hookup", 
+      "name": "Electrical hookup"
+    }, 
+    {
+      "count": 1, 
+      "id": "bicycle-trail", 
+      "name": "Bicycle trail"
+    }, 
+    {
+      "count": 1, 
+      "id": "wine", 
+      "name": "Wine"
+    }, 
+    {
+      "count": 1, 
+      "id": "event-facility", 
+      "name": "Event facility"
+    }
+  ]
+}

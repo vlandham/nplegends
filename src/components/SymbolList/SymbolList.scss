@@ -3,21 +3,27 @@
 .SymbolList {
   display: inline-block;
   margin-bottom: 10px;
+  margin-top: 15px;
+
+  .symbol-icon {
+    margin-right: 10px;
+  }
 
   .symbol-name {
     width: 300px;
     display: block;
     padding: 2px 0px 2px 8px;
-    background-color: $brand-primary;
-    color: #fff;
+    color: $brand-primary;
     margin: 0 4px 4px 0;
-    border-radius: 4px;
     white-space: nowrap;
 
   }
   .symbol-count {
     float:right;
-    padding: 0 6px;
+    background-color: $brand-primary;
+    color: #fff;
+    border-radius: 4px;
+    padding: 5px 6px;
 
   }
 }
