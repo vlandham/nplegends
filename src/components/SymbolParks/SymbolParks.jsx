@@ -13,7 +13,7 @@ export default class SymbolParks extends PureComponent {
     symbolInfo: {},
     parks: [],
   }
-  
+
   sortByCount(parks) {
     return parks.sort((a, b) => b.count - a.count);
   }

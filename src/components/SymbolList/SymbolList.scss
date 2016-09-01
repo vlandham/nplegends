@@ -1,17 +1,22 @@
 @import "../../assets/variables";
 
 .SymbolList {
-  display: inline-block;
   margin-bottom: 10px;
   margin-top: 15px;
+
+  .CountInContext {
+    display: inline-block;
+  }
+
+  .symbol-info {
+    padding-top: 12px;
+  }
 
   .symbol-icon {
     margin-right: 10px;
   }
 
   .symbol-name {
-    width: 300px;
-    display: block;
     padding: 2px 0px 2px 8px;
     color: $brand-primary;
     margin: 0 4px 4px 0;

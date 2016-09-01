@@ -1,5 +1,5 @@
 {
-  "symbol_count": 74, 
+  "symbol_count": 70, 
   "Name": "Joshua Tree", 
   "Recreation Visitors (2014)": "1,589,904", 
   "Photo": "", 
@@ -16,46 +16,6 @@
       "park": "joshua-tree", 
       "filename": "joshua-tree-simple-map.jpg", 
       "symbols": [
-        {
-          "pos": {
-            "y": 170, 
-            "x": 1780, 
-            "height": 26, 
-            "width": 20
-          }, 
-          "name": "", 
-          "id": ""
-        }, 
-        {
-          "pos": {
-            "y": 170, 
-            "x": 2024, 
-            "height": 26, 
-            "width": 18
-          }, 
-          "name": "", 
-          "id": ""
-        }, 
-        {
-          "pos": {
-            "y": 171, 
-            "x": 6596, 
-            "height": 26, 
-            "width": 18
-          }, 
-          "name": "", 
-          "id": ""
-        }, 
-        {
-          "pos": {
-            "y": 172, 
-            "x": 1532, 
-            "height": 24, 
-            "width": 19
-          }, 
-          "name": "", 
-          "id": ""
-        }, 
         {
           "pos": {
             "y": 178, 
@@ -88,11 +48,6 @@
         }
       ], 
       "totals": [
-        {
-          "count": 4, 
-          "id": "", 
-          "name": ""
-        }, 
         {
           "count": 1, 
           "id": "sewer-hookup", 
@@ -913,11 +868,6 @@
       "count": 5, 
       "id": "ranger-station", 
       "name": "Ranger station"
-    }, 
-    {
-      "count": 4, 
-      "id": "", 
-      "name": ""
     }, 
     {
       "count": 3, 

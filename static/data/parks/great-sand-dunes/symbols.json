@@ -1,5 +1,5 @@
 {
-  "symbol_count": 23, 
+  "symbol_count": 22, 
   "Name": "Great Sand Dunes", 
   "Recreation Visitors (2014)": "271,774", 
   "Photo": "", 
@@ -65,16 +65,6 @@
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 362, 
-            "x": 2999, 
-            "height": 6, 
-            "width": 6
-          }, 
-          "name": "", 
-          "id": ""
         }, 
         {
           "pos": {
@@ -270,13 +260,13 @@
         }, 
         {
           "count": 2, 
-          "id": "campground", 
-          "name": "Campground"
+          "id": "lodging", 
+          "name": "Lodging"
         }, 
         {
           "count": 2, 
-          "id": "gas-station", 
-          "name": "Gas station"
+          "id": "campground", 
+          "name": "Campground"
         }, 
         {
           "count": 2, 
@@ -285,13 +275,8 @@
         }, 
         {
           "count": 2, 
-          "id": "lodging", 
-          "name": "Lodging"
-        }, 
-        {
-          "count": 1, 
-          "id": "", 
-          "name": ""
+          "id": "gas-station", 
+          "name": "Gas station"
         }, 
         {
           "count": 1, 
@@ -325,13 +310,13 @@
     }, 
     {
       "count": 2, 
-      "id": "campground", 
-      "name": "Campground"
+      "id": "lodging", 
+      "name": "Lodging"
     }, 
     {
       "count": 2, 
-      "id": "gas-station", 
-      "name": "Gas station"
+      "id": "campground", 
+      "name": "Campground"
     }, 
     {
       "count": 2, 
@@ -340,13 +325,8 @@
     }, 
     {
       "count": 2, 
-      "id": "lodging", 
-      "name": "Lodging"
-    }, 
-    {
-      "count": 1, 
-      "id": "", 
-      "name": ""
+      "id": "gas-station", 
+      "name": "Gas station"
     }, 
     {
       "count": 1, 

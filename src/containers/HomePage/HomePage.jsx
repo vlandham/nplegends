@@ -88,6 +88,16 @@ class HomePage extends PureComponent {
     return null;
   }
 
+  renderTreemap(counts) {
+    return (
+      <SymbolTreemap
+        width={1000}
+        height={300}
+        symbolCounts={counts}
+      />
+    );
+  }
+
   render() {
     const { symbolInfo } = this.props;
     console.log(symbolInfo);
@@ -95,7 +105,10 @@ class HomePage extends PureComponent {
       <div className="home-page">
         <Helmet title="Home" />
         <h1>NP Legends</h1>
-        <p>Exploring the symbols on maps of the US National Park Service</p>
+        <p>Exploring the symbols on maps of the US National Park Service.</p>
+        <div className="symbol-treemap-container">
+          {this.renderTreemap(symbolInfo.totals)}
+        </div>
 
         <div className="omni-search-container">
           {this.renderSearch()}

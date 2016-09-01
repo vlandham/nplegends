@@ -1,5 +1,5 @@
 {
-  "symbol_count": 42, 
+  "symbol_count": 40, 
   "Name": "Black Canyon of the Gunnison", 
   "Recreation Visitors (2014)": "183,045", 
   "Photo": "", 
@@ -35,26 +35,6 @@
           }, 
           "name": "Hiking", 
           "id": "hiking"
-        }, 
-        {
-          "pos": {
-            "y": 223, 
-            "x": 1532, 
-            "height": 6, 
-            "width": 5
-          }, 
-          "name": "", 
-          "id": ""
-        }, 
-        {
-          "pos": {
-            "y": 245, 
-            "x": 1489, 
-            "height": 18, 
-            "width": 13
-          }, 
-          "name": "", 
-          "id": ""
         }, 
         {
           "pos": {
@@ -475,11 +455,6 @@
         }, 
         {
           "count": 2, 
-          "id": "", 
-          "name": ""
-        }, 
-        {
-          "count": 2, 
           "id": "horseback-riding-rental,-guided-tour", 
           "name": "Horseback riding\n(rental, guided tour)"
         }, 
@@ -543,11 +518,6 @@
       "count": 3, 
       "id": "ranger-station", 
       "name": "Ranger station"
-    }, 
-    {
-      "count": 2, 
-      "id": "", 
-      "name": ""
     }, 
     {
       "count": 2, 

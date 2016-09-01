@@ -1,7 +1,7 @@
 {
   "great-sand-dunes": {
     "map_count": 1, 
-    "symbol_count": 23, 
+    "symbol_count": 22, 
     "name": "Great Sand Dunes", 
     "id": "great-sand-dunes"
   }, 
@@ -31,7 +31,7 @@
   }, 
   "black-canyon-of-the-gunnison": {
     "map_count": 2, 
-    "symbol_count": 42, 
+    "symbol_count": 40, 
     "name": "Black Canyon of the Gunnison", 
     "id": "black-canyon-of-the-gunnison"
   }, 
@@ -235,7 +235,7 @@
   }, 
   "big-bend": {
     "map_count": 2, 
-    "symbol_count": 88, 
+    "symbol_count": 87, 
     "name": "Big Bend", 
     "id": "big-bend"
   }, 
@@ -295,7 +295,7 @@
   }, 
   "voyageurs": {
     "map_count": 1, 
-    "symbol_count": 40, 
+    "symbol_count": 39, 
     "name": "Voyageurs", 
     "id": "voyageurs"
   }, 
@@ -331,7 +331,7 @@
   }, 
   "joshua-tree": {
     "map_count": 3, 
-    "symbol_count": 74, 
+    "symbol_count": 70, 
     "name": "Joshua Tree", 
     "id": "joshua-tree"
   }, 

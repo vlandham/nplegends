@@ -1,5 +1,5 @@
 {
-  "symbol_count": 88, 
+  "symbol_count": 87, 
   "Name": "Big Bend", 
   "Recreation Visitors (2014)": "314,102", 
   "Photo": "", 
@@ -661,16 +661,6 @@
         }, 
         {
           "pos": {
-            "y": 64, 
-            "x": 3186, 
-            "height": 16, 
-            "width": 11
-          }, 
-          "name": "", 
-          "id": ""
-        }, 
-        {
-          "pos": {
             "y": 65, 
             "x": 682, 
             "height": 17, 
@@ -1025,11 +1015,6 @@
           "count": 2, 
           "id": "sewer-hookup", 
           "name": "Sewer hookup"
-        }, 
-        {
-          "count": 1, 
-          "id": "", 
-          "name": ""
         }
       ]
     }
@@ -1105,11 +1090,6 @@
       "count": 2, 
       "id": "laundromat", 
       "name": "Laundromat"
-    }, 
-    {
-      "count": 1, 
-      "id": "", 
-      "name": ""
     }, 
     {
       "count": 1, 

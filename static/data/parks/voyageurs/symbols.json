@@ -1,5 +1,5 @@
 {
-  "symbol_count": 40, 
+  "symbol_count": 39, 
   "Name": "Voyageurs", 
   "Recreation Visitors (2014)": "239,160", 
   "Photo": "", 
@@ -45,16 +45,6 @@
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
-        }, 
-        {
-          "pos": {
-            "y": 176, 
-            "x": 2409, 
-            "height": 27, 
-            "width": 20
-          }, 
-          "name": "", 
-          "id": ""
         }, 
         {
           "pos": {
@@ -462,11 +452,6 @@
           "count": 2, 
           "id": "gas-station", 
           "name": "Gas station"
-        }, 
-        {
-          "count": 1, 
-          "id": "", 
-          "name": ""
         }
       ]
     }
@@ -517,11 +502,6 @@
       "count": 2, 
       "id": "gas-station", 
       "name": "Gas station"
-    }, 
-    {
-      "count": 1, 
-      "id": "", 
-      "name": ""
     }
   ], 
   "map_count": 1, 

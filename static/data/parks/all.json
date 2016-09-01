@@ -1,33 +1,6 @@
 {
   "symbols": {
     "parks": {
-      "": [
-        {
-          "count": 1, 
-          "id": "big-bend", 
-          "name": "Big Bend"
-        }, 
-        {
-          "count": 2, 
-          "id": "black-canyon-of-the-gunnison", 
-          "name": "Black Canyon of the Gunnison"
-        }, 
-        {
-          "count": 1, 
-          "id": "great-sand-dunes", 
-          "name": "Great Sand Dunes"
-        }, 
-        {
-          "count": 4, 
-          "id": "joshua-tree", 
-          "name": "Joshua Tree"
-        }, 
-        {
-          "count": 1, 
-          "id": "voyageurs", 
-          "name": "Voyageurs"
-        }
-      ], 
       "lockers-storage": [
         {
           "count": 3, 
@@ -2378,11 +2351,6 @@
         "name": "Showers"
       }, 
       {
-        "count": 9, 
-        "id": "", 
-        "name": ""
-      }, 
-      {
         "count": 8, 
         "id": "entrance-station", 
         "name": "Entrance station"
@@ -4367,7 +4335,7 @@
       "Description": "The Badlands are a collection of buttes, pinnacles, spires, and grass prairies. It has the world's richest fossil beds from the Oligocene epoch, and the wildlife includes bison, bighorn sheep, black-footed ferrets, and swift foxes."
     }, 
     {
-      "symbol_count": 88, 
+      "symbol_count": 87, 
       "Name": "Big Bend", 
       "Recreation Visitors (2014)": "314,102", 
       "Photo": "", 
@@ -5029,16 +4997,6 @@
             }, 
             {
               "pos": {
-                "y": 64, 
-                "x": 3186, 
-                "height": 16, 
-                "width": 11
-              }, 
-              "name": "", 
-              "id": ""
-            }, 
-            {
-              "pos": {
                 "y": 65, 
                 "x": 682, 
                 "height": 17, 
@@ -5393,11 +5351,6 @@
               "count": 2, 
               "id": "sewer-hookup", 
               "name": "Sewer hookup"
-            }, 
-            {
-              "count": 1, 
-              "id": "", 
-              "name": ""
             }
           ]
         }
@@ -5473,11 +5426,6 @@
           "count": 2, 
           "id": "laundromat", 
           "name": "Laundromat"
-        }, 
-        {
-          "count": 1, 
-          "id": "", 
-          "name": ""
         }, 
         {
           "count": 1, 
@@ -5980,7 +5928,7 @@
       "Description": "Located in Biscayne Bay, this park at the north end of the Florida Keys has four interrelated marine ecosystems: mangrove forest, the Bay, the Keys, and coral reefs. Threatened animals include the West Indian manatee, American crocodile, various sea turtles, and peregrine falcon."
     }, 
     {
-      "symbol_count": 42, 
+      "symbol_count": 40, 
       "Name": "Black Canyon of the Gunnison", 
       "Recreation Visitors (2014)": "183,045", 
       "Photo": "", 
@@ -6016,26 +5964,6 @@
               }, 
               "name": "Hiking", 
               "id": "hiking"
-            }, 
-            {
-              "pos": {
-                "y": 223, 
-                "x": 1532, 
-                "height": 6, 
-                "width": 5
-              }, 
-              "name": "", 
-              "id": ""
-            }, 
-            {
-              "pos": {
-                "y": 245, 
-                "x": 1489, 
-                "height": 18, 
-                "width": 13
-              }, 
-              "name": "", 
-              "id": ""
             }, 
             {
               "pos": {
@@ -6456,11 +6384,6 @@
             }, 
             {
               "count": 2, 
-              "id": "", 
-              "name": ""
-            }, 
-            {
-              "count": 2, 
               "id": "horseback-riding-rental,-guided-tour", 
               "name": "Horseback riding\n(rental, guided tour)"
             }, 
@@ -6524,11 +6447,6 @@
           "count": 3, 
           "id": "ranger-station", 
           "name": "Ranger station"
-        }, 
-        {
-          "count": 2, 
-          "id": "", 
-          "name": ""
         }, 
         {
           "count": 2, 
@@ -19577,7 +19495,7 @@
       "Description": "Based around Nevada's second tallest mountain, Wheeler Peak, Great Basin National Park contains 5,000-year-old bristlecone pines, a rock glacier, and the limestone Lehman Caves. It also enjoys some of the country's darkest night skies. Animals which call the park home include Townsend's big-eared bat, pronghorn, and Bonneville cutthroat trout."
     }, 
     {
-      "symbol_count": 23, 
+      "symbol_count": 22, 
       "Name": "Great Sand Dunes", 
       "Recreation Visitors (2014)": "271,774", 
       "Photo": "", 
@@ -19643,16 +19561,6 @@
               }, 
               "name": "Picnic area", 
               "id": "picnic-area"
-            }, 
-            {
-              "pos": {
-                "y": 362, 
-                "x": 2999, 
-                "height": 6, 
-                "width": 6
-              }, 
-              "name": "", 
-              "id": ""
             }, 
             {
               "pos": {
@@ -19848,13 +19756,13 @@
             }, 
             {
               "count": 2, 
-              "id": "campground", 
-              "name": "Campground"
+              "id": "lodging", 
+              "name": "Lodging"
             }, 
             {
               "count": 2, 
-              "id": "gas-station", 
-              "name": "Gas station"
+              "id": "campground", 
+              "name": "Campground"
             }, 
             {
               "count": 2, 
@@ -19863,13 +19771,8 @@
             }, 
             {
               "count": 2, 
-              "id": "lodging", 
-              "name": "Lodging"
-            }, 
-            {
-              "count": 1, 
-              "id": "", 
-              "name": ""
+              "id": "gas-station", 
+              "name": "Gas station"
             }, 
             {
               "count": 1, 
@@ -19903,13 +19806,13 @@
         }, 
         {
           "count": 2, 
-          "id": "campground", 
-          "name": "Campground"
+          "id": "lodging", 
+          "name": "Lodging"
         }, 
         {
           "count": 2, 
-          "id": "gas-station", 
-          "name": "Gas station"
+          "id": "campground", 
+          "name": "Campground"
         }, 
         {
           "count": 2, 
@@ -19918,13 +19821,8 @@
         }, 
         {
           "count": 2, 
-          "id": "lodging", 
-          "name": "Lodging"
-        }, 
-        {
-          "count": 1, 
-          "id": "", 
-          "name": ""
+          "id": "gas-station", 
+          "name": "Gas station"
         }, 
         {
           "count": 1, 
@@ -22636,7 +22534,7 @@
       "Description": "The largest island in Lake Superior is a place of isolation and wilderness. Along with its many shipwrecks, waterways, and hiking trails, the park also includes over 400 smaller islands within 4.5 miles (7.2\u00a0km) of its shores. There are only 20 mammal species on the entire island, though the relationship between its wolf and moose populations is especially unique."
     }, 
     {
-      "symbol_count": 74, 
+      "symbol_count": 70, 
       "Name": "Joshua Tree", 
       "Recreation Visitors (2014)": "1,589,904", 
       "Photo": "", 
@@ -22653,46 +22551,6 @@
           "park": "joshua-tree", 
           "filename": "joshua-tree-simple-map.jpg", 
           "symbols": [
-            {
-              "pos": {
-                "y": 170, 
-                "x": 1780, 
-                "height": 26, 
-                "width": 20
-              }, 
-              "name": "", 
-              "id": ""
-            }, 
-            {
-              "pos": {
-                "y": 170, 
-                "x": 2024, 
-                "height": 26, 
-                "width": 18
-              }, 
-              "name": "", 
-              "id": ""
-            }, 
-            {
-              "pos": {
-                "y": 171, 
-                "x": 6596, 
-                "height": 26, 
-                "width": 18
-              }, 
-              "name": "", 
-              "id": ""
-            }, 
-            {
-              "pos": {
-                "y": 172, 
-                "x": 1532, 
-                "height": 24, 
-                "width": 19
-              }, 
-              "name": "", 
-              "id": ""
-            }, 
             {
               "pos": {
                 "y": 178, 
@@ -22725,11 +22583,6 @@
             }
           ], 
           "totals": [
-            {
-              "count": 4, 
-              "id": "", 
-              "name": ""
-            }, 
             {
               "count": 1, 
               "id": "sewer-hookup", 
@@ -23550,11 +23403,6 @@
           "count": 5, 
           "id": "ranger-station", 
           "name": "Ranger station"
-        }, 
-        {
-          "count": 4, 
-          "id": "", 
-          "name": ""
         }, 
         {
           "count": 3, 
@@ -32522,7 +32370,7 @@
       "Description": "The island of Saint John has rich human and natural histories. Ta\u00edno archaeological sites and ruins of sugar plantations from Columbus' time litter the coast. Past the pristine beaches are mangrove forests, seagrass beds, coral reefs, and vast algal plains."
     }, 
     {
-      "symbol_count": 40, 
+      "symbol_count": 39, 
       "Name": "Voyageurs", 
       "Recreation Visitors (2014)": "239,160", 
       "Photo": "", 
@@ -32568,16 +32416,6 @@
               }, 
               "name": "Boat launch", 
               "id": "boat-launch"
-            }, 
-            {
-              "pos": {
-                "y": 176, 
-                "x": 2409, 
-                "height": 27, 
-                "width": 20
-              }, 
-              "name": "", 
-              "id": ""
             }, 
             {
               "pos": {
@@ -32985,11 +32823,6 @@
               "count": 2, 
               "id": "gas-station", 
               "name": "Gas station"
-            }, 
-            {
-              "count": 1, 
-              "id": "", 
-              "name": ""
             }
           ]
         }
@@ -33040,11 +32873,6 @@
           "count": 2, 
           "id": "gas-station", 
           "name": "Gas station"
-        }, 
-        {
-          "count": 1, 
-          "id": "", 
-          "name": ""
         }
       ], 
       "map_count": 1, 

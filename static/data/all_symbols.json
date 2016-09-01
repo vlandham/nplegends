@@ -1,32 +1,5 @@
 {
   "parks": {
-    "": [
-      {
-        "count": 1, 
-        "id": "big-bend", 
-        "name": "Big Bend"
-      }, 
-      {
-        "count": 2, 
-        "id": "black-canyon-of-the-gunnison", 
-        "name": "Black Canyon of the Gunnison"
-      }, 
-      {
-        "count": 1, 
-        "id": "great-sand-dunes", 
-        "name": "Great Sand Dunes"
-      }, 
-      {
-        "count": 4, 
-        "id": "joshua-tree", 
-        "name": "Joshua Tree"
-      }, 
-      {
-        "count": 1, 
-        "id": "voyageurs", 
-        "name": "Voyageurs"
-      }
-    ], 
     "lockers-storage": [
       {
         "count": 3, 
@@ -2375,11 +2348,6 @@
       "count": 10, 
       "id": "showers", 
       "name": "Showers"
-    }, 
-    {
-      "count": 9, 
-      "id": "", 
-      "name": ""
     }, 
     {
       "count": 8, 
