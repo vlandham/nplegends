@@ -13,4 +13,5 @@ export OmniSearch from './OmniSearch/OmniSearch';
 export SymbolList from './SymbolList/SymbolList';
 export SymbolParks from './SymbolParks/SymbolParks';
 export SymbolTreemap from './SymbolTreemap/SymbolTreemap';
+export SymbolForce from './SymbolForce/SymbolForce';
 export CountInContext from './CountInContext/CountInContext';

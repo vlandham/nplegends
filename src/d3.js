@@ -14,6 +14,7 @@ import * as timeFormat from 'd3-time-format';
 import * as axis from 'd3-axis';
 import * as collection from 'd3-collection';
 import * as hierarchy from 'd3-hierarchy';
+import * as force from 'd3-force';
 
 export default Object.assign({},
   array,
@@ -23,4 +24,5 @@ export default Object.assign({},
   timeFormat,
   axis,
   collection,
-  hierarchy);
+  hierarchy,
+  force);

@@ -38,7 +38,9 @@ export default class SymbolParks extends PureComponent {
       <div key={symbol.id} className="SymbolParks">
         <h3>
           <img className="symbol-icon" src={`/symbols/${symbol.id}.png`} alt={symbol.id} /> {symbol.name}
-          <span className="found-line">Found <span className="symbol-count">{symbol.count}</span> times</span>
+          <span className="found-line">Found <span className="symbol-count">{symbol.count}</span>
+            times in <span className="park-total-count">{parks.length}</span> parks</span>
+
         </h3>
         <div className="parks">
           {this.sortByCount(parks).map((p) => this.renderPark(p))}

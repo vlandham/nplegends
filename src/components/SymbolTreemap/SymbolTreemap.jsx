@@ -26,7 +26,6 @@ export default class SymbolTreemap extends PureComponent {
    */
   componentDidMount() {
     this.setup();
-    console.log('mount');
   }
 
   /**
@@ -75,16 +74,28 @@ export default class SymbolTreemap extends PureComponent {
       .tile(d3.treemapResquarify.ratio(1))
       .padding(1)
       .round(true);
-    const pack = d3.pack()
-      .size([width, height]);
-      // .radius((d) => d.data.count);
+    // const pack = d3.pack()
+    //   .size([width, height]);
+    //   .radius((d) => d.data.count);
+
+    const rScale = d3.scaleLinear()
+      .domain([1, 50])
+      .range([5, 20]);
+
+    symbolCounts.forEach((s) => {
+      s.r = rScale(s.count);
+    });
+
+    // const packSib = d3.packSiblings();
 
     const xScale = d3.scaleLinear();
     return {
       xScale,
       tree,
+      symbolCounts,
       treemap,
-      pack,
+      // pack,
+      // packSib,
       width,
       height,
     };
@@ -95,24 +106,28 @@ export default class SymbolTreemap extends PureComponent {
    */
   update() {
     // this.renderTreemap();
-    // this.renderPack();
-    this.renderTreeimages();
+    this.renderPack();
+    // this.renderTreeimages();
   }
 
   renderPack() {
-    const { tree, pack } = this.visComponents;
+    const { symbolCounts, width, height } = this.visComponents;
 
-    pack(tree);
+    if (!symbolCounts) {
+      return;
+    }
+
+    d3.packSiblings(symbolCounts);
 
     const svg = d3.select(this.root);
     const cell = svg.selectAll('g')
-      .data(tree.leaves())
+      .data(symbolCounts)
       // .enter().append('g')
       //   .attr('transform', (d) => `translate(${d.x},${d.y})`);
       .enter().append('circle')
         .attr('fill', '#ddd')
-        .attr('cx', (d) => d.x)
-        .attr('cy', (d) => d.y)
+        .attr('cx', (d) => d.x + (width / 2))
+        .attr('cy', (d) => d.y + (height / 2))
         .attr('r', (d) => d.r);
   }
 
@@ -171,7 +186,7 @@ export default class SymbolTreemap extends PureComponent {
     return (
       <div>
         <svg
-          className="line-chart chart"
+          className="symbol-treemap"
           height={height}
           ref={node => { this.root = node; }}
           width={width}

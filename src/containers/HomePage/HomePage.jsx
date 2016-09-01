@@ -6,7 +6,7 @@ import * as SymbolsActions from '../../redux/symbols/actions';
 import * as SearchSelectors from '../../redux/search/selectors';
 import * as SymbolsSelectors from '../../redux/symbols/selectors';
 
-import { SymbolParks, SymbolTreemap } from '../../components';
+import { SymbolParks, SymbolForce, SymbolTreemap } from '../../components';
 
 import './HomePage.scss';
 
@@ -75,8 +75,8 @@ class HomePage extends PureComponent {
 
   renderTreemap(counts) {
     return (
-      <SymbolTreemap
-        width={1000}
+      <SymbolForce
+        width={920}
         height={300}
         symbolCounts={counts}
       />
@@ -85,7 +85,7 @@ class HomePage extends PureComponent {
 
   render() {
     const { symbolInfo } = this.props;
-    console.log(symbolInfo);
+
     return (
       <div className="home-page">
         <Helmet title="Home" />
