@@ -1,13 +1,12 @@
 import React, { PureComponent, PropTypes } from 'react';
 import { connect } from 'react-redux';
 import Helmet from 'react-helmet';
-import _ from 'lodash';
 import * as SearchActions from '../../redux/search/actions';
 import * as SymbolsActions from '../../redux/symbols/actions';
 import * as SearchSelectors from '../../redux/search/selectors';
 import * as SymbolsSelectors from '../../redux/symbols/selectors';
 
-import { OmniSearch, SymbolParks, SymbolTreemap } from '../../components';
+import { SymbolParks, SymbolTreemap } from '../../components';
 
 import './HomePage.scss';
 
@@ -53,20 +52,6 @@ class HomePage extends PureComponent {
     // noop
   }
 
-  renderSearch() {
-    const { parkIds } = this.props;
-    let parks = [];
-    if (parkIds) {
-      parks = _.values(parkIds);
-    }
-    return (
-      <OmniSearch
-        searchResults={parks}
-        onSearchChange={this.onSearchQueryChange}
-      />
-    );
-  }
-
   renderSymbolParks(symbol, parks) {
     return (
       <SymbolParks
@@ -110,9 +95,6 @@ class HomePage extends PureComponent {
           {this.renderTreemap(symbolInfo.totals)}
         </div>
 
-        <div className="omni-search-container">
-          {this.renderSearch()}
-        </div>
         <h2 className="banner">Symbols</h2>
         <div className="symbol-list-container">
           {this.renderAllSymbolParks(symbolInfo.totals, symbolInfo.parks)}

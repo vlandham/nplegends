@@ -115,7 +115,7 @@ class ParkPage extends PureComponent {
         <h1>{ parkInfo['Name'] }</h1>
         <div><p>{ parkInfo['Description'] }</p></div>
         <h2 className="banner">Symbols</h2>
-        <strong>{ parkInfo.symbol_count } Symbols in { parkInfo.map_count } Maps</strong>
+        <h4>{ parkInfo.symbol_count } Symbols in { parkInfo.map_count } Maps</h4>
         {this.renderSymbolList()}
         <h2 className="banner">Maps</h2>
         {this.renderMaps()}

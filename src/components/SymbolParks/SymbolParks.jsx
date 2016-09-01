@@ -31,6 +31,9 @@ export default class SymbolParks extends PureComponent {
 
   render() {
     const { parks, symbol } = this.props;
+    if (!symbol) {
+      return <div />;
+    }
     return (
       <div key={symbol.id} className="SymbolParks">
         <h3>

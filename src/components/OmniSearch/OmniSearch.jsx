@@ -4,7 +4,7 @@ import Autosuggest from 'react-autosuggest';
 import d3 from 'd3';
 import _ from 'lodash';
 
-import { formatNumber, stringToKey } from '../../utils/format';
+import { stringToKey } from '../../utils/format';
 
 import './OmniSearch.scss';
 
@@ -91,11 +91,11 @@ class OmniSearch extends PureComponent {
     // TODO: should this be in a different location?
     const search = stringToKey(value);
 
-    const filteredResults = _.filter(searchResults, (r) => _.includes(stringToKey(r.name), search))
+    const filteredResults = _.filter(searchResults, (r) => _.includes(stringToKey(r.name), search));
 
     this.setState({
       suggestions: filteredResults,
-    })
+    });
 
     // if (search.length > 2) {
       // onSearchChange(search);

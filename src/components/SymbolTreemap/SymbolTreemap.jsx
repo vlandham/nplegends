@@ -26,6 +26,7 @@ export default class SymbolTreemap extends PureComponent {
    */
   componentDidMount() {
     this.setup();
+    console.log('mount');
   }
 
   /**
@@ -44,7 +45,7 @@ export default class SymbolTreemap extends PureComponent {
   }
 
   setup() {
-
+    this.update();
   }
 
   /**
@@ -56,7 +57,8 @@ export default class SymbolTreemap extends PureComponent {
     if (symbolCounts.length === 0) {
       return {};
     }
-    symbolCounts.unshift({ name: 'root' });
+    // symbolCounts.unshift({ name: 'root' });
+
 
     const stratify = d3.stratify()
       .id((d) => d.name)
@@ -64,11 +66,10 @@ export default class SymbolTreemap extends PureComponent {
         return (i === 0) ? '' : 'root';
       });
 
-    const tree = stratify(symbolCounts)
+    const tree = stratify([{ name: 'root' }].concat(symbolCounts))
       .sum((d) => d.count)
       .sort((a, b) => b.height - a.height || b.value - a.value);
 
-    console.log(tree)
     const treemap = d3.treemap()
       .size([width, height])
       .tile(d3.treemapResquarify.ratio(1))
@@ -88,8 +89,6 @@ export default class SymbolTreemap extends PureComponent {
       height,
     };
   }
-
-
 
   /**
    * Update the d3 chart - this is the main drawing function
@@ -119,6 +118,9 @@ export default class SymbolTreemap extends PureComponent {
 
   renderTreeimages() {
     const { tree, treemap } = this.visComponents;
+    if (!treemap) {
+      return;
+    }
     treemap(tree);
 
     const svg = d3.select(this.root);
@@ -152,12 +154,12 @@ export default class SymbolTreemap extends PureComponent {
         .style('fill', 'grey');
 
     cell.append('clipPath')
-        .attr('id', (d) => 'clip-' + d.id)
+        .attr('id', (d) => `clip-${d.id}`)
       .append('use')
         .attr('xlink:href', (d) => `#rect-${d.id}`);
 
     cell.append('text')
-        .attr('clip-path', function(d) { return 'url(#clip-' + d.id + ')'; })
+        .attr('clip-path', (d) => `url(#clip-${d.id})`)
         .attr('x', 4)
         .attr('y', 24)
         .text((d) => d.data.name);
