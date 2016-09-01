@@ -13,6 +13,7 @@ import * as shape from 'd3-shape';
 import * as timeFormat from 'd3-time-format';
 import * as axis from 'd3-axis';
 import * as collection from 'd3-collection';
+import * as hierarchy from 'd3-hierarchy';
 
 export default Object.assign({},
   array,
@@ -21,4 +22,5 @@ export default Object.assign({},
   shape,
   timeFormat,
   axis,
-  collection);
+  collection,
+  hierarchy);

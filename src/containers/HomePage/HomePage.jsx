@@ -7,7 +7,7 @@ import * as SymbolsActions from '../../redux/symbols/actions';
 import * as SearchSelectors from '../../redux/search/selectors';
 import * as SymbolsSelectors from '../../redux/symbols/selectors';
 
-import { OmniSearch, SymbolParks } from '../../components';
+import { OmniSearch, SymbolParks, SymbolTreemap } from '../../components';
 
 import './HomePage.scss';
 
