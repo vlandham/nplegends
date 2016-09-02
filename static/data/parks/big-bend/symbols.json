@@ -1,4 +1,8 @@
 {
+  "loc": [
+    29.25, 
+    -103.25
+  ], 
   "symbol_count": 87, 
   "Name": "Big Bend", 
   "Recreation Visitors (2014)": "314,102", 
@@ -1019,7 +1023,6 @@
       ]
     }
   ], 
-  "Location": "Texas 29\u00b015\u2032N 103\u00b015\u2032W\ufeff / \ufeff29.25\u00b0N 103.25\u00b0W\ufeff / 29.25; -103.25\ufeff (Big Bend)", 
   "totals": [
     {
       "count": 12, 
@@ -1097,6 +1100,9 @@
       "name": "Wheelchair accessible"
     }
   ], 
+  "Location": "Texas 29\u00b015\u2032N 103\u00b015\u2032W\ufeff / \ufeff29.25\u00b0N 103.25\u00b0W\ufeff / 29.25; -103.25\ufeff (Big Bend)", 
+  "date": 1944, 
+  "acres": 801163.21, 
   "map_count": 2, 
   "id": "big-bend", 
   "Description": "Named for the prominent bend in the Rio Grande along the US\u2013Mexico border, this park encompasses a large and remote part of the Chihuahuan Desert. Its main attraction is backcountry recreation in the arid Chisos Mountains and in canyons along the river. A wide variety of Cretaceous and Tertiary fossils as well as cultural artifacts of Native Americans also exist within its borders."

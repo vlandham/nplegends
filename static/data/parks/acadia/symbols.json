@@ -1,4 +1,8 @@
 {
+  "loc": [
+    44.35, 
+    -68.217
+  ], 
   "symbol_count": 102, 
   "Name": "Acadia", 
   "Recreation Visitors (2014)": "2,563,129", 
@@ -1162,7 +1166,6 @@
       ]
     }
   ], 
-  "Location": "Maine 44\u00b021\u2032N 68\u00b013\u2032W\ufeff / \ufeff44.35\u00b0N 68.21\u00b0W\ufeff / 44.35; -68.21\ufeff (Acadia)", 
   "totals": [
     {
       "count": 26, 
@@ -1215,6 +1218,9 @@
       "name": "Food service"
     }
   ], 
+  "Location": "Maine 44\u00b021\u2032N 68\u00b013\u2032W\ufeff / \ufeff44.35\u00b0N 68.21\u00b0W\ufeff / 44.35; -68.21\ufeff (Acadia)", 
+  "date": 1919, 
+  "acres": 47389.67, 
   "map_count": 3, 
   "id": "acadia", 
   "Description": "Covering most of Mount Desert Island and other coastal islands, Acadia features the tallest mountain on the Atlantic coast of the United States, granite peaks, ocean shoreline, woodlands, and lakes. There are freshwater, estuary, forest, and intertidal habitats."

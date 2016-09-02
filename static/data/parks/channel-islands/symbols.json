@@ -1,4 +1,8 @@
 {
+  "loc": [
+    34.017, 
+    -119.417
+  ], 
   "symbol_count": 15, 
   "Name": "Channel Islands", 
   "Recreation Visitors (2014)": "342,161", 
@@ -181,7 +185,6 @@
       ]
     }
   ], 
-  "Location": "California 34\u00b001\u2032N 119\u00b025\u2032W\ufeff / \ufeff34.01\u00b0N 119.42\u00b0W\ufeff / 34.01; -119.42\ufeff (Channel Islands)", 
   "totals": [
     {
       "count": 8, 
@@ -194,6 +197,9 @@
       "name": "Ranger station"
     }
   ], 
+  "Location": "California 34\u00b001\u2032N 119\u00b025\u2032W\ufeff / \ufeff34.01\u00b0N 119.42\u00b0W\ufeff / 34.01; -119.42\ufeff (Channel Islands)", 
+  "date": 1980, 
+  "acres": 249561.0, 
   "map_count": 1, 
   "id": "channel-islands", 
   "Description": "Five of the eight Channel Islands are protected, and half of the park's area is underwater. The islands have a unique Mediterranean ecosystem originally settled by the Chumash people. They are home to over 2,000 species of land plants and animals, and 145 are unique to them, including the island fox. Professional ferry services offer transportation to the islands from the mainland."

@@ -1,4 +1,8 @@
 {
+  "loc": [
+    36.233, 
+    -116.817
+  ], 
   "symbol_count": 224, 
   "Name": "Death Valley", 
   "Recreation Visitors (2014)": "1,101,312", 
@@ -2558,7 +2562,6 @@
       ]
     }
   ], 
-  "Location": "California, Nevada 36\u00b014\u2032N 116\u00b049\u2032W\ufeff / \ufeff36.24\u00b0N 116.82\u00b0W\ufeff / 36.24; -116.82\ufeff (Death Valley)", 
   "totals": [
     {
       "count": 38, 
@@ -2641,6 +2644,9 @@
       "name": "Audio tour"
     }
   ], 
+  "Location": "California, Nevada 36\u00b014\u2032N 116\u00b049\u2032W\ufeff / \ufeff36.24\u00b0N 116.82\u00b0W\ufeff / 36.24; -116.82\ufeff (Death Valley)", 
+  "date": 1994, 
+  "acres": 3372401.96, 
   "map_count": 5, 
   "id": "death-valley", 
   "Description": "Death Valley is the hottest, lowest, and driest place in the United States. Daytime temperatures have topped 130\u00a0\u00b0F (54\u00a0\u00b0C) and it is home to Badwater Basin, the lowest elevation in North America. A diversity of colorful canyons, desolate badlands, shifting sand dunes, sprawling mountains, and over 1000 species of plants populate this geologic graben. Additional points of interest include salt flats, historic mines, and springs."

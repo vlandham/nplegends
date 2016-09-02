@@ -1,4 +1,8 @@
 {
+  "loc": [
+    20.717, 
+    -156.167
+  ], 
   "symbol_count": 0, 
   "Name": "Haleakal\u0101", 
   "Recreation Visitors (2014)": "1,142,040", 
@@ -7,8 +11,10 @@
   "Area": "29,093.67 acres (117.7\u00a0km2)", 
   "name": "Haleakal\u0101", 
   "maps": [], 
-  "Location": "Hawaii 20\u00b043\u2032N 156\u00b010\u2032W\ufeff / \ufeff20.72\u00b0N 156.17\u00b0W\ufeff / 20.72; -156.17\ufeff (Haleakala)", 
   "totals": [], 
+  "Location": "Hawaii 20\u00b043\u2032N 156\u00b010\u2032W\ufeff / \ufeff20.72\u00b0N 156.17\u00b0W\ufeff / 20.72; -156.17\ufeff (Haleakala)", 
+  "date": 1916, 
+  "acres": 29093.67, 
   "map_count": 0, 
   "id": "haleakal\u0101", 
   "Description": "The Haleakal\u0101 volcano on Maui features a very large crater with numerous cinder cones, Hosmer's Grove of alien trees, the Kipahulu section's scenic pools of freshwater fish, and the native Hawaiian goose. It is home to the greatest number of endangered species within a U.S. National Park."

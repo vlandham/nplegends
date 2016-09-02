@@ -1,4 +1,8 @@
 {
+  "loc": [
+    36.433, 
+    -118.683
+  ], 
   "symbol_count": 0, 
   "Name": "Sequoia", 
   "Recreation Visitors (2014)": "1,039,137", 
@@ -7,8 +11,10 @@
   "Area": "404,051.17 acres (1,635.1\u00a0km2)", 
   "name": "Sequoia", 
   "maps": [], 
-  "Location": "California 36\u00b026\u2032N 118\u00b041\u2032W\ufeff / \ufeff36.43\u00b0N 118.68\u00b0W\ufeff / 36.43; -118.68\ufeff (Sequoia)", 
   "totals": [], 
+  "Location": "California 36\u00b026\u2032N 118\u00b041\u2032W\ufeff / \ufeff36.43\u00b0N 118.68\u00b0W\ufeff / 36.43; -118.68\ufeff (Sequoia)", 
+  "date": 1890, 
+  "acres": 404051.17, 
   "map_count": 0, 
   "id": "sequoia", 
   "Description": "This park protects the Giant Forest, which boasts some of the world's largest trees, the General Sherman being the largest in the park. It also has over 240 caves, a scenic segment of the Sierra Nevada including the tallest mountain in the contiguous United States, and Moro Rock, a photogenic granite dome."

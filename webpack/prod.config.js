@@ -7,16 +7,17 @@ var CleanPlugin = require('clean-webpack-plugin');
 var ExtractTextPlugin = require('extract-text-webpack-plugin');
 var strip = require('strip-loader');
 var autoprefixer = require('autoprefixer');
+const AssetsPlugin = require('assets-webpack-plugin');
 
-var CopyWebpackPlugin = require('copy-webpack-plugin');
-var path = require('path');
+var HtmlWebpackPlugin = require('html-webpack-plugin');
+
 
 var projectRootPath = path.resolve(__dirname, '../');
 var assetsPath = path.resolve(projectRootPath, './static/dist');
 
 // https://github.com/halt-hammerzeit/webpack-isomorphic-tools
-var WebpackIsomorphicToolsPlugin = require('webpack-isomorphic-tools/plugin');
-var webpackIsomorphicToolsPlugin = new WebpackIsomorphicToolsPlugin(require('./webpack-isomorphic-tools'));
+// var WebpackIsomorphicToolsPlugin = require('webpack-isomorphic-tools/plugin');
+// var webpackIsomorphicToolsPlugin = new WebpackIsomorphicToolsPlugin(require('./webpack-isomorphic-tools'));
 
 module.exports = {
   devtool: 'source-map',
@@ -44,7 +45,7 @@ module.exports = {
       { test: /\.ttf(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=application/octet-stream' },
       { test: /\.eot(\?v=\d+\.\d+\.\d+)?$/, loader: 'file' },
       { test: /\.svg(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=image/svg+xml' },
-      { test: webpackIsomorphicToolsPlugin.regular_expression('images'), loader: 'url-loader?limit=10240' },
+      // { test: webpackIsomorphicToolsPlugin.regular_expression('images'), loader: 'url-loader?limit=10240' },
     ],
   },
   // add in vendor prefixes
@@ -85,10 +86,17 @@ module.exports = {
         warnings: false,
       },
     }),
-    new CopyWebpackPlugin([
-      {from: path.resolve(projectRootPath, './symbols'), to: './symbols' }
-    ]),
 
-    webpackIsomorphicToolsPlugin,
+    // Emit a JSON file with assets paths
+    // https://github.com/sporto/assets-webpack-plugin#options
+    new AssetsPlugin({
+      path: path.resolve(__dirname, '../static/dist'),
+      filename: 'assets.json',
+      prettyPrint: true,
+    }),
+
+    new HtmlWebpackPlugin(),
+
+    // webpackIsomorphicToolsPlugin,
   ],
 };

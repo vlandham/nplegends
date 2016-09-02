@@ -1,4 +1,8 @@
 {
+  "loc": [
+    42.933, 
+    -122.1
+  ], 
   "symbol_count": 28, 
   "Name": "Crater Lake", 
   "Recreation Visitors (2014)": "535,508", 
@@ -341,7 +345,6 @@
       ]
     }
   ], 
-  "Location": "Oregon 42\u00b056\u2032N 122\u00b006\u2032W\ufeff / \ufeff42.94\u00b0N 122.1\u00b0W\ufeff / 42.94; -122.1\ufeff (Crater Lake)", 
   "totals": [
     {
       "count": 10, 
@@ -384,6 +387,9 @@
       "name": "Gas station"
     }
   ], 
+  "Location": "Oregon 42\u00b056\u2032N 122\u00b006\u2032W\ufeff / \ufeff42.94\u00b0N 122.1\u00b0W\ufeff / 42.94; -122.1\ufeff (Crater Lake)", 
+  "date": 1902, 
+  "acres": 183224.05, 
   "map_count": 1, 
   "id": "crater-lake", 
   "Description": "Crater Lake lies in the caldera of an ancient volcano called Mount Mazama that collapsed 7,700 years ago. It is the deepest lake in the United States and is famous for its vivid blue color and water clarity. There are two more recent volcanic islands in the lake, and, with no inlets or outlets, all water comes through precipitation."

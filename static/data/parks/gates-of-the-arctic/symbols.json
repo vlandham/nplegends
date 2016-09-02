@@ -1,4 +1,8 @@
 {
+  "loc": [
+    67.783, 
+    -153.3
+  ], 
   "symbol_count": 16, 
   "Name": "Gates of the Arctic", 
   "Recreation Visitors (2014)": "12,669", 
@@ -201,7 +205,6 @@
       ]
     }
   ], 
-  "Location": "Alaska 67\u00b047\u2032N 153\u00b018\u2032W\ufeff / \ufeff67.78\u00b0N 153.30\u00b0W\ufeff / 67.78; -153.30\ufeff (Gates of the Arctic)", 
   "totals": [
     {
       "count": 8, 
@@ -224,6 +227,9 @@
       "name": "Sewer hookup"
     }
   ], 
+  "Location": "Alaska 67\u00b047\u2032N 153\u00b018\u2032W\ufeff / \ufeff67.78\u00b0N 153.30\u00b0W\ufeff / 67.78; -153.30\ufeff (Gates of the Arctic)", 
+  "date": 1980, 
+  "acres": 7523897.74, 
   "map_count": 1, 
   "id": "gates-of-the-arctic", 
   "Description": "The country's northernmost park protects an expanse of pure wilderness in Alaska's Brooks Range and has no park facilities. The land is home to Alaska natives, who have relied on the land and caribou for 11,000 years."

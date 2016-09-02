@@ -1,4 +1,8 @@
 {
+  "loc": [
+    34.517, 
+    -93.05
+  ], 
   "symbol_count": 12, 
   "Name": "Hot Springs", 
   "Recreation Visitors (2014)": "1,424,484", 
@@ -161,7 +165,6 @@
       ]
     }
   ], 
-  "Location": "Arkansas 34\u00b031\u2032N 93\u00b003\u2032W\ufeff / \ufeff34.51\u00b0N 93.05\u00b0W\ufeff / 34.51; -93.05\ufeff (Hot Springs)", 
   "totals": [
     {
       "count": 5, 
@@ -184,6 +187,9 @@
       "name": "Restrooms"
     }
   ], 
+  "Location": "Arkansas 34\u00b031\u2032N 93\u00b003\u2032W\ufeff / \ufeff34.51\u00b0N 93.05\u00b0W\ufeff / 34.51; -93.05\ufeff (Hot Springs)", 
+  "date": 1921, 
+  "acres": 5549.75, 
   "map_count": 1, 
   "id": "hot-springs", 
   "Description": "Hot Springs was established by act of Congress as a federal reserve on April 20, 1832, as such it is the oldest park managed by the National Park Service. Congress changed the reserve's designation to National Park on March 4, 1921 after the National Park Service was established in 1916. Hot Springs is the smallest and only National Park in an urban area and is based around natural hot springs that flow out of the low lying Ouachita Mountains. The springs provide opportunities for relaxation in an historic setting; Bathhouse Row preserves numerous examples of 19th-century architecture."

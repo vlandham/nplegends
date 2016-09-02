@@ -1,4 +1,8 @@
 {
+  "loc": [
+    48.7, 
+    -121.2
+  ], 
   "symbol_count": 31, 
   "Name": "North Cascades", 
   "Recreation Visitors (2014)": "23,865", 
@@ -346,7 +350,6 @@
       ]
     }
   ], 
-  "Location": "Washington 48\u00b042\u2032N 121\u00b012\u2032W\ufeff / \ufeff48.70\u00b0N 121.20\u00b0W\ufeff / 48.70; -121.20\ufeff (North Cascades)", 
   "totals": [
     {
       "count": 18, 
@@ -364,6 +367,9 @@
       "name": "Picnic area"
     }
   ], 
+  "Location": "Washington 48\u00b042\u2032N 121\u00b012\u2032W\ufeff / \ufeff48.70\u00b0N 121.20\u00b0W\ufeff / 48.70; -121.20\ufeff (North Cascades)", 
+  "date": 1968, 
+  "acres": 504780.94, 
   "map_count": 1, 
   "id": "north-cascades", 
   "Description": "This complex encompasses two units of the national park itself as well as the Ross Lake and Lake Chelan National Recreation Areas. The highly glaciated mountains are spectacular examples of Cascade geology; popular hiking and climbing areas include Cascade Pass, Mount Shuksan, Mount Triumph, and Eldorado Peak."

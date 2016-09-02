@@ -2559,6 +2559,10 @@
   }, 
   "parks": [
     {
+      "loc": [
+        44.35, 
+        -68.217
+      ], 
       "symbol_count": 102, 
       "Name": "Acadia", 
       "Recreation Visitors (2014)": "2,563,129", 
@@ -3722,7 +3726,6 @@
           ]
         }
       ], 
-      "Location": "Maine 44\u00b021\u2032N 68\u00b013\u2032W\ufeff / \ufeff44.35\u00b0N 68.21\u00b0W\ufeff / 44.35; -68.21\ufeff (Acadia)", 
       "totals": [
         {
           "count": 26, 
@@ -3775,11 +3778,18 @@
           "name": "Food service"
         }
       ], 
+      "Location": "Maine 44\u00b021\u2032N 68\u00b013\u2032W\ufeff / \ufeff44.35\u00b0N 68.21\u00b0W\ufeff / 44.35; -68.21\ufeff (Acadia)", 
+      "date": 1919, 
+      "acres": 47389.67, 
       "map_count": 3, 
       "id": "acadia", 
       "Description": "Covering most of Mount Desert Island and other coastal islands, Acadia features the tallest mountain on the Atlantic coast of the United States, granite peaks, ocean shoreline, woodlands, and lakes. There are freshwater, estuary, forest, and intertidal habitats."
     }, 
     {
+      "loc": [
+        -14.25, 
+        -170.683
+      ], 
       "symbol_count": 0, 
       "Name": "American Samoa", 
       "Recreation Visitors (2014)": "13,953", 
@@ -3800,13 +3810,19 @@
           "totals": []
         }
       ], 
-      "Location": "American Samoa 14\u00b015\u2032S 170\u00b041\u2032W\ufeff / \ufeff14.25\u00b0S 170.68\u00b0W\ufeff / -14.25; -170.68\ufeff (National Park of American Samoa)", 
       "totals": [], 
+      "Location": "American Samoa 14\u00b015\u2032S 170\u00b041\u2032W\ufeff / \ufeff14.25\u00b0S 170.68\u00b0W\ufeff / -14.25; -170.68\ufeff (National Park of American Samoa)", 
+      "date": 1988, 
+      "acres": 9000.0, 
       "map_count": 1, 
       "id": "american-samoa", 
       "Description": "The southernmost national park is on three Samoan islands and protects coral reefs, rainforests, volcanic mountains, and white beaches. The area is also home to flying foxes, brown boobies, sea turtles, and 900 species of fish."
     }, 
     {
+      "loc": [
+        38.683, 
+        -109.567
+      ], 
       "symbol_count": 20, 
       "Name": "Arches", 
       "Recreation Visitors (2014)": "1,284,767", 
@@ -4054,7 +4070,6 @@
           ]
         }
       ], 
-      "Location": "Utah 38\u00b041\u2032N 109\u00b034\u2032W\ufeff / \ufeff38.68\u00b0N 109.57\u00b0W\ufeff / 38.68; -109.57\ufeff (Arches)", 
       "totals": [
         {
           "count": 10, 
@@ -4082,11 +4097,18 @@
           "name": "Sewer hookup"
         }
       ], 
+      "Location": "Utah 38\u00b041\u2032N 109\u00b034\u2032W\ufeff / \ufeff38.68\u00b0N 109.57\u00b0W\ufeff / 38.68; -109.57\ufeff (Arches)", 
+      "date": 1971, 
+      "acres": 76518.98, 
       "map_count": 1, 
       "id": "arches", 
       "Description": "This site features more than 2,000 natural sandstone arches, including the famous Delicate Arch. In a desert climate, millions of years of erosion have led to these structures, and the arid ground has life-sustaining soil crust and potholes, which serve as natural water-collecting basins. Other geologic formations are stone columns, spires, fins, and towers."
     }, 
     {
+      "loc": [
+        43.75, 
+        -102.5
+      ], 
       "symbol_count": 14, 
       "Name": "Badlands", 
       "Recreation Visitors (2014)": "868,094", 
@@ -4302,7 +4324,6 @@
           ]
         }
       ], 
-      "Location": "South Dakota 43\u00b045\u2032N 102\u00b030\u2032W\ufeff / \ufeff43.75\u00b0N 102.50\u00b0W\ufeff / 43.75; -102.50\ufeff (Badlands)", 
       "totals": [
         {
           "count": 5, 
@@ -4330,11 +4351,18 @@
           "name": "Sewer hookup"
         }
       ], 
+      "Location": "South Dakota 43\u00b045\u2032N 102\u00b030\u2032W\ufeff / \ufeff43.75\u00b0N 102.50\u00b0W\ufeff / 43.75; -102.50\ufeff (Badlands)", 
+      "date": 1978, 
+      "acres": 242755.94, 
       "map_count": 2, 
       "id": "badlands", 
       "Description": "The Badlands are a collection of buttes, pinnacles, spires, and grass prairies. It has the world's richest fossil beds from the Oligocene epoch, and the wildlife includes bison, bighorn sheep, black-footed ferrets, and swift foxes."
     }, 
     {
+      "loc": [
+        29.25, 
+        -103.25
+      ], 
       "symbol_count": 87, 
       "Name": "Big Bend", 
       "Recreation Visitors (2014)": "314,102", 
@@ -5355,7 +5383,6 @@
           ]
         }
       ], 
-      "Location": "Texas 29\u00b015\u2032N 103\u00b015\u2032W\ufeff / \ufeff29.25\u00b0N 103.25\u00b0W\ufeff / 29.25; -103.25\ufeff (Big Bend)", 
       "totals": [
         {
           "count": 12, 
@@ -5433,11 +5460,18 @@
           "name": "Wheelchair accessible"
         }
       ], 
+      "Location": "Texas 29\u00b015\u2032N 103\u00b015\u2032W\ufeff / \ufeff29.25\u00b0N 103.25\u00b0W\ufeff / 29.25; -103.25\ufeff (Big Bend)", 
+      "date": 1944, 
+      "acres": 801163.21, 
       "map_count": 2, 
       "id": "big-bend", 
       "Description": "Named for the prominent bend in the Rio Grande along the US\u2013Mexico border, this park encompasses a large and remote part of the Chihuahuan Desert. Its main attraction is backcountry recreation in the arid Chisos Mountains and in canyons along the river. A wide variety of Cretaceous and Tertiary fossils as well as cultural artifacts of Native Americans also exist within its borders."
     }, 
     {
+      "loc": [
+        25.65, 
+        -80.083
+      ], 
       "symbol_count": 38, 
       "Name": "Biscayne", 
       "Recreation Visitors (2014)": "525,745", 
@@ -5880,7 +5914,6 @@
           ]
         }
       ], 
-      "Location": "Florida 25\u00b039\u2032N 80\u00b005\u2032W\ufeff / \ufeff25.65\u00b0N 80.08\u00b0W\ufeff / 25.65; -80.08\ufeff (Biscayne)", 
       "totals": [
         {
           "count": 9, 
@@ -5923,11 +5956,18 @@
           "name": "Dam"
         }
       ], 
+      "Location": "Florida 25\u00b039\u2032N 80\u00b005\u2032W\ufeff / \ufeff25.65\u00b0N 80.08\u00b0W\ufeff / 25.65; -80.08\ufeff (Biscayne)", 
+      "date": 1980, 
+      "acres": 172924.07, 
       "map_count": 1, 
       "id": "biscayne", 
       "Description": "Located in Biscayne Bay, this park at the north end of the Florida Keys has four interrelated marine ecosystems: mangrove forest, the Bay, the Keys, and coral reefs. Threatened animals include the West Indian manatee, American crocodile, various sea turtles, and peregrine falcon."
     }, 
     {
+      "loc": [
+        38.567, 
+        -107.717
+      ], 
       "symbol_count": 40, 
       "Name": "Black Canyon of the Gunnison", 
       "Recreation Visitors (2014)": "183,045", 
@@ -6411,7 +6451,6 @@
           "totals": []
         }
       ], 
-      "Location": "Colorado 38\u00b034\u2032N 107\u00b043\u2032W\ufeff / \ufeff38.57\u00b0N 107.72\u00b0W\ufeff / 38.57; -107.72\ufeff (Black Canyon of the Gunnison)", 
       "totals": [
         {
           "count": 8, 
@@ -6464,11 +6503,18 @@
           "name": "Amphitheater"
         }
       ], 
+      "Location": "Colorado 38\u00b034\u2032N 107\u00b043\u2032W\ufeff / \ufeff38.57\u00b0N 107.72\u00b0W\ufeff / 38.57; -107.72\ufeff (Black Canyon of the Gunnison)", 
+      "date": 1999, 
+      "acres": 32950.03, 
       "map_count": 2, 
       "id": "black-canyon-of-the-gunnison", 
       "Description": "The park protects a quarter of the Gunnison River, which slices sheer canyon walls from dark Precambrian-era rock. The canyon features incredibly steep descents, and is a popular site for river rafting and rock climbing. The deep, narrow canyon, made of gneiss and schist, is often in shadow and therefore appears black."
     }, 
     {
+      "loc": [
+        37.567, 
+        -112.183
+      ], 
       "symbol_count": 105, 
       "Name": "Bryce Canyon", 
       "Recreation Visitors (2014)": "1,435,741", 
@@ -7768,7 +7814,6 @@
           ]
         }
       ], 
-      "Location": "Utah 37\u00b034\u2032N 112\u00b011\u2032W\ufeff / \ufeff37.57\u00b0N 112.18\u00b0W\ufeff / 37.57; -112.18\ufeff (Bryce Canyon)", 
       "totals": [
         {
           "count": 25, 
@@ -7871,11 +7916,18 @@
           "name": "Sewer hookup"
         }
       ], 
+      "Location": "Utah 37\u00b034\u2032N 112\u00b011\u2032W\ufeff / \ufeff37.57\u00b0N 112.18\u00b0W\ufeff / 37.57; -112.18\ufeff (Bryce Canyon)", 
+      "date": 1928, 
+      "acres": 35835.08, 
       "map_count": 5, 
       "id": "bryce-canyon", 
       "Description": "Bryce Canyon is a giant geological amphitheater on the Paunsaugunt Plateau. The unique area has hundreds of tall sandstone hoodoos formed by erosion. The region was originally settled by Native Americans and later by Mormon pioneers."
     }, 
     {
+      "loc": [
+        38.2, 
+        -109.933
+      ], 
       "symbol_count": 40, 
       "Name": "Canyonlands", 
       "Recreation Visitors (2014)": "542,431", 
@@ -8333,7 +8385,6 @@
           ]
         }
       ], 
-      "Location": "Utah 38\u00b012\u2032N 109\u00b056\u2032W\ufeff / \ufeff38.2\u00b0N 109.93\u00b0W\ufeff / 38.2; -109.93\ufeff (Canyonlands)", 
       "totals": [
         {
           "count": 10, 
@@ -8371,11 +8422,18 @@
           "name": "Boat launch"
         }
       ], 
+      "Location": "Utah 38\u00b012\u2032N 109\u00b056\u2032W\ufeff / \ufeff38.2\u00b0N 109.93\u00b0W\ufeff / 38.2; -109.93\ufeff (Canyonlands)", 
+      "date": 1964, 
+      "acres": 337597.83, 
       "map_count": 1, 
       "id": "canyonlands", 
       "Description": "This landscape was eroded into a maze of canyons, buttes, and mesas by the combined efforts of the Colorado River, Green River, and their tributaries, which divide the park into three districts. There are rock pinnacles and other naturally sculpted rock formations, as well as artifacts from Ancient Pueblo peoples."
     }, 
     {
+      "loc": [
+        38.2, 
+        -111.167
+      ], 
       "symbol_count": 10, 
       "Name": "Capitol Reef", 
       "Recreation Visitors (2014)": "786,514", 
@@ -8513,7 +8571,6 @@
           ]
         }
       ], 
-      "Location": "Utah 38\u00b012\u2032N 111\u00b010\u2032W\ufeff / \ufeff38.20\u00b0N 111.17\u00b0W\ufeff / 38.20; -111.17\ufeff (Capitol Reef)", 
       "totals": [
         {
           "count": 4, 
@@ -8531,11 +8588,18 @@
           "name": "Ranger station"
         }
       ], 
+      "Location": "Utah 38\u00b012\u2032N 111\u00b010\u2032W\ufeff / \ufeff38.20\u00b0N 111.17\u00b0W\ufeff / 38.20; -111.17\ufeff (Capitol Reef)", 
+      "date": 1971, 
+      "acres": 241904.26, 
       "map_count": 1, 
       "id": "capitol-reef", 
       "Description": "The park's Waterpocket Fold is a 100-mile (160\u00a0km) monocline that exhibits the earth's diverse geologic layers. Other natural features are monoliths, sandstone domes, and cliffs shaped like the United States Capitol."
     }, 
     {
+      "loc": [
+        32.167, 
+        -104.433
+      ], 
       "symbol_count": 0, 
       "Name": "Carlsbad Caverns", 
       "Recreation Visitors (2014)": "1,497,889", 
@@ -8556,13 +8620,19 @@
           "totals": []
         }
       ], 
-      "Location": "New Mexico 32\u00b010\u2032N 104\u00b026\u2032W\ufeff / \ufeff32.17\u00b0N 104.44\u00b0W\ufeff / 32.17; -104.44\ufeff (Carlsbad Caverns)", 
       "totals": [], 
+      "Location": "New Mexico 32\u00b010\u2032N 104\u00b026\u2032W\ufeff / \ufeff32.17\u00b0N 104.44\u00b0W\ufeff / 32.17; -104.44\ufeff (Carlsbad Caverns)", 
+      "date": 1930, 
+      "acres": 46766.45, 
       "map_count": 1, 
       "id": "carlsbad-caverns", 
       "Description": "Carlsbad Caverns has 117 caves, the longest of which is over 120 miles (190\u00a0km) long. The Big Room is almost 4,000 feet (1,200\u00a0m) long, and the caves are home to over 400,000 Mexican free-tailed bats and sixteen other species. Above ground are the Chihuahuan Desert and Rattlesnake Springs.[17] (WHS)"
     }, 
     {
+      "loc": [
+        34.017, 
+        -119.417
+      ], 
       "symbol_count": 15, 
       "Name": "Channel Islands", 
       "Recreation Visitors (2014)": "342,161", 
@@ -8745,7 +8815,6 @@
           ]
         }
       ], 
-      "Location": "California 34\u00b001\u2032N 119\u00b025\u2032W\ufeff / \ufeff34.01\u00b0N 119.42\u00b0W\ufeff / 34.01; -119.42\ufeff (Channel Islands)", 
       "totals": [
         {
           "count": 8, 
@@ -8758,11 +8827,18 @@
           "name": "Ranger station"
         }
       ], 
+      "Location": "California 34\u00b001\u2032N 119\u00b025\u2032W\ufeff / \ufeff34.01\u00b0N 119.42\u00b0W\ufeff / 34.01; -119.42\ufeff (Channel Islands)", 
+      "date": 1980, 
+      "acres": 249561.0, 
       "map_count": 1, 
       "id": "channel-islands", 
       "Description": "Five of the eight Channel Islands are protected, and half of the park's area is underwater. The islands have a unique Mediterranean ecosystem originally settled by the Chumash people. They are home to over 2,000 species of land plants and animals, and 145 are unique to them, including the island fox. Professional ferry services offer transportation to the islands from the mainland."
     }, 
     {
+      "loc": [
+        33.783, 
+        -80.783
+      ], 
       "symbol_count": 4, 
       "Name": "Congaree", 
       "Recreation Visitors (2014)": "120,122", 
@@ -8830,7 +8906,6 @@
           ]
         }
       ], 
-      "Location": "South Carolina 33\u00b047\u2032N 80\u00b047\u2032W\ufeff / \ufeff33.78\u00b0N 80.78\u00b0W\ufeff / 33.78; -80.78\ufeff (Congaree)", 
       "totals": [
         {
           "count": 4, 
@@ -8838,11 +8913,18 @@
           "name": "Canoe access"
         }
       ], 
+      "Location": "South Carolina 33\u00b047\u2032N 80\u00b047\u2032W\ufeff / \ufeff33.78\u00b0N 80.78\u00b0W\ufeff / 33.78; -80.78\ufeff (Congaree)", 
+      "date": 2003, 
+      "acres": 26545.86, 
       "map_count": 1, 
       "id": "congaree", 
       "Description": "On the Congaree River, this park is the largest portion of old-growth floodplain forest left in North America. Some of the trees are the tallest in the Eastern US. An elevated walkway called the Boardwalk Loop guides visitors through the swamp."
     }, 
     {
+      "loc": [
+        42.933, 
+        -122.1
+      ], 
       "symbol_count": 28, 
       "Name": "Crater Lake", 
       "Recreation Visitors (2014)": "535,508", 
@@ -9185,7 +9267,6 @@
           ]
         }
       ], 
-      "Location": "Oregon 42\u00b056\u2032N 122\u00b006\u2032W\ufeff / \ufeff42.94\u00b0N 122.1\u00b0W\ufeff / 42.94; -122.1\ufeff (Crater Lake)", 
       "totals": [
         {
           "count": 10, 
@@ -9228,11 +9309,18 @@
           "name": "Gas station"
         }
       ], 
+      "Location": "Oregon 42\u00b056\u2032N 122\u00b006\u2032W\ufeff / \ufeff42.94\u00b0N 122.1\u00b0W\ufeff / 42.94; -122.1\ufeff (Crater Lake)", 
+      "date": 1902, 
+      "acres": 183224.05, 
       "map_count": 1, 
       "id": "crater-lake", 
       "Description": "Crater Lake lies in the caldera of an ancient volcano called Mount Mazama that collapsed 7,700 years ago. It is the deepest lake in the United States and is famous for its vivid blue color and water clarity. There are two more recent volcanic islands in the lake, and, with no inlets or outlets, all water comes through precipitation."
     }, 
     {
+      "loc": [
+        41.233, 
+        -81.55
+      ], 
       "symbol_count": 162, 
       "Name": "Cuyahoga Valley", 
       "Recreation Visitors (2014)": "2,189,849", 
@@ -11074,7 +11162,6 @@
           ]
         }
       ], 
-      "Location": "Ohio 41\u00b014\u2032N 81\u00b033\u2032W\ufeff / \ufeff41.24\u00b0N 81.55\u00b0W\ufeff / 41.24; -81.55\ufeff (Cuyahoga Valley)", 
       "totals": [
         {
           "count": 40, 
@@ -11152,11 +11239,18 @@
           "name": "Campground"
         }
       ], 
+      "Location": "Ohio 41\u00b014\u2032N 81\u00b033\u2032W\ufeff / \ufeff41.24\u00b0N 81.55\u00b0W\ufeff / 41.24; -81.55\ufeff (Cuyahoga Valley)", 
+      "date": 2000, 
+      "acres": 32950.0, 
       "map_count": 4, 
       "id": "cuyahoga-valley", 
       "Description": "This park along the Cuyahoga River has waterfalls, hills, trails, and exhibits on early rural living. The Ohio and Erie Canal Towpath Trail follows the Ohio and Erie Canal, where mules towed canal boats. The park has numerous historic homes, bridges, and structures,[21] and also offers a scenic train ride."
     }, 
     {
+      "loc": [
+        36.233, 
+        -116.817
+      ], 
       "symbol_count": 224, 
       "Name": "Death Valley", 
       "Recreation Visitors (2014)": "1,101,312", 
@@ -13716,7 +13810,6 @@
           ]
         }
       ], 
-      "Location": "California, Nevada 36\u00b014\u2032N 116\u00b049\u2032W\ufeff / \ufeff36.24\u00b0N 116.82\u00b0W\ufeff / 36.24; -116.82\ufeff (Death Valley)", 
       "totals": [
         {
           "count": 38, 
@@ -13799,11 +13892,18 @@
           "name": "Audio tour"
         }
       ], 
+      "Location": "California, Nevada 36\u00b014\u2032N 116\u00b049\u2032W\ufeff / \ufeff36.24\u00b0N 116.82\u00b0W\ufeff / 36.24; -116.82\ufeff (Death Valley)", 
+      "date": 1994, 
+      "acres": 3372401.96, 
       "map_count": 5, 
       "id": "death-valley", 
       "Description": "Death Valley is the hottest, lowest, and driest place in the United States. Daytime temperatures have topped 130\u00a0\u00b0F (54\u00a0\u00b0C) and it is home to Badwater Basin, the lowest elevation in North America. A diversity of colorful canyons, desolate badlands, shifting sand dunes, sprawling mountains, and over 1000 species of plants populate this geologic graben. Additional points of interest include salt flats, historic mines, and springs."
     }, 
     {
+      "loc": [
+        63.333, 
+        -150.5
+      ], 
       "symbol_count": 28, 
       "Name": "Denali", 
       "Recreation Visitors (2014)": "531,315", 
@@ -14159,7 +14259,6 @@
           ]
         }
       ], 
-      "Location": "Alaska 63\u00b020\u2032N 150\u00b030\u2032W\ufeff / \ufeff63.33\u00b0N 150.50\u00b0W\ufeff / 63.33; -150.50\ufeff (Denali)", 
       "totals": [
         {
           "count": 10, 
@@ -14187,11 +14286,18 @@
           "name": "Ranger station"
         }
       ], 
+      "Location": "Alaska 63\u00b020\u2032N 150\u00b030\u2032W\ufeff / \ufeff63.33\u00b0N 150.50\u00b0W\ufeff / 63.33; -150.50\ufeff (Denali)", 
+      "date": 1917, 
+      "acres": 4740911.72, 
       "map_count": 2, 
       "id": "denali", 
       "Description": "Centered on Denali, the tallest mountain in North America, Denali is serviced by a single road leading to Wonder Lake. Denali and other peaks of the Alaska Range are covered with long glaciers and boreal forest. Wildlife includes grizzly bears, Dall sheep, caribou, and gray wolves."
     }, 
     {
+      "loc": [
+        24.633, 
+        -82.867
+      ], 
       "symbol_count": 0, 
       "Name": "Dry Tortugas", 
       "Recreation Visitors (2014)": "64,865", 
@@ -14200,13 +14306,19 @@
       "Area": "64,701.22 acres (261.8\u00a0km2)", 
       "name": "Dry Tortugas", 
       "maps": [], 
-      "Location": "Florida 24\u00b038\u2032N 82\u00b052\u2032W\ufeff / \ufeff24.63\u00b0N 82.87\u00b0W\ufeff / 24.63; -82.87\ufeff (Dry Tortugas)", 
       "totals": [], 
+      "Location": "Florida 24\u00b038\u2032N 82\u00b052\u2032W\ufeff / \ufeff24.63\u00b0N 82.87\u00b0W\ufeff / 24.63; -82.87\ufeff (Dry Tortugas)", 
+      "date": 1992, 
+      "acres": 64701.22, 
       "map_count": 0, 
       "id": "dry-tortugas", 
       "Description": "The islands of the Dry Tortugas, at the westernmost end of the Florida Keys, are the site of Fort Jefferson, a Civil War-era fort that is the largest masonry structure in the Western Hemisphere. With most of the park being remote ocean, it is home to undisturbed coral reefs and shipwrecks and is only accessible by plane or boat."
     }, 
     {
+      "loc": [
+        25.317, 
+        -80.933
+      ], 
       "symbol_count": 40, 
       "Name": "Everglades", 
       "Recreation Visitors (2014)": "1,110,901", 
@@ -14664,7 +14776,6 @@
           ]
         }
       ], 
-      "Location": "Florida 25\u00b019\u2032N 80\u00b056\u2032W\ufeff / \ufeff25.32\u00b0N 80.93\u00b0W\ufeff / 25.32; -80.93\ufeff (Everglades)", 
       "totals": [
         {
           "count": 9, 
@@ -14702,11 +14813,18 @@
           "name": "Marina"
         }
       ], 
+      "Location": "Florida 25\u00b019\u2032N 80\u00b056\u2032W\ufeff / \ufeff25.32\u00b0N 80.93\u00b0W\ufeff / 25.32; -80.93\ufeff (Everglades)", 
+      "date": 1934, 
+      "acres": 1508537.9, 
       "map_count": 1, 
       "id": "everglades", 
       "Description": "The Everglades are the largest tropical wilderness in the United States. This mangrove and tropical rainforest ecosystem and marine estuary is home to 36 protected species, including the Florida panther, American crocodile, and West Indian manatee. Some areas have been drained and developed; restoration projects aim to restore the ecology.[26] (WHS)"
     }, 
     {
+      "loc": [
+        67.783, 
+        -153.3
+      ], 
       "symbol_count": 16, 
       "Name": "Gates of the Arctic", 
       "Recreation Visitors (2014)": "12,669", 
@@ -14909,7 +15027,6 @@
           ]
         }
       ], 
-      "Location": "Alaska 67\u00b047\u2032N 153\u00b018\u2032W\ufeff / \ufeff67.78\u00b0N 153.30\u00b0W\ufeff / 67.78; -153.30\ufeff (Gates of the Arctic)", 
       "totals": [
         {
           "count": 8, 
@@ -14932,11 +15049,18 @@
           "name": "Sewer hookup"
         }
       ], 
+      "Location": "Alaska 67\u00b047\u2032N 153\u00b018\u2032W\ufeff / \ufeff67.78\u00b0N 153.30\u00b0W\ufeff / 67.78; -153.30\ufeff (Gates of the Arctic)", 
+      "date": 1980, 
+      "acres": 7523897.74, 
       "map_count": 1, 
       "id": "gates-of-the-arctic", 
       "Description": "The country's northernmost park protects an expanse of pure wilderness in Alaska's Brooks Range and has no park facilities. The land is home to Alaska natives, who have relied on the land and caribou for 11,000 years."
     }, 
     {
+      "loc": [
+        48.8, 
+        -114.0
+      ], 
       "symbol_count": 78, 
       "Name": "Glacier", 
       "Recreation Visitors (2014)": "2,338,528", 
@@ -15864,7 +15988,6 @@
           ]
         }
       ], 
-      "Location": "Montana 48\u00b048\u2032N 114\u00b000\u2032W\ufeff / \ufeff48.80\u00b0N 114.00\u00b0W\ufeff / 48.80; -114.00\ufeff (Glacier)", 
       "totals": [
         {
           "count": 18, 
@@ -15912,11 +16035,18 @@
           "name": "Propane"
         }
       ], 
+      "Location": "Montana 48\u00b048\u2032N 114\u00b000\u2032W\ufeff / \ufeff48.80\u00b0N 114.00\u00b0W\ufeff / 48.80; -114.00\ufeff (Glacier)", 
+      "date": 1910, 
+      "acres": 1013572.41, 
       "map_count": 7, 
       "id": "glacier", 
       "Description": "The U.S. half of Waterton-Glacier International Peace Park, this park hosts 26 glaciers and 130 named lakes beneath a stunning canopy of Rocky Mountain peaks. There are historic hotels and a landmark road in this region of rapidly receding glaciers. The local mountains, formed by an overthrust, expose the world's best-preserved sedimentary fossils from the Proterozoic era.[28] (WHS)"
     }, 
     {
+      "loc": [
+        58.5, 
+        -137.0
+      ], 
       "symbol_count": 0, 
       "Name": "Glacier Bay", 
       "Recreation Visitors (2014)": "500,727", 
@@ -15925,13 +16055,19 @@
       "Area": "3,224,840.31 acres (13,050.5\u00a0km2)", 
       "name": "Glacier Bay", 
       "maps": [], 
-      "Location": "Alaska 58\u00b030\u2032N 137\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 137.00\u00b0W\ufeff / 58.50; -137.00\ufeff (Glacier Bay)", 
       "totals": [], 
+      "Location": "Alaska 58\u00b030\u2032N 137\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 137.00\u00b0W\ufeff / 58.50; -137.00\ufeff (Glacier Bay)", 
+      "date": 1980, 
+      "acres": 3224840.31, 
       "map_count": 0, 
       "id": "glacier-bay", 
       "Description": "Glacier Bay has numerous tidewater glaciers, mountains, fjords, and a temperate rainforest, and is home to large populations of grizzly bears, mountain goats, whales, seals, and eagles. When discovered in 1794 by George Vancouver, the entire bay was covered in ice, but the glaciers have since receded more than 65 miles (105\u00a0km).[29] (WHS)"
     }, 
     {
+      "loc": [
+        36.067, 
+        -112.133
+      ], 
       "symbol_count": 149, 
       "Name": "Grand Canyon", 
       "Recreation Visitors (2014)": "4,756,771", 
@@ -17714,7 +17850,6 @@
           ]
         }
       ], 
-      "Location": "Arizona 36\u00b004\u2032N 112\u00b008\u2032W\ufeff / \ufeff36.06\u00b0N 112.14\u00b0W\ufeff / 36.06; -112.14\ufeff (Grand Canyon)", 
       "totals": [
         {
           "count": 23, 
@@ -17807,11 +17942,18 @@
           "name": "Electrical hookup"
         }
       ], 
+      "Location": "Arizona 36\u00b004\u2032N 112\u00b008\u2032W\ufeff / \ufeff36.06\u00b0N 112.14\u00b0W\ufeff / 36.06; -112.14\ufeff (Grand Canyon)", 
+      "date": 1919, 
+      "acres": 1217403.32, 
       "map_count": 6, 
       "id": "grand-canyon", 
       "Description": "The Grand Canyon, carved by the mighty Colorado River, is 277 miles (446\u00a0km) long, up to 1 mile (1.6\u00a0km) deep, and up to 15 miles (24\u00a0km) wide. Millions of years of erosion have exposed the colorful layers of the Colorado Plateau in countless mesas and canyon walls, visible from both the north and south rims, or from a number of trails that descend into the canyon itself.[30] (WHS)"
     }, 
     {
+      "loc": [
+        43.733, 
+        -110.8
+      ], 
       "symbol_count": 94, 
       "Name": "Grand Teton", 
       "Recreation Visitors (2014)": "2,791,392", 
@@ -18867,7 +19009,6 @@
           ]
         }
       ], 
-      "Location": "Wyoming 43\u00b044\u2032N 110\u00b048\u2032W\ufeff / \ufeff43.73\u00b0N 110.80\u00b0W\ufeff / 43.73; -110.80\ufeff (Grand Teton)", 
       "totals": [
         {
           "count": 21, 
@@ -18940,11 +19081,18 @@
           "name": "Playground"
         }
       ], 
+      "Location": "Wyoming 43\u00b044\u2032N 110\u00b048\u2032W\ufeff / \ufeff43.73\u00b0N 110.80\u00b0W\ufeff / 43.73; -110.80\ufeff (Grand Teton)", 
+      "date": 1929, 
+      "acres": 309994.66, 
       "map_count": 2, 
       "id": "grand-teton", 
       "Description": "Grand Teton is the tallest mountain in the Teton Range. The park's historic Jackson Hole and reflective piedmont lakes teem with unique wildlife and contrast with the dramatic mountains, which rise abruptly from the sage-covered valley below."
     }, 
     {
+      "loc": [
+        38.983, 
+        -114.3
+      ], 
       "symbol_count": 40, 
       "Name": "Great Basin", 
       "Recreation Visitors (2014)": "107,526", 
@@ -19427,7 +19575,6 @@
           ]
         }
       ], 
-      "Location": "Nevada 38\u00b059\u2032N 114\u00b018\u2032W\ufeff / \ufeff38.98\u00b0N 114.30\u00b0W\ufeff / 38.98; -114.30\ufeff (Great Basin)", 
       "totals": [
         {
           "count": 9, 
@@ -19490,11 +19637,18 @@
           "name": "BirdingNVildlife Viewing"
         }
       ], 
+      "Location": "Nevada 38\u00b059\u2032N 114\u00b018\u2032W\ufeff / \ufeff38.98\u00b0N 114.30\u00b0W\ufeff / 38.98; -114.30\ufeff (Great Basin)", 
+      "date": 1986, 
+      "acres": 77180.0, 
       "map_count": 1, 
       "id": "great-basin", 
       "Description": "Based around Nevada's second tallest mountain, Wheeler Peak, Great Basin National Park contains 5,000-year-old bristlecone pines, a rock glacier, and the limestone Lehman Caves. It also enjoys some of the country's darkest night skies. Animals which call the park home include Townsend's big-eared bat, pronghorn, and Bonneville cutthroat trout."
     }, 
     {
+      "loc": [
+        37.733, 
+        -105.517
+      ], 
       "symbol_count": 22, 
       "Name": "Great Sand Dunes", 
       "Recreation Visitors (2014)": "271,774", 
@@ -19782,7 +19936,6 @@
           ]
         }
       ], 
-      "Location": "Colorado 37\u00b044\u2032N 105\u00b031\u2032W\ufeff / \ufeff37.73\u00b0N 105.51\u00b0W\ufeff / 37.73; -105.51\ufeff (Great Sand Dunes)", 
       "totals": [
         {
           "count": 5, 
@@ -19830,11 +19983,18 @@
           "name": "Sewer hookup"
         }
       ], 
+      "Location": "Colorado 37\u00b044\u2032N 105\u00b031\u2032W\ufeff / \ufeff37.73\u00b0N 105.51\u00b0W\ufeff / 37.73; -105.51\ufeff (Great Sand Dunes)", 
+      "date": 2004, 
+      "acres": 42983.74, 
       "map_count": 1, 
       "id": "great-sand-dunes", 
       "Description": "The tallest sand dunes in North America, up to 750 feet (230\u00a0m) tall, were formed by deposits of the ancient Rio Grande in the San Luis Valley. Abutting a variety of grasslands, shrublands, and wetlands, the park also has alpine lakes, six 13,000-foot mountains, and old-growth forests."
     }, 
     {
+      "loc": [
+        35.683, 
+        -83.533
+      ], 
       "symbol_count": 37, 
       "Name": "Great Smoky Mountains", 
       "Recreation Visitors (2014)": "10,099,276", 
@@ -20267,7 +20427,6 @@
           ]
         }
       ], 
-      "Location": "Tennessee, North Carolina 35\u00b041\u2032N 83\u00b032\u2032W\ufeff / \ufeff35.68\u00b0N 83.53\u00b0W\ufeff / 35.68; -83.53\ufeff (Great Smoky Mountains)", 
       "totals": [
         {
           "count": 11, 
@@ -20310,11 +20469,18 @@
           "name": "Audio tour"
         }
       ], 
+      "Location": "Tennessee, North Carolina 35\u00b041\u2032N 83\u00b032\u2032W\ufeff / \ufeff35.68\u00b0N 83.53\u00b0W\ufeff / 35.68; -83.53\ufeff (Great Smoky Mountains)", 
+      "date": 1934, 
+      "acres": 521490.13, 
       "map_count": 1, 
       "id": "great-smoky-mountains", 
       "Description": "The Great Smoky Mountains, part of the Appalachian Mountains, span a wide range of elevations, making them home to over 400 vertebrate species, 100 tree species, and 5000 plant species. Hiking is the park's main attraction, with over 800 miles (1,300\u00a0km) of trails, including 70 miles (110\u00a0km) of the Appalachian Trail. Other activities include fishing, horseback riding, and touring nearly 80 historic structures.[34] (WHS)"
     }, 
     {
+      "loc": [
+        31.917, 
+        -104.867
+      ], 
       "symbol_count": 29, 
       "Name": "Guadalupe Mountains", 
       "Recreation Visitors (2014)": "166,868", 
@@ -20685,7 +20851,6 @@
           ]
         }
       ], 
-      "Location": "Texas 31\u00b055\u2032N 104\u00b052\u2032W\ufeff / \ufeff31.92\u00b0N 104.87\u00b0W\ufeff / 31.92; -104.87\ufeff (Guadalupe Mountains)", 
       "totals": [
         {
           "count": 9, 
@@ -20723,11 +20888,18 @@
           "name": "Parking"
         }
       ], 
+      "Location": "Texas 31\u00b055\u2032N 104\u00b052\u2032W\ufeff / \ufeff31.92\u00b0N 104.87\u00b0W\ufeff / 31.92; -104.87\ufeff (Guadalupe Mountains)", 
+      "date": 1966, 
+      "acres": 86415.97, 
       "map_count": 2, 
       "id": "guadalupe-mountains", 
       "Description": "This park boasts Guadalupe Peak, the highest point in Texas; the scenic McKittrick Canyon filled with bigtooth maples; a corner of the arid Chihuahuan Desert; and a fossilized coral reef from the Permian era."
     }, 
     {
+      "loc": [
+        20.717, 
+        -156.167
+      ], 
       "symbol_count": 0, 
       "Name": "Haleakal\u0101", 
       "Recreation Visitors (2014)": "1,142,040", 
@@ -20736,13 +20908,19 @@
       "Area": "29,093.67 acres (117.7\u00a0km2)", 
       "name": "Haleakal\u0101", 
       "maps": [], 
-      "Location": "Hawaii 20\u00b043\u2032N 156\u00b010\u2032W\ufeff / \ufeff20.72\u00b0N 156.17\u00b0W\ufeff / 20.72; -156.17\ufeff (Haleakala)", 
       "totals": [], 
+      "Location": "Hawaii 20\u00b043\u2032N 156\u00b010\u2032W\ufeff / \ufeff20.72\u00b0N 156.17\u00b0W\ufeff / 20.72; -156.17\ufeff (Haleakala)", 
+      "date": 1916, 
+      "acres": 29093.67, 
       "map_count": 0, 
       "id": "haleakal\u0101", 
       "Description": "The Haleakal\u0101 volcano on Maui features a very large crater with numerous cinder cones, Hosmer's Grove of alien trees, the Kipahulu section's scenic pools of freshwater fish, and the native Hawaiian goose. It is home to the greatest number of endangered species within a U.S. National Park."
     }, 
     {
+      "loc": [
+        19.383, 
+        -155.2
+      ], 
       "symbol_count": 86, 
       "Name": "Hawaii Volcanoes", 
       "Recreation Visitors (2014)": "1,693,005", 
@@ -21786,7 +21964,6 @@
           ]
         }
       ], 
-      "Location": "Hawaii 19\u00b023\u2032N 155\u00b012\u2032W\ufeff / \ufeff19.38\u00b0N 155.20\u00b0W\ufeff / 19.38; -155.20\ufeff (Hawaii Volcanoes)", 
       "totals": [
         {
           "count": 14, 
@@ -21869,11 +22046,18 @@
           "name": "Store"
         }
       ], 
+      "Location": "Hawaii 19\u00b023\u2032N 155\u00b012\u2032W\ufeff / \ufeff19.38\u00b0N 155.20\u00b0W\ufeff / 19.38; -155.20\ufeff (Hawaii Volcanoes)", 
+      "date": 1916, 
+      "acres": 323431.38, 
       "map_count": 3, 
       "id": "hawaii-volcanoes", 
       "Description": "This park on the Big Island protects the famous K\u012blauea and Mauna Loa volcanoes, two of the world's most active geological features. Diverse ecosystems range from tropical forests at sea level to barren lava beds at more than 13,000 feet (4,000\u00a0m).[37] (WHS)"
     }, 
     {
+      "loc": [
+        34.517, 
+        -93.05
+      ], 
       "symbol_count": 12, 
       "Name": "Hot Springs", 
       "Recreation Visitors (2014)": "1,424,484", 
@@ -22036,7 +22220,6 @@
           ]
         }
       ], 
-      "Location": "Arkansas 34\u00b031\u2032N 93\u00b003\u2032W\ufeff / \ufeff34.51\u00b0N 93.05\u00b0W\ufeff / 34.51; -93.05\ufeff (Hot Springs)", 
       "totals": [
         {
           "count": 5, 
@@ -22059,11 +22242,18 @@
           "name": "Restrooms"
         }
       ], 
+      "Location": "Arkansas 34\u00b031\u2032N 93\u00b003\u2032W\ufeff / \ufeff34.51\u00b0N 93.05\u00b0W\ufeff / 34.51; -93.05\ufeff (Hot Springs)", 
+      "date": 1921, 
+      "acres": 5549.75, 
       "map_count": 1, 
       "id": "hot-springs", 
       "Description": "Hot Springs was established by act of Congress as a federal reserve on April 20, 1832, as such it is the oldest park managed by the National Park Service. Congress changed the reserve's designation to National Park on March 4, 1921 after the National Park Service was established in 1916. Hot Springs is the smallest and only National Park in an urban area and is based around natural hot springs that flow out of the low lying Ouachita Mountains. The springs provide opportunities for relaxation in an historic setting; Bathhouse Row preserves numerous examples of 19th-century architecture."
     }, 
     {
+      "loc": [
+        48.1, 
+        -88.55
+      ], 
       "symbol_count": 37, 
       "Name": "Isle Royale", 
       "Recreation Visitors (2014)": "14,560", 
@@ -22491,7 +22681,6 @@
           ]
         }
       ], 
-      "Location": "Michigan 48\u00b006\u2032N 88\u00b033\u2032W\ufeff / \ufeff48.10\u00b0N 88.55\u00b0W\ufeff / 48.10; -88.55\ufeff (Isle Royale)", 
       "totals": [
         {
           "count": 18, 
@@ -22529,11 +22718,18 @@
           "name": "Lodging"
         }
       ], 
+      "Location": "Michigan 48\u00b006\u2032N 88\u00b033\u2032W\ufeff / \ufeff48.10\u00b0N 88.55\u00b0W\ufeff / 48.10; -88.55\ufeff (Isle Royale)", 
+      "date": 1940, 
+      "acres": 571790.11, 
       "map_count": 1, 
       "id": "isle-royale", 
       "Description": "The largest island in Lake Superior is a place of isolation and wilderness. Along with its many shipwrecks, waterways, and hiking trails, the park also includes over 400 smaller islands within 4.5 miles (7.2\u00a0km) of its shores. There are only 20 mammal species on the entire island, though the relationship between its wolf and moose populations is especially unique."
     }, 
     {
+      "loc": [
+        33.783, 
+        -115.9
+      ], 
       "symbol_count": 70, 
       "Name": "Joshua Tree", 
       "Recreation Visitors (2014)": "1,589,904", 
@@ -23367,7 +23563,6 @@
           ]
         }
       ], 
-      "Location": "California 33\u00b047\u2032N 115\u00b054\u2032W\ufeff / \ufeff33.79\u00b0N 115.90\u00b0W\ufeff / 33.79; -115.90\ufeff (Joshua Tree)", 
       "totals": [
         {
           "count": 12, 
@@ -23440,11 +23635,18 @@
           "name": "Wine"
         }
       ], 
+      "Location": "California 33\u00b047\u2032N 115\u00b054\u2032W\ufeff / \ufeff33.79\u00b0N 115.90\u00b0W\ufeff / 33.79; -115.90\ufeff (Joshua Tree)", 
+      "date": 1994, 
+      "acres": 789745.47, 
       "map_count": 3, 
       "id": "joshua-tree", 
       "Description": "Covering large areas of the Colorado and Mojave Deserts and the Little San Bernardino Mountains, this exotic desert landscape is populated by vast stands of the famous Joshua tree. Great changes in elevation reveal starkly contrasting environments including bleached sand dunes, dry lakes, rugged mountains, and maze-like clusters of monzogranite monoliths."
     }, 
     {
+      "loc": [
+        58.5, 
+        -155.0
+      ], 
       "symbol_count": 50, 
       "Name": "Katmai", 
       "Recreation Visitors (2014)": "30,896", 
@@ -24075,7 +24277,6 @@
           ]
         }
       ], 
-      "Location": "Alaska 58\u00b030\u2032N 155\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 155.00\u00b0W\ufeff / 58.50; -155.00\ufeff (Katmai)", 
       "totals": [
         {
           "count": 11, 
@@ -24128,11 +24329,18 @@
           "name": "Boat launch"
         }
       ], 
+      "Location": "Alaska 58\u00b030\u2032N 155\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 155.00\u00b0W\ufeff / 58.50; -155.00\ufeff (Katmai)", 
+      "date": 1980, 
+      "acres": 3674529.68, 
       "map_count": 2, 
       "id": "katmai", 
       "Description": "This park on the Alaska Peninsula protects the Valley of Ten Thousand Smokes, an ash flow formed by the 1912 eruption of Novarupta, as well as Mount Katmai. Over 2,000 grizzly bears come here each year to catch spawning salmon. Other wildlife includes caribou, wolves, moose, and wolverines."
     }, 
     {
+      "loc": [
+        59.917, 
+        -149.65
+      ], 
       "symbol_count": 2, 
       "Name": "Kenai Fjords", 
       "Recreation Visitors (2014)": "270,666", 
@@ -24185,7 +24393,6 @@
           ]
         }
       ], 
-      "Location": "Alaska 59\u00b055\u2032N 149\u00b039\u2032W\ufeff / \ufeff59.92\u00b0N 149.65\u00b0W\ufeff / 59.92; -149.65\ufeff (Kenai Fjords)", 
       "totals": [
         {
           "count": 1, 
@@ -24198,11 +24405,18 @@
           "name": "Safety/Caution/Alerts"
         }
       ], 
+      "Location": "Alaska 59\u00b055\u2032N 149\u00b039\u2032W\ufeff / \ufeff59.92\u00b0N 149.65\u00b0W\ufeff / 59.92; -149.65\ufeff (Kenai Fjords)", 
+      "date": 1980, 
+      "acres": 669982.99, 
       "map_count": 1, 
       "id": "kenai-fjords", 
       "Description": "Near Seward on the Kenai Peninsula, this park protects the Harding Icefield and at least 38 glaciers and fjords stemming from it. The only area accessible to the public by road is Exit Glacier; the rest must be viewed or reached from boat tours."
     }, 
     {
+      "loc": [
+        36.8, 
+        -118.55
+      ], 
       "symbol_count": 79, 
       "Name": "Kings Canyon", 
       "Recreation Visitors (2014)": "502,268", 
@@ -25078,7 +25292,6 @@
           ]
         }
       ], 
-      "Location": "California 36\u00b048\u2032N 118\u00b033\u2032W\ufeff / \ufeff36.80\u00b0N 118.55\u00b0W\ufeff / 36.80; -118.55\ufeff (Kings Canyon)", 
       "totals": [
         {
           "count": 30, 
@@ -25121,11 +25334,18 @@
           "name": "Safety/Caution/Alerts"
         }
       ], 
+      "Location": "California 36\u00b048\u2032N 118\u00b033\u2032W\ufeff / \ufeff36.80\u00b0N 118.55\u00b0W\ufeff / 36.80; -118.55\ufeff (Kings Canyon)", 
+      "date": 1940, 
+      "acres": 461901.2, 
       "map_count": 2, 
       "id": "kings-canyon", 
       "Description": "Home to several giant sequoia groves and the General Grant Tree, the world's second largest, this park also features part of the Kings River, sculptor of the dramatic granite canyon that is its namesake, and the San Joaquin River, as well as Boyden Cave."
     }, 
     {
+      "loc": [
+        67.55, 
+        -159.283
+      ], 
       "symbol_count": 0, 
       "Name": "Kobuk Valley", 
       "Recreation Visitors (2014)": "16,875", 
@@ -25134,13 +25354,19 @@
       "Area": "1,750,716.50 acres (7,084.9\u00a0km2)", 
       "name": "Kobuk Valley", 
       "maps": [], 
-      "Location": "Alaska 67\u00b033\u2032N 159\u00b017\u2032W\ufeff / \ufeff67.55\u00b0N 159.28\u00b0W\ufeff / 67.55; -159.28\ufeff (Kobuk Valley)", 
       "totals": [], 
+      "Location": "Alaska 67\u00b033\u2032N 159\u00b017\u2032W\ufeff / \ufeff67.55\u00b0N 159.28\u00b0W\ufeff / 67.55; -159.28\ufeff (Kobuk Valley)", 
+      "date": 1980, 
+      "acres": 1750716.5, 
       "map_count": 0, 
       "id": "kobuk-valley", 
       "Description": "Kobuk Valley protects 61 miles (98\u00a0km) of the Kobuk River and three regions of sand dunes. Created by glaciers, the Great Kobuk, Little Kobuk, and Hunt River Sand Dunes can reach 100 feet (30\u00a0m) high and 100\u00a0\u00b0F (38\u00a0\u00b0C), and they are the largest dunes in the Arctic. Twice a year, half a million caribou migrate through the dunes and across river bluffs that expose well-preserved ice age fossils."
     }, 
     {
+      "loc": [
+        60.967, 
+        -153.417
+      ], 
       "symbol_count": 6, 
       "Name": "Lake Clark", 
       "Recreation Visitors (2014)": "16,100", 
@@ -25228,7 +25454,6 @@
           ]
         }
       ], 
-      "Location": "Alaska 60\u00b058\u2032N 153\u00b025\u2032W\ufeff / \ufeff60.97\u00b0N 153.42\u00b0W\ufeff / 60.97; -153.42\ufeff (Lake Clark)", 
       "totals": [
         {
           "count": 6, 
@@ -25236,11 +25461,18 @@
           "name": "Ranger station"
         }
       ], 
+      "Location": "Alaska 60\u00b058\u2032N 153\u00b025\u2032W\ufeff / \ufeff60.97\u00b0N 153.42\u00b0W\ufeff / 60.97; -153.42\ufeff (Lake Clark)", 
+      "date": 1980, 
+      "acres": 2619733.21, 
       "map_count": 1, 
       "id": "lake-clark", 
       "Description": "The region around Lake Clark features four active volcanoes, including Mount Redoubt, as well as an abundance of rivers, glaciers, and waterfalls. Temperate rainforests, a tundra plateau, and three mountain ranges fill in the remaining landscape."
     }, 
     {
+      "loc": [
+        40.483, 
+        -121.517
+      ], 
       "symbol_count": 38, 
       "Name": "Lassen Volcanic", 
       "Recreation Visitors (2014)": "432,977", 
@@ -25683,7 +25915,6 @@
           ]
         }
       ], 
-      "Location": "California 40\u00b029\u2032N 121\u00b031\u2032W\ufeff / \ufeff40.49\u00b0N 121.51\u00b0W\ufeff / 40.49; -121.51\ufeff (Lassen Volcanic)", 
       "totals": [
         {
           "count": 7, 
@@ -25726,11 +25957,18 @@
           "name": "Safety/Caution/Alerts"
         }
       ], 
+      "Location": "California 40\u00b029\u2032N 121\u00b031\u2032W\ufeff / \ufeff40.49\u00b0N 121.51\u00b0W\ufeff / 40.49; -121.51\ufeff (Lassen Volcanic)", 
+      "date": 1916, 
+      "acres": 106372.36, 
       "map_count": 1, 
       "id": "lassen-volcanic", 
       "Description": "Lassen Peak, the largest plug dome volcano in the world, is joined by all three other types of volcanoes in this park: shield, cinder dome, and composite. Though Lassen itself last erupted in 1915, most of the rest of the park is continuously active: numerous hydrothermal features, including fumaroles, boiling pools, and bubbling mud pots, are heated by molten rock from beneath the peak."
     }, 
     {
+      "loc": [
+        37.183, 
+        -86.1
+      ], 
       "symbol_count": 22, 
       "Name": "Mammoth Cave", 
       "Recreation Visitors (2014)": "522,628", 
@@ -25993,7 +26231,6 @@
           ]
         }
       ], 
-      "Location": "Kentucky 37\u00b011\u2032N 86\u00b006\u2032W\ufeff / \ufeff37.18\u00b0N 86.10\u00b0W\ufeff / 37.18; -86.10\ufeff (Mammoth Cave)", 
       "totals": [
         {
           "count": 7, 
@@ -26016,11 +26253,18 @@
           "name": "Campground"
         }
       ], 
+      "Location": "Kentucky 37\u00b011\u2032N 86\u00b006\u2032W\ufeff / \ufeff37.18\u00b0N 86.10\u00b0W\ufeff / 37.18; -86.10\ufeff (Mammoth Cave)", 
+      "date": 1941, 
+      "acres": 52830.19, 
       "map_count": 1, 
       "id": "mammoth-cave", 
       "Description": "With more than 400 miles (640\u00a0km) of passageways explored, Mammoth Cave is by far the world's longest cave system. Subterranean wildlife includes eight bat species, Kentucky cave shrimp, Northern cavefish, and cave salamanders. Above ground, the park provides recreation on the Green River, 70 miles of hiking trails, and plenty of sinkholes and springs.[47] (WHS)"
     }, 
     {
+      "loc": [
+        37.183, 
+        -108.483
+      ], 
       "symbol_count": 43, 
       "Name": "Mesa Verde", 
       "Recreation Visitors (2014)": "501,563", 
@@ -26518,7 +26762,6 @@
           ]
         }
       ], 
-      "Location": "Colorado 37\u00b011\u2032N 108\u00b029\u2032W\ufeff / \ufeff37.18\u00b0N 108.49\u00b0W\ufeff / 37.18; -108.49\ufeff (Mesa Verde)", 
       "totals": [
         {
           "count": 14, 
@@ -26566,11 +26809,18 @@
           "name": "Gas station"
         }
       ], 
+      "Location": "Colorado 37\u00b011\u2032N 108\u00b029\u2032W\ufeff / \ufeff37.18\u00b0N 108.49\u00b0W\ufeff / 37.18; -108.49\ufeff (Mesa Verde)", 
+      "date": 1906, 
+      "acres": 52121.93, 
       "map_count": 1, 
       "id": "mesa-verde", 
       "Description": "This area constitutes over 4,000 archaeological sites of the Ancestral Puebloan people, who lived here and elsewhere in the Four Corners region for at least 700 years. Cliff dwellings built in the 12th and 13th centuries include the famous Cliff Palace, which has 150 rooms and 23 kivas, and the Balcony House, with its many passages and tunnels.[48] (WHS)"
     }, 
     {
+      "loc": [
+        46.85, 
+        -121.75
+      ], 
       "symbol_count": 77, 
       "Name": "Mount Rainier", 
       "Recreation Visitors (2014)": "1,264,259", 
@@ -27436,7 +27686,6 @@
           ]
         }
       ], 
-      "Location": "Washington 46\u00b051\u2032N 121\u00b045\u2032W\ufeff / \ufeff46.85\u00b0N 121.75\u00b0W\ufeff / 46.85; -121.75\ufeff (Mount Rainier)", 
       "totals": [
         {
           "count": 20, 
@@ -27484,11 +27733,18 @@
           "name": "Safety/Caution/Alerts"
         }
       ], 
+      "Location": "Washington 46\u00b051\u2032N 121\u00b045\u2032W\ufeff / \ufeff46.85\u00b0N 121.75\u00b0W\ufeff / 46.85; -121.75\ufeff (Mount Rainier)", 
+      "date": 1899, 
+      "acres": 235625.0, 
       "map_count": 2, 
       "id": "mount-rainier", 
       "Description": "Mount Rainier, an active stratovolcano, is the most prominent peak in the Cascades, and is covered by 26 named glaciers including Carbon Glacier and Emmons Glacier, the largest in the contiguous United States. The mountain is popular for climbing, and more than half of the park is covered by subalpine and alpine forests and meadows seasonally in bloom with wildflowers. Paradise on the south slope is one of the snowiest places in the world, and the Longmire visitor center is the start of the Wonderland Trail, which encircles the mountain."
     }, 
     {
+      "loc": [
+        48.7, 
+        -121.2
+      ], 
       "symbol_count": 31, 
       "Name": "North Cascades", 
       "Recreation Visitors (2014)": "23,865", 
@@ -27836,7 +28092,6 @@
           ]
         }
       ], 
-      "Location": "Washington 48\u00b042\u2032N 121\u00b012\u2032W\ufeff / \ufeff48.70\u00b0N 121.20\u00b0W\ufeff / 48.70; -121.20\ufeff (North Cascades)", 
       "totals": [
         {
           "count": 18, 
@@ -27854,11 +28109,18 @@
           "name": "Picnic area"
         }
       ], 
+      "Location": "Washington 48\u00b042\u2032N 121\u00b012\u2032W\ufeff / \ufeff48.70\u00b0N 121.20\u00b0W\ufeff / 48.70; -121.20\ufeff (North Cascades)", 
+      "date": 1968, 
+      "acres": 504780.94, 
       "map_count": 1, 
       "id": "north-cascades", 
       "Description": "This complex encompasses two units of the national park itself as well as the Ross Lake and Lake Chelan National Recreation Areas. The highly glaciated mountains are spectacular examples of Cascade geology; popular hiking and climbing areas include Cascade Pass, Mount Shuksan, Mount Triumph, and Eldorado Peak."
     }, 
     {
+      "loc": [
+        47.967, 
+        -123.5
+      ], 
       "symbol_count": 84, 
       "Name": "Olympic", 
       "Recreation Visitors (2014)": "3,243,872", 
@@ -28761,7 +29023,6 @@
           ]
         }
       ], 
-      "Location": "Washington 47\u00b058\u2032N 123\u00b030\u2032W\ufeff / \ufeff47.97\u00b0N 123.50\u00b0W\ufeff / 47.97; -123.50\ufeff (Olympic)", 
       "totals": [
         {
           "count": 21, 
@@ -28804,11 +29065,18 @@
           "name": "Lodging"
         }
       ], 
+      "Location": "Washington 47\u00b058\u2032N 123\u00b030\u2032W\ufeff / \ufeff47.97\u00b0N 123.50\u00b0W\ufeff / 47.97; -123.50\ufeff (Olympic)", 
+      "date": 1938, 
+      "acres": 922650.86, 
       "map_count": 1, 
       "id": "olympic", 
       "Description": "Situated on the Olympic Peninsula, this park straddles a diversity of ecosystems from Pacific shoreline to temperate rainforests to the alpine slopes of Mount Olympus. The scenic Olympic Mountains overlook the Hoh Rain Forest and Quinault Rain Forest, the wettest area in the continental United States.[51] (WHS)"
     }, 
     {
+      "loc": [
+        35.067, 
+        -109.783
+      ], 
       "symbol_count": 56, 
       "Name": "Petrified Forest", 
       "Recreation Visitors (2014)": "836,799", 
@@ -29479,7 +29747,6 @@
           ]
         }
       ], 
-      "Location": "Arizona 35\u00b004\u2032N 109\u00b047\u2032W\ufeff / \ufeff35.07\u00b0N 109.78\u00b0W\ufeff / 35.07; -109.78\ufeff (Petrified Forest)", 
       "totals": [
         {
           "count": 13, 
@@ -29527,11 +29794,18 @@
           "name": "Drinking water"
         }
       ], 
+      "Location": "Arizona 35\u00b004\u2032N 109\u00b047\u2032W\ufeff / \ufeff35.07\u00b0N 109.78\u00b0W\ufeff / 35.07; -109.78\ufeff (Petrified Forest)", 
+      "date": 1962, 
+      "acres": 93532.57, 
       "map_count": 2, 
       "id": "petrified-forest", 
       "Description": "This portion of the Chinle Formation has a great concentration of 225-million-year-old petrified wood. The surrounding Painted Desert features eroded cliffs of wonderfully red-hued volcanic rock called bentonite. There are also dinosaur fossils and over 350 Native American sites."
     }, 
     {
+      "loc": [
+        36.483, 
+        -121.167
+      ], 
       "symbol_count": 31, 
       "Name": "Pinnacles", 
       "Recreation Visitors (2014)": "196,635", 
@@ -29932,7 +30206,6 @@
           ]
         }
       ], 
-      "Location": "California 36\u00b029\u2032N 121\u00b010\u2032W\ufeff / \ufeff36.48\u00b0N 121.16\u00b0W\ufeff / 36.48; -121.16\ufeff (Pinnacles)", 
       "totals": [
         {
           "count": 9, 
@@ -29965,11 +30238,18 @@
           "name": "Campground"
         }
       ], 
+      "Location": "California 36\u00b029\u2032N 121\u00b010\u2032W\ufeff / \ufeff36.48\u00b0N 121.16\u00b0W\ufeff / 36.48; -121.16\ufeff (Pinnacles)", 
+      "date": 2013, 
+      "acres": 26605.73, 
       "map_count": 2, 
       "id": "pinnacles", 
       "Description": "Named for the eroded leftovers of a portion of an extinct volcano, the park is famous for its massive black and gold monoliths of andesite and rhyolite, which are popular with rock climbers, and a hiker's paradise of quiet trails crossing scenic Coast Range wilderness. The park is home to the endangered California condor (Gymnogyps californianus) and one of the few locations in the world where these extremely rare birds can be seen in the wild. Pinnacles also supports a dense population of prairie falcons, and more than 13 species of bat which populate its talus caves."
     }, 
     {
+      "loc": [
+        41.3, 
+        -124.0
+      ], 
       "symbol_count": 72, 
       "Name": "Redwood", 
       "Recreation Visitors (2014)": "429,166", 
@@ -30753,7 +31033,6 @@
           "totals": []
         }
       ], 
-      "Location": "California 41\u00b018\u2032N 124\u00b000\u2032W\ufeff / \ufeff41.30\u00b0N 124.00\u00b0W\ufeff / 41.30; -124.00\ufeff (Redwood)", 
       "totals": [
         {
           "count": 21, 
@@ -30786,11 +31065,18 @@
           "name": "Boat launch"
         }
       ], 
+      "Location": "California 41\u00b018\u2032N 124\u00b000\u2032W\ufeff / \ufeff41.30\u00b0N 124.00\u00b0W\ufeff / 41.30; -124.00\ufeff (Redwood)", 
+      "date": 1968, 
+      "acres": 112512.05, 
       "map_count": 2, 
       "id": "redwood", 
       "Description": "This park and the co-managed state parks protect almost half of all remaining coastal redwoods, the tallest trees on earth. There are three large river systems in this very seismically active area, and 37 miles (60\u00a0km) of protected coastline reveal tide pools and seastacks. The prairie, estuary, coast, river, and forest ecosystems contain a huge variety of animal and plant species.[54] (WHS)"
     }, 
     {
+      "loc": [
+        40.4, 
+        -105.583
+      ], 
       "symbol_count": 0, 
       "Name": "Rocky Mountain", 
       "Recreation Visitors (2014)": "3,434,751", 
@@ -30799,13 +31085,19 @@
       "Area": "265,828.41 acres (1,075.8\u00a0km2)", 
       "name": "Rocky Mountain", 
       "maps": [], 
-      "Location": "Colorado 40\u00b024\u2032N 105\u00b035\u2032W\ufeff / \ufeff40.40\u00b0N 105.58\u00b0W\ufeff / 40.40; -105.58\ufeff (Rocky Mountain)", 
       "totals": [], 
+      "Location": "Colorado 40\u00b024\u2032N 105\u00b035\u2032W\ufeff / \ufeff40.40\u00b0N 105.58\u00b0W\ufeff / 40.40; -105.58\ufeff (Rocky Mountain)", 
+      "date": 1915, 
+      "acres": 265828.41, 
       "map_count": 0, 
       "id": "rocky-mountain", 
       "Description": "Bisected north to south by the Continental Divide, this portion of the Rockies has ecosystems varying from over 150 riparian lakes to montane and subalpine forests to treeless alpine tundra. Wildlife including mule deer, bighorn sheep, black bears, and cougars inhabit its igneous mountains and glacier valleys. Longs Peak, a classic Colorado fourteener, and the scenic Bear Lake are popular destinations, as well as the famous Trail Ridge Road, which reaches an elevation of more than 12,000 feet (3,700\u00a0m)."
     }, 
     {
+      "loc": [
+        32.25, 
+        -110.5
+      ], 
       "symbol_count": 12, 
       "Name": "Saguaro", 
       "Recreation Visitors (2014)": "673,572", 
@@ -30991,7 +31283,6 @@
           ]
         }
       ], 
-      "Location": "Arizona 32\u00b015\u2032N 110\u00b030\u2032W\ufeff / \ufeff32.25\u00b0N 110.50\u00b0W\ufeff / 32.25; -110.50\ufeff (Saguaro)", 
       "totals": [
         {
           "count": 6, 
@@ -31014,11 +31305,18 @@
           "name": "Campground"
         }
       ], 
+      "Location": "Arizona 32\u00b015\u2032N 110\u00b030\u2032W\ufeff / \ufeff32.25\u00b0N 110.50\u00b0W\ufeff / 32.25; -110.50\ufeff (Saguaro)", 
+      "date": 1994, 
+      "acres": 91439.71, 
       "map_count": 2, 
       "id": "saguaro", 
       "Description": "Split into the separate Rincon Mountain and Tucson Mountain districts, this park is evidence that the dry Sonoran Desert is still home to a great variety of life spanning six biotic communities. Beyond the namesake giant saguaro cacti, there are barrel cacti, chollas, and prickly pears, as well as lesser long-nosed bats, spotted owls, and javelinas."
     }, 
     {
+      "loc": [
+        36.433, 
+        -118.683
+      ], 
       "symbol_count": 0, 
       "Name": "Sequoia", 
       "Recreation Visitors (2014)": "1,039,137", 
@@ -31027,13 +31325,19 @@
       "Area": "404,051.17 acres (1,635.1\u00a0km2)", 
       "name": "Sequoia", 
       "maps": [], 
-      "Location": "California 36\u00b026\u2032N 118\u00b041\u2032W\ufeff / \ufeff36.43\u00b0N 118.68\u00b0W\ufeff / 36.43; -118.68\ufeff (Sequoia)", 
       "totals": [], 
+      "Location": "California 36\u00b026\u2032N 118\u00b041\u2032W\ufeff / \ufeff36.43\u00b0N 118.68\u00b0W\ufeff / 36.43; -118.68\ufeff (Sequoia)", 
+      "date": 1890, 
+      "acres": 404051.17, 
       "map_count": 0, 
       "id": "sequoia", 
       "Description": "This park protects the Giant Forest, which boasts some of the world's largest trees, the General Sherman being the largest in the park. It also has over 240 caves, a scenic segment of the Sierra Nevada including the tallest mountain in the contiguous United States, and Moro Rock, a photogenic granite dome."
     }, 
     {
+      "loc": [
+        38.533, 
+        -78.35
+      ], 
       "symbol_count": 68, 
       "Name": "Shenandoah", 
       "Recreation Visitors (2014)": "1,255,321", 
@@ -31814,7 +32118,6 @@
           ]
         }
       ], 
-      "Location": "Virginia 38\u00b032\u2032N 78\u00b021\u2032W\ufeff / \ufeff38.53\u00b0N 78.35\u00b0W\ufeff / 38.53; -78.35\ufeff (Shenandoah)", 
       "totals": [
         {
           "count": 14, 
@@ -31862,11 +32165,18 @@
           "name": "Safety/Caution/Alerts"
         }
       ], 
+      "Location": "Virginia 38\u00b032\u2032N 78\u00b021\u2032W\ufeff / \ufeff38.53\u00b0N 78.35\u00b0W\ufeff / 38.53; -78.35\ufeff (Shenandoah)", 
+      "date": 1926, 
+      "acres": 199045.23, 
       "map_count": 2, 
       "id": "shenandoah", 
       "Description": "Shenandoah's Blue Ridge Mountains are covered by sprawling hardwood forests that teem with tens of thousands of animals. The Skyline Drive and Appalachian Trail run the entire length of this narrow park, along with more than 500 miles (800\u00a0km) of hiking trails passing scenic overlooks and cataracts of the Shenandoah River."
     }, 
     {
+      "loc": [
+        46.967, 
+        -103.45
+      ], 
       "symbol_count": 11, 
       "Name": "Theodore Roosevelt", 
       "Recreation Visitors (2014)": "559,580", 
@@ -32042,7 +32352,6 @@
           ]
         }
       ], 
-      "Location": "North Dakota 46\u00b058\u2032N 103\u00b027\u2032W\ufeff / \ufeff46.97\u00b0N 103.45\u00b0W\ufeff / 46.97; -103.45\ufeff (Theodore Roosevelt)", 
       "totals": [
         {
           "count": 5, 
@@ -32065,11 +32374,18 @@
           "name": "Safety/Caution/Alerts"
         }
       ], 
+      "Location": "North Dakota 46\u00b058\u2032N 103\u00b027\u2032W\ufeff / \ufeff46.97\u00b0N 103.45\u00b0W\ufeff / 46.97; -103.45\ufeff (Theodore Roosevelt)", 
+      "date": 1978, 
+      "acres": 70446.89, 
       "map_count": 2, 
       "id": "theodore-roosevelt", 
       "Description": "This region that enticed and influenced President Theodore Roosevelt consists of a park of three units in the northern badlands. Besides Roosevelt's historic cabin, there are numerous scenic drives and backcountry hiking opportunities. Wildlife includes American bison, pronghorn, bighorn sheep, and wild horses."
     }, 
     {
+      "loc": [
+        18.333, 
+        -64.733
+      ], 
       "symbol_count": 21, 
       "Name": "Virgin Islands", 
       "Recreation Visitors (2014)": "426,930", 
@@ -32332,7 +32648,6 @@
           ]
         }
       ], 
-      "Location": "United States Virgin Islands 18\u00b020\u2032N 64\u00b044\u2032W\ufeff / \ufeff18.33\u00b0N 64.73\u00b0W\ufeff / 18.33; -64.73\ufeff (Virgin Islands)", 
       "totals": [
         {
           "count": 7, 
@@ -32365,11 +32680,18 @@
           "name": "Campground"
         }
       ], 
+      "Location": "United States Virgin Islands 18\u00b020\u2032N 64\u00b044\u2032W\ufeff / \ufeff18.33\u00b0N 64.73\u00b0W\ufeff / 18.33; -64.73\ufeff (Virgin Islands)", 
+      "date": 1956, 
+      "acres": 14688.87, 
       "map_count": 1, 
       "id": "virgin-islands", 
       "Description": "The island of Saint John has rich human and natural histories. Ta\u00edno archaeological sites and ruins of sugar plantations from Columbus' time litter the coast. Past the pristine beaches are mangrove forests, seagrass beds, coral reefs, and vast algal plains."
     }, 
     {
+      "loc": [
+        48.5, 
+        -92.883
+      ], 
       "symbol_count": 39, 
       "Name": "Voyageurs", 
       "Recreation Visitors (2014)": "239,160", 
@@ -32827,7 +33149,6 @@
           ]
         }
       ], 
-      "Location": "Minnesota 48\u00b030\u2032N 92\u00b053\u2032W\ufeff / \ufeff48.50\u00b0N 92.88\u00b0W\ufeff / 48.50; -92.88\ufeff (Voyageurs)", 
       "totals": [
         {
           "count": 12, 
@@ -32875,11 +33196,18 @@
           "name": "Gas station"
         }
       ], 
+      "Location": "Minnesota 48\u00b030\u2032N 92\u00b053\u2032W\ufeff / \ufeff48.50\u00b0N 92.88\u00b0W\ufeff / 48.50; -92.88\ufeff (Voyageurs)", 
+      "date": 1971, 
+      "acres": 218200.17, 
       "map_count": 1, 
       "id": "voyageurs", 
       "Description": "This park protecting four lakes near the Canada\u2013US border is a site for canoeing, kayaking, and fishing, and preserves a history populated by Ojibwe Native Americans, French fur traders called voyageurs, and ambitious gold-miners. Formed by glaciers, the region features tall bluffs, rock gardens, scenic islands and bays, and several historic buildings."
     }, 
     {
+      "loc": [
+        43.567, 
+        -103.483
+      ], 
       "symbol_count": 0, 
       "Name": "Wind Cave", 
       "Recreation Visitors (2014)": "542,022", 
@@ -32900,13 +33228,19 @@
           "totals": []
         }
       ], 
-      "Location": "South Dakota 43\u00b034\u2032N 103\u00b029\u2032W\ufeff / \ufeff43.57\u00b0N 103.48\u00b0W\ufeff / 43.57; -103.48\ufeff (Wind Cave)", 
       "totals": [], 
+      "Location": "South Dakota 43\u00b034\u2032N 103\u00b029\u2032W\ufeff / \ufeff43.57\u00b0N 103.48\u00b0W\ufeff / 43.57; -103.48\ufeff (Wind Cave)", 
+      "date": 1903, 
+      "acres": 28295.03, 
       "map_count": 1, 
       "id": "wind-cave", 
       "Description": "Wind Cave is distinctive for its calcite fin formations called boxwork and needle-like growths called frostwork. Additionally, it is the world's densest and most complex cave system. Above ground is a mixed-grass prairie with animals such as bison, black-footed ferrets, and prairie dogs.[62] and ponderosa pine forests home to cougars and elk. It is culturally significant to the Lakota people as the site in which their emergence story takes place."
     }, 
     {
+      "loc": [
+        61.0, 
+        -142.0
+      ], 
       "symbol_count": 0, 
       "Name": "Wrangell\u2013\u200bSt.\u00a0Elias", 
       "Recreation Visitors (2014)": "74,722", 
@@ -32915,13 +33249,19 @@
       "Area": "8,323,147.59 acres (33,682.6\u00a0km2)", 
       "name": "Wrangell\u2013\u200bSt.\u00a0Elias", 
       "maps": [], 
-      "Location": "Alaska 61\u00b000\u2032N 142\u00b000\u2032W\ufeff / \ufeff61.00\u00b0N 142.00\u00b0W\ufeff / 61.00; -142.00\ufeff (Wrangell \u2013 St. Elias)", 
       "totals": [], 
+      "Location": "Alaska 61\u00b000\u2032N 142\u00b000\u2032W\ufeff / \ufeff61.00\u00b0N 142.00\u00b0W\ufeff / 61.00; -142.00\ufeff (Wrangell \u2013 St. Elias)", 
+      "date": 1980, 
+      "acres": 8323147.59, 
       "map_count": 0, 
       "id": "wrangell\u2013\u200bst.\u00a0elias", 
       "Description": "An immense plot of mountainous country protects the convergence of the Alaska, Chugach, and Wrangell-Saint Elias Ranges, which include many of the continent's tallest mountains and volcanoes, including the 18,008-foot Mount Saint Elias. More than a quarter of the park is covered with glaciers, including the tidewater Hubbard Glacier, piedmont Malaspina Glacier, and valley Nabesna Glacier.[63] (WHS)"
     }, 
     {
+      "loc": [
+        44.6, 
+        -110.5
+      ], 
       "symbol_count": 161, 
       "Name": "Yellowstone", 
       "Recreation Visitors (2014)": "3,513,484", 
@@ -34629,7 +34969,6 @@
           ]
         }
       ], 
-      "Location": "Wyoming, Montana, Idaho 44\u00b036\u2032N 110\u00b030\u2032W\ufeff / \ufeff44.60\u00b0N 110.50\u00b0W\ufeff / 44.60; -110.50\ufeff (Yellowstone)", 
       "totals": [
         {
           "count": 47, 
@@ -34707,11 +35046,18 @@
           "name": "Safety/Caution/Alerts"
         }
       ], 
+      "Location": "Wyoming, Montana, Idaho 44\u00b036\u2032N 110\u00b030\u2032W\ufeff / \ufeff44.60\u00b0N 110.50\u00b0W\ufeff / 44.60; -110.50\ufeff (Yellowstone)", 
+      "date": 1872, 
+      "acres": 2219790.71, 
       "map_count": 1, 
       "id": "yellowstone", 
       "Description": "Situated on the Yellowstone Caldera, the park has an expansive network of geothermal areas including vividly colored hot springs, boiling mud pots, and regularly erupting geysers, the best-known being Old Faithful and Grand Prismatic Spring. The yellow-hued Grand Canyon of the Yellowstone River has a number of scenic waterfalls, and four mountain ranges run through the park. More than 60 mammal species including gray wolves, grizzly bears, lynxes, bison, and elk, make this park one of the best wildlife viewing spots in the country.[64] (WHS)"
     }, 
     {
+      "loc": [
+        37.833, 
+        -119.5
+      ], 
       "symbol_count": 71, 
       "Name": "Yosemite", 
       "Recreation Visitors (2014)": "3,882,642", 
@@ -35540,7 +35886,6 @@
           ]
         }
       ], 
-      "Location": "California 37\u00b050\u2032N 119\u00b030\u2032W\ufeff / \ufeff37.83\u00b0N 119.50\u00b0W\ufeff / 37.83; -119.50\ufeff (Yosemite)", 
       "totals": [
         {
           "count": 14, 
@@ -35588,11 +35933,18 @@
           "name": "Fire extinguisher"
         }
       ], 
+      "Location": "California 37\u00b050\u2032N 119\u00b030\u2032W\ufeff / \ufeff37.83\u00b0N 119.50\u00b0W\ufeff / 37.83; -119.50\ufeff (Yosemite)", 
+      "date": 1890, 
+      "acres": 761266.19, 
       "map_count": 3, 
       "id": "yosemite", 
       "Description": "Yosemite features towering granite cliffs, dramatic waterfalls, and old-growth forests at a unique intersection of geology and hydrology. Half Dome and El Capitan rise from the park's centerpiece, the glacier-carved Yosemite Valley, and from its vertical walls drop Yosemite Falls, North America's tallest waterfall. Three giant sequoia groves, along with a pristine wilderness in the heart of the Sierra Nevada, are home to an abundance of rare plant and animal species.[65] (WHS)"
     }, 
     {
+      "loc": [
+        37.3, 
+        -113.05
+      ], 
       "symbol_count": 48, 
       "Name": "Zion", 
       "Recreation Visitors (2014)": "3,189,696", 
@@ -36194,7 +36546,6 @@
           ]
         }
       ], 
-      "Location": "Utah 37\u00b018\u2032N 113\u00b003\u2032W\ufeff / \ufeff37.30\u00b0N 113.05\u00b0W\ufeff / 37.30; -113.05\ufeff (Zion)", 
       "totals": [
         {
           "count": 11, 
@@ -36262,6 +36613,9 @@
           "name": "Safety/Caution/Alerts"
         }
       ], 
+      "Location": "Utah 37\u00b018\u2032N 113\u00b003\u2032W\ufeff / \ufeff37.30\u00b0N 113.05\u00b0W\ufeff / 37.30; -113.05\ufeff (Zion)", 
+      "date": 1919, 
+      "acres": 146597.6, 
       "map_count": 3, 
       "id": "zion", 
       "Description": "Located at the junction of the Colorado Plateau, Great Basin, and Mojave Desert, this geological wonder has colorful sandstone canyons, mountainous mesas, and countless rock towers. Natural arches and exposed plateau formations compose a large wilderness roughly divided into four ecosystems: desert, riparian, woodland, and coniferous forest."

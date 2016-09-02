@@ -1,4 +1,8 @@
 {
+  "loc": [
+    38.533, 
+    -78.35
+  ], 
   "symbol_count": 68, 
   "Name": "Shenandoah", 
   "Recreation Visitors (2014)": "1,255,321", 
@@ -779,7 +783,6 @@
       ]
     }
   ], 
-  "Location": "Virginia 38\u00b032\u2032N 78\u00b021\u2032W\ufeff / \ufeff38.53\u00b0N 78.35\u00b0W\ufeff / 38.53; -78.35\ufeff (Shenandoah)", 
   "totals": [
     {
       "count": 14, 
@@ -827,6 +830,9 @@
       "name": "Safety/Caution/Alerts"
     }
   ], 
+  "Location": "Virginia 38\u00b032\u2032N 78\u00b021\u2032W\ufeff / \ufeff38.53\u00b0N 78.35\u00b0W\ufeff / 38.53; -78.35\ufeff (Shenandoah)", 
+  "date": 1926, 
+  "acres": 199045.23, 
   "map_count": 2, 
   "id": "shenandoah", 
   "Description": "Shenandoah's Blue Ridge Mountains are covered by sprawling hardwood forests that teem with tens of thousands of animals. The Skyline Drive and Appalachian Trail run the entire length of this narrow park, along with more than 500 miles (800\u00a0km) of hiking trails passing scenic overlooks and cataracts of the Shenandoah River."

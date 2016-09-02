@@ -1,356 +1,710 @@
 {
   "great-sand-dunes": {
-    "map_count": 1, 
+    "loc": [
+      37.733, 
+      -105.517
+    ], 
     "symbol_count": 22, 
     "name": "Great Sand Dunes", 
+    "map_count": 1, 
+    "acres": 42983.74, 
+    "date": 2004, 
     "id": "great-sand-dunes"
   }, 
   "death-valley": {
-    "map_count": 5, 
+    "loc": [
+      36.233, 
+      -116.817
+    ], 
     "symbol_count": 224, 
     "name": "Death Valley", 
+    "map_count": 5, 
+    "acres": 3372401.96, 
+    "date": 1994, 
     "id": "death-valley"
   }, 
   "wind-cave": {
-    "map_count": 1, 
+    "loc": [
+      43.567, 
+      -103.483
+    ], 
     "symbol_count": 0, 
     "name": "Wind Cave", 
+    "map_count": 1, 
+    "acres": 28295.03, 
+    "date": 1903, 
     "id": "wind-cave"
   }, 
   "gates-of-the-arctic": {
-    "map_count": 1, 
+    "loc": [
+      67.783, 
+      -153.3
+    ], 
     "symbol_count": 16, 
     "name": "Gates of the Arctic", 
+    "map_count": 1, 
+    "acres": 7523897.74, 
+    "date": 1980, 
     "id": "gates-of-the-arctic"
   }, 
   "channel-islands": {
-    "map_count": 1, 
+    "loc": [
+      34.017, 
+      -119.417
+    ], 
     "symbol_count": 15, 
     "name": "Channel Islands", 
+    "map_count": 1, 
+    "acres": 249561.0, 
+    "date": 1980, 
     "id": "channel-islands"
   }, 
   "black-canyon-of-the-gunnison": {
-    "map_count": 2, 
+    "loc": [
+      38.567, 
+      -107.717
+    ], 
     "symbol_count": 40, 
     "name": "Black Canyon of the Gunnison", 
+    "map_count": 2, 
+    "acres": 32950.03, 
+    "date": 1999, 
     "id": "black-canyon-of-the-gunnison"
   }, 
   "olympic": {
-    "map_count": 1, 
+    "loc": [
+      47.967, 
+      -123.5
+    ], 
     "symbol_count": 84, 
     "name": "Olympic", 
+    "map_count": 1, 
+    "acres": 922650.86, 
+    "date": 1938, 
     "id": "olympic"
   }, 
   "petrified-forest": {
-    "map_count": 2, 
+    "loc": [
+      35.067, 
+      -109.783
+    ], 
     "symbol_count": 56, 
     "name": "Petrified Forest", 
+    "map_count": 2, 
+    "acres": 93532.57, 
+    "date": 1962, 
     "id": "petrified-forest"
   }, 
   "mesa-verde": {
-    "map_count": 1, 
+    "loc": [
+      37.183, 
+      -108.483
+    ], 
     "symbol_count": 43, 
     "name": "Mesa Verde", 
+    "map_count": 1, 
+    "acres": 52121.93, 
+    "date": 1906, 
     "id": "mesa-verde"
   }, 
   "wrangell\u2013\u200bst.\u00a0elias": {
-    "map_count": 0, 
+    "loc": [
+      61.0, 
+      -142.0
+    ], 
     "symbol_count": 0, 
     "name": "Wrangell\u2013\u200bSt.\u00a0Elias", 
+    "map_count": 0, 
+    "acres": 8323147.59, 
+    "date": 1980, 
     "id": "wrangell\u2013\u200bst.\u00a0elias"
   }, 
   "katmai": {
-    "map_count": 2, 
+    "loc": [
+      58.5, 
+      -155.0
+    ], 
     "symbol_count": 50, 
     "name": "Katmai", 
+    "map_count": 2, 
+    "acres": 3674529.68, 
+    "date": 1980, 
     "id": "katmai"
   }, 
   "virgin-islands": {
-    "map_count": 1, 
+    "loc": [
+      18.333, 
+      -64.733
+    ], 
     "symbol_count": 21, 
     "name": "Virgin Islands", 
+    "map_count": 1, 
+    "acres": 14688.87, 
+    "date": 1956, 
     "id": "virgin-islands"
   }, 
   "isle-royale": {
-    "map_count": 1, 
+    "loc": [
+      48.1, 
+      -88.55
+    ], 
     "symbol_count": 37, 
     "name": "Isle Royale", 
+    "map_count": 1, 
+    "acres": 571790.11, 
+    "date": 1940, 
     "id": "isle-royale"
   }, 
   "hawaii-volcanoes": {
-    "map_count": 3, 
+    "loc": [
+      19.383, 
+      -155.2
+    ], 
     "symbol_count": 86, 
     "name": "Hawaii Volcanoes", 
+    "map_count": 3, 
+    "acres": 323431.38, 
+    "date": 1916, 
     "id": "hawaii-volcanoes"
   }, 
   "lake-clark": {
-    "map_count": 1, 
+    "loc": [
+      60.967, 
+      -153.417
+    ], 
     "symbol_count": 6, 
     "name": "Lake Clark", 
+    "map_count": 1, 
+    "acres": 2619733.21, 
+    "date": 1980, 
     "id": "lake-clark"
   }, 
   "glacier": {
-    "map_count": 7, 
+    "loc": [
+      48.8, 
+      -114.0
+    ], 
     "symbol_count": 78, 
     "name": "Glacier", 
+    "map_count": 7, 
+    "acres": 1013572.41, 
+    "date": 1910, 
     "id": "glacier"
   }, 
   "redwood": {
-    "map_count": 2, 
+    "loc": [
+      41.3, 
+      -124.0
+    ], 
     "symbol_count": 72, 
     "name": "Redwood", 
+    "map_count": 2, 
+    "acres": 112512.05, 
+    "date": 1968, 
     "id": "redwood"
   }, 
   "denali": {
-    "map_count": 2, 
+    "loc": [
+      63.333, 
+      -150.5
+    ], 
     "symbol_count": 28, 
     "name": "Denali", 
+    "map_count": 2, 
+    "acres": 4740911.72, 
+    "date": 1917, 
     "id": "denali"
   }, 
   "dry-tortugas": {
-    "map_count": 0, 
+    "loc": [
+      24.633, 
+      -82.867
+    ], 
     "symbol_count": 0, 
     "name": "Dry Tortugas", 
+    "map_count": 0, 
+    "acres": 64701.22, 
+    "date": 1992, 
     "id": "dry-tortugas"
   }, 
   "theodore-roosevelt": {
-    "map_count": 2, 
+    "loc": [
+      46.967, 
+      -103.45
+    ], 
     "symbol_count": 11, 
     "name": "Theodore Roosevelt", 
+    "map_count": 2, 
+    "acres": 70446.89, 
+    "date": 1978, 
     "id": "theodore-roosevelt"
   }, 
   "lassen-volcanic": {
-    "map_count": 1, 
+    "loc": [
+      40.483, 
+      -121.517
+    ], 
     "symbol_count": 38, 
     "name": "Lassen Volcanic", 
+    "map_count": 1, 
+    "acres": 106372.36, 
+    "date": 1916, 
     "id": "lassen-volcanic"
   }, 
   "mount-rainier": {
-    "map_count": 2, 
+    "loc": [
+      46.85, 
+      -121.75
+    ], 
     "symbol_count": 77, 
     "name": "Mount Rainier", 
+    "map_count": 2, 
+    "acres": 235625.0, 
+    "date": 1899, 
     "id": "mount-rainier"
   }, 
   "biscayne": {
-    "map_count": 1, 
+    "loc": [
+      25.65, 
+      -80.083
+    ], 
     "symbol_count": 38, 
     "name": "Biscayne", 
+    "map_count": 1, 
+    "acres": 172924.07, 
+    "date": 1980, 
     "id": "biscayne"
   }, 
   "pinnacles": {
-    "map_count": 2, 
+    "loc": [
+      36.483, 
+      -121.167
+    ], 
     "symbol_count": 31, 
     "name": "Pinnacles", 
+    "map_count": 2, 
+    "acres": 26605.73, 
+    "date": 2013, 
     "id": "pinnacles"
   }, 
   "zion": {
-    "map_count": 3, 
+    "loc": [
+      37.3, 
+      -113.05
+    ], 
     "symbol_count": 48, 
     "name": "Zion", 
+    "map_count": 3, 
+    "acres": 146597.6, 
+    "date": 1919, 
     "id": "zion"
   }, 
   "kings-canyon": {
-    "map_count": 2, 
+    "loc": [
+      36.8, 
+      -118.55
+    ], 
     "symbol_count": 79, 
     "name": "Kings Canyon", 
+    "map_count": 2, 
+    "acres": 461901.2, 
+    "date": 1940, 
     "id": "kings-canyon"
   }, 
   "glacier-bay": {
-    "map_count": 0, 
+    "loc": [
+      58.5, 
+      -137.0
+    ], 
     "symbol_count": 0, 
     "name": "Glacier Bay", 
+    "map_count": 0, 
+    "acres": 3224840.31, 
+    "date": 1980, 
     "id": "glacier-bay"
   }, 
   "great-basin": {
-    "map_count": 1, 
+    "loc": [
+      38.983, 
+      -114.3
+    ], 
     "symbol_count": 40, 
     "name": "Great Basin", 
+    "map_count": 1, 
+    "acres": 77180.0, 
+    "date": 1986, 
     "id": "great-basin"
   }, 
   "carlsbad-caverns": {
-    "map_count": 1, 
+    "loc": [
+      32.167, 
+      -104.433
+    ], 
     "symbol_count": 0, 
     "name": "Carlsbad Caverns", 
+    "map_count": 1, 
+    "acres": 46766.45, 
+    "date": 1930, 
     "id": "carlsbad-caverns"
   }, 
   "congaree": {
-    "map_count": 1, 
+    "loc": [
+      33.783, 
+      -80.783
+    ], 
     "symbol_count": 4, 
     "name": "Congaree", 
+    "map_count": 1, 
+    "acres": 26545.86, 
+    "date": 2003, 
     "id": "congaree"
   }, 
   "haleakal\u0101": {
-    "map_count": 0, 
+    "loc": [
+      20.717, 
+      -156.167
+    ], 
     "symbol_count": 0, 
     "name": "Haleakal\u0101", 
+    "map_count": 0, 
+    "acres": 29093.67, 
+    "date": 1916, 
     "id": "haleakal\u0101"
   }, 
   "mammoth-cave": {
-    "map_count": 1, 
+    "loc": [
+      37.183, 
+      -86.1
+    ], 
     "symbol_count": 22, 
     "name": "Mammoth Cave", 
+    "map_count": 1, 
+    "acres": 52830.19, 
+    "date": 1941, 
     "id": "mammoth-cave"
   }, 
   "everglades": {
-    "map_count": 1, 
+    "loc": [
+      25.317, 
+      -80.933
+    ], 
     "symbol_count": 40, 
     "name": "Everglades", 
+    "map_count": 1, 
+    "acres": 1508537.9, 
+    "date": 1934, 
     "id": "everglades"
   }, 
   "north-cascades": {
-    "map_count": 1, 
+    "loc": [
+      48.7, 
+      -121.2
+    ], 
     "symbol_count": 31, 
     "name": "North Cascades", 
+    "map_count": 1, 
+    "acres": 504780.94, 
+    "date": 1968, 
     "id": "north-cascades"
   }, 
   "acadia": {
-    "map_count": 3, 
+    "loc": [
+      44.35, 
+      -68.217
+    ], 
     "symbol_count": 102, 
     "name": "Acadia", 
+    "map_count": 3, 
+    "acres": 47389.67, 
+    "date": 1919, 
     "id": "acadia"
   }, 
   "yellowstone": {
-    "map_count": 1, 
+    "loc": [
+      44.6, 
+      -110.5
+    ], 
     "symbol_count": 161, 
     "name": "Yellowstone", 
+    "map_count": 1, 
+    "acres": 2219790.71, 
+    "date": 1872, 
     "id": "yellowstone"
   }, 
   "yosemite": {
-    "map_count": 3, 
+    "loc": [
+      37.833, 
+      -119.5
+    ], 
     "symbol_count": 71, 
     "name": "Yosemite", 
+    "map_count": 3, 
+    "acres": 761266.19, 
+    "date": 1890, 
     "id": "yosemite"
   }, 
   "sequoia": {
-    "map_count": 0, 
+    "loc": [
+      36.433, 
+      -118.683
+    ], 
     "symbol_count": 0, 
     "name": "Sequoia", 
+    "map_count": 0, 
+    "acres": 404051.17, 
+    "date": 1890, 
     "id": "sequoia"
   }, 
   "capitol-reef": {
-    "map_count": 1, 
+    "loc": [
+      38.2, 
+      -111.167
+    ], 
     "symbol_count": 10, 
     "name": "Capitol Reef", 
+    "map_count": 1, 
+    "acres": 241904.26, 
+    "date": 1971, 
     "id": "capitol-reef"
   }, 
   "big-bend": {
-    "map_count": 2, 
+    "loc": [
+      29.25, 
+      -103.25
+    ], 
     "symbol_count": 87, 
     "name": "Big Bend", 
+    "map_count": 2, 
+    "acres": 801163.21, 
+    "date": 1944, 
     "id": "big-bend"
   }, 
   "shenandoah": {
-    "map_count": 2, 
+    "loc": [
+      38.533, 
+      -78.35
+    ], 
     "symbol_count": 68, 
     "name": "Shenandoah", 
+    "map_count": 2, 
+    "acres": 199045.23, 
+    "date": 1926, 
     "id": "shenandoah"
   }, 
   "cuyahoga-valley": {
-    "map_count": 4, 
+    "loc": [
+      41.233, 
+      -81.55
+    ], 
     "symbol_count": 162, 
     "name": "Cuyahoga Valley", 
+    "map_count": 4, 
+    "acres": 32950.0, 
+    "date": 2000, 
     "id": "cuyahoga-valley"
   }, 
   "rocky-mountain": {
-    "map_count": 0, 
+    "loc": [
+      40.4, 
+      -105.583
+    ], 
     "symbol_count": 0, 
     "name": "Rocky Mountain", 
+    "map_count": 0, 
+    "acres": 265828.41, 
+    "date": 1915, 
     "id": "rocky-mountain"
   }, 
   "great-smoky-mountains": {
-    "map_count": 1, 
+    "loc": [
+      35.683, 
+      -83.533
+    ], 
     "symbol_count": 37, 
     "name": "Great Smoky Mountains", 
+    "map_count": 1, 
+    "acres": 521490.13, 
+    "date": 1934, 
     "id": "great-smoky-mountains"
   }, 
   "kobuk-valley": {
-    "map_count": 0, 
+    "loc": [
+      67.55, 
+      -159.283
+    ], 
     "symbol_count": 0, 
     "name": "Kobuk Valley", 
+    "map_count": 0, 
+    "acres": 1750716.5, 
+    "date": 1980, 
     "id": "kobuk-valley"
   }, 
   "canyonlands": {
-    "map_count": 1, 
+    "loc": [
+      38.2, 
+      -109.933
+    ], 
     "symbol_count": 40, 
     "name": "Canyonlands", 
+    "map_count": 1, 
+    "acres": 337597.83, 
+    "date": 1964, 
     "id": "canyonlands"
   }, 
   "american-samoa": {
-    "map_count": 1, 
+    "loc": [
+      -14.25, 
+      -170.683
+    ], 
     "symbol_count": 0, 
     "name": "American Samoa", 
+    "map_count": 1, 
+    "acres": 9000.0, 
+    "date": 1988, 
     "id": "american-samoa"
   }, 
   "badlands": {
-    "map_count": 2, 
+    "loc": [
+      43.75, 
+      -102.5
+    ], 
     "symbol_count": 14, 
     "name": "Badlands", 
+    "map_count": 2, 
+    "acres": 242755.94, 
+    "date": 1978, 
     "id": "badlands"
   }, 
   "guadalupe-mountains": {
-    "map_count": 2, 
+    "loc": [
+      31.917, 
+      -104.867
+    ], 
     "symbol_count": 29, 
     "name": "Guadalupe Mountains", 
+    "map_count": 2, 
+    "acres": 86415.97, 
+    "date": 1966, 
     "id": "guadalupe-mountains"
   }, 
   "voyageurs": {
-    "map_count": 1, 
+    "loc": [
+      48.5, 
+      -92.883
+    ], 
     "symbol_count": 39, 
     "name": "Voyageurs", 
+    "map_count": 1, 
+    "acres": 218200.17, 
+    "date": 1971, 
     "id": "voyageurs"
   }, 
   "bryce-canyon": {
-    "map_count": 5, 
+    "loc": [
+      37.567, 
+      -112.183
+    ], 
     "symbol_count": 105, 
     "name": "Bryce Canyon", 
+    "map_count": 5, 
+    "acres": 35835.08, 
+    "date": 1928, 
     "id": "bryce-canyon"
   }, 
   "hot-springs": {
-    "map_count": 1, 
+    "loc": [
+      34.517, 
+      -93.05
+    ], 
     "symbol_count": 12, 
     "name": "Hot Springs", 
+    "map_count": 1, 
+    "acres": 5549.75, 
+    "date": 1921, 
     "id": "hot-springs"
   }, 
   "kenai-fjords": {
-    "map_count": 1, 
+    "loc": [
+      59.917, 
+      -149.65
+    ], 
     "symbol_count": 2, 
     "name": "Kenai Fjords", 
+    "map_count": 1, 
+    "acres": 669982.99, 
+    "date": 1980, 
     "id": "kenai-fjords"
   }, 
   "arches": {
-    "map_count": 1, 
+    "loc": [
+      38.683, 
+      -109.567
+    ], 
     "symbol_count": 20, 
     "name": "Arches", 
+    "map_count": 1, 
+    "acres": 76518.98, 
+    "date": 1971, 
     "id": "arches"
   }, 
   "saguaro": {
-    "map_count": 2, 
+    "loc": [
+      32.25, 
+      -110.5
+    ], 
     "symbol_count": 12, 
     "name": "Saguaro", 
+    "map_count": 2, 
+    "acres": 91439.71, 
+    "date": 1994, 
     "id": "saguaro"
   }, 
   "joshua-tree": {
-    "map_count": 3, 
+    "loc": [
+      33.783, 
+      -115.9
+    ], 
     "symbol_count": 70, 
     "name": "Joshua Tree", 
+    "map_count": 3, 
+    "acres": 789745.47, 
+    "date": 1994, 
     "id": "joshua-tree"
   }, 
   "grand-teton": {
-    "map_count": 2, 
+    "loc": [
+      43.733, 
+      -110.8
+    ], 
     "symbol_count": 94, 
     "name": "Grand Teton", 
+    "map_count": 2, 
+    "acres": 309994.66, 
+    "date": 1929, 
     "id": "grand-teton"
   }, 
   "grand-canyon": {
-    "map_count": 6, 
+    "loc": [
+      36.067, 
+      -112.133
+    ], 
     "symbol_count": 149, 
     "name": "Grand Canyon", 
+    "map_count": 6, 
+    "acres": 1217403.32, 
+    "date": 1919, 
     "id": "grand-canyon"
   }, 
   "crater-lake": {
-    "map_count": 1, 
+    "loc": [
+      42.933, 
+      -122.1
+    ], 
     "symbol_count": 28, 
     "name": "Crater Lake", 
+    "map_count": 1, 
+    "acres": 183224.05, 
+    "date": 1902, 
     "id": "crater-lake"
   }
 }

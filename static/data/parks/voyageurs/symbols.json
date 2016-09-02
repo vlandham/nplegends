@@ -1,4 +1,8 @@
 {
+  "loc": [
+    48.5, 
+    -92.883
+  ], 
   "symbol_count": 39, 
   "Name": "Voyageurs", 
   "Recreation Visitors (2014)": "239,160", 
@@ -456,7 +460,6 @@
       ]
     }
   ], 
-  "Location": "Minnesota 48\u00b030\u2032N 92\u00b053\u2032W\ufeff / \ufeff48.50\u00b0N 92.88\u00b0W\ufeff / 48.50; -92.88\ufeff (Voyageurs)", 
   "totals": [
     {
       "count": 12, 
@@ -504,6 +507,9 @@
       "name": "Gas station"
     }
   ], 
+  "Location": "Minnesota 48\u00b030\u2032N 92\u00b053\u2032W\ufeff / \ufeff48.50\u00b0N 92.88\u00b0W\ufeff / 48.50; -92.88\ufeff (Voyageurs)", 
+  "date": 1971, 
+  "acres": 218200.17, 
   "map_count": 1, 
   "id": "voyageurs", 
   "Description": "This park protecting four lakes near the Canada\u2013US border is a site for canoeing, kayaking, and fishing, and preserves a history populated by Ojibwe Native Americans, French fur traders called voyageurs, and ambitious gold-miners. Formed by glaciers, the region features tall bluffs, rock gardens, scenic islands and bays, and several historic buildings."

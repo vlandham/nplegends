@@ -1,4 +1,8 @@
 {
+  "loc": [
+    58.5, 
+    -137.0
+  ], 
   "symbol_count": 0, 
   "Name": "Glacier Bay", 
   "Recreation Visitors (2014)": "500,727", 
@@ -7,8 +11,10 @@
   "Area": "3,224,840.31 acres (13,050.5\u00a0km2)", 
   "name": "Glacier Bay", 
   "maps": [], 
-  "Location": "Alaska 58\u00b030\u2032N 137\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 137.00\u00b0W\ufeff / 58.50; -137.00\ufeff (Glacier Bay)", 
   "totals": [], 
+  "Location": "Alaska 58\u00b030\u2032N 137\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 137.00\u00b0W\ufeff / 58.50; -137.00\ufeff (Glacier Bay)", 
+  "date": 1980, 
+  "acres": 3224840.31, 
   "map_count": 0, 
   "id": "glacier-bay", 
   "Description": "Glacier Bay has numerous tidewater glaciers, mountains, fjords, and a temperate rainforest, and is home to large populations of grizzly bears, mountain goats, whales, seals, and eagles. When discovered in 1794 by George Vancouver, the entire bay was covered in ice, but the glaciers have since receded more than 65 miles (105\u00a0km).[29] (WHS)"

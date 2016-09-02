@@ -1,4 +1,8 @@
 {
+  "loc": [
+    19.383, 
+    -155.2
+  ], 
   "symbol_count": 86, 
   "Name": "Hawaii Volcanoes", 
   "Recreation Visitors (2014)": "1,693,005", 
@@ -1042,7 +1046,6 @@
       ]
     }
   ], 
-  "Location": "Hawaii 19\u00b023\u2032N 155\u00b012\u2032W\ufeff / \ufeff19.38\u00b0N 155.20\u00b0W\ufeff / 19.38; -155.20\ufeff (Hawaii Volcanoes)", 
   "totals": [
     {
       "count": 14, 
@@ -1125,6 +1128,9 @@
       "name": "Store"
     }
   ], 
+  "Location": "Hawaii 19\u00b023\u2032N 155\u00b012\u2032W\ufeff / \ufeff19.38\u00b0N 155.20\u00b0W\ufeff / 19.38; -155.20\ufeff (Hawaii Volcanoes)", 
+  "date": 1916, 
+  "acres": 323431.38, 
   "map_count": 3, 
   "id": "hawaii-volcanoes", 
   "Description": "This park on the Big Island protects the famous K\u012blauea and Mauna Loa volcanoes, two of the world's most active geological features. Diverse ecosystems range from tropical forests at sea level to barren lava beds at more than 13,000 feet (4,000\u00a0m).[37] (WHS)"

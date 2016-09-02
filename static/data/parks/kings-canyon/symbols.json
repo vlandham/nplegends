@@ -1,4 +1,8 @@
 {
+  "loc": [
+    36.8, 
+    -118.55
+  ], 
   "symbol_count": 79, 
   "Name": "Kings Canyon", 
   "Recreation Visitors (2014)": "502,268", 
@@ -874,7 +878,6 @@
       ]
     }
   ], 
-  "Location": "California 36\u00b048\u2032N 118\u00b033\u2032W\ufeff / \ufeff36.80\u00b0N 118.55\u00b0W\ufeff / 36.80; -118.55\ufeff (Kings Canyon)", 
   "totals": [
     {
       "count": 30, 
@@ -917,6 +920,9 @@
       "name": "Safety/Caution/Alerts"
     }
   ], 
+  "Location": "California 36\u00b048\u2032N 118\u00b033\u2032W\ufeff / \ufeff36.80\u00b0N 118.55\u00b0W\ufeff / 36.80; -118.55\ufeff (Kings Canyon)", 
+  "date": 1940, 
+  "acres": 461901.2, 
   "map_count": 2, 
   "id": "kings-canyon", 
   "Description": "Home to several giant sequoia groves and the General Grant Tree, the world's second largest, this park also features part of the Kings River, sculptor of the dramatic granite canyon that is its namesake, and the San Joaquin River, as well as Boyden Cave."

@@ -1,4 +1,8 @@
 {
+  "loc": [
+    38.2, 
+    -109.933
+  ], 
   "symbol_count": 40, 
   "Name": "Canyonlands", 
   "Recreation Visitors (2014)": "542,431", 
@@ -456,7 +460,6 @@
       ]
     }
   ], 
-  "Location": "Utah 38\u00b012\u2032N 109\u00b056\u2032W\ufeff / \ufeff38.2\u00b0N 109.93\u00b0W\ufeff / 38.2; -109.93\ufeff (Canyonlands)", 
   "totals": [
     {
       "count": 10, 
@@ -494,6 +497,9 @@
       "name": "Boat launch"
     }
   ], 
+  "Location": "Utah 38\u00b012\u2032N 109\u00b056\u2032W\ufeff / \ufeff38.2\u00b0N 109.93\u00b0W\ufeff / 38.2; -109.93\ufeff (Canyonlands)", 
+  "date": 1964, 
+  "acres": 337597.83, 
   "map_count": 1, 
   "id": "canyonlands", 
   "Description": "This landscape was eroded into a maze of canyons, buttes, and mesas by the combined efforts of the Colorado River, Green River, and their tributaries, which divide the park into three districts. There are rock pinnacles and other naturally sculpted rock formations, as well as artifacts from Ancient Pueblo peoples."

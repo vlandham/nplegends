@@ -1,18 +1,19 @@
 import React, { PureComponent, PropTypes } from 'react';
 import { connect } from 'react-redux';
 import Helmet from 'react-helmet';
-import * as SearchActions from '../../redux/search/actions';
+import { Link } from 'react-router';
+// import * as SearchActions from '../../redux/search/actions';
 import * as SymbolsActions from '../../redux/symbols/actions';
-import * as SearchSelectors from '../../redux/search/selectors';
+// import * as SearchSelectors from '../../redux/search/selectors';
 import * as SymbolsSelectors from '../../redux/symbols/selectors';
 
-import { SymbolParks, SymbolForce, SymbolTreemap } from '../../components';
+import { SymbolParks, SymbolForce } from '../../components';
 
 import './HomePage.scss';
 
 function mapStateToProps(state) {
   return {
-    parkIds: SearchSelectors.getParkSearch(state),
+    // parkIds: SearchSelectors.getParkSearch(state),
     symbolInfo: SymbolsSelectors.getSymbols(state),
   };
 }
@@ -20,7 +21,7 @@ function mapStateToProps(state) {
 class HomePage extends PureComponent {
   static propTypes = {
     dispatch: PropTypes.func,
-    parkIds: PropTypes.object,
+    // parkIds: PropTypes.object,
     symbolInfo: PropTypes.object,
   }
 
@@ -41,7 +42,7 @@ class HomePage extends PureComponent {
 
   fetchData(props) {
     const { dispatch } = props;
-    dispatch(SearchActions.fetchParkSearchIfNeeded());
+    // dispatch(SearchActions.fetchParkSearchIfNeeded());
     dispatch(SymbolsActions.fetchSymbolsIfNeeded());
   }
 
@@ -90,7 +91,9 @@ class HomePage extends PureComponent {
       <div className="home-page">
         <Helmet title="Home" />
         <h1>NP Legends</h1>
-        <p>Exploring the symbols on maps of the US National Park Service.</p>
+        <p><strong>What?</strong></p>
+        <p>Exploring the symbols National Park Service maps with image processing. Which symbols are used most at your beloved park? Which is the least used symbols? Find out here!</p>
+        <p className="pull-right"><Link to="about">Learn More</Link></p>
         <div className="symbol-treemap-container">
           {this.renderTreemap(symbolInfo.totals)}
         </div>

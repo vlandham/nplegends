@@ -1,4 +1,8 @@
 {
+  "loc": [
+    58.5, 
+    -155.0
+  ], 
   "symbol_count": 50, 
   "Name": "Katmai", 
   "Recreation Visitors (2014)": "30,896", 
@@ -629,7 +633,6 @@
       ]
     }
   ], 
-  "Location": "Alaska 58\u00b030\u2032N 155\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 155.00\u00b0W\ufeff / 58.50; -155.00\ufeff (Katmai)", 
   "totals": [
     {
       "count": 11, 
@@ -682,6 +685,9 @@
       "name": "Boat launch"
     }
   ], 
+  "Location": "Alaska 58\u00b030\u2032N 155\u00b000\u2032W\ufeff / \ufeff58.50\u00b0N 155.00\u00b0W\ufeff / 58.50; -155.00\ufeff (Katmai)", 
+  "date": 1980, 
+  "acres": 3674529.68, 
   "map_count": 2, 
   "id": "katmai", 
   "Description": "This park on the Alaska Peninsula protects the Valley of Ten Thousand Smokes, an ash flow formed by the 1912 eruption of Novarupta, as well as Mount Katmai. Over 2,000 grizzly bears come here each year to catch spawning salmon. Other wildlife includes caribou, wolves, moose, and wolverines."

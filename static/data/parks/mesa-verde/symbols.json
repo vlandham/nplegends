@@ -1,4 +1,8 @@
 {
+  "loc": [
+    37.183, 
+    -108.483
+  ], 
   "symbol_count": 43, 
   "Name": "Mesa Verde", 
   "Recreation Visitors (2014)": "501,563", 
@@ -496,7 +500,6 @@
       ]
     }
   ], 
-  "Location": "Colorado 37\u00b011\u2032N 108\u00b029\u2032W\ufeff / \ufeff37.18\u00b0N 108.49\u00b0W\ufeff / 37.18; -108.49\ufeff (Mesa Verde)", 
   "totals": [
     {
       "count": 14, 
@@ -544,6 +547,9 @@
       "name": "Gas station"
     }
   ], 
+  "Location": "Colorado 37\u00b011\u2032N 108\u00b029\u2032W\ufeff / \ufeff37.18\u00b0N 108.49\u00b0W\ufeff / 37.18; -108.49\ufeff (Mesa Verde)", 
+  "date": 1906, 
+  "acres": 52121.93, 
   "map_count": 1, 
   "id": "mesa-verde", 
   "Description": "This area constitutes over 4,000 archaeological sites of the Ancestral Puebloan people, who lived here and elsewhere in the Four Corners region for at least 700 years. Cliff dwellings built in the 12th and 13th centuries include the famous Cliff Palace, which has 150 rooms and 23 kivas, and the Balcony House, with its many passages and tunnels.[48] (WHS)"

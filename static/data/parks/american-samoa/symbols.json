@@ -1,4 +1,8 @@
 {
+  "loc": [
+    -14.25, 
+    -170.683
+  ], 
   "symbol_count": 0, 
   "Name": "American Samoa", 
   "Recreation Visitors (2014)": "13,953", 
@@ -19,8 +23,10 @@
       "totals": []
     }
   ], 
-  "Location": "American Samoa 14\u00b015\u2032S 170\u00b041\u2032W\ufeff / \ufeff14.25\u00b0S 170.68\u00b0W\ufeff / -14.25; -170.68\ufeff (National Park of American Samoa)", 
   "totals": [], 
+  "Location": "American Samoa 14\u00b015\u2032S 170\u00b041\u2032W\ufeff / \ufeff14.25\u00b0S 170.68\u00b0W\ufeff / -14.25; -170.68\ufeff (National Park of American Samoa)", 
+  "date": 1988, 
+  "acres": 9000.0, 
   "map_count": 1, 
   "id": "american-samoa", 
   "Description": "The southernmost national park is on three Samoan islands and protects coral reefs, rainforests, volcanic mountains, and white beaches. The area is also home to flying foxes, brown boobies, sea turtles, and 900 species of fish."

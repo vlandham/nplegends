@@ -1,4 +1,8 @@
 {
+  "loc": [
+    37.183, 
+    -86.1
+  ], 
   "symbol_count": 22, 
   "Name": "Mammoth Cave", 
   "Recreation Visitors (2014)": "522,628", 
@@ -261,7 +265,6 @@
       ]
     }
   ], 
-  "Location": "Kentucky 37\u00b011\u2032N 86\u00b006\u2032W\ufeff / \ufeff37.18\u00b0N 86.10\u00b0W\ufeff / 37.18; -86.10\ufeff (Mammoth Cave)", 
   "totals": [
     {
       "count": 7, 
@@ -284,6 +287,9 @@
       "name": "Campground"
     }
   ], 
+  "Location": "Kentucky 37\u00b011\u2032N 86\u00b006\u2032W\ufeff / \ufeff37.18\u00b0N 86.10\u00b0W\ufeff / 37.18; -86.10\ufeff (Mammoth Cave)", 
+  "date": 1941, 
+  "acres": 52830.19, 
   "map_count": 1, 
   "id": "mammoth-cave", 
   "Description": "With more than 400 miles (640\u00a0km) of passageways explored, Mammoth Cave is by far the world's longest cave system. Subterranean wildlife includes eight bat species, Kentucky cave shrimp, Northern cavefish, and cave salamanders. Above ground, the park provides recreation on the Green River, 70 miles of hiking trails, and plenty of sinkholes and springs.[47] (WHS)"

@@ -1,4 +1,8 @@
 {
+  "loc": [
+    38.983, 
+    -114.3
+  ], 
   "symbol_count": 40, 
   "Name": "Great Basin", 
   "Recreation Visitors (2014)": "107,526", 
@@ -481,7 +485,6 @@
       ]
     }
   ], 
-  "Location": "Nevada 38\u00b059\u2032N 114\u00b018\u2032W\ufeff / \ufeff38.98\u00b0N 114.30\u00b0W\ufeff / 38.98; -114.30\ufeff (Great Basin)", 
   "totals": [
     {
       "count": 9, 
@@ -544,6 +547,9 @@
       "name": "BirdingNVildlife Viewing"
     }
   ], 
+  "Location": "Nevada 38\u00b059\u2032N 114\u00b018\u2032W\ufeff / \ufeff38.98\u00b0N 114.30\u00b0W\ufeff / 38.98; -114.30\ufeff (Great Basin)", 
+  "date": 1986, 
+  "acres": 77180.0, 
   "map_count": 1, 
   "id": "great-basin", 
   "Description": "Based around Nevada's second tallest mountain, Wheeler Peak, Great Basin National Park contains 5,000-year-old bristlecone pines, a rock glacier, and the limestone Lehman Caves. It also enjoys some of the country's darkest night skies. Animals which call the park home include Townsend's big-eared bat, pronghorn, and Bonneville cutthroat trout."

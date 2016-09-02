@@ -1,4 +1,8 @@
 {
+  "loc": [
+    48.8, 
+    -114.0
+  ], 
   "symbol_count": 78, 
   "Name": "Glacier", 
   "Recreation Visitors (2014)": "2,338,528", 
@@ -926,7 +930,6 @@
       ]
     }
   ], 
-  "Location": "Montana 48\u00b048\u2032N 114\u00b000\u2032W\ufeff / \ufeff48.80\u00b0N 114.00\u00b0W\ufeff / 48.80; -114.00\ufeff (Glacier)", 
   "totals": [
     {
       "count": 18, 
@@ -974,6 +977,9 @@
       "name": "Propane"
     }
   ], 
+  "Location": "Montana 48\u00b048\u2032N 114\u00b000\u2032W\ufeff / \ufeff48.80\u00b0N 114.00\u00b0W\ufeff / 48.80; -114.00\ufeff (Glacier)", 
+  "date": 1910, 
+  "acres": 1013572.41, 
   "map_count": 7, 
   "id": "glacier", 
   "Description": "The U.S. half of Waterton-Glacier International Peace Park, this park hosts 26 glaciers and 130 named lakes beneath a stunning canopy of Rocky Mountain peaks. There are historic hotels and a landmark road in this region of rapidly receding glaciers. The local mountains, formed by an overthrust, expose the world's best-preserved sedimentary fossils from the Proterozoic era.[28] (WHS)"

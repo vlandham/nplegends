@@ -1,4 +1,8 @@
 {
+  "loc": [
+    18.333, 
+    -64.733
+  ], 
   "symbol_count": 21, 
   "Name": "Virgin Islands", 
   "Recreation Visitors (2014)": "426,930", 
@@ -261,7 +265,6 @@
       ]
     }
   ], 
-  "Location": "United States Virgin Islands 18\u00b020\u2032N 64\u00b044\u2032W\ufeff / \ufeff18.33\u00b0N 64.73\u00b0W\ufeff / 18.33; -64.73\ufeff (Virgin Islands)", 
   "totals": [
     {
       "count": 7, 
@@ -294,6 +297,9 @@
       "name": "Campground"
     }
   ], 
+  "Location": "United States Virgin Islands 18\u00b020\u2032N 64\u00b044\u2032W\ufeff / \ufeff18.33\u00b0N 64.73\u00b0W\ufeff / 18.33; -64.73\ufeff (Virgin Islands)", 
+  "date": 1956, 
+  "acres": 14688.87, 
   "map_count": 1, 
   "id": "virgin-islands", 
   "Description": "The island of Saint John has rich human and natural histories. Ta\u00edno archaeological sites and ruins of sugar plantations from Columbus' time litter the coast. Past the pristine beaches are mangrove forests, seagrass beds, coral reefs, and vast algal plains."

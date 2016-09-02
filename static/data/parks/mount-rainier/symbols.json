@@ -1,4 +1,8 @@
 {
+  "loc": [
+    46.85, 
+    -121.75
+  ], 
   "symbol_count": 77, 
   "Name": "Mount Rainier", 
   "Recreation Visitors (2014)": "1,264,259", 
@@ -864,7 +868,6 @@
       ]
     }
   ], 
-  "Location": "Washington 46\u00b051\u2032N 121\u00b045\u2032W\ufeff / \ufeff46.85\u00b0N 121.75\u00b0W\ufeff / 46.85; -121.75\ufeff (Mount Rainier)", 
   "totals": [
     {
       "count": 20, 
@@ -912,6 +915,9 @@
       "name": "Safety/Caution/Alerts"
     }
   ], 
+  "Location": "Washington 46\u00b051\u2032N 121\u00b045\u2032W\ufeff / \ufeff46.85\u00b0N 121.75\u00b0W\ufeff / 46.85; -121.75\ufeff (Mount Rainier)", 
+  "date": 1899, 
+  "acres": 235625.0, 
   "map_count": 2, 
   "id": "mount-rainier", 
   "Description": "Mount Rainier, an active stratovolcano, is the most prominent peak in the Cascades, and is covered by 26 named glaciers including Carbon Glacier and Emmons Glacier, the largest in the contiguous United States. The mountain is popular for climbing, and more than half of the park is covered by subalpine and alpine forests and meadows seasonally in bloom with wildflowers. Paradise on the south slope is one of the snowiest places in the world, and the Longmire visitor center is the start of the Wonderland Trail, which encircles the mountain."

@@ -1,4 +1,8 @@
 {
+  "loc": [
+    48.1, 
+    -88.55
+  ], 
   "symbol_count": 37, 
   "Name": "Isle Royale", 
   "Recreation Visitors (2014)": "14,560", 
@@ -426,7 +430,6 @@
       ]
     }
   ], 
-  "Location": "Michigan 48\u00b006\u2032N 88\u00b033\u2032W\ufeff / \ufeff48.10\u00b0N 88.55\u00b0W\ufeff / 48.10; -88.55\ufeff (Isle Royale)", 
   "totals": [
     {
       "count": 18, 
@@ -464,6 +467,9 @@
       "name": "Lodging"
     }
   ], 
+  "Location": "Michigan 48\u00b006\u2032N 88\u00b033\u2032W\ufeff / \ufeff48.10\u00b0N 88.55\u00b0W\ufeff / 48.10; -88.55\ufeff (Isle Royale)", 
+  "date": 1940, 
+  "acres": 571790.11, 
   "map_count": 1, 
   "id": "isle-royale", 
   "Description": "The largest island in Lake Superior is a place of isolation and wilderness. Along with its many shipwrecks, waterways, and hiking trails, the park also includes over 400 smaller islands within 4.5 miles (7.2\u00a0km) of its shores. There are only 20 mammal species on the entire island, though the relationship between its wolf and moose populations is especially unique."

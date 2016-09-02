@@ -1,4 +1,8 @@
 {
+  "loc": [
+    25.317, 
+    -80.933
+  ], 
   "symbol_count": 40, 
   "Name": "Everglades", 
   "Recreation Visitors (2014)": "1,110,901", 
@@ -456,7 +460,6 @@
       ]
     }
   ], 
-  "Location": "Florida 25\u00b019\u2032N 80\u00b056\u2032W\ufeff / \ufeff25.32\u00b0N 80.93\u00b0W\ufeff / 25.32; -80.93\ufeff (Everglades)", 
   "totals": [
     {
       "count": 9, 
@@ -494,6 +497,9 @@
       "name": "Marina"
     }
   ], 
+  "Location": "Florida 25\u00b019\u2032N 80\u00b056\u2032W\ufeff / \ufeff25.32\u00b0N 80.93\u00b0W\ufeff / 25.32; -80.93\ufeff (Everglades)", 
+  "date": 1934, 
+  "acres": 1508537.9, 
   "map_count": 1, 
   "id": "everglades", 
   "Description": "The Everglades are the largest tropical wilderness in the United States. This mangrove and tropical rainforest ecosystem and marine estuary is home to 36 protected species, including the Florida panther, American crocodile, and West Indian manatee. Some areas have been drained and developed; restoration projects aim to restore the ecology.[26] (WHS)"

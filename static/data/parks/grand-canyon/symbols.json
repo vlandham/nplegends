@@ -1,4 +1,8 @@
 {
+  "loc": [
+    36.067, 
+    -112.133
+  ], 
   "symbol_count": 149, 
   "Name": "Grand Canyon", 
   "Recreation Visitors (2014)": "4,756,771", 
@@ -1781,7 +1785,6 @@
       ]
     }
   ], 
-  "Location": "Arizona 36\u00b004\u2032N 112\u00b008\u2032W\ufeff / \ufeff36.06\u00b0N 112.14\u00b0W\ufeff / 36.06; -112.14\ufeff (Grand Canyon)", 
   "totals": [
     {
       "count": 23, 
@@ -1874,6 +1877,9 @@
       "name": "Electrical hookup"
     }
   ], 
+  "Location": "Arizona 36\u00b004\u2032N 112\u00b008\u2032W\ufeff / \ufeff36.06\u00b0N 112.14\u00b0W\ufeff / 36.06; -112.14\ufeff (Grand Canyon)", 
+  "date": 1919, 
+  "acres": 1217403.32, 
   "map_count": 6, 
   "id": "grand-canyon", 
   "Description": "The Grand Canyon, carved by the mighty Colorado River, is 277 miles (446\u00a0km) long, up to 1 mile (1.6\u00a0km) deep, and up to 15 miles (24\u00a0km) wide. Millions of years of erosion have exposed the colorful layers of the Colorado Plateau in countless mesas and canyon walls, visible from both the north and south rims, or from a number of trails that descend into the canyon itself.[30] (WHS)"

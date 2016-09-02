@@ -1,4 +1,8 @@
 {
+  "loc": [
+    37.3, 
+    -113.05
+  ], 
   "symbol_count": 48, 
   "Name": "Zion", 
   "Recreation Visitors (2014)": "3,189,696", 
@@ -600,7 +604,6 @@
       ]
     }
   ], 
-  "Location": "Utah 37\u00b018\u2032N 113\u00b003\u2032W\ufeff / \ufeff37.30\u00b0N 113.05\u00b0W\ufeff / 37.30; -113.05\ufeff (Zion)", 
   "totals": [
     {
       "count": 11, 
@@ -668,6 +671,9 @@
       "name": "Safety/Caution/Alerts"
     }
   ], 
+  "Location": "Utah 37\u00b018\u2032N 113\u00b003\u2032W\ufeff / \ufeff37.30\u00b0N 113.05\u00b0W\ufeff / 37.30; -113.05\ufeff (Zion)", 
+  "date": 1919, 
+  "acres": 146597.6, 
   "map_count": 3, 
   "id": "zion", 
   "Description": "Located at the junction of the Colorado Plateau, Great Basin, and Mojave Desert, this geological wonder has colorful sandstone canyons, mountainous mesas, and countless rock towers. Natural arches and exposed plateau formations compose a large wilderness roughly divided into four ecosystems: desert, riparian, woodland, and coniferous forest."

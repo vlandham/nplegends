@@ -1,4 +1,8 @@
 {
+  "loc": [
+    35.683, 
+    -83.533
+  ], 
   "symbol_count": 37, 
   "Name": "Great Smoky Mountains", 
   "Recreation Visitors (2014)": "10,099,276", 
@@ -431,7 +435,6 @@
       ]
     }
   ], 
-  "Location": "Tennessee, North Carolina 35\u00b041\u2032N 83\u00b032\u2032W\ufeff / \ufeff35.68\u00b0N 83.53\u00b0W\ufeff / 35.68; -83.53\ufeff (Great Smoky Mountains)", 
   "totals": [
     {
       "count": 11, 
@@ -474,6 +477,9 @@
       "name": "Audio tour"
     }
   ], 
+  "Location": "Tennessee, North Carolina 35\u00b041\u2032N 83\u00b032\u2032W\ufeff / \ufeff35.68\u00b0N 83.53\u00b0W\ufeff / 35.68; -83.53\ufeff (Great Smoky Mountains)", 
+  "date": 1934, 
+  "acres": 521490.13, 
   "map_count": 1, 
   "id": "great-smoky-mountains", 
   "Description": "The Great Smoky Mountains, part of the Appalachian Mountains, span a wide range of elevations, making them home to over 400 vertebrate species, 100 tree species, and 5000 plant species. Hiking is the park's main attraction, with over 800 miles (1,300\u00a0km) of trails, including 70 miles (110\u00a0km) of the Appalachian Trail. Other activities include fishing, horseback riding, and touring nearly 80 historic structures.[34] (WHS)"

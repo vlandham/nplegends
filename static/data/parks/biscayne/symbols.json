@@ -1,4 +1,8 @@
 {
+  "loc": [
+    25.65, 
+    -80.083
+  ], 
   "symbol_count": 38, 
   "Name": "Biscayne", 
   "Recreation Visitors (2014)": "525,745", 
@@ -441,7 +445,6 @@
       ]
     }
   ], 
-  "Location": "Florida 25\u00b039\u2032N 80\u00b005\u2032W\ufeff / \ufeff25.65\u00b0N 80.08\u00b0W\ufeff / 25.65; -80.08\ufeff (Biscayne)", 
   "totals": [
     {
       "count": 9, 
@@ -484,6 +487,9 @@
       "name": "Dam"
     }
   ], 
+  "Location": "Florida 25\u00b039\u2032N 80\u00b005\u2032W\ufeff / \ufeff25.65\u00b0N 80.08\u00b0W\ufeff / 25.65; -80.08\ufeff (Biscayne)", 
+  "date": 1980, 
+  "acres": 172924.07, 
   "map_count": 1, 
   "id": "biscayne", 
   "Description": "Located in Biscayne Bay, this park at the north end of the Florida Keys has four interrelated marine ecosystems: mangrove forest, the Bay, the Keys, and coral reefs. Threatened animals include the West Indian manatee, American crocodile, various sea turtles, and peregrine falcon."

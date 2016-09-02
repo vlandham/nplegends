@@ -1,4 +1,8 @@
 {
+  "loc": [
+    40.483, 
+    -121.517
+  ], 
   "symbol_count": 38, 
   "Name": "Lassen Volcanic", 
   "Recreation Visitors (2014)": "432,977", 
@@ -441,7 +445,6 @@
       ]
     }
   ], 
-  "Location": "California 40\u00b029\u2032N 121\u00b031\u2032W\ufeff / \ufeff40.49\u00b0N 121.51\u00b0W\ufeff / 40.49; -121.51\ufeff (Lassen Volcanic)", 
   "totals": [
     {
       "count": 7, 
@@ -484,6 +487,9 @@
       "name": "Safety/Caution/Alerts"
     }
   ], 
+  "Location": "California 40\u00b029\u2032N 121\u00b031\u2032W\ufeff / \ufeff40.49\u00b0N 121.51\u00b0W\ufeff / 40.49; -121.51\ufeff (Lassen Volcanic)", 
+  "date": 1916, 
+  "acres": 106372.36, 
   "map_count": 1, 
   "id": "lassen-volcanic", 
   "Description": "Lassen Peak, the largest plug dome volcano in the world, is joined by all three other types of volcanoes in this park: shield, cinder dome, and composite. Though Lassen itself last erupted in 1915, most of the rest of the park is continuously active: numerous hydrothermal features, including fumaroles, boiling pools, and bubbling mud pots, are heated by molten rock from beneath the peak."

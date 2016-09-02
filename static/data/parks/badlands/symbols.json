@@ -1,4 +1,8 @@
 {
+  "loc": [
+    43.75, 
+    -102.5
+  ], 
   "symbol_count": 14, 
   "Name": "Badlands", 
   "Recreation Visitors (2014)": "868,094", 
@@ -214,7 +218,6 @@
       ]
     }
   ], 
-  "Location": "South Dakota 43\u00b045\u2032N 102\u00b030\u2032W\ufeff / \ufeff43.75\u00b0N 102.50\u00b0W\ufeff / 43.75; -102.50\ufeff (Badlands)", 
   "totals": [
     {
       "count": 5, 
@@ -242,6 +245,9 @@
       "name": "Sewer hookup"
     }
   ], 
+  "Location": "South Dakota 43\u00b045\u2032N 102\u00b030\u2032W\ufeff / \ufeff43.75\u00b0N 102.50\u00b0W\ufeff / 43.75; -102.50\ufeff (Badlands)", 
+  "date": 1978, 
+  "acres": 242755.94, 
   "map_count": 2, 
   "id": "badlands", 
   "Description": "The Badlands are a collection of buttes, pinnacles, spires, and grass prairies. It has the world's richest fossil beds from the Oligocene epoch, and the wildlife includes bison, bighorn sheep, black-footed ferrets, and swift foxes."

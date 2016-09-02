@@ -1,4 +1,8 @@
 {
+  "loc": [
+    37.567, 
+    -112.183
+  ], 
   "symbol_count": 105, 
   "Name": "Bryce Canyon", 
   "Recreation Visitors (2014)": "1,435,741", 
@@ -1298,7 +1302,6 @@
       ]
     }
   ], 
-  "Location": "Utah 37\u00b034\u2032N 112\u00b011\u2032W\ufeff / \ufeff37.57\u00b0N 112.18\u00b0W\ufeff / 37.57; -112.18\ufeff (Bryce Canyon)", 
   "totals": [
     {
       "count": 25, 
@@ -1401,6 +1404,9 @@
       "name": "Sewer hookup"
     }
   ], 
+  "Location": "Utah 37\u00b034\u2032N 112\u00b011\u2032W\ufeff / \ufeff37.57\u00b0N 112.18\u00b0W\ufeff / 37.57; -112.18\ufeff (Bryce Canyon)", 
+  "date": 1928, 
+  "acres": 35835.08, 
   "map_count": 5, 
   "id": "bryce-canyon", 
   "Description": "Bryce Canyon is a giant geological amphitheater on the Paunsaugunt Plateau. The unique area has hundreds of tall sandstone hoodoos formed by erosion. The region was originally settled by Native Americans and later by Mormon pioneers."

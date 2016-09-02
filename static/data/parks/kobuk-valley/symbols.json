@@ -1,4 +1,8 @@
 {
+  "loc": [
+    67.55, 
+    -159.283
+  ], 
   "symbol_count": 0, 
   "Name": "Kobuk Valley", 
   "Recreation Visitors (2014)": "16,875", 
@@ -7,8 +11,10 @@
   "Area": "1,750,716.50 acres (7,084.9\u00a0km2)", 
   "name": "Kobuk Valley", 
   "maps": [], 
-  "Location": "Alaska 67\u00b033\u2032N 159\u00b017\u2032W\ufeff / \ufeff67.55\u00b0N 159.28\u00b0W\ufeff / 67.55; -159.28\ufeff (Kobuk Valley)", 
   "totals": [], 
+  "Location": "Alaska 67\u00b033\u2032N 159\u00b017\u2032W\ufeff / \ufeff67.55\u00b0N 159.28\u00b0W\ufeff / 67.55; -159.28\ufeff (Kobuk Valley)", 
+  "date": 1980, 
+  "acres": 1750716.5, 
   "map_count": 0, 
   "id": "kobuk-valley", 
   "Description": "Kobuk Valley protects 61 miles (98\u00a0km) of the Kobuk River and three regions of sand dunes. Created by glaciers, the Great Kobuk, Little Kobuk, and Hunt River Sand Dunes can reach 100 feet (30\u00a0m) high and 100\u00a0\u00b0F (38\u00a0\u00b0C), and they are the largest dunes in the Arctic. Twice a year, half a million caribou migrate through the dunes and across river bluffs that expose well-preserved ice age fossils."

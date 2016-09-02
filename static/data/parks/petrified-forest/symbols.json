@@ -1,4 +1,8 @@
 {
+  "loc": [
+    35.067, 
+    -109.783
+  ], 
   "symbol_count": 56, 
   "Name": "Petrified Forest", 
   "Recreation Visitors (2014)": "836,799", 
@@ -669,7 +673,6 @@
       ]
     }
   ], 
-  "Location": "Arizona 35\u00b004\u2032N 109\u00b047\u2032W\ufeff / \ufeff35.07\u00b0N 109.78\u00b0W\ufeff / 35.07; -109.78\ufeff (Petrified Forest)", 
   "totals": [
     {
       "count": 13, 
@@ -717,6 +720,9 @@
       "name": "Drinking water"
     }
   ], 
+  "Location": "Arizona 35\u00b004\u2032N 109\u00b047\u2032W\ufeff / \ufeff35.07\u00b0N 109.78\u00b0W\ufeff / 35.07; -109.78\ufeff (Petrified Forest)", 
+  "date": 1962, 
+  "acres": 93532.57, 
   "map_count": 2, 
   "id": "petrified-forest", 
   "Description": "This portion of the Chinle Formation has a great concentration of 225-million-year-old petrified wood. The surrounding Painted Desert features eroded cliffs of wonderfully red-hued volcanic rock called bentonite. There are also dinosaur fossils and over 350 Native American sites."

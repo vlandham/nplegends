@@ -2,10 +2,11 @@ import React, { PureComponent, PropTypes } from 'react';
 import Helmet from 'react-helmet';
 import { browserHistory, Link } from 'react-router';
 import { Nav, NavItem } from 'react-bootstrap';
-// import { Row, Col } from 'react-bootstrap';
+import * as SearchActions from '../../redux/search/actions';
 import * as SymbolsActions from '../../redux/symbols/actions';
 import * as ParksActions from '../../redux/parks/actions';
 import * as ParksSelectors from '../../redux/parks/selectors';
+import * as SearchSelectors from '../../redux/search/selectors';
 import * as SymbolsSelectors from '../../redux/symbols/selectors';
 
 import UrlHandler from '../../url/UrlHandler';
@@ -15,18 +16,13 @@ import { SymbolList } from '../../components';
 
 
 // Define how to read/write state to URL query parameters
-const urlQueryConfig = {
-  viewMetric: { type: 'string', defaultValue: 'download', urlKey: 'metric' },
-
-  // chart options
-  boolExample: { type: 'boolean', defaultValue: false, urlKey: 'baselines' },
-};
+const urlQueryConfig = {};
 const urlHandler = new UrlHandler(urlQueryConfig, browserHistory);
-
 
 function mapStateToProps(state, propsWithUrl) {
   return {
     ...propsWithUrl,
+    parkIds: SearchSelectors.getParkSearch(state),
     parkInfo: ParksSelectors.getParkInfo(state, propsWithUrl),
     symbolInfo: SymbolsSelectors.getSymbols(state),
   };
@@ -36,6 +32,7 @@ class ParkPage extends PureComponent {
   static propTypes = {
     dispatch: PropTypes.func,
     parkId: PropTypes.string,
+    parkIds: PropTypes.object,
     parkInfo: PropTypes.object,
     symbolInfo: PropTypes.object,
   }
@@ -68,6 +65,7 @@ class ParkPage extends PureComponent {
     const { dispatch, parkId } = props;
     dispatch(ParksActions.fetchParkSymbolsIfNeeded(parkId));
     dispatch(SymbolsActions.fetchSymbolsIfNeeded());
+    dispatch(SearchActions.fetchParkSearchIfNeeded());
   }
 
   handleMapTabSelect(e) {

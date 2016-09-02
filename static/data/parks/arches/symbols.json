@@ -1,4 +1,8 @@
 {
+  "loc": [
+    38.683, 
+    -109.567
+  ], 
   "symbol_count": 20, 
   "Name": "Arches", 
   "Recreation Visitors (2014)": "1,284,767", 
@@ -246,7 +250,6 @@
       ]
     }
   ], 
-  "Location": "Utah 38\u00b041\u2032N 109\u00b034\u2032W\ufeff / \ufeff38.68\u00b0N 109.57\u00b0W\ufeff / 38.68; -109.57\ufeff (Arches)", 
   "totals": [
     {
       "count": 10, 
@@ -274,6 +277,9 @@
       "name": "Sewer hookup"
     }
   ], 
+  "Location": "Utah 38\u00b041\u2032N 109\u00b034\u2032W\ufeff / \ufeff38.68\u00b0N 109.57\u00b0W\ufeff / 38.68; -109.57\ufeff (Arches)", 
+  "date": 1971, 
+  "acres": 76518.98, 
   "map_count": 1, 
   "id": "arches", 
   "Description": "This site features more than 2,000 natural sandstone arches, including the famous Delicate Arch. In a desert climate, millions of years of erosion have led to these structures, and the arid ground has life-sustaining soil crust and potholes, which serve as natural water-collecting basins. Other geologic formations are stone columns, spires, fins, and towers."

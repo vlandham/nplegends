@@ -1,4 +1,8 @@
 {
+  "loc": [
+    60.967, 
+    -153.417
+  ], 
   "symbol_count": 6, 
   "Name": "Lake Clark", 
   "Recreation Visitors (2014)": "16,100", 
@@ -86,7 +90,6 @@
       ]
     }
   ], 
-  "Location": "Alaska 60\u00b058\u2032N 153\u00b025\u2032W\ufeff / \ufeff60.97\u00b0N 153.42\u00b0W\ufeff / 60.97; -153.42\ufeff (Lake Clark)", 
   "totals": [
     {
       "count": 6, 
@@ -94,6 +97,9 @@
       "name": "Ranger station"
     }
   ], 
+  "Location": "Alaska 60\u00b058\u2032N 153\u00b025\u2032W\ufeff / \ufeff60.97\u00b0N 153.42\u00b0W\ufeff / 60.97; -153.42\ufeff (Lake Clark)", 
+  "date": 1980, 
+  "acres": 2619733.21, 
   "map_count": 1, 
   "id": "lake-clark", 
   "Description": "The region around Lake Clark features four active volcanoes, including Mount Redoubt, as well as an abundance of rivers, glaciers, and waterfalls. Temperate rainforests, a tundra plateau, and three mountain ranges fill in the remaining landscape."

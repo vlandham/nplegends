@@ -1,4 +1,8 @@
 {
+  "loc": [
+    38.567, 
+    -107.717
+  ], 
   "symbol_count": 40, 
   "Name": "Black Canyon of the Gunnison", 
   "Recreation Visitors (2014)": "183,045", 
@@ -482,7 +486,6 @@
       "totals": []
     }
   ], 
-  "Location": "Colorado 38\u00b034\u2032N 107\u00b043\u2032W\ufeff / \ufeff38.57\u00b0N 107.72\u00b0W\ufeff / 38.57; -107.72\ufeff (Black Canyon of the Gunnison)", 
   "totals": [
     {
       "count": 8, 
@@ -535,6 +538,9 @@
       "name": "Amphitheater"
     }
   ], 
+  "Location": "Colorado 38\u00b034\u2032N 107\u00b043\u2032W\ufeff / \ufeff38.57\u00b0N 107.72\u00b0W\ufeff / 38.57; -107.72\ufeff (Black Canyon of the Gunnison)", 
+  "date": 1999, 
+  "acres": 32950.03, 
   "map_count": 2, 
   "id": "black-canyon-of-the-gunnison", 
   "Description": "The park protects a quarter of the Gunnison River, which slices sheer canyon walls from dark Precambrian-era rock. The canyon features incredibly steep descents, and is a popular site for river rafting and rock climbing. The deep, narrow canyon, made of gneiss and schist, is often in shadow and therefore appears black."
