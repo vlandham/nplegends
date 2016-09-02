@@ -57,6 +57,7 @@ export default class Html extends Component {
             />
           )}
          {devStyle}
+          <script src="/js/openseadragon.js" />
         </head>
         <body>
           <div id="content" dangerouslySetInnerHTML={{ __html: content }} />
