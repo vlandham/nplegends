@@ -1,4 +1,5 @@
 import React, { PureComponent, PropTypes } from 'react';
+import { Element } from 'react-scroll';
 
 import { Link } from 'react-router';
 import './SymbolParks.scss';
@@ -35,6 +36,7 @@ export default class SymbolParks extends PureComponent {
       return <div />;
     }
     return (
+      <Element key={symbol.id} name={symbol.id}>
       <div key={symbol.id} className="SymbolParks">
         <h3>
           <img className="symbol-icon" src={`/symbols/${symbol.id}.png`} alt={symbol.id} /> {symbol.name}
@@ -46,6 +48,7 @@ export default class SymbolParks extends PureComponent {
           {this.sortByCount(parks).map((p) => this.renderPark(p))}
         </div>
       </div>
+      </Element>
     );
   }
 }

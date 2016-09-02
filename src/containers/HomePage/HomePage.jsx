@@ -2,6 +2,8 @@ import React, { PureComponent, PropTypes } from 'react';
 import { connect } from 'react-redux';
 import Helmet from 'react-helmet';
 import { Link } from 'react-router';
+
+import Scroll, { Element, scroller } from 'react-scroll';
 // import * as SearchActions from '../../redux/search/actions';
 import * as SymbolsActions from '../../redux/symbols/actions';
 // import * as SearchSelectors from '../../redux/search/selectors';
@@ -34,6 +36,7 @@ class HomePage extends PureComponent {
 
     // bind handlers
     this.onSearchQueryChange = this.onSearchQueryChange.bind(this);
+    this.onSymbolClick = this.onSymbolClick.bind(this);
   }
 
   componentDidMount() {
@@ -51,6 +54,14 @@ class HomePage extends PureComponent {
    */
   onSearchQueryChange() {
     // noop
+  }
+
+  onSymbolClick(d) {
+    scroller.scrollTo(d.id, {
+      duration: 1500,
+      delay: 100,
+      smooth: true,
+    });
   }
 
   renderSymbolParks(symbol, parks) {
@@ -80,6 +91,7 @@ class HomePage extends PureComponent {
         width={920}
         height={300}
         symbolCounts={counts}
+        onClick={this.onSymbolClick}
       />
     );
   }
@@ -90,8 +102,6 @@ class HomePage extends PureComponent {
     return (
       <div className="home-page">
         <Helmet title="Home" />
-        <h1>NP Legends</h1>
-        <p><strong>What?</strong></p>
         <p>Exploring the symbols National Park Service maps with image processing. Which symbols are used most at your beloved park? Which is the least used symbols? Find out here!</p>
         <p className="pull-right"><Link to="about">Learn More</Link></p>
         <div className="symbol-treemap-container">
