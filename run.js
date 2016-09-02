@@ -66,31 +66,31 @@ tasks.set('html', () => {
 //
 // Bundle JavaScript, CSS and image files with Webpack
 // -----------------------------------------------------------------------------
-tasks.set('bundle', () => {
-  const webpackConfig = require('./webpack/prod.config');
-  return new Promise((resolve, reject) => {
-    webpack(webpackConfig).run((err, stats) => {
-      if (err) {
-        reject(err);
-      } else {
-        console.log(stats.toString(webpackConfig.stats));
-        resolve();
-      }
-    });
-  });
-});
+// tasks.set('bundle', () => {
+//   const webpackConfig = require('./webpack/prod.config');
+//   return new Promise((resolve, reject) => {
+//     webpack(webpackConfig).run((err, stats) => {
+//       if (err) {
+//         reject(err);
+//       } else {
+//         console.log(stats.toString(webpackConfig.stats));
+//         resolve();
+//       }
+//     });
+//   });
+// });
 
 //
 // Build website into a distributable format
 // -----------------------------------------------------------------------------
-tasks.set('build', () => {
-  global.DEBUG = process.argv.includes('--debug') || false;
-  return Promise.resolve()
-    .then(() => run('clean'))
-    .then(() => run('bundle'))
-    .then(() => run('html'))
-    // .then(() => run('sitemap'));
-});
+// tasks.set('build', () => {
+//   global.DEBUG = process.argv.includes('--debug') || false;
+//   return Promise.resolve()
+//     .then(() => run('clean'))
+//     .then(() => run('bundle'))
+//     .then(() => run('html'))
+//     // .then(() => run('sitemap'));
+// });
 
 //
 // Build and publish the website
