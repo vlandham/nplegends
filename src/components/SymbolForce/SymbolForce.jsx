@@ -2,10 +2,12 @@ import React, { PureComponent, PropTypes } from 'react';
 
 import d3 from 'd3';
 
+import './SymbolForce.scss';
+
 export default class SymbolTreemap extends PureComponent {
   static propTypes = {
     height: React.PropTypes.number,
-
+    onClick: PropTypes.func,
     symbolCounts: PropTypes.array,
     width: React.PropTypes.number,
   }
@@ -19,6 +21,7 @@ export default class SymbolTreemap extends PureComponent {
 
     // bind handlers
     this.ticked = this.ticked.bind(this);
+    this.onSymbolClick = this.onSymbolClick.bind(this);
   }
   /**
    * Initiailize the vis components when the component is about to mount
@@ -49,6 +52,14 @@ export default class SymbolTreemap extends PureComponent {
     this.update();
   }
 
+  onSymbolClick(d) {
+    const { onClick } = this.props;
+    console.log(d);
+    if (onClick) {
+      onClick(d);
+    }
+  }
+
   setup() {
     const svg = d3.select(this.root);
     this.nodes = svg.append('g')
@@ -62,6 +73,7 @@ export default class SymbolTreemap extends PureComponent {
       .attr('x', (d) => d.x - (d.r / 2))
       .attr('y', (d) => d.y - (d.r / 2));
   }
+
 
   /**
    * Figure out what is needed to render the chart
@@ -119,13 +131,15 @@ export default class SymbolTreemap extends PureComponent {
     const node = this.nodes
       .selectAll('.node')
       .data(symbolCounts)
-      .enter().append('image')
+      .enter()
+      // .append('g')
+      // .attr('class', 'node');
+      .append('image')
       .attr('class', 'node')
-      // .attr('x', (d) => d.x - (d.r / 2))
-      // .attr('y', (d) => d.y - (d.r / 2))
       .attr('width', (d) => d.r)
       .attr('height', (d) => d.r)
-      .attr('xlink:href', (d) => `/symbols/${d.id}.png`);
+      .attr('xlink:href', (d) => `/symbols/${d.id}.png`)
+      .on('click', this.onSymbolClick);
 
     simulation
       .nodes(symbolCounts)
@@ -137,7 +151,7 @@ export default class SymbolTreemap extends PureComponent {
     const { height, width } = this.props;
 
     return (
-      <div>
+      <div className="SymbolForce">
         <svg
           className="force-chart"
           height={height}
