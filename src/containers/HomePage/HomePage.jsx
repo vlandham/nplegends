@@ -99,11 +99,14 @@ class HomePage extends PureComponent {
   render() {
     const { symbolInfo } = this.props;
 
+    const count = (symbolInfo && symbolInfo.totals) ? symbolInfo.totals.length : "";
+    const mapCounts = (symbolInfo && symbolInfo.maps) ? symbolInfo.maps.length : "";
+
     return (
       <div className="home-page">
         <Helmet title="Home" />
-        <p>Exploring the symbols National Park Service maps with image processing. Which symbols are used most at your beloved park? Which is the least used symbols? Find out here!</p>
-        <p className="pull-right"><Link to="about">Learn More</Link></p>
+        <p>Exploring the symbols of National Park Service maps with image processing. There are over 200 symbol types used in NP maps. Here, we've automatically detected {count} types in {mapCounts} different park maps. Which symbols are used most at your beloved park? Which is the least used symbols? Find out here!</p>
+        <p className="pull-right"><Link to="about">About this Project</Link></p>
         <div className="symbol-treemap-container">
           {this.renderTreemap(symbolInfo.totals)}
         </div>
