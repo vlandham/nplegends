@@ -15,3 +15,4 @@ export SymbolParks from './SymbolParks/SymbolParks';
 export SymbolTreemap from './SymbolTreemap/SymbolTreemap';
 export SymbolForce from './SymbolForce/SymbolForce';
 export CountInContext from './CountInContext/CountInContext';
+export MapView from './MapView/MapView';

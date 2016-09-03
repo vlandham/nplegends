@@ -12,28 +12,27 @@ const environment = {
 module.exports = Object.assign({
   host: process.env.HOST || 'localhost',
   port: process.env.PORT,
-  apiRoot: process.env.APIROOT || 'http://mlab-api-dot-mlab-oti.appspot.com',
 
   // How many API calls the client caches in the LRU cache
   apiCacheLimit: 25,
 
   app: {
-    title: 'MLab Vis',
-    description: 'Measurement Lab Visualizations - Analyzing internet speeds worldwide.',
+    title: 'NP Legends',
+    description: 'Exploring the symbols of National Park Service maps.',
     head: {
-      titleTemplate: '%s - MLab Vis',
+      titleTemplate: '%s - NP Legends',
       meta: [
         {
           name: 'description',
-          content: 'Measurement Lab Visualizations - Analyzing internet speeds worldwide.',
+          content: 'NP Legends - Exploring the symbols of National Park Service maps.',
         },
         { charset: 'utf-8' },
-        { property: 'og:site_name', content: 'MLab Vis' },
+        { property: 'og:site_name', content: 'NP Legends' },
         { property: 'og:locale', content: 'en_US' },
-        { property: 'og:title', content: 'MLab Vis' },
+        { property: 'og:title', content: 'NP Legends' },
         {
           property: 'og:description',
-          content: 'Measurement Lab Visualizations - Analyzing internet speeds worldwide.',
+          content: 'NP Legends - Exploring the symbols of National Park Service maps.',
         },
       ],
     },

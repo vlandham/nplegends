@@ -12,7 +12,7 @@ import * as SymbolsSelectors from '../../redux/symbols/selectors';
 import UrlHandler from '../../url/UrlHandler';
 import urlConnect from '../../url/urlConnect';
 
-import { SymbolList } from '../../components';
+import { SymbolList, MapView } from '../../components';
 
 
 // Define how to read/write state to URL query parameters
@@ -98,9 +98,14 @@ class ParkPage extends PureComponent {
       return null;
     }
     return (
-      <Nav bsStyle="tabs" activeKey={1} onSelect={this.handleMapTabSelect}>
-        {parkInfo.maps.map(this.renderNavItem)}
-      </Nav>
+      <div className="map-view-container">
+        <Nav bsStyle="tabs" activeKey={1} onSelect={this.handleMapTabSelect}>
+          {parkInfo.maps.map(this.renderNavItem)}
+        </Nav>
+        <p><strong>TODO: zoomable map with symbols highlighted and toggleable</strong></p>
+        {/* <MapView /> */}
+      </div>
+
     );
   }
 
