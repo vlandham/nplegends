@@ -17,6 +17,17 @@ export default class CountInContext extends PureComponent {
     parks: [],
   }
 
+  constructor(props) {
+    super(props);
+    this.state = {
+      hover: false,
+    };
+
+    this.onMouseOver = this.onMouseOver.bind(this);
+    this.onMouseOut = this.onMouseOut.bind(this);
+    this.onLabelClick = this.onLabelClick.bind(this);
+  }
+
   /**
   * Initiailize the vis components when the component is about to mount
   */
@@ -32,27 +43,62 @@ export default class CountInContext extends PureComponent {
     this.visComponents = this.makeVisComponents(nextProps);
   }
 
+  onMouseOver() {
+    this.setState({ hover: true });
+    return true;
+  }
+
+  onMouseOut() {
+    this.setState({ hover: false });
+    return true;
+  }
+
+  onLabelClick(event) {
+    // console.log(event)
+    // console.log(event.currentTarget)
+    // console.log(event.currentTarget.key)
+  }
+
   makeVisComponents(props) {
     const { width, height, parks, parkId } = props;
     const squareSize = 30;
-    const padding = { left: squareSize, right: squareSize };
+    const padding = { left: squareSize * 2, right: squareSize * 2 };
     const xExtent = d3.extent(parks, (p) => p.count);
     const xScale = d3.scaleLinear()
       .domain(xExtent)
       .range([0, width - (padding.left + padding.right)]);
     const parkCount = parks.filter((p) => p.id === parkId)[0];
+    const labels = [];
+    if (parkCount && parks && parks.length > 0) {
+      // let frontLabel = false;
+      if (xExtent[0] === parkCount.count) {
+        labels.push(parkCount);
+      } else {
+        labels.push(parks[parks.length - 1]);
+      }
+
+      if (xExtent[1] === parkCount.count) {
+        labels.push(parkCount);
+      } else {
+        labels.push(parks[0]);
+      }
+    }
+
+    const showLine = (xScale.domain()[0] !== xScale.domain()[1]);
     return {
       parkCount,
+      labels,
       xScale,
       width,
       height,
+      showLine,
       padding,
       squareSize,
     };
   }
 
   renderChart() {
-    const { height, xScale, parkCount, padding, squareSize } = this.visComponents;
+    const { height, xScale, parkCount, padding, squareSize, showLine } = this.visComponents;
     let rect = '';
     if (parkCount) {
       rect = (
@@ -68,8 +114,9 @@ export default class CountInContext extends PureComponent {
         </g>
         );
     }
-    return (
-      <g transform={`translate(${padding.left},${0})`}>
+    let line = '';
+    if (showLine) {
+      line = (
         <line
           className="context-line"
           strokeWidth={2}
@@ -78,14 +125,71 @@ export default class CountInContext extends PureComponent {
           x2={xScale.range()[1]}
           y2={height / 2}
         />
+      );
+    }
+    return (
+      <g transform={`translate(${padding.left},${0})`}>
+        {line}
         {rect}
       </g>
     );
   }
 
+  renderBackground(width, height) {
+    return (
+      <rect
+        width={width}
+        height={height}
+        onMouseOver={this.onMouseOver}
+        onMouseOut={this.onMouseOut}
+        // onClick={this.onLabelClick}
+        fill="none"
+        pointerEvents="all"
+      />
+    );
+  }
+
+  renderLabels(hover) {
+    const { width, padding, height, labels, showLine } = this.visComponents;
+
+    if (showLine && hover) {
+      return (
+        <g className="context-labels">
+          <text
+            x={padding.left}
+            y={height - 5}
+            textAnchor="middle"
+            className="context-label"
+            key={labels[0].id}
+            onClick={this.onLabelClick}
+            // onMouseOver={this.onMouseOver}
+            // onMouseOut={this.onMouseOut}
+          >
+            {labels[0].name}
+          </text>
+          <text
+            x={width - padding.right}
+            y={height - 5}
+            textAnchor="middle"
+            className="context-label"
+            key={labels[1].id}
+            onClick={this.onLabelClick}
+            // onMouseOver={this.onMouseOver}
+            // onMouseOut={this.onMouseOut}
+          >
+            {labels[1].name}
+          </text>
+        </g>
+      );
+    }
+
+    return null;
+  }
+
 
   render() {
     const { height, width } = this.props;
+    const { hover } = this.state;
 
     return (
       <div className="CountInContext">
@@ -96,6 +200,8 @@ export default class CountInContext extends PureComponent {
           ref={node => { this.root = node; }}
         >
           {this.renderChart()}
+          {this.renderLabels(hover)}
+          {this.renderBackground(width, height)}
         </svg>
       </div>
     );

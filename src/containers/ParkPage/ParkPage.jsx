@@ -102,8 +102,10 @@ class ParkPage extends PureComponent {
         <Nav bsStyle="tabs" activeKey={1} onSelect={this.handleMapTabSelect}>
           {parkInfo.maps.map(this.renderNavItem)}
         </Nav>
-        <p><strong>TODO: zoomable map with symbols highlighted and toggleable</strong></p>
-        {/* <MapView /> */}
+        {/* <p><strong>TODO: zoomable map with symbols highlighted and toggleable</strong></p> */}
+        <MapView
+          map={parkInfo.maps[0]}
+        />
       </div>
 
     );

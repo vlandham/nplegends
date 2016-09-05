@@ -45,7 +45,7 @@ export default class SymbolParks extends PureComponent {
 
         </h3>
         <div className="parks">
-          {this.sortByCount(parks).map((p) => this.renderPark(p))}
+          {parks.map((p) => this.renderPark(p))}
         </div>
       </div>
       </Element>

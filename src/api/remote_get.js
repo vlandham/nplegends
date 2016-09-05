@@ -17,9 +17,8 @@ function formatUrl(type, typeId) {
   // Prepend API root
   if (typeId) {
     return `/data/${type}/${typeId}/symbols.json`;
-  } else {
-    return `/data/${type}.json`;
   }
+  return `/data/${type}.json`;
 }
 
 /**
@@ -29,8 +28,8 @@ function formatUrl(type, typeId) {
  * @param {Object} params the query parameters
  * @return {String} the cache key
  */
-function urlCacheKey(path, params) {
-  return JSON.stringify({ path, params });
+function urlCacheKey(type, typeId, params) {
+  return JSON.stringify({ type, typeId, params });
 }
 
 export function getQuick(type, typeId) {
@@ -51,11 +50,11 @@ export function getQuick(type, typeId) {
 export function remoteGet(type, typeId, { params } = {}) {
   return new Promise((resolve, reject) => {
     // check for a cached response
-    const cacheKey = urlCacheKey(typeId, params);
+    const cacheKey = urlCacheKey(type, typeId, params);
     const cached = apiCache.get(cacheKey);
 
     // found in cache
-    if (false) {
+    if (cached) {
       resolve(cached);
       return;
     }

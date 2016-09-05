@@ -32,8 +32,13 @@ export function transform(...transformFuncs) {
   };
 }
 
+// function orderCounts(counts) {
+//   return _.sortBy(_.toPairs(counts), (s) => -1 * s[1]).filter((s) => s[0].length > 0);
+// }
+
 function orderCounts(counts) {
-  return _.sortBy(_.toPairs(counts), (s) => -1 * s[1]).filter((s) => s[0].length > 0);
+  counts.sort((a, b) => b.count - a.count);
+  return counts;
 }
 
 export function transformParkInfo(info) {
@@ -42,6 +47,18 @@ export function transformParkInfo(info) {
   // info.totals = orderedTotals.map((s) => ({ id: s[0], count: s[1] }));
 
   return info;
+}
+
+export function transformSymbols(symbols) {
+  console.log(symbols);
+  _.keys(symbols.parks).forEach((key) => {
+    symbols.parks[key] = orderCounts(symbols.parks[key]);
+  });
+  // const parkTotals = info.totals;
+  // const orderedTotals = orderCounts(parkTotals);
+  // info.totals = orderedTotals.map((s) => ({ id: s[0], count: s[1] }));
+
+  return symbols;
 }
 
 /**

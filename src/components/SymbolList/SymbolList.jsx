@@ -29,7 +29,7 @@ export default class SymbolList extends PureComponent {
         </Col>
         <Col md={4}>
           <CountInContext
-            width={200}
+            width={250}
             height={60}
             parks={parks}
             parkId={parkId}

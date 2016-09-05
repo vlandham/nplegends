@@ -1,7 +1,7 @@
 // import get from './get';
 import { remoteGet } from './remote_get';
 
-import { transformParkInfo } from './transforms';
+import { transformParkInfo, transformSymbols } from './transforms';
 
 // -------------
 // API Calls
@@ -22,7 +22,8 @@ export function getParkSearch() {
 }
 
 export function getSymbolsData() {
-  return remoteGet('all_symbols');
+  return remoteGet('all_symbols')
+    .then(transformSymbols);
 }
 
 /**
