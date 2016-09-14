@@ -15,6 +15,7 @@ import * as axis from 'd3-axis';
 import * as collection from 'd3-collection';
 import * as hierarchy from 'd3-hierarchy';
 import * as force from 'd3-force';
+import * as request from 'd3-request';
 
 export default Object.assign({},
   array,
@@ -25,4 +26,5 @@ export default Object.assign({},
   axis,
   collection,
   hierarchy,
+  request,
   force);

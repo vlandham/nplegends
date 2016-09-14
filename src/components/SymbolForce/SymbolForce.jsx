@@ -54,7 +54,6 @@ export default class SymbolTreemap extends PureComponent {
 
   onSymbolClick(d) {
     const { onClick } = this.props;
-    console.log(d);
     if (onClick) {
       onClick(d);
     }

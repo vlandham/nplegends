@@ -1,6 +1,7 @@
 import superagent from 'superagent';
 import config from '../config';
 import LRUCache from './LRUCache';
+import d3 from 'd3';
 
 const apiCache = new LRUCache(config.apiCacheLimit);
 if (__DEVELOPMENT__ && __CLIENT__) {
@@ -81,6 +82,28 @@ export function remoteGet(type, typeId, { params } = {}) {
       // and make sure your transform checks to see if the data is already
       // transformed.
       apiCache.put(cacheKey, body);
+      resolve(body);
+    });
+  });
+}
+
+export function xmlGet(path) {
+  return new Promise((resolve, reject) => {
+    // check for a cached response
+    const cached = apiCache.get(path);
+
+    // found in cache
+    if (cached) {
+      resolve(cached);
+      return;
+    }
+
+    d3.xml(path, (err, body) => {
+      if (err || (body && body.error)) {
+        reject(body || err);
+      }
+
+      apiCache.put(path, body);
       resolve(body);
     });
   });

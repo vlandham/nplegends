@@ -50,7 +50,6 @@ export function transformParkInfo(info) {
 }
 
 export function transformSymbols(symbols) {
-  console.log(symbols);
   _.keys(symbols.parks).forEach((key) => {
     symbols.parks[key] = orderCounts(symbols.parks[key]);
   });

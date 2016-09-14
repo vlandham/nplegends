@@ -32,6 +32,11 @@ export default class MapView extends PureComponent {
   componentDidMount() {
     const { map } = this.props;
     if (map) {
+      // console.log('~~in~~');
+      // const image = map.Image;
+      // console.log(image);
+      // const format = map.getAttribute('Format');
+      // console.log(format);
     this.viewer = OpenSeadragon({
       id: 'zoom-view',
       prefixUrl: '/img/openseadragon',
@@ -47,7 +52,7 @@ export default class MapView extends PureComponent {
         getTileUrl: this.getMapUrl(map),
       }],
     });
-  }
+    }
   }
 
   /**
@@ -63,9 +68,23 @@ export default class MapView extends PureComponent {
     }
   }
 
+  componentDidUpdate(prevProps) {
+    const { map } = this.props;
+
+    if (map && map !== prevProps.map) {
+      console.log('~~in update ~~')
+      this.viewer = OpenSeadragon({
+        id: 'zoom-view',
+        prefixUrl: '/img/openseadragon/',
+        tileSources: [{
+          ...map,
+        }],
+      });
+    }
+  }
+
 
   getMapUrl(map) {
-    console.log(map)
     return `/zooms/${map.map}.dzi`;
   }
 
@@ -73,8 +92,6 @@ export default class MapView extends PureComponent {
     const style = { width: 940, height: 700 };
     const { map } = this.props;
     console.log(map);
-
-
 
     return (
       <div className="MapView">

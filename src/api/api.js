@@ -1,5 +1,5 @@
 // import get from './get';
-import { remoteGet } from './remote_get';
+import { remoteGet, xmlGet } from './remote_get';
 
 import { transformParkInfo, transformSymbols } from './transforms';
 
@@ -23,6 +23,11 @@ export function getParkSearch() {
 
 export function getSymbolsData() {
   return remoteGet('all_symbols')
+    .then(transformSymbols);
+}
+
+export function getZoomMap(mapId) {
+  return xmlGet(`/data/zooms/${mapId}.dzi`)
     .then(transformSymbols);
 }
 
