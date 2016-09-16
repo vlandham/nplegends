@@ -9,6 +9,8 @@ import * as ParksActions from '../../redux/parks/actions';
 import * as ParksSelectors from '../../redux/parks/selectors';
 import * as SearchSelectors from '../../redux/search/selectors';
 import * as SymbolsSelectors from '../../redux/symbols/selectors';
+import * as ParkPageSelectors from '../../redux/parkPage/selectors';
+import * as ParkPageActions from '../../redux/parkPage/actions';
 
 import UrlHandler from '../../url/UrlHandler';
 import urlConnect from '../../url/urlConnect';
@@ -27,12 +29,14 @@ function mapStateToProps(state, propsWithUrl) {
     parkInfo: ParksSelectors.getParkInfo(state, propsWithUrl),
     symbolInfo: SymbolsSelectors.getSymbols(state),
     maps: ParksSelectors.getMapsForPark(state, propsWithUrl),
+    mapIndex: ParkPageSelectors.getMapIndex(state),
   };
 }
 
 class ParkPage extends PureComponent {
   static propTypes = {
     dispatch: PropTypes.func,
+    mapIndex: PropTypes.number,
     maps: PropTypes.object,
     parkId: PropTypes.string,
     parkIds: PropTypes.object,
@@ -43,6 +47,7 @@ class ParkPage extends PureComponent {
   static defaultProps = {
     parkInfo: {},
     symbolInfo: {},
+    mapIndex: 0,
   }
 
   constructor(props) {
@@ -75,7 +80,10 @@ class ParkPage extends PureComponent {
   }
 
   handleMapTabSelect(e) {
+    const { dispatch } = this.props;
+    dispatch(ParkPageActions.updateViewedMap(e - 1));
     console.log(e);
+    // const mapId = parkInfo.maps[mapIndex].map;
   }
 
   renderSymbolList() {
@@ -99,19 +107,19 @@ class ParkPage extends PureComponent {
   }
 
   renderMaps() {
-    const { parkInfo, maps } = this.props;
+    const { parkInfo, mapIndex, maps } = this.props;
     if (!parkInfo.maps) {
       return null;
     }
-    const mapId = parkInfo.maps[0].map;
+    const mapId = parkInfo.maps[mapIndex].map;
     return (
       <div className="map-view-container">
-        <Nav bsStyle="tabs" activeKey={1} onSelect={this.handleMapTabSelect}>
+        <Nav bsStyle="tabs" activeKey={mapIndex + 1} onSelect={this.handleMapTabSelect}>
           {parkInfo.maps.map(this.renderNavItem)}
         </Nav>
         {/* <p><strong>TODO: zoomable map with symbols highlighted and toggleable</strong></p> */}
         <MapView
-          mapInfo={parkInfo.maps[0]}
+          info={parkInfo.maps[mapIndex]}
           map={maps[mapId]}
         />
       </div>

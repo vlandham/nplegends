@@ -6,6 +6,7 @@ import './MapView.scss';
 export default class MapView extends PureComponent {
 
   static propTypes = {
+    info: PropTypes.object,
     map: PropTypes.object,
   }
 
@@ -16,7 +17,9 @@ export default class MapView extends PureComponent {
   constructor(props) {
     super(props);
 
-    this.getMapUrl = this.getMapUrl.bind(this);
+    this.viewer = null;
+
+    // this.getMapUrl = this.getMapUrl.bind(this);
   }
 
   /**
@@ -37,21 +40,21 @@ export default class MapView extends PureComponent {
       // console.log(image);
       // const format = map.getAttribute('Format');
       // console.log(format);
-    this.viewer = OpenSeadragon({
-      id: 'zoom-view',
-      prefixUrl: '/img/openseadragon',
-      tileSources: [{
-        overlays: [{
-          id: 'example-overlay',
-          x: 0.33,
-          y: 0.75,
-          width: 0.2,
-          height: 0.25,
-          className: 'highlight',
-        }],
-        getTileUrl: this.getMapUrl(map),
-      }],
-    });
+    // this.viewer = OpenSeadragon({
+    //   id: 'zoom-view',
+    //   prefixUrl: '/img/openseadragon',
+    //   tileSources: [{
+    //     overlays: [{
+    //       id: 'example-overlay',
+    //       x: 0.33,
+    //       y: 0.75,
+    //       width: 0.2,
+    //       height: 0.25,
+    //       className: 'highlight',
+    //     }],
+    //     getTileUrl: this.getMapUrl(map),
+    //   }],
+    // });
     }
   }
 
@@ -68,30 +71,53 @@ export default class MapView extends PureComponent {
     }
   }
 
+  buildOverlays(symbols, mapData) {
+    const width = +mapData.Image.Size.Width;
+    const height = +mapData.Image.Size.Height;
+    const overlays = symbols.map((symbol, i) => {
+      const overlay = { id: symbol.id + i };
+
+      overlay.x = symbol.pos.x / width;
+      overlay.y = symbol.pos.y / height;
+      overlay.width = symbol.pos.width / width;
+      overlay.height = symbol.pos.height / height;
+      overlay.className = 'highlight';
+
+      return overlay;
+    });
+
+    return overlays;
+  }
+
   componentDidUpdate(prevProps) {
-    const { map } = this.props;
+    const { info, map } = this.props;
 
     if (map && map !== prevProps.map) {
-      console.log('~~in update ~~')
-      this.viewer = OpenSeadragon({
-        id: 'zoom-view',
-        prefixUrl: '/img/openseadragon/',
-        tileSources: [{
-          ...map,
-        }],
-      });
+      if (this.viewer) {
+        this.viewer.destroy();
+        this.viewer = null;
+      }
+
+      const overlays = this.buildOverlays(info.symbols, map);
+      // if (!this.viewer) {
+        this.viewer = new OpenSeadragon.Viewer({
+          id: 'zoom-view',
+          prefixUrl: '/img/openseadragon/',
+          tileSources: [{
+            ...map,
+          }],
+        });
+      // }
     }
   }
 
 
-  getMapUrl(map) {
-    return `/zooms/${map.map}.dzi`;
-  }
+  // getMapUrl(map) {
+  //   return `/zooms/${map.map}.dzi`;
+  // }
 
   render() {
     const style = { width: 940, height: 700 };
-    const { map } = this.props;
-    console.log(map);
 
     return (
       <div className="MapView">
