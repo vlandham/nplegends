@@ -14,6 +14,7 @@ const initialParkState = {
 
 // the location page reducer
 function park(state, action = {}) {
+  console.log(action)
   if (!state) {
     state = Object.assign({
       parkId: action.parkId,

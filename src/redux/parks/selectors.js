@@ -13,7 +13,8 @@ import { initialParkState } from '../parks/reducer';
 
 export function getParkInfo(state, props) {
   // read in locationId from props
-  const { parkId } = props;
+  const { params } = props;
+  const parkId = params.parkId;
 
   if (parkId == null || !state.parks[parkId]) {
     return initialParkState;

@@ -1,7 +1,7 @@
 import React, { PureComponent, PropTypes } from 'react';
 import Helmet from 'react-helmet';
 import { connect } from 'react-redux';
-import {Link } from 'react-router';
+import { Link } from 'react-router';
 import { Nav, NavItem } from 'react-bootstrap';
 import * as SearchActions from '../../redux/search/actions';
 import * as SymbolsActions from '../../redux/symbols/actions';
@@ -39,7 +39,7 @@ class ParkPage extends PureComponent {
     dispatch: PropTypes.func,
     mapIndex: PropTypes.number,
     maps: PropTypes.object,
-    parkId: PropTypes.string,
+    params: PropTypes.string,
     parkIds: PropTypes.object,
     parkInfo: PropTypes.object,
     symbolInfo: PropTypes.object,
@@ -71,8 +71,8 @@ class ParkPage extends PureComponent {
    * Fetch the data for the page if needed
    */
   fetchData(props) {
-    const { dispatch, parkInfo, parkId } = props;
-    dispatch(ParksActions.fetchParkSymbolsIfNeeded(parkId));
+    const { dispatch, parkInfo, params } = props;
+    dispatch(ParksActions.fetchParkSymbolsIfNeeded(params.parkId));
     dispatch(SymbolsActions.fetchSymbolsIfNeeded());
     dispatch(SearchActions.fetchParkSearchIfNeeded());
     if (parkInfo && parkInfo.maps) {
