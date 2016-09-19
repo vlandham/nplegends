@@ -63,6 +63,7 @@ export default class Html extends Component {
           <meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
           <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
           <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+          <script src="/js/openseadragon.js" />
 
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           {/* styles (will be present only in production with webpack extract text plugin) */}
@@ -77,7 +78,6 @@ export default class Html extends Component {
             />
           )}
          {devStyle}
-          <script src="/js/openseadragon.js" />
         </head>
         <body>
           <div id="content" dangerouslySetInnerHTML={{ __html: content }} />

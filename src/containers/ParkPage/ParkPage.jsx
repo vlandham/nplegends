@@ -1,6 +1,7 @@
 import React, { PureComponent, PropTypes } from 'react';
 import Helmet from 'react-helmet';
-import { browserHistory, Link } from 'react-router';
+import { connect } from 'react-redux';
+import {Link } from 'react-router';
 import { Nav, NavItem } from 'react-bootstrap';
 import * as SearchActions from '../../redux/search/actions';
 import * as SymbolsActions from '../../redux/symbols/actions';
@@ -12,15 +13,15 @@ import * as SymbolsSelectors from '../../redux/symbols/selectors';
 import * as ParkPageSelectors from '../../redux/parkPage/selectors';
 import * as ParkPageActions from '../../redux/parkPage/actions';
 
-import UrlHandler from '../../url/UrlHandler';
-import urlConnect from '../../url/urlConnect';
+// import UrlHandler from '../../url/UrlHandler';
+// import urlConnect from '../../url/urlConnect';
 
 import { SymbolList, MapView } from '../../components';
 
 
 // Define how to read/write state to URL query parameters
-const urlQueryConfig = {};
-const urlHandler = new UrlHandler(urlQueryConfig, browserHistory);
+// const urlQueryConfig = {};
+// const urlHandler = new UrlHandler(urlQueryConfig, hashHistory);
 
 function mapStateToProps(state, propsWithUrl) {
   return {
@@ -145,4 +146,5 @@ class ParkPage extends PureComponent {
   }
 }
 
-export default urlConnect(urlHandler, mapStateToProps)(ParkPage);
+// export default urlConnect(urlHandler, mapStateToProps)(ParkPage);
+export default connect(mapStateToProps)(ParkPage);

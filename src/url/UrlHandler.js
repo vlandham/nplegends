@@ -8,12 +8,12 @@ export default class UrlHandler {
   /**
    * Constructor
    * @param {Object} urlQueryConfig Should take the form `{ key: { type, defaultValue }, ... }`.
-   * @param {Object} browserHistory An object to control the URL in the browser (e.g.
+   * @param {Object} history An object to control the URL in the browser (e.g.
     browserHistory from react-router). Needs the `replace` and `push` functions.
    */
-  constructor(urlQueryConfig, browserHistory) {
+  constructor(urlQueryConfig, history) {
     this.config = urlQueryConfig;
-    this.browserHistory = browserHistory;
+    this.history = history;
   }
 
   /**
@@ -63,8 +63,8 @@ export default class UrlHandler {
     }
 
     // if router is available, replace the URL
-    if (updateUrl && this.browserHistory) {
-      this.browserHistory.replace(newLocation);
+    if (updateUrl && this.history) {
+      this.history.replace(newLocation);
     }
 
     return newLocation;

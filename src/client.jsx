@@ -5,7 +5,7 @@ import 'babel-polyfill';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
-import { Router, browserHistory, applyRouterMiddleware } from 'react-router';
+import { Router, hashHistory, applyRouterMiddleware } from 'react-router';
 import { syncHistoryWithStore } from 'react-router-redux';
 import { useScroll } from 'react-router-scroll';
 import createStore from './redux/createStore';
@@ -14,8 +14,8 @@ import getRoutes from './routes';
 import DevTools from './containers/DevTools/DevTools';
 
 const dest = document.getElementById('content');
-const store = createStore(browserHistory, api, window.__data); // eslint-disable-line no-underscore-dangle, max-len
-const history = syncHistoryWithStore(browserHistory, store);
+const store = createStore(hashHistory, api, window.__data); // eslint-disable-line no-underscore-dangle, max-len
+const history = syncHistoryWithStore(hashHistory, store);
 
 if (__DEVELOPMENT__) {
   window.Perf = require('react-addons-perf'); // eslint-disable-line
