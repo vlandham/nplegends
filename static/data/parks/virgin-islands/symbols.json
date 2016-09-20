@@ -22,210 +22,210 @@
       "symbols": [
         {
           "pos": {
-            "y": 1, 
-            "x": 0, 
-            "height": 3180, 
-            "width": 5058
+            "y": 72, 
+            "x": 2552, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 1922, 
-            "height": 20, 
-            "width": 4
+            "y": 72, 
+            "x": 2950, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 3041, 
-            "height": 20, 
-            "width": 10
+            "y": 149, 
+            "x": 2552, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 3098, 
-            "height": 20, 
-            "width": 13
+            "y": 149, 
+            "x": 2950, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 3199, 
-            "height": 20, 
-            "width": 4
+            "y": 225, 
+            "x": 2552, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 3445, 
-            "height": 23, 
-            "width": 12
+            "y": 225, 
+            "x": 2950, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Showers", 
           "id": "showers"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 3500, 
-            "height": 5, 
-            "width": 5
+            "y": 876, 
+            "x": 2857, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 3622, 
-            "height": 23, 
-            "width": 16
+            "y": 950, 
+            "x": 2570, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 71, 
-            "x": 435, 
-            "height": 20, 
-            "width": 4
+            "y": 950, 
+            "x": 2617, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 71, 
-            "x": 1755, 
-            "height": 44, 
-            "width": 109
+            "y": 950, 
+            "x": 2664, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Showers", 
           "id": "showers"
         }, 
         {
           "pos": {
-            "y": 71, 
-            "x": 2320, 
-            "height": 4, 
-            "width": 4
+            "y": 1059, 
+            "x": 2296, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 71, 
-            "x": 3009, 
-            "height": 19, 
-            "width": 11
+            "y": 1138, 
+            "x": 2848, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 71, 
-            "x": 3114, 
-            "height": 4, 
-            "width": 4
+            "y": 1279, 
+            "x": 2608, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 71, 
-            "x": 3349, 
-            "height": 22, 
-            "width": 22
+            "y": 1300, 
+            "x": 2236, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 158, 
-            "height": 19, 
-            "width": 13
+            "y": 1300, 
+            "x": 2283, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 264, 
-            "height": 19, 
-            "width": 13
+            "y": 1413, 
+            "x": 2063, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 1878, 
-            "height": 18, 
-            "width": 15
+            "y": 1533, 
+            "x": 2894, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 2278, 
-            "height": 18, 
-            "width": 15
+            "y": 1572, 
+            "x": 1240, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 73, 
-            "x": 2308, 
-            "height": 17, 
-            "width": 10
+            "y": 2016, 
+            "x": 2871, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 73, 
-            "x": 2733, 
-            "height": 17, 
-            "width": 10
+            "y": 2040, 
+            "x": 3494, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 73, 
-            "x": 3156, 
-            "height": 17, 
-            "width": 10
+            "y": 2300, 
+            "x": 4073, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"

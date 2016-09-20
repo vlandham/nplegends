@@ -22,120 +22,120 @@
       "symbols": [
         {
           "pos": {
-            "y": 20, 
-            "x": 4502, 
-            "height": 12, 
-            "width": 17
+            "y": 837, 
+            "x": 4339, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 22, 
-            "x": 4682, 
-            "height": 17, 
-            "width": 6
+            "y": 837, 
+            "x": 4386, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 22, 
-            "x": 4688, 
-            "height": 17, 
-            "width": 6
+            "y": 837, 
+            "x": 4433, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 22, 
-            "x": 4717, 
-            "height": 17, 
-            "width": 6
+            "y": 1074, 
+            "x": 4237, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 23, 
-            "x": 4601, 
-            "height": 16, 
-            "width": 13
+            "y": 1502, 
+            "x": 3628, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 23, 
-            "x": 4629, 
-            "height": 16, 
-            "width": 12
+            "y": 1502, 
+            "x": 3675, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 23, 
-            "x": 4708, 
-            "height": 3, 
-            "width": 3
+            "y": 1721, 
+            "x": 3511, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 27, 
-            "x": 4610, 
-            "height": 12, 
-            "width": 12
+            "y": 1771, 
+            "x": 2943, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 27, 
-            "x": 4653, 
-            "height": 12, 
-            "width": 9
+            "y": 2312, 
+            "x": 4541, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 27, 
-            "x": 4662, 
-            "height": 12, 
-            "width": 9
+            "y": 2364, 
+            "x": 4541, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 27, 
-            "x": 4671, 
-            "height": 12, 
-            "width": 11
+            "y": 2414, 
+            "x": 4541, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 27, 
-            "x": 4695, 
-            "height": 12, 
-            "width": 10
+            "y": 2466, 
+            "x": 4541, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"

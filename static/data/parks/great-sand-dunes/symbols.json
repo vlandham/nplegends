@@ -22,220 +22,220 @@
       "symbols": [
         {
           "pos": {
-            "y": 31, 
-            "x": 2516, 
-            "height": 8, 
-            "width": 7
+            "y": 673, 
+            "x": 4292, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 39, 
-            "x": 2346, 
-            "height": 19, 
-            "width": 15
+            "y": 794, 
+            "x": 3915, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 2404, 
-            "height": 14, 
-            "width": 14
+            "y": 1267, 
+            "x": 3328, 
+            "height": 32, 
+            "width": 41
           }, 
           "name": "Sewer hookup", 
           "id": "sewer-hookup"
         }, 
         {
           "pos": {
-            "y": 63, 
-            "x": 2472, 
-            "height": 16, 
-            "width": 11
+            "y": 2154, 
+            "x": 4585, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 358, 
-            "x": 2987, 
-            "height": 6, 
-            "width": 6
+            "y": 3598, 
+            "x": 3563, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 368, 
-            "x": 3068, 
-            "height": 16, 
-            "width": 10
+            "y": 3759, 
+            "x": 3570, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 382, 
-            "x": 3024, 
-            "height": 6, 
-            "width": 5
+            "y": 4098, 
+            "x": 3553, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
           "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
-            "y": 390, 
-            "x": 3038, 
-            "height": 6, 
-            "width": 6
+            "y": 4222, 
+            "x": 3469, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 407, 
-            "x": 3756, 
-            "height": 30, 
-            "width": 27
+            "y": 5079, 
+            "x": 3023, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 407, 
-            "x": 3798, 
-            "height": 30, 
-            "width": 23
+            "y": 5079, 
+            "x": 3070, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 407, 
-            "x": 3862, 
-            "height": 30, 
-            "width": 4
+            "y": 5079, 
+            "x": 3117, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 407, 
-            "x": 3915, 
-            "height": 30, 
-            "width": 27
+            "y": 5079, 
+            "x": 3164, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 407, 
-            "x": 3958, 
-            "height": 30, 
-            "width": 18
+            "y": 5079, 
+            "x": 3211, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 455, 
-            "x": 3137, 
-            "height": 5, 
-            "width": 5
+            "y": 5469, 
+            "x": 273, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 455, 
-            "x": 3204, 
-            "height": 5, 
-            "width": 5
+            "y": 5511, 
+            "x": 4078, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 456, 
-            "x": 3173, 
-            "height": 5, 
-            "width": 6
+            "y": 5512, 
+            "x": 3679, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 457, 
-            "x": 3212, 
-            "height": 6, 
-            "width": 5
+            "y": 5573, 
+            "x": 3679, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 459, 
-            "x": 3166, 
-            "height": 6, 
-            "width": 6
+            "y": 5573, 
+            "x": 4078, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 460, 
-            "x": 3142, 
-            "height": 6, 
-            "width": 6
+            "y": 5639, 
+            "x": 3679, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 461, 
-            "x": 3219, 
-            "height": 5, 
-            "width": 6
+            "y": 5639, 
+            "x": 4078, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 462, 
-            "x": 3158, 
-            "height": 6, 
-            "width": 6
+            "y": 5702, 
+            "x": 3679, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 463, 
-            "x": 3150, 
-            "height": 6, 
-            "width": 6
+            "y": 5705, 
+            "x": 4078, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
           "id": "horseback-riding-rental,-guided-tour"

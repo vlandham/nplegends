@@ -22,150 +22,150 @@
       "symbols": [
         {
           "pos": {
-            "y": 276, 
-            "x": 635, 
-            "height": 22, 
-            "width": 15
+            "y": 1910, 
+            "x": 2770, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 276, 
-            "x": 652, 
-            "height": 16, 
-            "width": 16
+            "y": 1910, 
+            "x": 2816, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 276, 
-            "x": 670, 
-            "height": 16, 
-            "width": 12
+            "y": 1993, 
+            "x": 2475, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 276, 
-            "x": 2353, 
-            "height": 15, 
-            "width": 20
+            "y": 1994, 
+            "x": 2521, 
+            "height": 41, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 276, 
-            "x": 3252, 
-            "height": 18, 
-            "width": 16
+            "y": 2012, 
+            "x": 2746, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 278, 
-            "x": 1499, 
-            "height": 16, 
-            "width": 6
+            "y": 2021, 
+            "x": 944, 
+            "height": 41, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 278, 
-            "x": 1511, 
-            "height": 16, 
-            "width": 10
+            "y": 2021, 
+            "x": 991, 
+            "height": 41, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 278, 
-            "x": 1523, 
-            "height": 16, 
-            "width": 11
+            "y": 2059, 
+            "x": 1519, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 278, 
-            "x": 3269, 
-            "height": 18, 
-            "width": 9
+            "y": 2059, 
+            "x": 1566, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 279, 
-            "x": 3278, 
-            "height": 20, 
-            "width": 20
+            "y": 2075, 
+            "x": 3234, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 280, 
-            "x": 1004, 
-            "height": 39, 
-            "width": 60
+            "y": 2075, 
+            "x": 3281, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 283, 
-            "x": 3299, 
-            "height": 18, 
-            "width": 17
+            "y": 3267, 
+            "x": 120, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 288, 
-            "x": 2371, 
-            "height": 18, 
-            "width": 20
+            "y": 3327, 
+            "x": 121, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 289, 
-            "x": 3334, 
-            "height": 20, 
-            "width": 25
+            "y": 3525, 
+            "x": 4015, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 291, 
-            "x": 1015, 
-            "height": 16, 
-            "width": 11
+            "y": 3525, 
+            "x": 4062, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"

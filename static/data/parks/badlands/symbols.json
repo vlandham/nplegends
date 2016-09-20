@@ -22,9 +22,9 @@
       "symbols": [
         {
           "pos": {
-            "y": 28, 
-            "x": 1471, 
-            "height": 40, 
+            "y": 97, 
+            "x": 175, 
+            "height": 42, 
             "width": 42
           }, 
           "name": "Maps", 
@@ -32,30 +32,30 @@
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 559, 
-            "height": 17, 
-            "width": 6
+            "y": 267, 
+            "x": 1315, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Event facility", 
           "id": "event-facility"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 325, 
-            "height": 16, 
-            "width": 12
+            "y": 579, 
+            "x": 993, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 446, 
-            "height": 16, 
-            "width": 6
+            "y": 658, 
+            "x": 1185, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
@@ -95,100 +95,100 @@
       "symbols": [
         {
           "pos": {
-            "y": 44, 
-            "x": 181, 
-            "height": 16, 
-            "width": 12
+            "y": 651, 
+            "x": 2377, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 58, 
-            "x": 3632, 
-            "height": 3, 
-            "width": 4
+            "y": 1079, 
+            "x": 3925, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 59, 
-            "x": 3043, 
-            "height": 4, 
-            "width": 4
+            "y": 1289, 
+            "x": 4428, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Maps", 
           "id": "maps"
         }, 
         {
           "pos": {
-            "y": 60, 
-            "x": 3066, 
-            "height": 18, 
-            "width": 9
+            "y": 1446, 
+            "x": 4705, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 60, 
-            "x": 3093, 
-            "height": 18, 
-            "width": 13
+            "y": 1497, 
+            "x": 4301, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 63, 
-            "x": 3617, 
-            "height": 14, 
-            "width": 9
+            "y": 1567, 
+            "x": 1739, 
+            "height": 39, 
+            "width": 35
           }, 
           "name": "Sewer hookup", 
           "id": "sewer-hookup"
         }, 
         {
           "pos": {
-            "y": 145, 
-            "x": 4502, 
-            "height": 14, 
-            "width": 14
+            "y": 3277, 
+            "x": 943, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Maps", 
           "id": "maps"
         }, 
         {
           "pos": {
-            "y": 145, 
-            "x": 4518, 
-            "height": 14, 
-            "width": 12
+            "y": 3277, 
+            "x": 1341, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 145, 
-            "x": 4533, 
-            "height": 14, 
-            "width": 20
+            "y": 3333, 
+            "x": 943, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 145, 
-            "x": 4553, 
-            "height": 14, 
-            "width": 14
+            "y": 3333, 
+            "x": 1341, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"

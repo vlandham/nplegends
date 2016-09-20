@@ -22,20 +22,20 @@
       "symbols": [
         {
           "pos": {
-            "y": 0, 
-            "x": 3106, 
-            "height": 3, 
-            "width": 4
+            "y": 878, 
+            "x": 3966, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 0, 
-            "x": 3903, 
-            "height": 1299, 
-            "width": 930
+            "y": 4302, 
+            "x": 4036, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"

@@ -22,310 +22,310 @@
       "symbols": [
         {
           "pos": {
-            "y": 0, 
-            "x": 2098, 
-            "height": 378, 
-            "width": 454
+            "y": 367, 
+            "x": 1689, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 1716, 
-            "height": 16, 
-            "width": 12
+            "y": 489, 
+            "x": 1655, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 1778, 
-            "height": 16, 
-            "width": 12
+            "y": 511, 
+            "x": 640, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 1798, 
-            "height": 16, 
-            "width": 14
+            "y": 520, 
+            "x": 341, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 137, 
-            "x": 1743, 
-            "height": 16, 
-            "width": 11
+            "y": 1034, 
+            "x": 310, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 137, 
-            "x": 1754, 
-            "height": 12, 
-            "width": 11
+            "y": 1065, 
+            "x": 523, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 145, 
-            "x": 1761, 
-            "height": 3, 
-            "width": 3
+            "y": 1086, 
+            "x": 361, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 146, 
-            "x": 1767, 
-            "height": 5, 
-            "width": 3
+            "y": 1129, 
+            "x": 308, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 146, 
-            "x": 1814, 
-            "height": 3, 
-            "width": 3
+            "y": 1246, 
+            "x": 1093, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 150, 
-            "x": 1767, 
-            "height": 2, 
-            "width": 2
+            "y": 1260, 
+            "x": 336, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 154, 
-            "x": 1686, 
-            "height": 16, 
-            "width": 11
+            "y": 1423, 
+            "x": 2292, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 154, 
-            "x": 1730, 
-            "height": 3, 
-            "width": 3
+            "y": 1462, 
+            "x": 1251, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 158, 
-            "x": 1709, 
-            "height": 12, 
-            "width": 12
+            "y": 1509, 
+            "x": 1204, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 159, 
-            "x": 1720, 
-            "height": 2, 
-            "width": 2
+            "y": 1824, 
+            "x": 776, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 162, 
-            "x": 1688, 
-            "height": 2, 
-            "width": 2
+            "y": 1830, 
+            "x": 1014, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 175, 
-            "x": 1687, 
-            "height": 16, 
-            "width": 11
+            "y": 1871, 
+            "x": 306, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 175, 
-            "x": 1699, 
-            "height": 16, 
-            "width": 11
+            "y": 1890, 
+            "x": 2427, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 178, 
-            "x": 1702, 
-            "height": 4, 
-            "width": 3
+            "y": 2083, 
+            "x": 1209, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 179, 
-            "x": 1713, 
-            "height": 12, 
-            "width": 7
+            "y": 2160, 
+            "x": 1613, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 179, 
-            "x": 1725, 
-            "height": 12, 
-            "width": 7
+            "y": 2177, 
+            "x": 1797, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 179, 
-            "x": 1731, 
-            "height": 12, 
-            "width": 6
+            "y": 2258, 
+            "x": 1589, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 181, 
-            "x": 1700, 
-            "height": 4, 
-            "width": 3
+            "y": 2387, 
+            "x": 1992, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 249, 
-            "x": 2259, 
-            "height": 16, 
-            "width": 11
+            "y": 2527, 
+            "x": 2161, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 275, 
-            "x": 1052, 
-            "height": 17, 
-            "width": 11
+            "y": 2572, 
+            "x": 834, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 283, 
-            "x": 0, 
-            "height": 3041, 
-            "width": 2552
+            "y": 2616, 
+            "x": 2019, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 296, 
-            "x": 1043, 
-            "height": 17, 
-            "width": 9
+            "y": 2626, 
+            "x": 1048, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 304, 
-            "x": 529, 
-            "height": 19, 
-            "width": 19
+            "y": 2698, 
+            "x": 1106, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 304, 
-            "x": 551, 
-            "height": 19, 
-            "width": 18
+            "y": 2708, 
+            "x": 1975, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 304, 
-            "x": 572, 
-            "height": 19, 
-            "width": 15
+            "y": 2782, 
+            "x": 2152, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 304, 
-            "x": 591, 
-            "height": 19, 
-            "width": 15
+            "y": 3092, 
+            "x": 2299, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 304, 
-            "x": 679, 
-            "height": 19, 
-            "width": 15
+            "y": 3280, 
+            "x": 1685, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"

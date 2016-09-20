@@ -33,128 +33,38 @@
       "symbols": [
         {
           "pos": {
-            "y": 4, 
-            "x": 1043, 
-            "height": 17, 
-            "width": 12
+            "y": 236, 
+            "x": 702, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Maps", 
           "id": "maps"
         }, 
         {
           "pos": {
-            "y": 21, 
-            "x": 583, 
-            "height": 16, 
-            "width": 11
+            "y": 236, 
+            "x": 747, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 21, 
-            "x": 592, 
-            "height": 16, 
-            "width": 14
+            "y": 493, 
+            "x": 951, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Maps", 
           "id": "maps"
         }, 
         {
           "pos": {
-            "y": 21, 
-            "x": 624, 
-            "height": 16, 
-            "width": 14
-          }, 
-          "name": "Maps", 
-          "id": "maps"
-        }, 
-        {
-          "pos": {
-            "y": 21, 
-            "x": 652, 
-            "height": 16, 
-            "width": 11
-          }, 
-          "name": "Maps", 
-          "id": "maps"
-        }, 
-        {
-          "pos": {
-            "y": 21, 
-            "x": 664, 
-            "height": 16, 
-            "width": 11
-          }, 
-          "name": "Drinking water", 
-          "id": "drinking-water"
-        }, 
-        {
-          "pos": {
-            "y": 21, 
-            "x": 676, 
-            "height": 16, 
-            "width": 15
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 21, 
-            "x": 693, 
-            "height": 16, 
-            "width": 21
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 21, 
-            "x": 711, 
-            "height": 16, 
-            "width": 12
-          }, 
-          "name": "Horseback riding\n(rental, guided tour)", 
-          "id": "horseback-riding-rental,-guided-tour"
-        }, 
-        {
-          "pos": {
-            "y": 22, 
-            "x": 1032, 
-            "height": 18, 
-            "width": 12
-          }, 
-          "name": "Maps", 
-          "id": "maps"
-        }, 
-        {
-          "pos": {
-            "y": 46, 
-            "x": 587, 
-            "height": 6, 
-            "width": 6
-          }, 
-          "name": "Bicycle trail", 
-          "id": "bicycle-trail"
-        }, 
-        {
-          "pos": {
-            "y": 52, 
-            "x": 594, 
-            "height": 18, 
-            "width": 6
-          }, 
-          "name": "Pets on leash", 
-          "id": "pets-on-leash"
-        }, 
-        {
-          "pos": {
-            "y": 76, 
-            "x": 660, 
+            "y": 957, 
+            "x": 924, 
             "height": 43, 
             "width": 43
           }, 
@@ -163,80 +73,170 @@
         }, 
         {
           "pos": {
-            "y": 93, 
-            "x": 977, 
-            "height": 6, 
-            "width": 19
+            "y": 1179, 
+            "x": 815, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 1179, 
+            "x": 861, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 648, 
-            "height": 19, 
-            "width": 7
+            "y": 1179, 
+            "x": 907, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 1179, 
+            "x": 953, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 1179, 
+            "x": 999, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 2006, 
+            "x": 1416, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 2271, 
+            "x": 760, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Bicycle trail", 
+          "id": "bicycle-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2271, 
+            "x": 806, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Pets on leash", 
+          "id": "pets-on-leash"
+        }, 
+        {
+          "pos": {
+            "y": 2348, 
+            "x": 506, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Maps", 
+          "id": "maps"
+        }, 
+        {
+          "pos": {
+            "y": 2454, 
+            "x": 821, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 2455, 
+            "x": 730, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 124, 
-            "x": 648, 
-            "height": 19, 
-            "width": 5
+            "y": 2672, 
+            "x": 726, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Maps", 
           "id": "maps"
         }, 
         {
           "pos": {
-            "y": 125, 
-            "x": 734, 
-            "height": 4, 
-            "width": 5
+            "y": 2762, 
+            "x": 721, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 126, 
-            "x": 660, 
-            "height": 18, 
-            "width": 15
+            "y": 2763, 
+            "x": 676, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 130, 
-            "x": 676, 
-            "height": 14, 
-            "width": 6
+            "y": 2784, 
+            "x": 409, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "First aid", 
           "id": "first-aid"
         }, 
         {
           "pos": {
-            "y": 140, 
-            "x": 939, 
-            "height": 19, 
-            "width": 9
+            "y": 3382, 
+            "x": 1252, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Maps", 
           "id": "maps"
         }, 
         {
           "pos": {
-            "y": 146, 
-            "x": 648, 
-            "height": 19, 
-            "width": 6
+            "y": 3454, 
+            "x": 1252, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
@@ -306,270 +306,270 @@
       "symbols": [
         {
           "pos": {
-            "y": 0, 
-            "x": 133, 
-            "height": 380, 
-            "width": 888
+            "y": 693, 
+            "x": 402, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 82, 
-            "x": 742, 
-            "height": 16, 
-            "width": 12
+            "y": 693, 
+            "x": 447, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 82, 
-            "x": 771, 
-            "height": 16, 
-            "width": 12
+            "y": 693, 
+            "x": 493, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 82, 
-            "x": 800, 
-            "height": 16, 
-            "width": 7
+            "y": 716, 
+            "x": 920, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 82, 
-            "x": 834, 
-            "height": 16, 
-            "width": 12
+            "y": 716, 
+            "x": 965, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 82, 
-            "x": 849, 
-            "height": 3, 
-            "width": 3
+            "y": 1314, 
+            "x": 2374, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 84, 
-            "x": 853, 
-            "height": 14, 
-            "width": 5
+            "y": 2244, 
+            "x": 3112, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 754, 
-            "height": 12, 
-            "width": 9
+            "y": 2339, 
+            "x": 3195, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 794, 
-            "height": 12, 
-            "width": 9
+            "y": 2596, 
+            "x": 3082, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 811, 
-            "height": 12, 
-            "width": 6
+            "y": 2596, 
+            "x": 3127, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 825, 
-            "height": 2, 
-            "width": 3
+            "y": 2596, 
+            "x": 3173, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 852, 
-            "height": 2, 
-            "width": 2
+            "y": 2666, 
+            "x": 3021, 
+            "height": 43, 
+            "width": 41
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 87, 
-            "x": 751, 
-            "height": 10, 
-            "width": 6
+            "y": 2666, 
+            "x": 3066, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 87, 
-            "x": 809, 
-            "height": 2, 
-            "width": 3
+            "y": 2861, 
+            "x": 3693, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 87, 
-            "x": 823, 
-            "height": 2, 
-            "width": 3
+            "y": 3051, 
+            "x": 2581, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 87, 
-            "x": 846, 
-            "height": 11, 
-            "width": 5
+            "y": 3051, 
+            "x": 2627, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 87, 
-            "x": 859, 
-            "height": 15, 
-            "width": 9
+            "y": 3051, 
+            "x": 2672, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 87, 
-            "x": 867, 
-            "height": 5, 
-            "width": 4
+            "y": 3112, 
+            "x": 2669, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 91, 
-            "x": 807, 
-            "height": 7, 
-            "width": 6
+            "y": 3200, 
+            "x": 2723, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 101, 
-            "x": 566, 
-            "height": 17, 
-            "width": 7
+            "y": 3255, 
+            "x": 2925, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 537, 
-            "height": 16, 
-            "width": 12
+            "y": 3255, 
+            "x": 2971, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 599, 
-            "height": 16, 
-            "width": 12
+            "y": 3255, 
+            "x": 3016, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 707, 
-            "height": 3, 
-            "width": 3
+            "y": 3707, 
+            "x": 1475, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 747, 
-            "height": 16, 
-            "width": 6
+            "y": 3708, 
+            "x": 1148, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 102, 
-            "x": 759, 
-            "height": 16, 
-            "width": 13
+            "y": 3778, 
+            "x": 1148, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Drinking water", 
           "id": "drinking-water"
         }, 
         {
           "pos": {
-            "y": 103, 
-            "x": 773, 
-            "height": 15, 
-            "width": 5
+            "y": 3852, 
+            "x": 1148, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 104, 
-            "x": 861, 
-            "height": 14, 
-            "width": 6
+            "y": 3922, 
+            "x": 1148, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"

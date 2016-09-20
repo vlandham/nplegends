@@ -22,370 +22,370 @@
       "symbols": [
         {
           "pos": {
-            "y": 38, 
-            "x": 3214, 
-            "height": 7, 
-            "width": 2
+            "y": 472, 
+            "x": 3013, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Playground", 
           "id": "playground"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 234, 
-            "height": 3, 
-            "width": 3
+            "y": 472, 
+            "x": 3060, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 237, 
-            "height": 16, 
-            "width": 6
+            "y": 491, 
+            "x": 3376, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "BirdingNVildlife Viewing", 
           "id": "birdingnvildlife-viewing"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 242, 
-            "height": 16, 
-            "width": 6
+            "y": 491, 
+            "x": 3423, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 1078, 
-            "height": 3, 
-            "width": 3
+            "y": 519, 
+            "x": 3013, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 1087, 
-            "height": 16, 
-            "width": 6
+            "y": 544, 
+            "x": 3486, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 142, 
-            "height": 15, 
-            "width": 12
+            "y": 638, 
+            "x": 2189, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Maps", 
           "id": "maps"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 171, 
-            "height": 15, 
-            "width": 12
+            "y": 687, 
+            "x": 2309, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Playground", 
           "id": "playground"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 987, 
-            "height": 15, 
-            "width": 12
+            "y": 687, 
+            "x": 2356, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 41, 
-            "x": 3235, 
-            "height": 15, 
-            "width": 12
+            "y": 773, 
+            "x": 1927, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Maps", 
           "id": "maps"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 156, 
-            "height": 2, 
-            "width": 3
+            "y": 840, 
+            "x": 1526, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 253, 
-            "height": 2, 
-            "width": 3
+            "y": 962, 
+            "x": 2037, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 1035, 
-            "height": 2, 
-            "width": 3
+            "y": 999, 
+            "x": 1562, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Trucks", 
           "id": "trucks"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 1046, 
-            "height": 2, 
-            "width": 3
+            "y": 999, 
+            "x": 1609, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 3249, 
-            "height": 2, 
-            "width": 3
+            "y": 1026, 
+            "x": 3507, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Trucks", 
           "id": "trucks"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 3283, 
-            "height": 2, 
-            "width": 3
+            "y": 1040, 
+            "x": 423, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 44, 
-            "x": 3306, 
-            "height": 16, 
-            "width": 12
+            "y": 1040, 
+            "x": 470, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 154, 
-            "height": 2, 
-            "width": 3
+            "y": 1086, 
+            "x": 3597, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 188, 
-            "height": 2, 
-            "width": 3
+            "y": 1205, 
+            "x": 383, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "BirdingNVildlife Viewing", 
           "id": "birdingnvildlife-viewing"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 192, 
-            "height": 11, 
-            "width": 3
+            "y": 1205, 
+            "x": 430, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 200, 
-            "height": 2, 
-            "width": 3
+            "y": 1227, 
+            "x": 969, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Trucks", 
           "id": "trucks"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 200, 
-            "height": 11, 
-            "width": 8
+            "y": 1227, 
+            "x": 1016, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 216, 
-            "height": 4, 
-            "width": 4
+            "y": 1274, 
+            "x": 969, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 221, 
-            "height": 11, 
-            "width": 8
+            "y": 1274, 
+            "x": 1016, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Maps", 
           "id": "maps"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 1029, 
-            "height": 11, 
-            "width": 5
+            "y": 1324, 
+            "x": 3173, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 1037, 
-            "height": 11, 
-            "width": 3
+            "y": 1347, 
+            "x": 2749, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Trucks", 
           "id": "trucks"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 1044, 
-            "height": 2, 
-            "width": 3
+            "y": 1347, 
+            "x": 2844, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Audio tour", 
           "id": "audio-tour"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 1044, 
-            "height": 11, 
-            "width": 8
+            "y": 1372, 
+            "x": 2568, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 1056, 
-            "height": 11, 
-            "width": 7
+            "y": 1430, 
+            "x": 3171, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 3247, 
-            "height": 2, 
-            "width": 3
+            "y": 1764, 
+            "x": 2204, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "BirdingNVildlife Viewing", 
           "id": "birdingnvildlife-viewing"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 3247, 
-            "height": 11, 
-            "width": 8
+            "y": 1764, 
+            "x": 2251, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 3281, 
-            "height": 2, 
-            "width": 3
+            "y": 1764, 
+            "x": 2299, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 3278, 
-            "height": 11, 
-            "width": 11
+            "y": 1785, 
+            "x": 605, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "BirdingNVildlife Viewing", 
           "id": "birdingnvildlife-viewing"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 3291, 
-            "height": 11, 
-            "width": 4
+            "y": 2279, 
+            "x": 3599, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Trucks", 
           "id": "trucks"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 3294, 
-            "height": 9, 
-            "width": 7
+            "y": 2344, 
+            "x": 3599, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 3304, 
-            "height": 5, 
-            "width": 4
+            "y": 2409, 
+            "x": 3599, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 45, 
-            "x": 3323, 
-            "height": 2, 
-            "width": 3
+            "y": 2538, 
+            "x": 3600, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Audio tour", 
           "id": "audio-tour"

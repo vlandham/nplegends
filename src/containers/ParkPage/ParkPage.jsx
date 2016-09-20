@@ -39,7 +39,7 @@ class ParkPage extends PureComponent {
     dispatch: PropTypes.func,
     mapIndex: PropTypes.number,
     maps: PropTypes.object,
-    params: PropTypes.string,
+    params: PropTypes.object,
     parkIds: PropTypes.object,
     parkInfo: PropTypes.object,
     symbolInfo: PropTypes.object,

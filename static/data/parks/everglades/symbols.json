@@ -22,400 +22,400 @@
       "symbols": [
         {
           "pos": {
-            "y": 31, 
-            "x": 1901, 
-            "height": 5, 
-            "width": 8
+            "y": 229, 
+            "x": 673, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 1968, 
-            "height": 12, 
-            "width": 8
+            "y": 262, 
+            "x": 1134, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 2126, 
-            "height": 5, 
-            "width": 8
+            "y": 287, 
+            "x": 898, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 2835, 
-            "height": 12, 
-            "width": 9
+            "y": 350, 
+            "x": 1673, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 2874, 
-            "height": 5, 
-            "width": 8
+            "y": 401, 
+            "x": 740, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 4074, 
-            "height": 5, 
-            "width": 8
+            "y": 401, 
+            "x": 787, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 4141, 
-            "height": 12, 
-            "width": 8
+            "y": 402, 
+            "x": 693, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 4382, 
-            "height": 5, 
-            "width": 8
+            "y": 402, 
+            "x": 834, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 4771, 
-            "height": 12, 
-            "width": 8
+            "y": 444, 
+            "x": 1479, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 4821, 
-            "height": 12, 
-            "width": 9
+            "y": 498, 
+            "x": 2158, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 4841, 
-            "height": 12, 
-            "width": 9
+            "y": 612, 
+            "x": 860, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 31, 
-            "x": 4862, 
-            "height": 12, 
-            "width": 8
+            "y": 612, 
+            "x": 907, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 1528, 
-            "height": 16, 
-            "width": 13
+            "y": 612, 
+            "x": 954, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 1569, 
-            "height": 16, 
-            "width": 13
+            "y": 612, 
+            "x": 1001, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 2473, 
-            "height": 12, 
-            "width": 9
+            "y": 762, 
+            "x": 2932, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 3106, 
-            "height": 12, 
-            "width": 8
+            "y": 762, 
+            "x": 2979, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 3392, 
-            "height": 12, 
-            "width": 9
+            "y": 840, 
+            "x": 3984, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 32, 
-            "x": 3806, 
-            "height": 5, 
-            "width": 8
+            "y": 2009, 
+            "x": 3839, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 37, 
-            "x": 1840, 
-            "height": 6, 
-            "width": 7
+            "y": 2009, 
+            "x": 3886, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 37, 
-            "x": 1929, 
-            "height": 6, 
-            "width": 7
+            "y": 2009, 
+            "x": 3934, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 37, 
-            "x": 2064, 
-            "height": 6, 
-            "width": 7
+            "y": 2133, 
+            "x": 4078, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 37, 
-            "x": 2763, 
-            "height": 6, 
-            "width": 7
+            "y": 2133, 
+            "x": 4126, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 37, 
-            "x": 4102, 
-            "height": 6, 
-            "width": 7
+            "y": 2134, 
+            "x": 4173, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 37, 
-            "x": 4465, 
-            "height": 6, 
-            "width": 7
+            "y": 2160, 
+            "x": 3334, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 37, 
-            "x": 4740, 
-            "height": 6, 
-            "width": 7
+            "y": 2160, 
+            "x": 3380, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 2494, 
-            "height": 6, 
-            "width": 7
+            "y": 2822, 
+            "x": 2829, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 2540, 
-            "height": 6, 
-            "width": 7
+            "y": 2992, 
+            "x": 2523, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 3412, 
-            "height": 6, 
-            "width": 7
+            "y": 3308, 
+            "x": 2197, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 3458, 
-            "height": 6, 
-            "width": 7
+            "y": 3308, 
+            "x": 2243, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 38, 
-            "x": 3775, 
-            "height": 6, 
-            "width": 7
+            "y": 3405, 
+            "x": 2448, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 275, 
-            "height": 26, 
-            "width": 19
+            "y": 3405, 
+            "x": 2496, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Marina", 
           "id": "marina"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 321, 
-            "height": 26, 
-            "width": 19
+            "y": 3405, 
+            "x": 2543, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 431, 
-            "height": 25, 
-            "width": 19
+            "y": 3405, 
+            "x": 2590, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 581, 
-            "height": 10, 
-            "width": 17
+            "y": 4264, 
+            "x": 1360, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 652, 
-            "height": 25, 
-            "width": 19
+            "y": 4265, 
+            "x": 1758, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Marina", 
           "id": "marina"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 760, 
-            "height": 26, 
-            "width": 18
+            "y": 4332, 
+            "x": 1360, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 806, 
-            "height": 10, 
-            "width": 17
+            "y": 4335, 
+            "x": 1758, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 977, 
-            "height": 26, 
-            "width": 21
+            "y": 4405, 
+            "x": 1758, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 1160, 
-            "height": 10, 
-            "width": 17
+            "y": 4474, 
+            "x": 1758, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 54, 
-            "x": 230, 
-            "height": 12, 
-            "width": 17
+            "y": 4544, 
+            "x": 1758, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Lodging", 
           "id": "lodging"

@@ -22,40 +22,40 @@
       "symbols": [
         {
           "pos": {
-            "y": 72, 
-            "x": 1846, 
-            "height": 16, 
-            "width": 10
+            "y": 539, 
+            "x": 235, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Canoe access", 
           "id": "canoe-access"
         }, 
         {
           "pos": {
-            "y": 72, 
-            "x": 1859, 
-            "height": 7, 
-            "width": 9
+            "y": 721, 
+            "x": 894, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Canoe access", 
           "id": "canoe-access"
         }, 
         {
           "pos": {
-            "y": 78, 
-            "x": 1859, 
-            "height": 10, 
-            "width": 9
+            "y": 1421, 
+            "x": 2195, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Canoe access", 
           "id": "canoe-access"
         }, 
         {
           "pos": {
-            "y": 79, 
-            "x": 2220, 
-            "height": 16, 
-            "width": 7
+            "y": 1626, 
+            "x": 1160, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Canoe access", 
           "id": "canoe-access"

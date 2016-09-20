@@ -22,430 +22,430 @@
       "symbols": [
         {
           "pos": {
-            "y": 1, 
-            "x": 0, 
-            "height": 2, 
-            "width": 4958
+            "y": 619, 
+            "x": 3101, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 129, 
-            "x": 2487, 
-            "height": 18, 
-            "width": 14
+            "y": 1196, 
+            "x": 1316, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 129, 
-            "x": 2690, 
-            "height": 18, 
-            "width": 15
+            "y": 1196, 
+            "x": 1712, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 130, 
-            "x": 2576, 
-            "height": 17, 
-            "width": 9
+            "y": 1196, 
+            "x": 2107, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 130, 
-            "x": 2658, 
-            "height": 17, 
-            "width": 9
+            "y": 1303, 
+            "x": 1316, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 130, 
-            "x": 2731, 
-            "height": 17, 
-            "width": 9
+            "y": 1303, 
+            "x": 1712, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2501, 
-            "height": 14, 
-            "width": 12
+            "y": 1303, 
+            "x": 2107, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Souvenir shop", 
           "id": "souvenir-shop"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2515, 
-            "height": 14, 
-            "width": 10
+            "y": 1410, 
+            "x": 3288, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2546, 
-            "height": 14, 
-            "width": 13
+            "y": 1413, 
+            "x": 1316, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2560, 
-            "height": 14, 
-            "width": 14
+            "y": 1413, 
+            "x": 1712, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2585, 
-            "height": 14, 
-            "width": 10
+            "y": 1413, 
+            "x": 2107, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2595, 
-            "height": 14, 
-            "width": 12
+            "y": 1461, 
+            "x": 3093, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2609, 
-            "height": 14, 
-            "width": 14
+            "y": 1496, 
+            "x": 3288, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2624, 
-            "height": 14, 
-            "width": 11
+            "y": 1496, 
+            "x": 3333, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2636, 
-            "height": 14, 
-            "width": 13
+            "y": 1496, 
+            "x": 3379, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2666, 
-            "height": 14, 
-            "width": 14
+            "y": 1496, 
+            "x": 3425, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Gas station", 
           "id": "gas-station"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2704, 
-            "height": 14, 
-            "width": 14
+            "y": 1556, 
+            "x": 3288, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2720, 
-            "height": 14, 
-            "width": 10
+            "y": 1634, 
+            "x": 2516, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2739, 
-            "height": 14, 
-            "width": 13
+            "y": 1634, 
+            "x": 2561, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 2752, 
-            "height": 14, 
-            "width": 13
+            "y": 1985, 
+            "x": 2073, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 152, 
-            "x": 2579, 
-            "height": 20, 
-            "width": 13
+            "y": 1985, 
+            "x": 2119, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 153, 
-            "x": 2541, 
-            "height": 3, 
-            "width": 3
+            "y": 2051, 
+            "x": 2351, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 153, 
-            "x": 2543, 
-            "height": 19, 
-            "width": 9
+            "y": 2120, 
+            "x": 1749, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 154, 
-            "x": 2490, 
-            "height": 18, 
-            "width": 8
+            "y": 2381, 
+            "x": 895, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 154, 
-            "x": 2501, 
-            "height": 18, 
-            "width": 14
+            "y": 2643, 
+            "x": 1593, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 154, 
-            "x": 2554, 
-            "height": 18, 
-            "width": 8
+            "y": 2643, 
+            "x": 1638, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 154, 
-            "x": 2566, 
-            "height": 18, 
-            "width": 13
+            "y": 2643, 
+            "x": 1683, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Souvenir shop", 
           "id": "souvenir-shop"
         }, 
         {
           "pos": {
-            "y": 158, 
-            "x": 2515, 
-            "height": 14, 
-            "width": 21
+            "y": 2706, 
+            "x": 1179, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 158, 
-            "x": 2537, 
-            "height": 14, 
-            "width": 6
+            "y": 2706, 
+            "x": 1224, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 158, 
-            "x": 2593, 
-            "height": 14, 
-            "width": 21
+            "y": 2706, 
+            "x": 1269, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Souvenir shop", 
           "id": "souvenir-shop"
         }, 
         {
           "pos": {
-            "y": 185, 
-            "x": 2525, 
-            "height": 20, 
-            "width": 13
+            "y": 4394, 
+            "x": 259, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 185, 
-            "x": 2702, 
-            "height": 20, 
-            "width": 14
+            "y": 4394, 
+            "x": 305, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 185, 
-            "x": 2776, 
-            "height": 20, 
-            "width": 13
+            "y": 4394, 
+            "x": 351, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 186, 
-            "x": 2689, 
-            "height": 19, 
-            "width": 12
+            "y": 4394, 
+            "x": 397, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 186, 
-            "x": 2721, 
-            "height": 3, 
-            "width": 3
+            "y": 4420, 
+            "x": 630, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 186, 
-            "x": 2919, 
-            "height": 3, 
-            "width": 3
+            "y": 4462, 
+            "x": 1472, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 187, 
-            "x": 2487, 
-            "height": 18, 
-            "width": 14
+            "y": 4462, 
+            "x": 1518, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 187, 
-            "x": 2804, 
-            "height": 18, 
-            "width": 18
+            "y": 4502, 
+            "x": 1811, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 187, 
-            "x": 2864, 
-            "height": 18, 
-            "width": 23
+            "y": 4502, 
+            "x": 1856, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Souvenir shop", 
           "id": "souvenir-shop"
         }, 
         {
           "pos": {
-            "y": 188, 
-            "x": 2576, 
-            "height": 17, 
-            "width": 9
+            "y": 5114, 
+            "x": 1972, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 188, 
-            "x": 2658, 
-            "height": 17, 
-            "width": 9
+            "y": 5159, 
+            "x": 1972, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 191, 
-            "x": 2501, 
-            "height": 14, 
-            "width": 12
+            "y": 5239, 
+            "x": 1694, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 191, 
-            "x": 2515, 
-            "height": 14, 
-            "width": 10
+            "y": 5266, 
+            "x": 2074, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Restrooms", 
           "id": "restrooms"

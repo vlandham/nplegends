@@ -77,10 +77,15 @@ export default class MapView extends PureComponent {
     const overlays = symbols.map((symbol, i) => {
       const overlay = { id: symbol.id + i };
 
-      overlay.x = symbol.pos.x / width;
-      overlay.y = symbol.pos.y / height;
-      overlay.width = symbol.pos.width / width;
-      overlay.height = symbol.pos.height / height;
+      // overlay.x = symbol.pos.x / width;
+      // overlay.y = symbol.pos.y / height;
+      // overlay.width = symbol.pos.width / width;
+      // overlay.height = symbol.pos.height / height;
+
+      overlay.px = symbol.pos.x;
+      overlay.py = symbol.pos.y;
+      overlay.width = symbol.pos.width;
+      overlay.height = symbol.pos.height;
       overlay.className = 'highlight';
 
       return overlay;
@@ -99,6 +104,7 @@ export default class MapView extends PureComponent {
       }
 
       const overlays = this.buildOverlays(info.symbols, map);
+      console.log(overlays);
       // if (!this.viewer) {
         this.viewer = new OpenSeadragon.Viewer({
           id: 'zoom-view',
@@ -106,6 +112,7 @@ export default class MapView extends PureComponent {
           tileSources: [{
             ...map,
           }],
+          overlays: overlays,
         });
       // }
     }
@@ -117,11 +124,18 @@ export default class MapView extends PureComponent {
   // }
 
   render() {
+    const { info } = this.props;
     const style = { width: 940, height: 700 };
+
+    let count = 0;
+    if (info && info.symbols) {
+      count = info.symbols.length;
+    }
 
     return (
       <div className="MapView">
-        <div id="zoom-view" style={style} />
+        <p className="map-view-info">Found {count} symbols</p>
+        <div className="zoom-view" id="zoom-view" style={style} />
       </div>
     );
   }

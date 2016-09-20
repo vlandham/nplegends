@@ -22,400 +22,400 @@
       "symbols": [
         {
           "pos": {
-            "y": 66, 
-            "x": 6208, 
-            "height": 12, 
-            "width": 12
+            "y": 1674, 
+            "x": 789, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "River rafting", 
           "id": "river-rafting"
         }, 
         {
           "pos": {
-            "y": 211, 
-            "x": 1536, 
-            "height": 18, 
-            "width": 13
+            "y": 1929, 
+            "x": 664, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Hiking", 
           "id": "hiking"
         }, 
         {
           "pos": {
-            "y": 451, 
-            "x": 817, 
-            "height": 30, 
-            "width": 19
+            "y": 2672, 
+            "x": 3666, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 451, 
-            "x": 839, 
-            "height": 30, 
-            "width": 29
+            "y": 2672, 
+            "x": 3713, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Hiking", 
           "id": "hiking"
         }, 
         {
           "pos": {
-            "y": 451, 
-            "x": 873, 
-            "height": 30, 
-            "width": 24
+            "y": 2731, 
+            "x": 3488, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 451, 
-            "x": 920, 
-            "height": 30, 
-            "width": 26
+            "y": 2807, 
+            "x": 3586, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 451, 
-            "x": 950, 
-            "height": 30, 
-            "width": 29
+            "y": 2823, 
+            "x": 3454, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 451, 
-            "x": 984, 
-            "height": 30, 
-            "width": 22
+            "y": 2931, 
+            "x": 3213, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 451, 
-            "x": 1008, 
-            "height": 30, 
-            "width": 26
+            "y": 3152, 
+            "x": 3915, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 451, 
-            "x": 1040, 
-            "height": 30, 
-            "width": 17
+            "y": 3201, 
+            "x": 2874, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 452, 
-            "x": 832, 
-            "height": 2, 
-            "width": 2
+            "y": 3201, 
+            "x": 2921, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 456, 
-            "x": 1767, 
-            "height": 28, 
-            "width": 19
+            "y": 3201, 
+            "x": 2968, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 463, 
-            "x": 1053, 
-            "height": 2, 
-            "width": 2
+            "y": 3312, 
+            "x": 4271, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
           "id": "horseback-riding-rental,-guided-tour"
         }, 
         {
           "pos": {
-            "y": 465, 
-            "x": 1739, 
-            "height": 27, 
-            "width": 21
+            "y": 3312, 
+            "x": 4318, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Hiking", 
           "id": "hiking"
         }, 
         {
           "pos": {
-            "y": 512, 
-            "x": 5710, 
-            "height": 82, 
-            "width": 277
+            "y": 3397, 
+            "x": 3787, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 522, 
-            "x": 5763, 
-            "height": 22, 
-            "width": 4
+            "y": 3397, 
+            "x": 3834, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 522, 
-            "x": 5912, 
-            "height": 22, 
-            "width": 15
+            "y": 3397, 
+            "x": 3881, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 523, 
-            "x": 5726, 
-            "height": 21, 
-            "width": 19
+            "y": 3409, 
+            "x": 2703, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 537, 
-            "height": 30, 
-            "width": 24
+            "y": 3444, 
+            "x": 4357, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 565, 
-            "height": 30, 
-            "width": 29
+            "y": 3514, 
+            "x": 2815, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 596, 
-            "height": 30, 
-            "width": 22
+            "y": 3514, 
+            "x": 2862, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 621, 
-            "height": 30, 
-            "width": 6
+            "y": 3514, 
+            "x": 2909, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 632, 
-            "height": 30, 
-            "width": 29
+            "y": 3570, 
+            "x": 4138, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 665, 
-            "height": 30, 
-            "width": 15
+            "y": 3570, 
+            "x": 4185, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 676, 
-            "height": 30, 
-            "width": 13
+            "y": 3769, 
+            "x": 4097, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 694, 
-            "height": 30, 
-            "width": 29
+            "y": 4015, 
+            "x": 4041, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 727, 
-            "height": 30, 
-            "width": 17
+            "y": 4015, 
+            "x": 4088, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 764, 
-            "height": 30, 
-            "width": 23
+            "y": 4015, 
+            "x": 4135, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Amphitheater", 
           "id": "amphitheater"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 789, 
-            "height": 30, 
-            "width": 29
+            "y": 4580, 
+            "x": 4767, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 823, 
-            "height": 30, 
-            "width": 24
+            "y": 4580, 
+            "x": 4814, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 853, 
-            "height": 30, 
-            "width": 19
+            "y": 4679, 
+            "x": 976, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 878, 
-            "height": 30, 
-            "width": 17
+            "y": 4679, 
+            "x": 1375, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 900, 
-            "height": 30, 
-            "width": 22
+            "y": 4679, 
+            "x": 1776, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 924, 
-            "height": 30, 
-            "width": 27
+            "y": 4680, 
+            "x": 2220, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Amphitheater", 
           "id": "amphitheater"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 952, 
-            "height": 30, 
-            "width": 29
+            "y": 4741, 
+            "x": 976, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 982, 
-            "height": 30, 
-            "width": 22
+            "y": 4741, 
+            "x": 1375, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 1007, 
-            "height": 30, 
-            "width": 6
+            "y": 4742, 
+            "x": 1776, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Wheelchair accessible", 
           "id": "wheelchair-accessible"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 1018, 
-            "height": 30, 
-            "width": 29
+            "y": 4804, 
+            "x": 976, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "River rafting", 
           "id": "river-rafting"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 1052, 
-            "height": 30, 
-            "width": 18
+            "y": 4804, 
+            "x": 1375, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Hiking", 
           "id": "hiking"
         }, 
         {
           "pos": {
-            "y": 526, 
-            "x": 1067, 
-            "height": 30, 
-            "width": 9
+            "y": 4804, 
+            "x": 1776, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Horseback riding\n(rental, guided tour)", 
           "id": "horseback-riding-rental,-guided-tour"

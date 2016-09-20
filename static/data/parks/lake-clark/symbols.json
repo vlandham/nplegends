@@ -22,60 +22,60 @@
       "symbols": [
         {
           "pos": {
-            "y": 50, 
-            "x": 180, 
-            "height": 26, 
-            "width": 17
+            "y": 553, 
+            "x": 1020, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 50, 
-            "x": 622, 
-            "height": 26, 
-            "width": 6
+            "y": 1198, 
+            "x": 1573, 
+            "height": 42, 
+            "width": 44
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 57, 
-            "x": 379, 
-            "height": 26, 
-            "width": 18
+            "y": 1950, 
+            "x": 1379, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 57, 
-            "x": 665, 
-            "height": 19, 
-            "width": 12
+            "y": 3122, 
+            "x": 1061, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 57, 
-            "x": 677, 
-            "height": 19, 
-            "width": 17
+            "y": 3400, 
+            "x": 2925, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 57, 
-            "x": 724, 
-            "height": 19, 
-            "width": 17
+            "y": 3606, 
+            "x": 2409, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"

@@ -1,10 +1,19 @@
 
 .MapView {
+  .map-view-info {
+    padding-top: 10px;
+    font-size: 1.2em;
+    padding-bottom: 10px;
+  }
+  .zoom-view {
+    border: solid #ddd 2px;
+    margin-bottom: 20px;
+  }
   .highlight{
-    opacity:    0.4;
-    filter:     alpha(opacity=40);
-    outline:    12px auto #0A7EbE;
-    background-color: white;
+    // opacity:    0.4;
+    // filter:     alpha(opacity=40);
+    outline:    5px auto #0A7EbE;
+    // background-color: white;
   }
   .highlight:hover, .highlight:focus{
     filter:     alpha(opacity=70);

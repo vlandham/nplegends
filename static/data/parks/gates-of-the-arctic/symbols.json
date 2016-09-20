@@ -22,160 +22,160 @@
       "symbols": [
         {
           "pos": {
-            "y": 5, 
-            "x": 4894, 
-            "height": 7, 
-            "width": 2
+            "y": 667, 
+            "x": 4550, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 27, 
-            "x": 4891, 
-            "height": 2, 
-            "width": 2
+            "y": 1225, 
+            "x": 3404, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 28, 
-            "x": 4889, 
-            "height": 4, 
-            "width": 3
+            "y": 1225, 
+            "x": 3451, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 53, 
-            "x": 4881, 
-            "height": 15, 
-            "width": 2
+            "y": 1915, 
+            "x": 2612, 
+            "height": 39, 
+            "width": 32
           }, 
           "name": "Sewer hookup", 
           "id": "sewer-hookup"
         }, 
         {
           "pos": {
-            "y": 73, 
-            "x": 4892, 
-            "height": 2, 
-            "width": 2
+            "y": 2362, 
+            "x": 4359, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 75, 
-            "x": 4894, 
-            "height": 2, 
-            "width": 2
+            "y": 2572, 
+            "x": 4335, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 76, 
-            "x": 4886, 
-            "height": 2, 
-            "width": 2
+            "y": 2572, 
+            "x": 4383, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 76, 
-            "x": 4895, 
-            "height": 2, 
-            "width": 2
+            "y": 2928, 
+            "x": 3568, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 77, 
-            "x": 4887, 
-            "height": 2, 
-            "width": 2
+            "y": 2928, 
+            "x": 3615, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 77, 
-            "x": 4896, 
-            "height": 2, 
-            "width": 2
+            "y": 2965, 
+            "x": 269, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 78, 
-            "x": 4888, 
-            "height": 2, 
-            "width": 2
+            "y": 3027, 
+            "x": 476, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 78, 
-            "x": 4897, 
-            "height": 2, 
-            "width": 2
+            "y": 3161, 
+            "x": 4090, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 79, 
-            "x": 4889, 
-            "height": 2, 
-            "width": 2
+            "y": 3596, 
+            "x": 2931, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 79, 
-            "x": 4898, 
-            "height": 2, 
-            "width": 2
+            "y": 3957, 
+            "x": 2121, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 80, 
-            "x": 4890, 
-            "height": 2, 
-            "width": 2
+            "y": 4026, 
+            "x": 2121, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Airport", 
           "id": "airport"
         }, 
         {
           "pos": {
-            "y": 80, 
-            "x": 4899, 
-            "height": 2, 
-            "width": 2
+            "y": 4100, 
+            "x": 2121, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Campground", 
           "id": "campground"

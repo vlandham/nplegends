@@ -22,220 +22,10 @@
       "symbols": [
         {
           "pos": {
-            "y": 83, 
-            "x": 2528, 
-            "height": 20, 
-            "width": 16
-          }, 
-          "name": "Gas station", 
-          "id": "gas-station"
-        }, 
-        {
-          "pos": {
-            "y": 83, 
-            "x": 2577, 
-            "height": 20, 
-            "width": 13
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 83, 
-            "x": 2674, 
-            "height": 20, 
-            "width": 14
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 83, 
-            "x": 2773, 
-            "height": 20, 
-            "width": 16
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 84, 
-            "x": 2457, 
-            "height": 3, 
-            "width": 4
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 85, 
-            "x": 2403, 
-            "height": 18, 
-            "width": 14
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 85, 
-            "x": 2435, 
-            "height": 18, 
-            "width": 17
-          }, 
-          "name": "Store", 
-          "id": "store"
-        }, 
-        {
-          "pos": {
-            "y": 85, 
-            "x": 2550, 
-            "height": 18, 
-            "width": 11
-          }, 
-          "name": "Showers", 
-          "id": "showers"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 2454, 
-            "height": 14, 
-            "width": 6
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 2461, 
-            "height": 14, 
-            "width": 12
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 2497, 
-            "height": 14, 
-            "width": 14
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 2512, 
-            "height": 14, 
-            "width": 14
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 2563, 
-            "height": 14, 
-            "width": 12
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 2591, 
-            "height": 14, 
-            "width": 13
-          }, 
-          "name": "Lodging", 
-          "id": "lodging"
-        }, 
-        {
-          "pos": {
-            "y": 89, 
-            "x": 2714, 
-            "height": 19, 
-            "width": 14
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 99, 
-            "x": 2603, 
-            "height": 7, 
-            "width": 6
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 99, 
-            "x": 2728, 
-            "height": 7, 
-            "width": 6
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
             "y": 123, 
-            "x": 3682, 
-            "height": 43, 
-            "width": 109
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 123, 
-            "x": 3851, 
-            "height": 20, 
-            "width": 9
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 123, 
-            "x": 4594, 
-            "height": 20, 
-            "width": 3
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 124, 
-            "x": 3862, 
-            "height": 3, 
-            "width": 3
-          }, 
-          "name": "Showers", 
-          "id": "showers"
-        }, 
-        {
-          "pos": {
-            "y": 124, 
-            "x": 3886, 
-            "height": 19, 
-            "width": 14
+            "x": 4479, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Gas station", 
           "id": "gas-station"
@@ -243,16 +33,26 @@
         {
           "pos": {
             "y": 124, 
-            "x": 3994, 
-            "height": 3, 
-            "width": 4
+            "x": 4080, 
+            "height": 42, 
+            "width": 42
           }, 
-          "name": "Store", 
-          "id": "store"
+          "name": "Ranger station", 
+          "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 124, 
+            "y": 189, 
+            "x": 4479, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 190, 
             "x": 4080, 
             "height": 42, 
             "width": 42
@@ -262,40 +62,240 @@
         }, 
         {
           "pos": {
-            "y": 124, 
-            "x": 4536, 
-            "height": 19, 
-            "width": 16
+            "y": 255, 
+            "x": 4479, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 125, 
-            "x": 3952, 
-            "height": 18, 
-            "width": 15
+            "y": 256, 
+            "x": 4080, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 322, 
+            "x": 4080, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 387, 
+            "x": 4080, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Showers", 
+          "id": "showers"
+        }, 
+        {
+          "pos": {
+            "y": 2185, 
+            "x": 2711, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 125, 
-            "x": 4172, 
-            "height": 3, 
-            "width": 4
+            "y": 2207, 
+            "x": 2469, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 126, 
-            "x": 3934, 
-            "height": 17, 
-            "width": 10
+            "y": 2957, 
+            "x": 3627, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3137, 
+            "x": 2543, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3137, 
+            "x": 2589, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 3137, 
+            "x": 2635, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 3360, 
+            "x": 2258, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3602, 
+            "x": 2259, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3777, 
+            "x": 2800, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3818, 
+            "x": 3476, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3942, 
+            "x": 2182, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4052, 
+            "x": 1343, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 4154, 
+            "x": 1684, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Showers", 
+          "id": "showers"
+        }, 
+        {
+          "pos": {
+            "y": 4154, 
+            "x": 1732, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 4154, 
+            "x": 1779, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 4154, 
+            "x": 1826, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 4154, 
+            "x": 1873, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4447, 
+            "x": 2276, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4781, 
+            "x": 2591, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5429, 
+            "x": 3211, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"

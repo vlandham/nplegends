@@ -22,220 +22,220 @@
       "symbols": [
         {
           "pos": {
-            "y": 20, 
-            "x": 491, 
-            "height": 1827, 
-            "width": 2825
+            "y": 226, 
+            "x": 954, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 26, 
-            "x": 374, 
-            "height": 21, 
-            "width": 21
+            "y": 359, 
+            "x": 735, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 47, 
-            "x": 342, 
-            "height": 3, 
-            "width": 4
+            "y": 360, 
+            "x": 688, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 48, 
-            "x": 254, 
-            "height": 18, 
-            "width": 12
+            "y": 505, 
+            "x": 2011, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 48, 
-            "x": 303, 
-            "height": 18, 
-            "width": 11
+            "y": 756, 
+            "x": 1530, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 268, 
-            "height": 14, 
-            "width": 13
+            "y": 762, 
+            "x": 3276, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 282, 
-            "height": 14, 
-            "width": 13
+            "y": 1195, 
+            "x": 1258, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 332, 
-            "height": 14, 
-            "width": 8
+            "y": 1257, 
+            "x": 3581, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 342, 
-            "height": 14, 
-            "width": 3
+            "y": 1340, 
+            "x": 2307, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 349, 
-            "height": 14, 
-            "width": 12
+            "y": 1427, 
+            "x": 1039, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 52, 
-            "x": 363, 
-            "height": 19, 
-            "width": 13
+            "y": 1427, 
+            "x": 1086, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 76, 
-            "x": 4130, 
-            "height": 38, 
-            "width": 50
+            "y": 1430, 
+            "x": 2367, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 85, 
-            "x": 4142, 
-            "height": 18, 
-            "width": 12
+            "y": 1493, 
+            "x": 941, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 85, 
-            "x": 4156, 
-            "height": 18, 
-            "width": 12
+            "y": 1574, 
+            "x": 458, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 107, 
-            "x": 3282, 
-            "height": 16, 
-            "width": 11
+            "y": 1783, 
+            "x": 2800, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 107, 
-            "x": 3295, 
-            "height": 16, 
-            "width": 11
+            "y": 1924, 
+            "x": 2509, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 128, 
-            "x": 787, 
-            "height": 17, 
-            "width": 3
+            "y": 2455, 
+            "x": 2780, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 129, 
-            "x": 475, 
-            "height": 40, 
-            "width": 61
+            "y": 2519, 
+            "x": 3201, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 129, 
-            "x": 818, 
-            "height": 16, 
-            "width": 11
+            "y": 3073, 
+            "x": 989, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 129, 
-            "x": 830, 
-            "height": 3, 
-            "width": 3
+            "y": 3138, 
+            "x": 989, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Boat launch", 
           "id": "boat-launch"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 773, 
-            "height": 12, 
-            "width": 12
+            "y": 3203, 
+            "x": 989, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 793, 
-            "height": 12, 
-            "width": 3
+            "y": 3268, 
+            "x": 989, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Parking", 
           "id": "parking"

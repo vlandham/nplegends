@@ -22,190 +22,190 @@
       "symbols": [
         {
           "pos": {
-            "y": 149, 
-            "x": 85, 
-            "height": 21, 
-            "width": 21
+            "y": 316, 
+            "x": 1539, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 160, 
-            "x": 153, 
-            "height": 19, 
-            "width": 8
+            "y": 618, 
+            "x": 1891, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 165, 
-            "x": 175, 
-            "height": 14, 
-            "width": 12
+            "y": 1259, 
+            "x": 1735, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 167, 
-            "x": 1233, 
-            "height": 3, 
-            "width": 4
+            "y": 1444, 
+            "x": 4093, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 167, 
-            "x": 1277, 
-            "height": 16, 
-            "width": 13
+            "y": 1444, 
+            "x": 4140, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 167, 
-            "x": 1388, 
-            "height": 16, 
-            "width": 12
+            "y": 1679, 
+            "x": 4092, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 171, 
-            "x": 1154, 
-            "height": 12, 
-            "width": 11
+            "y": 1679, 
+            "x": 4139, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 171, 
-            "x": 1200, 
-            "height": 12, 
-            "width": 11
+            "y": 2231, 
+            "x": 5317, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 171, 
-            "x": 1365, 
-            "height": 12, 
-            "width": 11
+            "y": 3571, 
+            "x": 3432, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 188, 
-            "x": 1164, 
-            "height": 16, 
-            "width": 14
+            "y": 3611, 
+            "x": 2830, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 188, 
-            "x": 1200, 
-            "height": 16, 
-            "width": 12
+            "y": 3646, 
+            "x": 3008, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 189, 
-            "x": 1150, 
-            "height": 15, 
-            "width": 8
+            "y": 3876, 
+            "x": 2382, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 192, 
-            "x": 1225, 
-            "height": 12, 
-            "width": 11
+            "y": 4091, 
+            "x": 2373, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 192, 
-            "x": 1264, 
-            "height": 12, 
-            "width": 10
+            "y": 4138, 
+            "x": 2326, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 192, 
-            "x": 1343, 
-            "height": 12, 
-            "width": 11
+            "y": 4329, 
+            "x": 4797, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 192, 
-            "x": 1380, 
-            "height": 12, 
-            "width": 11
+            "y": 4375, 
+            "x": 1337, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 209, 
-            "x": 1138, 
-            "height": 16, 
-            "width": 12
+            "y": 4404, 
+            "x": 1745, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 210, 
-            "x": 1181, 
-            "height": 15, 
-            "width": 8
+            "y": 4709, 
+            "x": 2238, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 213, 
-            "x": 1233, 
-            "height": 12, 
-            "width": 12
+            "y": 4833, 
+            "x": 2238, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
@@ -245,580 +245,580 @@
       "symbols": [
         {
           "pos": {
-            "y": 0, 
-            "x": 1, 
-            "height": 471, 
-            "width": 1243
+            "y": 303, 
+            "x": 1925, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 0, 
-            "x": 4124, 
-            "height": 2649, 
-            "width": 2652
+            "y": 355, 
+            "x": 1244, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 65, 
-            "x": 300, 
-            "height": 17, 
-            "width": 6
+            "y": 355, 
+            "x": 1291, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 65, 
-            "x": 306, 
-            "height": 17, 
-            "width": 10
+            "y": 355, 
+            "x": 1338, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 66, 
-            "x": 245, 
-            "height": 16, 
-            "width": 12
+            "y": 391, 
+            "x": 764, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 66, 
-            "x": 275, 
-            "height": 16, 
-            "width": 20
+            "y": 606, 
+            "x": 2030, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 66, 
-            "x": 297, 
-            "height": 3, 
-            "width": 3
+            "y": 1219, 
+            "x": 1348, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 254, 
-            "height": 12, 
-            "width": 12
+            "y": 1295, 
+            "x": 1833, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 294, 
-            "height": 12, 
-            "width": 5
+            "y": 1295, 
+            "x": 1881, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 311, 
-            "height": 5, 
-            "width": 6
+            "y": 1295, 
+            "x": 1928, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 317, 
-            "height": 12, 
-            "width": 11
+            "y": 1349, 
+            "x": 4143, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 328, 
-            "height": 12, 
-            "width": 9
+            "y": 1349, 
+            "x": 4190, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 337, 
-            "height": 12, 
-            "width": 12
+            "y": 1349, 
+            "x": 4237, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 70, 
-            "x": 350, 
-            "height": 12, 
-            "width": 12
+            "y": 1349, 
+            "x": 4284, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 85, 
-            "x": 333, 
-            "height": 17, 
-            "width": 10
+            "y": 1349, 
+            "x": 4331, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 85, 
-            "x": 370, 
-            "height": 17, 
-            "width": 9
+            "y": 1683, 
+            "x": 4192, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 247, 
-            "height": 16, 
-            "width": 6
+            "y": 1683, 
+            "x": 4240, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 258, 
-            "height": 7, 
-            "width": 9
+            "y": 1683, 
+            "x": 4286, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 289, 
-            "height": 3, 
-            "width": 3
+            "y": 1705, 
+            "x": 5027, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 297, 
-            "height": 16, 
-            "width": 8
+            "y": 1705, 
+            "x": 5073, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 86, 
-            "x": 309, 
-            "height": 16, 
-            "width": 12
+            "y": 3313, 
+            "x": 3245, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 90, 
-            "x": 267, 
-            "height": 12, 
-            "width": 17
+            "y": 3439, 
+            "x": 2928, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 90, 
-            "x": 286, 
-            "height": 12, 
-            "width": 5
+            "y": 3439, 
+            "x": 2975, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 90, 
-            "x": 338, 
-            "height": 5, 
-            "width": 6
+            "y": 3439, 
+            "x": 3068, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 90, 
-            "x": 345, 
-            "height": 12, 
-            "width": 17
+            "y": 3440, 
+            "x": 2880, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 90, 
-            "x": 377, 
-            "height": 12, 
-            "width": 9
+            "y": 3628, 
+            "x": 3109, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 90, 
-            "x": 386, 
-            "height": 12, 
-            "width": 12
+            "y": 3831, 
+            "x": 2601, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 90, 
-            "x": 398, 
-            "height": 12, 
-            "width": 17
+            "y": 3831, 
+            "x": 4219, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 92, 
-            "x": 256, 
-            "height": 10, 
-            "width": 10
+            "y": 3831, 
+            "x": 4266, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 106, 
-            "x": 277, 
-            "height": 17, 
-            "width": 12
+            "y": 3832, 
+            "x": 2466, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 107, 
-            "x": 245, 
-            "height": 16, 
-            "width": 12
+            "y": 3832, 
+            "x": 2513, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 107, 
-            "x": 321, 
-            "height": 16, 
-            "width": 12
+            "y": 3934, 
+            "x": 5027, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 107, 
-            "x": 337, 
-            "height": 3, 
-            "width": 3
+            "y": 3992, 
+            "x": 5132, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 107, 
-            "x": 376, 
-            "height": 16, 
-            "width": 12
+            "y": 4012, 
+            "x": 4202, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 109, 
-            "x": 402, 
-            "height": 14, 
-            "width": 7
+            "y": 4012, 
+            "x": 4248, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 257, 
-            "height": 12, 
-            "width": 10
+            "y": 4122, 
+            "x": 2428, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 269, 
-            "height": 12, 
-            "width": 9
+            "y": 4123, 
+            "x": 2475, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 302, 
-            "height": 12, 
-            "width": 12
+            "y": 4171, 
+            "x": 2206, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 334, 
-            "height": 12, 
-            "width": 5
+            "y": 4207, 
+            "x": 1247, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 341, 
-            "height": 12, 
-            "width": 10
+            "y": 4305, 
+            "x": 1840, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 350, 
-            "height": 12, 
-            "width": 11
+            "y": 4318, 
+            "x": 2273, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 362, 
-            "height": 12, 
-            "width": 9
+            "y": 4318, 
+            "x": 2321, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 388, 
-            "height": 12, 
-            "width": 12
+            "y": 4318, 
+            "x": 2368, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 409, 
-            "height": 12, 
-            "width": 9
+            "y": 4318, 
+            "x": 2415, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 417, 
-            "height": 12, 
-            "width": 10
+            "y": 4371, 
+            "x": 560, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 429, 
-            "height": 12, 
-            "width": 12
+            "y": 4376, 
+            "x": 1802, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 442, 
-            "height": 12, 
-            "width": 9
+            "y": 4376, 
+            "x": 1849, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 111, 
-            "x": 451, 
-            "height": 12, 
-            "width": 11
+            "y": 4446, 
+            "x": 5052, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 132, 
-            "x": 746, 
-            "height": 20, 
-            "width": 13
+            "y": 4446, 
+            "x": 5099, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 132, 
-            "x": 830, 
-            "height": 20, 
-            "width": 4
+            "y": 4447, 
+            "x": 5147, 
+            "height": 41, 
+            "width": 41
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 132, 
-            "x": 867, 
-            "height": 20, 
-            "width": 13
+            "y": 4696, 
+            "x": 2756, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 132, 
-            "x": 956, 
-            "height": 20, 
-            "width": 13
+            "y": 4697, 
+            "x": 2358, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Self-guiding trail", 
           "id": "self-guiding-trail"
         }, 
         {
           "pos": {
-            "y": 132, 
-            "x": 1011, 
-            "height": 20, 
-            "width": 4
+            "y": 4697, 
+            "x": 3152, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 132, 
-            "x": 1017, 
-            "height": 20, 
-            "width": 13
+            "y": 4752, 
+            "x": 2358, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 726, 
-            "height": 19, 
-            "width": 18
+            "y": 4752, 
+            "x": 3152, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Store", 
           "id": "store"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 786, 
-            "height": 3, 
-            "width": 4
+            "y": 4753, 
+            "x": 2756, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Lodging", 
           "id": "lodging"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 814, 
-            "height": 19, 
-            "width": 14
+            "y": 4809, 
+            "x": 2756, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 133, 
-            "x": 838, 
-            "height": 4, 
-            "width": 4
+            "y": 4809, 
+            "x": 3153, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Restrooms", 
           "id": "restrooms"

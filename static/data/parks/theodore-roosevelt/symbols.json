@@ -22,50 +22,50 @@
       "symbols": [
         {
           "pos": {
-            "y": 15, 
-            "x": 1099, 
-            "height": 17, 
-            "width": 12
+            "y": 178, 
+            "x": 2050, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 15, 
-            "x": 1296, 
-            "height": 20, 
-            "width": 9
+            "y": 848, 
+            "x": 558, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 16, 
-            "x": 943, 
-            "height": 16, 
-            "width": 12
+            "y": 848, 
+            "x": 605, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 16, 
-            "x": 1133, 
-            "height": 3, 
-            "width": 3
+            "y": 1337, 
+            "x": 661, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 20, 
-            "x": 952, 
-            "height": 12, 
-            "width": 12
+            "y": 1512, 
+            "x": 638, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
@@ -95,60 +95,60 @@
       "symbols": [
         {
           "pos": {
-            "y": 36, 
-            "x": 2149, 
-            "height": 16, 
-            "width": 12
+            "y": 615, 
+            "x": 1349, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Safety/Caution/Alerts", 
           "id": "safety-caution-alerts"
         }, 
         {
           "pos": {
-            "y": 36, 
-            "x": 2179, 
-            "height": 16, 
-            "width": 20
+            "y": 697, 
+            "x": 1371, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 36, 
-            "x": 2281, 
-            "height": 3, 
-            "width": 3
+            "y": 714, 
+            "x": 2037, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 2198, 
-            "height": 12, 
-            "width": 10
+            "y": 1105, 
+            "x": 1084, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 2226, 
-            "height": 12, 
-            "width": 12
+            "y": 1173, 
+            "x": 1084, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
         }, 
         {
           "pos": {
-            "y": 40, 
-            "x": 2291, 
-            "height": 17, 
-            "width": 12
+            "y": 1367, 
+            "x": 1085, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Parking", 
           "id": "parking"

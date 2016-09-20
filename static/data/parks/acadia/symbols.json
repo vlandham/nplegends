@@ -22,120 +22,120 @@
       "symbols": [
         {
           "pos": {
-            "y": 123, 
-            "x": 259, 
-            "height": 3, 
-            "width": 2
+            "y": 156, 
+            "x": 331, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Boat tour", 
           "id": "boat-tour"
         }, 
         {
           "pos": {
-            "y": 124, 
-            "x": 234, 
-            "height": 11, 
-            "width": 4
+            "y": 156, 
+            "x": 379, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Bus stop/Shuttle stop", 
           "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
-            "y": 124, 
-            "x": 244, 
-            "height": 4, 
-            "width": 3
+            "y": 227, 
+            "x": 733, 
+            "height": 41, 
+            "width": 42
           }, 
           "name": "Bus stop/Shuttle stop", 
           "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
-            "y": 124, 
-            "x": 255, 
-            "height": 2, 
-            "width": 2
+            "y": 427, 
+            "x": 259, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Bus stop/Shuttle stop", 
           "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
-            "y": 125, 
-            "x": 254, 
-            "height": 5, 
-            "width": 2
+            "y": 427, 
+            "x": 306, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 125, 
-            "x": 280, 
-            "height": 17, 
-            "width": 5
+            "y": 427, 
+            "x": 353, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 126, 
-            "x": 243, 
-            "height": 4, 
-            "width": 2
+            "y": 954, 
+            "x": 760, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 127, 
-            "x": 246, 
-            "height": 8, 
-            "width": 3
+            "y": 1006, 
+            "x": 448, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Bus stop/Shuttle stop", 
           "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
-            "y": 128, 
-            "x": 269, 
-            "height": 2, 
-            "width": 4
+            "y": 1006, 
+            "x": 495, 
+            "height": 43, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 128, 
-            "x": 290, 
-            "height": 2, 
-            "width": 4
+            "y": 1075, 
+            "x": 543, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Bus stop/Shuttle stop", 
           "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
-            "y": 128, 
-            "x": 304, 
-            "height": 2, 
-            "width": 2
+            "y": 1075, 
+            "x": 590, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 129, 
-            "x": 242, 
-            "height": 4, 
-            "width": 2
+            "y": 1075, 
+            "x": 637, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Parking", 
           "id": "parking"
@@ -180,850 +180,850 @@
       "symbols": [
         {
           "pos": {
-            "y": 123, 
-            "x": 1715, 
-            "height": 16, 
-            "width": 10
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 123, 
-            "x": 1732, 
-            "height": 16, 
-            "width": 12
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 125, 
-            "x": 1783, 
-            "height": 14, 
-            "width": 8
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 127, 
-            "x": 1658, 
-            "height": 12, 
-            "width": 10
-          }, 
-          "name": "Food service", 
-          "id": "food-service"
-        }, 
-        {
-          "pos": {
-            "y": 127, 
-            "x": 1683, 
-            "height": 12, 
-            "width": 9
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 127, 
-            "x": 1692, 
-            "height": 12, 
-            "width": 12
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 127, 
-            "x": 1705, 
-            "height": 12, 
-            "width": 9
-          }, 
-          "name": "Swimming", 
-          "id": "swimming"
-        }, 
-        {
-          "pos": {
-            "y": 127, 
-            "x": 1744, 
-            "height": 12, 
-            "width": 12
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 127, 
-            "x": 1771, 
-            "height": 12, 
-            "width": 10
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 128, 
-            "x": 1758, 
-            "height": 11, 
-            "width": 10
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 128, 
-            "x": 1791, 
-            "height": 15, 
-            "width": 11
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 132, 
-            "x": 1803, 
-            "height": 2, 
-            "width": 6
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 137, 
-            "x": 1627, 
-            "height": 10, 
-            "width": 10
-          }, 
-          "name": "Boat launch", 
-          "id": "boat-launch"
-        }, 
-        {
-          "pos": {
-            "y": 141, 
-            "x": 2225, 
-            "height": 5, 
-            "width": 2
-          }, 
-          "name": "Boat tour", 
-          "id": "boat-tour"
-        }, 
-        {
-          "pos": {
-            "y": 141, 
-            "x": 2229, 
-            "height": 4, 
-            "width": 2
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 142, 
-            "x": 2193, 
-            "height": 4, 
-            "width": 2
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 142, 
-            "x": 2202, 
-            "height": 4, 
-            "width": 2
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 142, 
-            "x": 2260, 
-            "height": 4, 
-            "width": 4
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 142, 
-            "x": 2282, 
-            "height": 2, 
-            "width": 2
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 143, 
-            "x": 1717, 
-            "height": 16, 
-            "width": 11
-          }, 
-          "name": "Boat tour", 
-          "id": "boat-tour"
-        }, 
-        {
-          "pos": {
-            "y": 143, 
-            "x": 2264, 
-            "height": 2, 
-            "width": 3
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 144, 
+            "y": 166, 
             "x": 1644, 
-            "height": 15, 
-            "width": 11
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 144, 
-            "x": 1682, 
-            "height": 15, 
-            "width": 12
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 144, 
-            "x": 1756, 
-            "height": 15, 
-            "width": 15
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 144, 
-            "x": 2228, 
-            "height": 6, 
-            "width": 2
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 144, 
-            "x": 2266, 
-            "height": 5, 
-            "width": 2
-          }, 
-          "name": "Boat launch", 
-          "id": "boat-launch"
-        }, 
-        {
-          "pos": {
-            "y": 144, 
-            "x": 2296, 
-            "height": 10, 
-            "width": 6
+            "y": 186, 
+            "x": 549, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 145, 
-            "x": 1819, 
-            "height": 14, 
-            "width": 8
+            "y": 273, 
+            "x": 549, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 145, 
-            "x": 2192, 
-            "height": 10, 
-            "width": 11
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 145, 
-            "x": 2221, 
-            "height": 13, 
-            "width": 5
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 145, 
-            "x": 2258, 
-            "height": 11, 
-            "width": 5
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 146, 
-            "x": 2207, 
-            "height": 2, 
-            "width": 4
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 146, 
-            "x": 2219, 
-            "height": 2, 
-            "width": 3
-          }, 
-          "name": "Boat launch", 
-          "id": "boat-launch"
-        }, 
-        {
-          "pos": {
-            "y": 146, 
-            "x": 2235, 
-            "height": 2, 
-            "width": 4
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 146, 
-            "x": 2249, 
-            "height": 2, 
-            "width": 2
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 146, 
-            "x": 2281, 
-            "height": 4, 
-            "width": 2
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 146, 
-            "x": 2285, 
-            "height": 9, 
-            "width": 4
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 1656, 
-            "height": 12, 
-            "width": 10
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 1668, 
-            "height": 12, 
-            "width": 7
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 1697, 
-            "height": 12, 
-            "width": 10
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 1709, 
-            "height": 12, 
-            "width": 7
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 1729, 
-            "height": 12, 
-            "width": 12
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 1743, 
-            "height": 12, 
-            "width": 7
-          }, 
-          "name": "Swimming", 
-          "id": "swimming"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 1778, 
-            "height": 12, 
-            "width": 7
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 1786, 
-            "height": 16, 
-            "width": 11
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 1798, 
-            "height": 12, 
-            "width": 12
-          }, 
-          "name": "Boat launch", 
-          "id": "boat-launch"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 1812, 
-            "height": 12, 
-            "width": 7
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 2210, 
-            "height": 8, 
-            "width": 3
-          }, 
-          "name": "Boat launch", 
-          "id": "boat-launch"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 2217, 
-            "height": 2, 
-            "width": 3
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 2222, 
-            "height": 2, 
-            "width": 2
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 2233, 
-            "height": 2, 
-            "width": 3
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 2238, 
-            "height": 2, 
-            "width": 2
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 2242, 
-            "height": 7, 
-            "width": 2
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 147, 
-            "x": 2269, 
-            "height": 2, 
-            "width": 3
+            "y": 273, 
+            "x": 940, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Food service", 
           "id": "food-service"
         }, 
         {
           "pos": {
-            "y": 147, 
-            "x": 2274, 
-            "height": 3, 
-            "width": 3
+            "y": 361, 
+            "x": 549, 
+            "height": 42, 
+            "width": 43
           }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
+          "name": "Campground", 
+          "id": "campground"
         }, 
         {
           "pos": {
-            "y": 147, 
-            "x": 2292, 
-            "height": 8, 
-            "width": 2
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 148, 
-            "x": 1772, 
-            "height": 11, 
-            "width": 3
+            "y": 361, 
+            "x": 940, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Parking", 
           "id": "parking"
         }, 
         {
           "pos": {
-            "y": 148, 
-            "x": 2216, 
-            "height": 3, 
-            "width": 2
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 148, 
-            "x": 2232, 
-            "height": 3, 
-            "width": 2
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 148, 
-            "x": 2231, 
-            "height": 8, 
-            "width": 10
-          }, 
-          "name": "Parking", 
-          "id": "parking"
-        }, 
-        {
-          "pos": {
-            "y": 148, 
-            "x": 2248, 
-            "height": 2, 
-            "width": 2
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 148, 
-            "x": 2265, 
-            "height": 2, 
-            "width": 2
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 148, 
-            "x": 2268, 
-            "height": 3, 
-            "width": 2
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 149, 
-            "x": 2227, 
-            "height": 6, 
-            "width": 2
+            "y": 451, 
+            "x": 549, 
+            "height": 42, 
+            "width": 43
           }, 
           "name": "Swimming", 
           "id": "swimming"
         }, 
         {
           "pos": {
-            "y": 149, 
-            "x": 2247, 
-            "height": 3, 
-            "width": 2
+            "y": 451, 
+            "x": 940, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Bus stop/Shuttle stop", 
           "id": "bus-stop-shuttle-stop"
         }, 
         {
           "pos": {
-            "y": 149, 
-            "x": 2262, 
-            "height": 2, 
-            "width": 4
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 149, 
-            "x": 2276, 
-            "height": 5, 
-            "width": 2
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 149, 
-            "x": 2280, 
-            "height": 6, 
-            "width": 2
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 150, 
-            "x": 2191, 
-            "height": 6, 
-            "width": 2
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 150, 
-            "x": 2215, 
-            "height": 6, 
-            "width": 2
-          }, 
-          "name": "Boat launch", 
-          "id": "boat-launch"
-        }, 
-        {
-          "pos": {
-            "y": 150, 
-            "x": 2267, 
-            "height": 6, 
-            "width": 2
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 151, 
-            "x": 2205, 
-            "height": 2, 
-            "width": 4
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 151, 
-            "x": 2246, 
-            "height": 3, 
-            "width": 2
-          }, 
-          "name": "Boat tour", 
-          "id": "boat-tour"
-        }, 
-        {
-          "pos": {
-            "y": 152, 
-            "x": 2203, 
-            "height": 5, 
-            "width": 3
-          }, 
-          "name": "Boat launch", 
-          "id": "boat-launch"
-        }, 
-        {
-          "pos": {
-            "y": 153, 
-            "x": 2275, 
-            "height": 3, 
-            "width": 2
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 153, 
-            "x": 2296, 
-            "height": 4, 
-            "width": 2
-          }, 
-          "name": "Boat tour", 
-          "id": "boat-tour"
-        }, 
-        {
-          "pos": {
-            "y": 154, 
-            "x": 2199, 
-            "height": 4, 
-            "width": 2
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 154, 
-            "x": 2209, 
-            "height": 4, 
-            "width": 3
-          }, 
-          "name": "Boat tour", 
-          "id": "boat-tour"
-        }, 
-        {
-          "pos": {
-            "y": 154, 
-            "x": 2226, 
-            "height": 4, 
-            "width": 2
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 154, 
-            "x": 2243, 
-            "height": 5, 
-            "width": 3
-          }, 
-          "name": "Bus stop/Shuttle stop", 
-          "id": "bus-stop-shuttle-stop"
-        }, 
-        {
-          "pos": {
-            "y": 154, 
-            "x": 2279, 
-            "height": 4, 
-            "width": 2
-          }, 
-          "name": "Ranger station", 
-          "id": "ranger-station"
-        }, 
-        {
-          "pos": {
-            "y": 154, 
-            "x": 2284, 
-            "height": 4, 
-            "width": 2
+            "y": 487, 
+            "x": 1712, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Picnic area", 
           "id": "picnic-area"
         }, 
         {
           "pos": {
-            "y": 154, 
-            "x": 2291, 
-            "height": 4, 
-            "width": 2
+            "y": 487, 
+            "x": 1759, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 155, 
-            "x": 2190, 
-            "height": 3, 
-            "width": 2
+            "y": 499, 
+            "x": 1514, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 499, 
+            "x": 1560, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 155, 
-            "x": 2216, 
-            "height": 2, 
-            "width": 2
+            "y": 538, 
+            "x": 549, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 539, 
+            "x": 940, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 627, 
+            "x": 549, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 992, 
+            "x": 3120, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 992, 
+            "x": 3167, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 992, 
+            "x": 3213, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 992, 
+            "x": 3260, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1151, 
+            "x": 3936, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 1254, 
+            "x": 3917, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 1254, 
+            "x": 3964, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1391, 
+            "x": 3239, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1391, 
+            "x": 3286, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1395, 
+            "x": 3544, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 1512, 
+            "x": 3250, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 1556, 
+            "x": 3116, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1661, 
+            "x": 4180, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1663, 
+            "x": 4227, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1664, 
+            "x": 3694, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 1664, 
+            "x": 3741, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1664, 
+            "x": 3787, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1907, 
+            "x": 1673, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 1947, 
+            "x": 3409, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1947, 
+            "x": 3456, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 2097, 
+            "x": 3593, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2099, 
+            "x": 3228, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2204, 
+            "x": 4118, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2312, 
+            "x": 2562, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2312, 
+            "x": 2609, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2347, 
+            "x": 979, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2347, 
+            "x": 1026, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2453, 
+            "x": 4377, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Swimming", 
+          "id": "swimming"
+        }, 
+        {
+          "pos": {
+            "y": 2453, 
+            "x": 4424, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 2453, 
+            "x": 4472, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2457, 
+            "x": 2055, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 2461, 
+            "x": 2651, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2476, 
+            "x": 3244, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 2515, 
+            "x": 2069, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2550, 
+            "x": 4327, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 2550, 
+            "x": 4374, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2557, 
+            "x": 3604, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 2557, 
+            "x": 3651, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2572, 
+            "x": 3016, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 2572, 
+            "x": 3063, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 2572, 
+            "x": 3110, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2612, 
+            "x": 1922, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2626, 
+            "x": 2775, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 2626, 
+            "x": 2822, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2626, 
+            "x": 2869, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2646, 
+            "x": 4228, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2646, 
+            "x": 4275, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 2646, 
+            "x": 4322, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2656, 
+            "x": 2134, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Swimming", 
+          "id": "swimming"
+        }, 
+        {
+          "pos": {
+            "y": 2656, 
+            "x": 2181, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 2656, 
+            "x": 2228, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2823, 
+            "x": 3756, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2823, 
+            "x": 3803, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 2823, 
+            "x": 3850, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2896, 
+            "x": 1855, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 2940, 
+            "x": 2184, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2999, 
+            "x": 2699, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 2999, 
+            "x": 2746, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 3047, 
+            "x": 1298, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 3398, 
+            "x": 2298, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 3398, 
+            "x": 2345, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 3625, 
+            "x": 3449, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3709, 
+            "x": 3382, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 4093, 
+            "x": 2320, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4093, 
+            "x": 2367, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 4093, 
+            "x": 2414, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 4171, 
+            "x": 2564, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4171, 
+            "x": 2612, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4227, 
+            "x": 2167, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4497, 
+            "x": 2007, 
+            "height": 43, 
+            "width": 43
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
@@ -1093,50 +1093,50 @@
       "symbols": [
         {
           "pos": {
-            "y": 114, 
-            "x": 567, 
-            "height": 4, 
-            "width": 2
+            "y": 458, 
+            "x": 501, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Ranger station", 
           "id": "ranger-station"
         }, 
         {
           "pos": {
-            "y": 114, 
-            "x": 572, 
-            "height": 4, 
-            "width": 2
+            "y": 458, 
+            "x": 549, 
+            "height": 42, 
+            "width": 41
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 115, 
-            "x": 544, 
-            "height": 14, 
-            "width": 6
+            "y": 898, 
+            "x": 192, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Boat tour", 
           "id": "boat-tour"
         }, 
         {
           "pos": {
-            "y": 116, 
-            "x": 550, 
-            "height": 2, 
-            "width": 3
+            "y": 898, 
+            "x": 239, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Restrooms", 
           "id": "restrooms"
         }, 
         {
           "pos": {
-            "y": 117, 
-            "x": 552, 
-            "height": 5, 
-            "width": 2
+            "y": 913, 
+            "x": 338, 
+            "height": 42, 
+            "width": 42
           }, 
           "name": "Campground", 
           "id": "campground"
