@@ -66,6 +66,11 @@ class ParkPage extends PureComponent {
     this.fetchData(nextProps);
   }
 
+  componentWillUnmount() {
+    const { dispatch } = this.props;
+    dispatch(ParkPageActions.updateViewedMap(0));
+  }
+
 
   /**
    * Fetch the data for the page if needed
@@ -83,7 +88,6 @@ class ParkPage extends PureComponent {
   handleMapTabSelect(e) {
     const { dispatch } = this.props;
     dispatch(ParkPageActions.updateViewedMap(e - 1));
-    console.log(e);
     // const mapId = parkInfo.maps[mapIndex].map;
   }
 
@@ -109,7 +113,11 @@ class ParkPage extends PureComponent {
 
   renderMaps() {
     const { parkInfo, mapIndex, maps } = this.props;
-    if (!parkInfo.maps) {
+    if (!parkInfo || !parkInfo.maps) {
+      return null;
+    }
+
+    if (!parkInfo.maps[mapIndex]) {
       return null;
     }
     const mapId = parkInfo.maps[mapIndex].map;
@@ -118,7 +126,6 @@ class ParkPage extends PureComponent {
         <Nav bsStyle="tabs" activeKey={mapIndex + 1} onSelect={this.handleMapTabSelect}>
           {parkInfo.maps.map(this.renderNavItem)}
         </Nav>
-        {/* <p><strong>TODO: zoomable map with symbols highlighted and toggleable</strong></p> */}
         <MapView
           info={parkInfo.maps[mapIndex]}
           map={maps[mapId]}

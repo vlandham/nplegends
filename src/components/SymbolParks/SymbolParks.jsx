@@ -2,6 +2,7 @@ import React, { PureComponent, PropTypes } from 'react';
 import { Element } from 'react-scroll';
 
 import { Link } from 'react-router';
+import { pluralize } from '../../utils/string';
 import './SymbolParks.scss';
 
 export default class SymbolParks extends PureComponent {
@@ -41,7 +42,7 @@ export default class SymbolParks extends PureComponent {
         <h3>
           <img className="symbol-icon" src={`/symbols/${symbol.id}.png`} alt={symbol.id} /> {symbol.name}
           <span className="found-line">Found <span className="symbol-count">{symbol.count}</span>
-            times in <span className="park-total-count">{parks.length}</span> parks</span>
+            {pluralize(symbol.count, 'time')} in <span className="park-total-count">{parks.length}</span> {pluralize(parks.length, 'park')}</span>
 
         </h3>
         <div className="parks">

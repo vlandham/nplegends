@@ -104,7 +104,6 @@ export default class MapView extends PureComponent {
       }
 
       const overlays = this.buildOverlays(info.symbols, map);
-      console.log(overlays);
       // if (!this.viewer) {
         this.viewer = new OpenSeadragon.Viewer({
           id: 'zoom-view',
