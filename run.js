@@ -20,7 +20,7 @@ const config = {
   title: 'NP Legends',        // Your website title
   url: 'http://nplegends.com',          // Your website URL
   project: '',      // Firebase project. See README.md -> How to Deploy
-  trackingID: 'UA-XXXXX-Y',                 // Google Analytics Site's ID
+  trackingID: 'UA-17355070-2',                 // Google Analytics Site's ID
 };
 
 const tasks = new Map(); // The collection of automation tasks ('clean', 'build', 'publish', etc.)

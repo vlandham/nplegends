@@ -53,6 +53,30 @@ export default class AboutPage extends PureComponent {
       </div>
     );
   }
+  renderWeb() {
+    return (
+      <div className="imageprocessing">
+        <h2 className="banner">React for Legendary Sites</h2>
+        <p>This front-end was built with a host of tools and packages from the <a href="https://facebook.github.io/react/">React</a> ecosystem including <a href="https://github.com/reactjs/redux">Redux</a> and <a href="https://github.com/ReactTraining/react-router">React Router</a>.</p>
+
+        <p>The source code for the size is <a href="https://github.com/vlandham/nplegends">also on Github</a>.</p>
+
+        <p>React provides a great way to build complex websites (not that this site is too complex) in a modular, componentized way. And Redux is great for keeping data and data access consistent.</p>
+
+        <p>And of course, this site uses <a href="http://d3js.org">D3</a> for visualization, which can be integrated with React in a number of different ways. An interesting challenge for me was getting <a href="https://openseadragon.github.io/">OpenSeaDragon</a> to work with the other tools for creating the zoomable maps. Its not the cleanest code yet, but is functional!</p>
+      </div>
+    );
+  }
+
+  renderLimitations() {
+    return (
+      <div className="imageprocessing">
+        <h2 className="banner">Limitations and Future Work</h2>
+        <p>If you puruse the zoomable maps on a particular park page, you can see that, in general, the image processing algorithm does a decent job of finding symbols. But there are plenty of caveats. </p>
+        <p>One big assumption my code makes is that the symbols will be consistently the same size in all the maps. Surprisingly, the National Park Services maintain a pretty consistent format, but there are a few instances where the map is scaled to a different size, and so nothing but noise is found. A more robust system would find shapes with mostly square borders no matter the size.</p>
+      </div>
+    );
+  }
 
   render() {
     return (
@@ -60,6 +84,8 @@ export default class AboutPage extends PureComponent {
         {this.renderIntro()}
         {this.renderDataSources()}
         {this.renderImageProcessing()}
+        {this.renderWeb()}
+        {this.renderLimitations()}
       </div>
     );
   }

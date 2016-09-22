@@ -147,6 +147,7 @@ class ParkPage extends PureComponent {
         <h4>{ parkInfo.symbol_count } Symbols in { parkInfo.map_count } Maps</h4>
         {this.renderSymbolList()}
         <h2 className="banner">Maps</h2>
+        <p className="pull-right">Maps from the wonderful <a href="http://npmaps.com/" target="_blank" rel="noopener noreferrer">NPMaps.com</a>. </p>
         {this.renderMaps()}
       </div>
     );

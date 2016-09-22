@@ -24,7 +24,8 @@
     "dev": "concurrently --kill-others \"npm run start-dev\" \"npm run watch-client\"",
     "test": "karma start",
     "webpack-clean-cache": "rm -rf webpack/webpack-records.json webpack/cache",
-    "deploy": "gh-pages-deploy"
+    "deploy": "gh-pages-deploy",
+    "clean-deploy": "rm static/index.html"
   },
   "gh-pages-deploy": {
     "staticpath": "static",
