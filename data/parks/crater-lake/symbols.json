@@ -1,0 +1,396 @@
+{
+  "loc": [
+    42.933, 
+    -122.1
+  ], 
+  "symbol_count": 28, 
+  "Name": "Crater Lake", 
+  "Recreation Visitors (2014)": "535,508", 
+  "Photo": "", 
+  "Date established as park": "May 22, 1902", 
+  "Area": "183,224.05 acres (741.5\u00a0km2)", 
+  "name": "Crater Lake", 
+  "maps": [
+    {
+      "map": "crater-lake-map", 
+      "img_size": {
+        "width": 4935, 
+        "height": 5748
+      }, 
+      "park": "crater-lake", 
+      "filename": "crater-lake-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 123, 
+            "x": 4479, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 124, 
+            "x": 4080, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 189, 
+            "x": 4479, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 190, 
+            "x": 4080, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 255, 
+            "x": 4479, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 256, 
+            "x": 4080, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 322, 
+            "x": 4080, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 387, 
+            "x": 4080, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Showers", 
+          "id": "showers"
+        }, 
+        {
+          "pos": {
+            "y": 2185, 
+            "x": 2711, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2207, 
+            "x": 2469, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2957, 
+            "x": 3627, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3137, 
+            "x": 2543, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3137, 
+            "x": 2589, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 3137, 
+            "x": 2635, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 3360, 
+            "x": 2258, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3602, 
+            "x": 2259, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3777, 
+            "x": 2800, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3818, 
+            "x": 3476, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3942, 
+            "x": 2182, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4052, 
+            "x": 1343, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 4154, 
+            "x": 1684, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Showers", 
+          "id": "showers"
+        }, 
+        {
+          "pos": {
+            "y": 4154, 
+            "x": 1732, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 4154, 
+            "x": 1779, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 4154, 
+            "x": 1826, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 4154, 
+            "x": 1873, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4447, 
+            "x": 2276, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4781, 
+            "x": 2591, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5429, 
+            "x": 3211, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 10, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "showers", 
+          "name": "Showers"
+        }, 
+        {
+          "count": 2, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 10, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 3, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 3, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 3, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 2, 
+      "id": "showers", 
+      "name": "Showers"
+    }, 
+    {
+      "count": 2, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 2, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }
+  ], 
+  "Location": "Oregon 42\u00b056\u2032N 122\u00b006\u2032W\ufeff / \ufeff42.94\u00b0N 122.1\u00b0W\ufeff / 42.94; -122.1\ufeff (Crater Lake)", 
+  "date": 1902, 
+  "acres": 183224.05, 
+  "map_count": 1, 
+  "id": "crater-lake", 
+  "Description": "Crater Lake lies in the caldera of an ancient volcano called Mount Mazama that collapsed 7,700 years ago. It is the deepest lake in the United States and is famous for its vivid blue color and water clarity. There are two more recent volcanic islands in the lake, and, with no inlets or outlets, all water comes through precipitation."
+}

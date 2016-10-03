@@ -1,0 +1,506 @@
+{
+  "loc": [
+    25.317, 
+    -80.933
+  ], 
+  "symbol_count": 40, 
+  "Name": "Everglades", 
+  "Recreation Visitors (2014)": "1,110,901", 
+  "Photo": "", 
+  "Date established as park": "May 30, 1934", 
+  "Area": "1,508,537.90 acres (6,104.8\u00a0km2)", 
+  "name": "Everglades", 
+  "maps": [
+    {
+      "map": "everglades-map", 
+      "img_size": {
+        "width": 5056, 
+        "height": 4685
+      }, 
+      "park": "everglades", 
+      "filename": "everglades-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 229, 
+            "x": 673, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 262, 
+            "x": 1134, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 287, 
+            "x": 898, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 350, 
+            "x": 1673, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 401, 
+            "x": 740, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 401, 
+            "x": 787, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 402, 
+            "x": 693, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 402, 
+            "x": 834, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 444, 
+            "x": 1479, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 498, 
+            "x": 2158, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 612, 
+            "x": 860, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 612, 
+            "x": 907, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 612, 
+            "x": 954, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 612, 
+            "x": 1001, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 762, 
+            "x": 2932, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 762, 
+            "x": 2979, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 840, 
+            "x": 3984, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 2009, 
+            "x": 3839, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 2009, 
+            "x": 3886, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 2009, 
+            "x": 3934, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 2133, 
+            "x": 4078, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 2133, 
+            "x": 4126, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 2134, 
+            "x": 4173, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 2160, 
+            "x": 3334, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2160, 
+            "x": 3380, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2822, 
+            "x": 2829, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2992, 
+            "x": 2523, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 3308, 
+            "x": 2197, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3308, 
+            "x": 2243, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3405, 
+            "x": 2448, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 3405, 
+            "x": 2496, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Marina", 
+          "id": "marina"
+        }, 
+        {
+          "pos": {
+            "y": 3405, 
+            "x": 2543, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 3405, 
+            "x": 2590, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 4264, 
+            "x": 1360, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4265, 
+            "x": 1758, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Marina", 
+          "id": "marina"
+        }, 
+        {
+          "pos": {
+            "y": 4332, 
+            "x": 1360, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4335, 
+            "x": 1758, 
+            "height": 41, 
+            "width": 41
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 4405, 
+            "x": 1758, 
+            "height": 41, 
+            "width": 41
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 4474, 
+            "x": 1758, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 4544, 
+            "x": 1758, 
+            "height": 41, 
+            "width": 41
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 9, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 7, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 6, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }, 
+        {
+          "count": 6, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 5, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 5, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "marina", 
+          "name": "Marina"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 9, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 7, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 6, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }, 
+    {
+      "count": 6, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 5, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 5, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 2, 
+      "id": "marina", 
+      "name": "Marina"
+    }
+  ], 
+  "Location": "Florida 25\u00b019\u2032N 80\u00b056\u2032W\ufeff / \ufeff25.32\u00b0N 80.93\u00b0W\ufeff / 25.32; -80.93\ufeff (Everglades)", 
+  "date": 1934, 
+  "acres": 1508537.9, 
+  "map_count": 1, 
+  "id": "everglades", 
+  "Description": "The Everglades are the largest tropical wilderness in the United States. This mangrove and tropical rainforest ecosystem and marine estuary is home to 36 protected species, including the Florida panther, American crocodile, and West Indian manatee. Some areas have been drained and developed; restoration projects aim to restore the ecology. "
+}

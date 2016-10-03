@@ -1,0 +1,547 @@
+{
+  "loc": [
+    38.567, 
+    -107.717
+  ], 
+  "symbol_count": 40, 
+  "Name": "Black Canyon of the Gunnison", 
+  "Recreation Visitors (2014)": "183,045", 
+  "Photo": "", 
+  "Date established as park": "October 21, 1999", 
+  "Area": "32,950.03 acres (133.3\u00a0km2)", 
+  "name": "Black Canyon of the Gunnison", 
+  "maps": [
+    {
+      "map": "black-canyon-of-the-gunnison-map", 
+      "img_size": {
+        "width": 6716, 
+        "height": 4984
+      }, 
+      "park": "black-canyon-of-the-gunnison", 
+      "filename": "black-canyon-of-the-gunnison-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 1674, 
+            "x": 789, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "River rafting", 
+          "id": "river-rafting"
+        }, 
+        {
+          "pos": {
+            "y": 1929, 
+            "x": 664, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Hiking", 
+          "id": "hiking"
+        }, 
+        {
+          "pos": {
+            "y": 2672, 
+            "x": 3666, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2672, 
+            "x": 3713, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Hiking", 
+          "id": "hiking"
+        }, 
+        {
+          "pos": {
+            "y": 2731, 
+            "x": 3488, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2807, 
+            "x": 3586, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2823, 
+            "x": 3454, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 2931, 
+            "x": 3213, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 3152, 
+            "x": 3915, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 3201, 
+            "x": 2874, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3201, 
+            "x": 2921, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 3201, 
+            "x": 2968, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3312, 
+            "x": 4271, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 3312, 
+            "x": 4318, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Hiking", 
+          "id": "hiking"
+        }, 
+        {
+          "pos": {
+            "y": 3397, 
+            "x": 3787, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 3397, 
+            "x": 3834, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3397, 
+            "x": 3881, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3409, 
+            "x": 2703, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 3444, 
+            "x": 4357, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3514, 
+            "x": 2815, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3514, 
+            "x": 2862, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3514, 
+            "x": 2909, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 3570, 
+            "x": 4138, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3570, 
+            "x": 4185, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3769, 
+            "x": 4097, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 4015, 
+            "x": 4041, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4015, 
+            "x": 4088, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 4015, 
+            "x": 4135, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Amphitheater", 
+          "id": "amphitheater"
+        }, 
+        {
+          "pos": {
+            "y": 4580, 
+            "x": 4767, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4580, 
+            "x": 4814, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4679, 
+            "x": 976, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 4679, 
+            "x": 1375, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4679, 
+            "x": 1776, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 4680, 
+            "x": 2220, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Amphitheater", 
+          "id": "amphitheater"
+        }, 
+        {
+          "pos": {
+            "y": 4741, 
+            "x": 976, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4741, 
+            "x": 1375, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4742, 
+            "x": 1776, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 4804, 
+            "x": 976, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "River rafting", 
+          "id": "river-rafting"
+        }, 
+        {
+          "pos": {
+            "y": 4804, 
+            "x": 1375, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Hiking", 
+          "id": "hiking"
+        }, 
+        {
+          "pos": {
+            "y": 4804, 
+            "x": 1776, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 8, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 6, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "hiking", 
+          "name": "Hiking"
+        }, 
+        {
+          "count": 4, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 4, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 2, 
+          "id": "river-rafting", 
+          "name": "River rafting"
+        }, 
+        {
+          "count": 2, 
+          "id": "amphitheater", 
+          "name": "Amphitheater"
+        }
+      ]
+    }, 
+    {
+      "map": "black-canyon-of-the-gunnison-regional-map", 
+      "img_size": {
+        "width": 1216, 
+        "height": 906
+      }, 
+      "park": "black-canyon-of-the-gunnison", 
+      "filename": "black-canyon-of-the-gunnison-regional-map.jpg", 
+      "symbols": [], 
+      "totals": []
+    }
+  ], 
+  "totals": [
+    {
+      "count": 8, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 6, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "hiking", 
+      "name": "Hiking"
+    }, 
+    {
+      "count": 4, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 4, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "horseback-riding-rental,-guided-tour", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 2, 
+      "id": "river-rafting", 
+      "name": "River rafting"
+    }, 
+    {
+      "count": 2, 
+      "id": "amphitheater", 
+      "name": "Amphitheater"
+    }
+  ], 
+  "Location": "Colorado 38\u00b034\u2032N 107\u00b043\u2032W\ufeff / \ufeff38.57\u00b0N 107.72\u00b0W\ufeff / 38.57; -107.72\ufeff (Black Canyon of the Gunnison)", 
+  "date": 1999, 
+  "acres": 32950.03, 
+  "map_count": 2, 
+  "id": "black-canyon-of-the-gunnison", 
+  "Description": "The park protects a quarter of the Gunnison River, which slices sheer canyon walls from dark Precambrian-era rock. The canyon features incredibly steep descents, and is a popular site for river rafting and rock climbing. The deep, narrow canyon, made of gneiss and schist, is often in shadow and therefore appears black."
+}

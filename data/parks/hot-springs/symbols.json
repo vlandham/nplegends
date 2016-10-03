@@ -1,0 +1,196 @@
+{
+  "loc": [
+    34.517, 
+    -93.05
+  ], 
+  "symbol_count": 12, 
+  "Name": "Hot Springs", 
+  "Recreation Visitors (2014)": "1,424,484", 
+  "Photo": "", 
+  "Date established as park": "March 4, 1921", 
+  "Area": "5,549.75 acres (22.5\u00a0km2)", 
+  "name": "Hot Springs", 
+  "maps": [
+    {
+      "map": "hot-springs-map", 
+      "img_size": {
+        "width": 5055, 
+        "height": 2592
+      }, 
+      "park": "hot-springs", 
+      "filename": "hot-springs-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 837, 
+            "x": 4339, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 837, 
+            "x": 4386, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 837, 
+            "x": 4433, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 1074, 
+            "x": 4237, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1502, 
+            "x": 3628, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1502, 
+            "x": 3675, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1721, 
+            "x": 3511, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1771, 
+            "x": 2943, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2312, 
+            "x": 4541, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2364, 
+            "x": 4541, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2414, 
+            "x": 4541, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2466, 
+            "x": 4541, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 2, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 2, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }
+  ], 
+  "Location": "Arkansas 34\u00b031\u2032N 93\u00b003\u2032W\ufeff / \ufeff34.51\u00b0N 93.05\u00b0W\ufeff / 34.51; -93.05\ufeff (Hot Springs)", 
+  "date": 1921, 
+  "acres": 5549.75, 
+  "map_count": 1, 
+  "id": "hot-springs", 
+  "Description": "Hot Springs was established by act of Congress as a federal reserve on April 20, 1832, as such it is the oldest park managed by the National Park Service. Congress changed the reserve's designation to National Park on March 4, 1921 after the National Park Service was established in 1916. Hot Springs is the smallest and only National Park in an urban area and is based around natural hot springs that flow out of the low lying Ouachita Mountains. The springs provide opportunities for relaxation in an historic setting; Bathhouse Row preserves numerous examples of 19th-century architecture."
+}

@@ -1,0 +1,556 @@
+{
+  "loc": [
+    38.983, 
+    -114.3
+  ], 
+  "symbol_count": 40, 
+  "Name": "Great Basin", 
+  "Recreation Visitors (2014)": "107,526", 
+  "Photo": "", 
+  "Date established as park": "October 27, 1986", 
+  "Area": "77,180.00 acres (312.3\u00a0km2)", 
+  "name": "Great Basin", 
+  "maps": [
+    {
+      "map": "great-basin-map", 
+      "img_size": {
+        "width": 5194, 
+        "height": 4691
+      }, 
+      "park": "great-basin", 
+      "filename": "great-basin-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 121, 
+            "x": 4508, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 122, 
+            "x": 4111, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 174, 
+            "x": 4111, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 174, 
+            "x": 4508, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 176, 
+            "x": 1636, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 176, 
+            "x": 1683, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 176, 
+            "x": 1730, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 176, 
+            "x": 1777, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 228, 
+            "x": 4111, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 228, 
+            "x": 4509, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 282, 
+            "x": 4111, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 283, 
+            "x": 4509, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 336, 
+            "x": 4111, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 337, 
+            "x": 4511, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 390, 
+            "x": 4111, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Sanitary disposal station", 
+          "id": "sanitary-disposal-station"
+        }, 
+        {
+          "pos": {
+            "y": 444, 
+            "x": 4111, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "BirdingNVildlife Viewing", 
+          "id": "birdingnvildlife-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 1017, 
+            "x": 2074, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1079, 
+            "x": 4500, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1079, 
+            "x": 4547, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 1079, 
+            "x": 4594, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 1080, 
+            "x": 4453, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 1560, 
+            "x": 3533, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1560, 
+            "x": 3580, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 1560, 
+            "x": 3627, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1681, 
+            "x": 2572, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1692, 
+            "x": 2769, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1694, 
+            "x": 3864, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1694, 
+            "x": 3911, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 1694, 
+            "x": 3958, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 1713, 
+            "x": 1893, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1735, 
+            "x": 2336, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1735, 
+            "x": 2383, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1813, 
+            "x": 2797, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Sanitary disposal station", 
+          "id": "sanitary-disposal-station"
+        }, 
+        {
+          "pos": {
+            "y": 1847, 
+            "x": 1869, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 1880, 
+            "x": 2507, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 1880, 
+            "x": 2554, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 1880, 
+            "x": 2601, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 1880, 
+            "x": 2648, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2023, 
+            "x": 2814, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2157, 
+            "x": 2527, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 9, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 4, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 3, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 3, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 3, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 2, 
+          "id": "information", 
+          "name": "Information"
+        }, 
+        {
+          "count": 2, 
+          "id": "sanitary-disposal-station", 
+          "name": "Sanitary disposal station"
+        }, 
+        {
+          "count": 2, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 2, 
+          "id": "fishing", 
+          "name": "Fishing"
+        }, 
+        {
+          "count": 1, 
+          "id": "birdingnvildlife-viewing", 
+          "name": "BirdingNVildlife Viewing"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 9, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 4, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 3, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 3, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "information", 
+      "name": "Information"
+    }, 
+    {
+      "count": 2, 
+      "id": "sanitary-disposal-station", 
+      "name": "Sanitary disposal station"
+    }, 
+    {
+      "count": 2, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 2, 
+      "id": "fishing", 
+      "name": "Fishing"
+    }, 
+    {
+      "count": 1, 
+      "id": "birdingnvildlife-viewing", 
+      "name": "BirdingNVildlife Viewing"
+    }
+  ], 
+  "Location": "Nevada 38\u00b059\u2032N 114\u00b018\u2032W\ufeff / \ufeff38.98\u00b0N 114.30\u00b0W\ufeff / 38.98; -114.30\ufeff (Great Basin)", 
+  "date": 1986, 
+  "acres": 77180.0, 
+  "map_count": 1, 
+  "id": "great-basin", 
+  "Description": "Based around Nevada's second tallest mountain, Wheeler Peak, Great Basin National Park contains 5,000-year-old bristlecone pines, a rock glacier, and the limestone Lehman Caves. It also enjoys some of the country's darkest night skies. Animals which call the park home include Townsend's big-eared bat, pronghorn, and Bonneville cutthroat trout."
+}

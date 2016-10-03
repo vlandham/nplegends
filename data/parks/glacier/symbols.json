@@ -1,0 +1,986 @@
+{
+  "loc": [
+    48.8, 
+    -114.0
+  ], 
+  "symbol_count": 78, 
+  "Name": "Glacier", 
+  "Recreation Visitors (2014)": "2,338,528", 
+  "Photo": "", 
+  "Date established as park": "May 11, 1910", 
+  "Area": "1,013,572.41 acres (4,101.8\u00a0km2)", 
+  "name": "Glacier", 
+  "maps": [
+    {
+      "map": "glacier-lake-mcdonald-map", 
+      "img_size": {
+        "width": 2550, 
+        "height": 3271
+      }, 
+      "park": "glacier", 
+      "filename": "glacier-lake-mcdonald-map.jpg", 
+      "symbols": [], 
+      "totals": []
+    }, 
+    {
+      "map": "glacier-map", 
+      "img_size": {
+        "width": 4967, 
+        "height": 5433
+      }, 
+      "park": "glacier", 
+      "filename": "glacier-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 524, 
+            "x": 1834, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 642, 
+            "x": 2075, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 856, 
+            "x": 2009, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 856, 
+            "x": 2056, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 868, 
+            "x": 2320, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Stable", 
+          "id": "stable"
+        }, 
+        {
+          "pos": {
+            "y": 984, 
+            "x": 2047, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 985, 
+            "x": 1954, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 985, 
+            "x": 2001, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 985, 
+            "x": 2093, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 985, 
+            "x": 2139, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1075, 
+            "x": 2967, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1146, 
+            "x": 1675, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1388, 
+            "x": 2401, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1929, 
+            "x": 1000, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2172, 
+            "x": 1084, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2235, 
+            "x": 2982, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 2235, 
+            "x": 3028, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2235, 
+            "x": 3075, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2339, 
+            "x": 3236, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 2339, 
+            "x": 3283, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 2339, 
+            "x": 3330, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Stable", 
+          "id": "stable"
+        }, 
+        {
+          "pos": {
+            "y": 2375, 
+            "x": 2977, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2375, 
+            "x": 3024, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2446, 
+            "x": 967, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2549, 
+            "x": 3781, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2582, 
+            "x": 4059, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 2673, 
+            "x": 3902, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2732, 
+            "x": 3554, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2732, 
+            "x": 3601, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 2778, 
+            "x": 3554, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2778, 
+            "x": 3600, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 2900, 
+            "x": 3352, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2900, 
+            "x": 3398, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2916, 
+            "x": 2585, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 2916, 
+            "x": 2632, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2922, 
+            "x": 2433, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2922, 
+            "x": 2480, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2933, 
+            "x": 2872, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 3244, 
+            "x": 2204, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 3245, 
+            "x": 2250, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 3245, 
+            "x": 2296, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Stable", 
+          "id": "stable"
+        }, 
+        {
+          "pos": {
+            "y": 3295, 
+            "x": 1470, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 3467, 
+            "x": 2403, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3467, 
+            "x": 2449, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3551, 
+            "x": 1957, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3551, 
+            "x": 2003, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3746, 
+            "x": 1620, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3746, 
+            "x": 1668, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 3746, 
+            "x": 1714, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3746, 
+            "x": 1760, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 3746, 
+            "x": 1806, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3843, 
+            "x": 2214, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3967, 
+            "x": 4257, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 3967, 
+            "x": 4304, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 4001, 
+            "x": 1985, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 4111, 
+            "x": 4313, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 4121, 
+            "x": 4158, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 4121, 
+            "x": 4205, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4121, 
+            "x": 4252, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4251, 
+            "x": 4624, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 4350, 
+            "x": 503, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4350, 
+            "x": 549, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4565, 
+            "x": 1739, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 5082, 
+            "x": 3457, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5085, 
+            "x": 1292, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5086, 
+            "x": 904, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 5086, 
+            "x": 1689, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 5086, 
+            "x": 2086, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 5114, 
+            "x": 3237, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 5171, 
+            "x": 1292, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Stable", 
+          "id": "stable"
+        }, 
+        {
+          "pos": {
+            "y": 5171, 
+            "x": 2086, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Wheelchair accessible", 
+          "id": "wheelchair-accessible"
+        }, 
+        {
+          "pos": {
+            "y": 5255, 
+            "x": 904, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 5255, 
+            "x": 1292, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 14, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 13, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 11, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 11, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 9, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 7, 
+          "id": "boat-tour", 
+          "name": "Boat tour"
+        }, 
+        {
+          "count": 4, 
+          "id": "wheelchair-accessible", 
+          "name": "Wheelchair accessible"
+        }, 
+        {
+          "count": 4, 
+          "id": "stable", 
+          "name": "Stable"
+        }
+      ]
+    }, 
+    {
+      "map": "glacier-two-medicine-map", 
+      "img_size": {
+        "width": 3375, 
+        "height": 2554
+      }, 
+      "park": "glacier", 
+      "filename": "glacier-two-medicine-map.jpg", 
+      "symbols": [], 
+      "totals": []
+    }, 
+    {
+      "map": "glacier-bay-map", 
+      "img_size": {
+        "width": 4405, 
+        "height": 3690
+      }, 
+      "park": "glacier", 
+      "filename": "glacier-bay-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 2090, 
+            "x": 1984, 
+            "height": 44, 
+            "width": 42
+          }, 
+          "name": "Propane", 
+          "id": "propane"
+        }, 
+        {
+          "pos": {
+            "y": 2724, 
+            "x": 3313, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3454, 
+            "x": 1915, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "propane", 
+          "name": "Propane"
+        }
+      ]
+    }, 
+    {
+      "map": "glacier-st-mary-map", 
+      "img_size": {
+        "width": 3300, 
+        "height": 2521
+      }, 
+      "park": "glacier", 
+      "filename": "glacier-st-mary-map.jpg", 
+      "symbols": [], 
+      "totals": []
+    }, 
+    {
+      "map": "glacier-many-glacier-map", 
+      "img_size": {
+        "width": 2550, 
+        "height": 3271
+      }, 
+      "park": "glacier", 
+      "filename": "glacier-many-glacier-map.jpg", 
+      "symbols": [], 
+      "totals": []
+    }, 
+    {
+      "map": "glacier-bay-detail-map", 
+      "img_size": {
+        "width": 3583, 
+        "height": 5431
+      }, 
+      "park": "glacier", 
+      "filename": "glacier-bay-detail-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 4763, 
+            "x": 1806, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 5109, 
+            "x": 684, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 18, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 13, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 11, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 11, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 9, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 7, 
+      "id": "boat-tour", 
+      "name": "Boat tour"
+    }, 
+    {
+      "count": 4, 
+      "id": "wheelchair-accessible", 
+      "name": "Wheelchair accessible"
+    }, 
+    {
+      "count": 4, 
+      "id": "stable", 
+      "name": "Stable"
+    }, 
+    {
+      "count": 1, 
+      "id": "propane", 
+      "name": "Propane"
+    }
+  ], 
+  "Location": "Montana 48\u00b048\u2032N 114\u00b000\u2032W\ufeff / \ufeff48.80\u00b0N 114.00\u00b0W\ufeff / 48.80; -114.00\ufeff (Glacier)", 
+  "date": 1910, 
+  "acres": 1013572.41, 
+  "map_count": 7, 
+  "id": "glacier", 
+  "Description": "The U.S. half of Waterton-Glacier International Peace Park, this park hosts 26 glaciers and 130 named lakes beneath a stunning canopy of Rocky Mountain peaks. There are historic hotels and a landmark road in this region of rapidly receding glaciers. The local mountains, formed by an overthrust, expose the world's best-preserved sedimentary fossils from the Proterozoic era. "
+}

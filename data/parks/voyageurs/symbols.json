@@ -1,0 +1,516 @@
+{
+  "loc": [
+    48.5, 
+    -92.883
+  ], 
+  "symbol_count": 39, 
+  "Name": "Voyageurs", 
+  "Recreation Visitors (2014)": "239,160", 
+  "Photo": "", 
+  "Date established as park": "January 8, 1971", 
+  "Area": "218,200.17 acres (883.0\u00a0km2)", 
+  "name": "Voyageurs", 
+  "maps": [
+    {
+      "map": "voyageurs-map", 
+      "img_size": {
+        "width": 7103, 
+        "height": 5055
+      }, 
+      "park": "voyageurs", 
+      "filename": "voyageurs-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 526, 
+            "x": 351, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 569, 
+            "x": 1320, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 609, 
+            "x": 1819, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 994, 
+            "x": 1684, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 994, 
+            "x": 1730, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 994, 
+            "x": 1776, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Canoe access", 
+          "id": "canoe-access"
+        }, 
+        {
+          "pos": {
+            "y": 994, 
+            "x": 1822, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 1603, 
+            "x": 5369, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 1603, 
+            "x": 5415, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 1603, 
+            "x": 5461, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 1699, 
+            "x": 3129, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1796, 
+            "x": 2548, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1796, 
+            "x": 2593, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 1796, 
+            "x": 2638, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1901, 
+            "x": 586, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1971, 
+            "x": 586, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2040, 
+            "x": 586, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 2110, 
+            "x": 586, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Canoe access", 
+          "id": "canoe-access"
+        }, 
+        {
+          "pos": {
+            "y": 2152, 
+            "x": 2815, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2152, 
+            "x": 2861, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 2152, 
+            "x": 2907, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Canoe access", 
+          "id": "canoe-access"
+        }, 
+        {
+          "pos": {
+            "y": 2152, 
+            "x": 2953, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 2179, 
+            "x": 586, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Boat tour", 
+          "id": "boat-tour"
+        }, 
+        {
+          "pos": {
+            "y": 2237, 
+            "x": 2827, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 2250, 
+            "x": 586, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 2263, 
+            "x": 4079, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2263, 
+            "x": 4125, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 2263, 
+            "x": 4171, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Canoe access", 
+          "id": "canoe-access"
+        }, 
+        {
+          "pos": {
+            "y": 2320, 
+            "x": 586, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 2389, 
+            "x": 586, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 2457, 
+            "x": 586, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2547, 
+            "x": 4762, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2679, 
+            "x": 4008, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2703, 
+            "x": 4248, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 2758, 
+            "x": 4330, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3710, 
+            "x": 6476, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4022, 
+            "x": 6678, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }, 
+        {
+          "pos": {
+            "y": 4224, 
+            "x": 6406, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 4224, 
+            "x": 6452, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Boat launch", 
+          "id": "boat-launch"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 12, 
+          "id": "boat-launch", 
+          "name": "Boat launch"
+        }, 
+        {
+          "count": 9, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "canoe-access", 
+          "name": "Canoe access"
+        }, 
+        {
+          "count": 3, 
+          "id": "boat-tour", 
+          "name": "Boat tour"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 12, 
+      "id": "boat-launch", 
+      "name": "Boat launch"
+    }, 
+    {
+      "count": 9, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "canoe-access", 
+      "name": "Canoe access"
+    }, 
+    {
+      "count": 3, 
+      "id": "boat-tour", 
+      "name": "Boat tour"
+    }, 
+    {
+      "count": 3, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 2, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 2, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }
+  ], 
+  "Location": "Minnesota 48\u00b030\u2032N 92\u00b053\u2032W\ufeff / \ufeff48.50\u00b0N 92.88\u00b0W\ufeff / 48.50; -92.88\ufeff (Voyageurs)", 
+  "date": 1971, 
+  "acres": 218200.17, 
+  "map_count": 1, 
+  "id": "voyageurs", 
+  "Description": "This park protecting four lakes near the Canada\u2013US border is a site for canoeing, kayaking, and fishing, and preserves a history populated by Ojibwe Native Americans, French fur traders called voyageurs, and ambitious gold-miners. Formed by glaciers, the region features tall bluffs, rock gardens, scenic islands and bays, and several historic buildings."
+}

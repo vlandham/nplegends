@@ -1,0 +1,419 @@
+{
+  "loc": [
+    31.917, 
+    -104.867
+  ], 
+  "symbol_count": 29, 
+  "Name": "Guadalupe Mountains", 
+  "Recreation Visitors (2014)": "166,868", 
+  "Photo": "", 
+  "Date established as park": "October 15, 1966", 
+  "Area": "86,415.97 acres (349.7\u00a0km2)", 
+  "name": "Guadalupe Mountains", 
+  "maps": [
+    {
+      "map": "guadalupe-mountains-map", 
+      "img_size": {
+        "width": 5024, 
+        "height": 3452
+      }, 
+      "park": "guadalupe-mountains", 
+      "filename": "guadalupe-mountains-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 223, 
+            "x": 2613, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 224, 
+            "x": 2660, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 224, 
+            "x": 2708, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 391, 
+            "x": 3878, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 476, 
+            "x": 3491, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 658, 
+            "x": 3482, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 819, 
+            "x": 4797, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1311, 
+            "x": 588, 
+            "height": 41, 
+            "width": 41
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1394, 
+            "x": 1218, 
+            "height": 47, 
+            "width": 41
+          }, 
+          "name": "Mens restroom", 
+          "id": "mens-restroom"
+        }, 
+        {
+          "pos": {
+            "y": 1394, 
+            "x": 1336, 
+            "height": 47, 
+            "width": 45
+          }, 
+          "name": "Bookstore", 
+          "id": "bookstore"
+        }, 
+        {
+          "pos": {
+            "y": 1394, 
+            "x": 1456, 
+            "height": 47, 
+            "width": 32
+          }, 
+          "name": "Bookstore", 
+          "id": "bookstore"
+        }, 
+        {
+          "pos": {
+            "y": 1394, 
+            "x": 1501, 
+            "height": 47, 
+            "width": 41
+          }, 
+          "name": "Mens restroom", 
+          "id": "mens-restroom"
+        }, 
+        {
+          "pos": {
+            "y": 1394, 
+            "x": 1819, 
+            "height": 47, 
+            "width": 41
+          }, 
+          "name": "Mens restroom", 
+          "id": "mens-restroom"
+        }, 
+        {
+          "pos": {
+            "y": 1519, 
+            "x": 1711, 
+            "height": 47, 
+            "width": 32
+          }, 
+          "name": "Bookstore", 
+          "id": "bookstore"
+        }, 
+        {
+          "pos": {
+            "y": 1626, 
+            "x": 3235, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1824, 
+            "x": 2845, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2042, 
+            "x": 2887, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2335, 
+            "x": 2687, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3033, 
+            "x": 4524, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3088, 
+            "x": 4524, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3143, 
+            "x": 4524, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 3196, 
+            "x": 4524, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 9, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "mens-restroom", 
+          "name": "Mens restroom"
+        }, 
+        {
+          "count": 3, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "bookstore", 
+          "name": "Bookstore"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 1, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
+    }, 
+    {
+      "map": "guadalupe-mountains-regional-map", 
+      "img_size": {
+        "width": 1146, 
+        "height": 980
+      }, 
+      "park": "guadalupe-mountains", 
+      "filename": "guadalupe-mountains-regional-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 173, 
+            "x": 865, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 173, 
+            "x": 912, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 456, 
+            "x": 846, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 456, 
+            "x": 893, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 495, 
+            "x": 330, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 628, 
+            "x": 87, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 830, 
+            "x": 478, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 4, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 3, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 9, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 7, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 3, 
+      "id": "mens-restroom", 
+      "name": "Mens restroom"
+    }, 
+    {
+      "count": 3, 
+      "id": "bookstore", 
+      "name": "Bookstore"
+    }, 
+    {
+      "count": 2, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 1, 
+      "id": "parking", 
+      "name": "Parking"
+    }
+  ], 
+  "Location": "Texas 31\u00b055\u2032N 104\u00b052\u2032W\ufeff / \ufeff31.92\u00b0N 104.87\u00b0W\ufeff / 31.92; -104.87\ufeff (Guadalupe Mountains)", 
+  "date": 1966, 
+  "acres": 86415.97, 
+  "map_count": 2, 
+  "id": "guadalupe-mountains", 
+  "Description": "This park boasts Guadalupe Peak, the highest point in Texas; the scenic McKittrick Canyon filled with bigtooth maples; a corner of the arid Chihuahuan Desert; and a fossilized coral reef from the Permian era."
+}

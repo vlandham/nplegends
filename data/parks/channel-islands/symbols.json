@@ -1,0 +1,206 @@
+{
+  "loc": [
+    34.017, 
+    -119.417
+  ], 
+  "symbol_count": 15, 
+  "Name": "Channel Islands", 
+  "Recreation Visitors (2014)": "342,161", 
+  "Photo": "", 
+  "Date established as park": "March 5, 1980", 
+  "Area": "249,561.00 acres (1,009.9\u00a0km2)", 
+  "name": "Channel Islands", 
+  "maps": [
+    {
+      "map": "channel-islands-map", 
+      "img_size": {
+        "width": 4321, 
+        "height": 3821
+      }, 
+      "park": "channel-islands", 
+      "filename": "channel-islands-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 1910, 
+            "x": 2770, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1910, 
+            "x": 2816, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1993, 
+            "x": 2475, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1994, 
+            "x": 2521, 
+            "height": 41, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2012, 
+            "x": 2746, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2021, 
+            "x": 944, 
+            "height": 41, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2021, 
+            "x": 991, 
+            "height": 41, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2059, 
+            "x": 1519, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2059, 
+            "x": 1566, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2075, 
+            "x": 3234, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2075, 
+            "x": 3281, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3267, 
+            "x": 120, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3327, 
+            "x": 121, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3525, 
+            "x": 4015, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3525, 
+            "x": 4062, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 8, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 7, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 8, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 7, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }
+  ], 
+  "Location": "California 34\u00b001\u2032N 119\u00b025\u2032W\ufeff / \ufeff34.01\u00b0N 119.42\u00b0W\ufeff / 34.01; -119.42\ufeff (Channel Islands)", 
+  "date": 1980, 
+  "acres": 249561.0, 
+  "map_count": 1, 
+  "id": "channel-islands", 
+  "Description": "Five of the eight Channel Islands are protected, and half of the park's area is underwater. The islands have a unique Mediterranean ecosystem originally settled by the Chumash people. They are home to over 2,000 species of land plants and animals, and 145 are unique to them, including the island fox. Professional ferry services offer transportation to the islands from the mainland."
+}

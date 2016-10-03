@@ -1,0 +1,346 @@
+{
+  "loc": [
+    37.733, 
+    -105.517
+  ], 
+  "symbol_count": 22, 
+  "Name": "Great Sand Dunes", 
+  "Recreation Visitors (2014)": "271,774", 
+  "Photo": "", 
+  "Date established as park": "September 13, 2004", 
+  "Area": "42,983.74 acres (173.9\u00a0km2)", 
+  "name": "Great Sand Dunes", 
+  "maps": [
+    {
+      "map": "great-sand-dunes-map", 
+      "img_size": {
+        "width": 4938, 
+        "height": 5869
+      }, 
+      "park": "great-sand-dunes", 
+      "filename": "great-sand-dunes-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 673, 
+            "x": 4292, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 794, 
+            "x": 3915, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1267, 
+            "x": 3328, 
+            "height": 32, 
+            "width": 41
+          }, 
+          "name": "Sewer hookup", 
+          "id": "sewer-hookup"
+        }, 
+        {
+          "pos": {
+            "y": 2154, 
+            "x": 4585, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 3598, 
+            "x": 3563, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3759, 
+            "x": 3570, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4098, 
+            "x": 3553, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 4222, 
+            "x": 3469, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5079, 
+            "x": 3023, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 5079, 
+            "x": 3070, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 5079, 
+            "x": 3117, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 5079, 
+            "x": 3164, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 5079, 
+            "x": 3211, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 5469, 
+            "x": 273, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5511, 
+            "x": 4078, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 5512, 
+            "x": 3679, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 5573, 
+            "x": 3679, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5573, 
+            "x": 4078, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Store", 
+          "id": "store"
+        }, 
+        {
+          "pos": {
+            "y": 5639, 
+            "x": 3679, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 5639, 
+            "x": 4078, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 5702, 
+            "x": 3679, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Lodging", 
+          "id": "lodging"
+        }, 
+        {
+          "pos": {
+            "y": 5705, 
+            "x": 4078, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 4, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 2, 
+          "id": "lodging", 
+          "name": "Lodging"
+        }, 
+        {
+          "count": 2, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 2, 
+          "id": "store", 
+          "name": "Store"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }, 
+        {
+          "count": 1, 
+          "id": "sewer-hookup", 
+          "name": "Sewer hookup"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 2, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 2, 
+      "id": "horseback-riding-rental,-guided-tour", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 2, 
+      "id": "lodging", 
+      "name": "Lodging"
+    }, 
+    {
+      "count": 2, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 2, 
+      "id": "store", 
+      "name": "Store"
+    }, 
+    {
+      "count": 2, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 1, 
+      "id": "sewer-hookup", 
+      "name": "Sewer hookup"
+    }
+  ], 
+  "Location": "Colorado 37\u00b044\u2032N 105\u00b031\u2032W\ufeff / \ufeff37.73\u00b0N 105.51\u00b0W\ufeff / 37.73; -105.51\ufeff (Great Sand Dunes)", 
+  "date": 2004, 
+  "acres": 42983.74, 
+  "map_count": 1, 
+  "id": "great-sand-dunes", 
+  "Description": "The tallest sand dunes in North America, up to 750 feet (230\u00a0m) tall, were formed by deposits of the ancient Rio Grande in the San Luis Valley. Abutting a variety of grasslands, shrublands, and wetlands, the park also has alpine lakes, six 13,000-foot mountains, and old-growth forests."
+}

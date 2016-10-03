@@ -1,0 +1,1930 @@
+{
+  "loc": [
+    41.233, 
+    -81.55
+  ], 
+  "symbol_count": 162, 
+  "Name": "Cuyahoga Valley", 
+  "Recreation Visitors (2014)": "2,189,849", 
+  "Photo": "", 
+  "Date established as park": "October 11, 2000", 
+  "Area": "32,950 acres (133.3\u00a0km2)", 
+  "name": "Cuyahoga Valley", 
+  "maps": [
+    {
+      "map": "cuyahoga-valley-map", 
+      "img_size": {
+        "width": 2855, 
+        "height": 6569
+      }, 
+      "park": "cuyahoga-valley", 
+      "filename": "cuyahoga-valley-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 1033, 
+            "x": 632, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1096, 
+            "x": 664, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1133, 
+            "x": 2716, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1175, 
+            "x": 1884, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1200, 
+            "x": 1813, 
+            "height": 42, 
+            "width": 46
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1252, 
+            "x": 2677, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Sledding", 
+          "id": "sledding"
+        }, 
+        {
+          "pos": {
+            "y": 1284, 
+            "x": 1896, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1366, 
+            "x": 1325, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 1366, 
+            "x": 1371, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1395, 
+            "x": 1688, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Kennel", 
+          "id": "kennel"
+        }, 
+        {
+          "pos": {
+            "y": 1414, 
+            "x": 2700, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1414, 
+            "x": 2745, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1414, 
+            "x": 2791, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 1415, 
+            "x": 1914, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Sledding", 
+          "id": "sledding"
+        }, 
+        {
+          "pos": {
+            "y": 1415, 
+            "x": 1959, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Crosscountry ski trail", 
+          "id": "crosscountry-ski-trail"
+        }, 
+        {
+          "pos": {
+            "y": 1496, 
+            "x": 1821, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Kennel", 
+          "id": "kennel"
+        }, 
+        {
+          "pos": {
+            "y": 1499, 
+            "x": 662, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1751, 
+            "x": 1111, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1802, 
+            "x": 1231, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1837, 
+            "x": 1155, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 2324, 
+            "x": 743, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2324, 
+            "x": 788, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2437, 
+            "x": 831, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2468, 
+            "x": 1270, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2468, 
+            "x": 1316, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 2468, 
+            "x": 1361, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Crosscountry ski trail", 
+          "id": "crosscountry-ski-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2594, 
+            "x": 768, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2649, 
+            "x": 629, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2730, 
+            "x": 990, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2792, 
+            "x": 475, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Sledding", 
+          "id": "sledding"
+        }, 
+        {
+          "pos": {
+            "y": 2904, 
+            "x": 1016, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Kennel", 
+          "id": "kennel"
+        }, 
+        {
+          "pos": {
+            "y": 2990, 
+            "x": 922, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2990, 
+            "x": 967, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 3037, 
+            "x": 1553, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3240, 
+            "x": 1800, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3240, 
+            "x": 1846, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3315, 
+            "x": 1322, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 3315, 
+            "x": 1367, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 3382, 
+            "x": 1422, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3463, 
+            "x": 173, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Kennel", 
+          "id": "kennel"
+        }, 
+        {
+          "pos": {
+            "y": 3463, 
+            "x": 219, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3463, 
+            "x": 264, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3463, 
+            "x": 309, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 3938, 
+            "x": 1618, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4044, 
+            "x": 1944, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4097, 
+            "x": 1252, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Kennel", 
+          "id": "kennel"
+        }, 
+        {
+          "pos": {
+            "y": 4097, 
+            "x": 1297, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4097, 
+            "x": 1388, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 4104, 
+            "x": 2157, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4159, 
+            "x": 2260, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Crosscountry ski trail", 
+          "id": "crosscountry-ski-trail"
+        }, 
+        {
+          "pos": {
+            "y": 4159, 
+            "x": 2305, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4226, 
+            "x": 1524, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4226, 
+            "x": 1570, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4239, 
+            "x": 1186, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 4267, 
+            "x": 2106, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4267, 
+            "x": 2151, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4267, 
+            "x": 2196, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Kennel", 
+          "id": "kennel"
+        }, 
+        {
+          "pos": {
+            "y": 4320, 
+            "x": 2381, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 4320, 
+            "x": 2426, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4396, 
+            "x": 1981, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4396, 
+            "x": 2026, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4396, 
+            "x": 2072, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Sledding", 
+          "id": "sledding"
+        }, 
+        {
+          "pos": {
+            "y": 4481, 
+            "x": 1069, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4481, 
+            "x": 1115, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Crosscountry ski trail", 
+          "id": "crosscountry-ski-trail"
+        }, 
+        {
+          "pos": {
+            "y": 4481, 
+            "x": 1160, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4481, 
+            "x": 1205, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 4481, 
+            "x": 2397, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4481, 
+            "x": 2442, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4481, 
+            "x": 2487, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Kennel", 
+          "id": "kennel"
+        }, 
+        {
+          "pos": {
+            "y": 4510, 
+            "x": 2242, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4510, 
+            "x": 2288, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 4561, 
+            "x": 1823, 
+            "height": 46, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4561, 
+            "x": 1868, 
+            "height": 43, 
+            "width": 49
+          }, 
+          "name": "Deer Viewing", 
+          "id": "deer-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 4648, 
+            "x": 2105, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Crosscountry ski trail", 
+          "id": "crosscountry-ski-trail"
+        }, 
+        {
+          "pos": {
+            "y": 4682, 
+            "x": 1255, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4682, 
+            "x": 1300, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 4683, 
+            "x": 1581, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4711, 
+            "x": 1456, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 4776, 
+            "x": 1504, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4983, 
+            "x": 1153, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 4983, 
+            "x": 1198, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 5132, 
+            "x": 1343, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5132, 
+            "x": 1388, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 5350, 
+            "x": 1043, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5433, 
+            "x": 1513, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5652, 
+            "x": 1244, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 5652, 
+            "x": 1290, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 5975, 
+            "x": 1295, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 6254, 
+            "x": 2104, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 6254, 
+            "x": 2502, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 6301, 
+            "x": 2104, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 6301, 
+            "x": 2503, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 6348, 
+            "x": 2104, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 6348, 
+            "x": 2503, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 6395, 
+            "x": 2104, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Sledding", 
+          "id": "sledding"
+        }, 
+        {
+          "pos": {
+            "y": 6395, 
+            "x": 2503, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 6442, 
+            "x": 2503, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Kennel", 
+          "id": "kennel"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 32, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 22, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 9, 
+          "id": "fishing", 
+          "name": "Fishing"
+        }, 
+        {
+          "count": 8, 
+          "id": "kennel", 
+          "name": "Kennel"
+        }, 
+        {
+          "count": 6, 
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 5, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 5, 
+          "id": "crosscountry-ski-trail", 
+          "name": "Crosscountry ski trail"
+        }, 
+        {
+          "count": 5, 
+          "id": "sledding", 
+          "name": "Sledding"
+        }, 
+        {
+          "count": 3, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 1, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 1, 
+          "id": "deer-viewing", 
+          "name": "Deer Viewing"
+        }
+      ]
+    }, 
+    {
+      "map": "cuyahoga-valley-south-buckeye-trail-map", 
+      "img_size": {
+        "width": 2550, 
+        "height": 3235
+      }, 
+      "park": "cuyahoga-valley", 
+      "filename": "cuyahoga-valley-south-buckeye-trail-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 616, 
+            "x": 641, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1213, 
+            "x": 1414, 
+            "height": 45, 
+            "width": 45
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1213, 
+            "x": 1464, 
+            "height": 45, 
+            "width": 45
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1214, 
+            "x": 1364, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 1353, 
+            "x": 1725, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1353, 
+            "x": 1774, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1606, 
+            "x": 2399, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1685, 
+            "x": 1152, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1820, 
+            "x": 2268, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1820, 
+            "x": 2314, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1865, 
+            "x": 2267, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1865, 
+            "x": 2314, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Shelter", 
+          "id": "shelter"
+        }, 
+        {
+          "pos": {
+            "y": 2131, 
+            "x": 2137, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2131, 
+            "x": 2183, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2179, 
+            "x": 2183, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2430, 
+            "x": 1463, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2430, 
+            "x": 1511, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 2430, 
+            "x": 1559, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2580, 
+            "x": 1002, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2580, 
+            "x": 1051, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2630, 
+            "x": 673, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2761, 
+            "x": 349, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2761, 
+            "x": 395, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2809, 
+            "x": 957, 
+            "height": 45, 
+            "width": 45
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 10, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 7, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 1, 
+          "id": "shelter", 
+          "name": "Shelter"
+        }, 
+        {
+          "count": 1, 
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
+    }, 
+    {
+      "map": "cuyahoga-valley-hunt-farm-trail-map", 
+      "img_size": {
+        "width": 2550, 
+        "height": 3246
+      }, 
+      "park": "cuyahoga-valley", 
+      "filename": "cuyahoga-valley-hunt-farm-trail-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 457, 
+            "x": 2073, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 457, 
+            "x": 2118, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 457, 
+            "x": 2164, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 694, 
+            "x": 1520, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 694, 
+            "x": 1567, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 725, 
+            "x": 1093, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 833, 
+            "x": 808, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Hiking", 
+          "id": "hiking"
+        }, 
+        {
+          "pos": {
+            "y": 833, 
+            "x": 853, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 833, 
+            "x": 898, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1203, 
+            "x": 820, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1203, 
+            "x": 865, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1258, 
+            "x": 724, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Fishing", 
+          "id": "fishing"
+        }, 
+        {
+          "pos": {
+            "y": 1305, 
+            "x": 724, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1774, 
+            "x": 794, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Hiking", 
+          "id": "hiking"
+        }, 
+        {
+          "pos": {
+            "y": 1774, 
+            "x": 838, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1774, 
+            "x": 883, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2410, 
+            "x": 1309, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2428, 
+            "x": 1888, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2456, 
+            "x": 1309, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2898, 
+            "x": 866, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2898, 
+            "x": 912, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 8, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 5, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "hiking", 
+          "name": "Hiking"
+        }, 
+        {
+          "count": 1, 
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "fishing", 
+          "name": "Fishing"
+        }
+      ]
+    }, 
+    {
+      "map": "cuyahoga-valley-north-buckeye-trail-map", 
+      "img_size": {
+        "width": 2550, 
+        "height": 3263
+      }, 
+      "park": "cuyahoga-valley", 
+      "filename": "cuyahoga-valley-north-buckeye-trail-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 703, 
+            "x": 430, 
+            "height": 45, 
+            "width": 44
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 729, 
+            "x": 930, 
+            "height": 45, 
+            "width": 44
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 729, 
+            "x": 977, 
+            "height": 45, 
+            "width": 44
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 778, 
+            "x": 929, 
+            "height": 44, 
+            "width": 45
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 778, 
+            "x": 977, 
+            "height": 44, 
+            "width": 45
+          }, 
+          "name": "Deer Viewing", 
+          "id": "deer-viewing"
+        }, 
+        {
+          "pos": {
+            "y": 807, 
+            "x": 1564, 
+            "height": 44, 
+            "width": 44
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 852, 
+            "x": 711, 
+            "height": 45, 
+            "width": 44
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 872, 
+            "x": 1604, 
+            "height": 44, 
+            "width": 44
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1023, 
+            "x": 655, 
+            "height": 44, 
+            "width": 45
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1281, 
+            "x": 665, 
+            "height": 44, 
+            "width": 44
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1341, 
+            "x": 385, 
+            "height": 44, 
+            "width": 44
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 1342, 
+            "x": 334, 
+            "height": 44, 
+            "width": 44
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 1644, 
+            "x": 1719, 
+            "height": 44, 
+            "width": 45
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1695, 
+            "x": 1719, 
+            "height": 45, 
+            "width": 45
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }, 
+        {
+          "pos": {
+            "y": 2067, 
+            "x": 1445, 
+            "height": 44, 
+            "width": 44
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 2192, 
+            "x": 2196, 
+            "height": 44, 
+            "width": 44
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2192, 
+            "x": 2242, 
+            "height": 44, 
+            "width": 44
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2379, 
+            "x": 1900, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 2644, 
+            "x": 1877, 
+            "height": 44, 
+            "width": 44
+          }, 
+          "name": "Horseback riding\n(rental, guided tour)", 
+          "id": "horseback-riding-rental,-guided-tour"
+        }, 
+        {
+          "pos": {
+            "y": 2845, 
+            "x": 1455, 
+            "height": 44, 
+            "width": 44
+          }, 
+          "name": "Parking", 
+          "id": "parking"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 10, 
+          "id": "parking", 
+          "name": "Parking"
+        }, 
+        {
+          "count": 3, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 2, 
+          "id": "horseback-riding-rental,-guided-tour", 
+          "name": "Horseback riding\n(rental, guided tour)"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "deer-viewing", 
+          "name": "Deer Viewing"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 40, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 37, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 28, 
+      "id": "parking", 
+      "name": "Parking"
+    }, 
+    {
+      "count": 10, 
+      "id": "horseback-riding-rental,-guided-tour", 
+      "name": "Horseback riding\n(rental, guided tour)"
+    }, 
+    {
+      "count": 10, 
+      "id": "fishing", 
+      "name": "Fishing"
+    }, 
+    {
+      "count": 8, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 8, 
+      "id": "kennel", 
+      "name": "Kennel"
+    }, 
+    {
+      "count": 5, 
+      "id": "crosscountry-ski-trail", 
+      "name": "Crosscountry ski trail"
+    }, 
+    {
+      "count": 5, 
+      "id": "sledding", 
+      "name": "Sledding"
+    }, 
+    {
+      "count": 3, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 2, 
+      "id": "hiking", 
+      "name": "Hiking"
+    }, 
+    {
+      "count": 2, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 2, 
+      "id": "deer-viewing", 
+      "name": "Deer Viewing"
+    }, 
+    {
+      "count": 1, 
+      "id": "shelter", 
+      "name": "Shelter"
+    }, 
+    {
+      "count": 1, 
+      "id": "campground", 
+      "name": "Campground"
+    }
+  ], 
+  "Location": "Ohio 41\u00b014\u2032N 81\u00b033\u2032W\ufeff / \ufeff41.24\u00b0N 81.55\u00b0W\ufeff / 41.24; -81.55\ufeff (Cuyahoga Valley)", 
+  "date": 2000, 
+  "acres": 32950.0, 
+  "map_count": 4, 
+  "id": "cuyahoga-valley", 
+  "Description": "This park along the Cuyahoga River has waterfalls, hills, trails, and exhibits on early rural living. The Ohio and Erie Canal Towpath Trail follows the Ohio and Erie Canal, where mules towed canal boats. The park has numerous historic homes, bridges, and structures, and also offers a scenic train ride."
+}

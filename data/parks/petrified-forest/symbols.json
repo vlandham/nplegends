@@ -1,0 +1,729 @@
+{
+  "loc": [
+    35.067, 
+    -109.783
+  ], 
+  "symbol_count": 56, 
+  "Name": "Petrified Forest", 
+  "Recreation Visitors (2014)": "836,799", 
+  "Photo": "", 
+  "Date established as park": "December 9, 1962", 
+  "Area": "93,532.57 acres (378.5\u00a0km2)", 
+  "name": "Petrified Forest", 
+  "maps": [
+    {
+      "map": "petrified-forest-national-park-map", 
+      "img_size": {
+        "width": 4961, 
+        "height": 4027
+      }, 
+      "park": "petrified-forest", 
+      "filename": "petrified-forest-national-park-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 910, 
+            "x": 2973, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 910, 
+            "x": 3019, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 940, 
+            "x": 3216, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 941, 
+            "x": 3169, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1008, 
+            "x": 3201, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 1258, 
+            "x": 3258, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 1258, 
+            "x": 3305, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1258, 
+            "x": 3352, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 1258, 
+            "x": 3399, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 1258, 
+            "x": 3446, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 1258, 
+            "x": 3493, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Souvenir shop", 
+          "id": "souvenir-shop"
+        }, 
+        {
+          "pos": {
+            "y": 1258, 
+            "x": 3540, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 1258, 
+            "x": 3587, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2004, 
+            "x": 3088, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2004, 
+            "x": 3134, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2269, 
+            "x": 3292, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 3054, 
+            "x": 3094, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 3258, 
+            "x": 2344, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }, 
+        {
+          "pos": {
+            "y": 3258, 
+            "x": 2391, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Souvenir shop", 
+          "id": "souvenir-shop"
+        }, 
+        {
+          "pos": {
+            "y": 3258, 
+            "x": 2438, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 3258, 
+            "x": 2485, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3258, 
+            "x": 2532, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 3398, 
+            "x": 2543, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3425, 
+            "x": 2466, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 3506, 
+            "x": 4483, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Information", 
+          "id": "information"
+        }, 
+        {
+          "pos": {
+            "y": 3554, 
+            "x": 4483, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 3602, 
+            "x": 4484, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 3651, 
+            "x": 4483, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3699, 
+            "x": 4484, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 3747, 
+            "x": 4484, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 3796, 
+            "x": 4484, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 3844, 
+            "x": 4483, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Souvenir shop", 
+          "id": "souvenir-shop"
+        }, 
+        {
+          "pos": {
+            "y": 3894, 
+            "x": 4483, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Drinking water", 
+          "id": "drinking-water"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 6, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 6, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 3, 
+          "id": "information", 
+          "name": "Information"
+        }, 
+        {
+          "count": 3, 
+          "id": "souvenir-shop", 
+          "name": "Souvenir shop"
+        }, 
+        {
+          "count": 3, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 3, 
+          "id": "drinking-water", 
+          "name": "Drinking water"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
+    }, 
+    {
+      "map": "petrified-forest-map", 
+      "img_size": {
+        "width": 2575, 
+        "height": 3178
+      }, 
+      "park": "petrified-forest", 
+      "filename": "petrified-forest-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 663, 
+            "x": 1060, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 663, 
+            "x": 1106, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 703, 
+            "x": 1228, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 735, 
+            "x": 1291, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 1009, 
+            "x": 1308, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1009, 
+            "x": 1354, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 1009, 
+            "x": 1399, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 1009, 
+            "x": 1445, 
+            "height": 41, 
+            "width": 43
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 1553, 
+            "x": 1192, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 1553, 
+            "x": 1238, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 1741, 
+            "x": 1334, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2167, 
+            "x": 1170, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2385, 
+            "x": 1182, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2594, 
+            "x": 648, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }, 
+        {
+          "pos": {
+            "y": 2594, 
+            "x": 694, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2657, 
+            "x": 725, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2681, 
+            "x": 649, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 2760, 
+            "x": 2075, 
+            "height": 41, 
+            "width": 41
+          }, 
+          "name": "Restrooms", 
+          "id": "restrooms"
+        }, 
+        {
+          "pos": {
+            "y": 2808, 
+            "x": 2075, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Food service", 
+          "id": "food-service"
+        }, 
+        {
+          "pos": {
+            "y": 2856, 
+            "x": 2075, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2904, 
+            "x": 2075, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Gas station", 
+          "id": "gas-station"
+        }, 
+        {
+          "pos": {
+            "y": 2953, 
+            "x": 2075, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 3001, 
+            "x": 2075, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Telephone", 
+          "id": "telephone"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 7, 
+          "id": "restrooms", 
+          "name": "Restrooms"
+        }, 
+        {
+          "count": 6, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 3, 
+          "id": "telephone", 
+          "name": "Telephone"
+        }, 
+        {
+          "count": 3, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "food-service", 
+          "name": "Food service"
+        }, 
+        {
+          "count": 2, 
+          "id": "gas-station", 
+          "name": "Gas station"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 13, 
+      "id": "restrooms", 
+      "name": "Restrooms"
+    }, 
+    {
+      "count": 12, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 8, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 6, 
+      "id": "telephone", 
+      "name": "Telephone"
+    }, 
+    {
+      "count": 4, 
+      "id": "food-service", 
+      "name": "Food service"
+    }, 
+    {
+      "count": 4, 
+      "id": "gas-station", 
+      "name": "Gas station"
+    }, 
+    {
+      "count": 3, 
+      "id": "information", 
+      "name": "Information"
+    }, 
+    {
+      "count": 3, 
+      "id": "souvenir-shop", 
+      "name": "Souvenir shop"
+    }, 
+    {
+      "count": 3, 
+      "id": "drinking-water", 
+      "name": "Drinking water"
+    }
+  ], 
+  "Location": "Arizona 35\u00b004\u2032N 109\u00b047\u2032W\ufeff / \ufeff35.07\u00b0N 109.78\u00b0W\ufeff / 35.07; -109.78\ufeff (Petrified Forest)", 
+  "date": 1962, 
+  "acres": 93532.57, 
+  "map_count": 2, 
+  "id": "petrified-forest", 
+  "Description": "This portion of the Chinle Formation has a great concentration of 225-million-year-old petrified wood. The surrounding Painted Desert features eroded cliffs of wonderfully red-hued volcanic rock called bentonite. There are also dinosaur fossils and over 350 Native American sites."
+}

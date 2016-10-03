@@ -1,0 +1,394 @@
+{
+  "loc": [
+    63.333, 
+    -150.5
+  ], 
+  "symbol_count": 28, 
+  "Name": "Denali", 
+  "Recreation Visitors (2014)": "531,315", 
+  "Photo": "", 
+  "Date established as park": "February 26, 1917", 
+  "Area": "4,740,911.72 acres (19,185.8\u00a0km2)", 
+  "name": "Denali", 
+  "maps": [
+    {
+      "map": "denali-entrance-area-map", 
+      "img_size": {
+        "width": 1652, 
+        "height": 1187
+      }, 
+      "park": "denali", 
+      "filename": "denali-entrance-area-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 38, 
+            "x": 433, 
+            "height": 43, 
+            "width": 43
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 412, 
+            "x": 1189, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 578, 
+            "x": 990, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 594, 
+            "x": 1250, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 595, 
+            "x": 907, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Bus stop/Shuttle stop", 
+          "id": "bus-stop-shuttle-stop"
+        }, 
+        {
+          "pos": {
+            "y": 664, 
+            "x": 1168, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1029, 
+            "x": 370, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 4, 
+          "id": "bus-stop-shuttle-stop", 
+          "name": "Bus stop/Shuttle stop"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
+    }, 
+    {
+      "map": "denali-map", 
+      "img_size": {
+        "width": 5125, 
+        "height": 4942
+      }, 
+      "park": "denali", 
+      "filename": "denali-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 644, 
+            "x": 947, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 723, 
+            "x": 4373, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 1108, 
+            "x": 4408, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1150, 
+            "x": 3976, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1159, 
+            "x": 4224, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1199, 
+            "x": 4153, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1209, 
+            "x": 3807, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1353, 
+            "x": 3886, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1527, 
+            "x": 3313, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1546, 
+            "x": 2341, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 2472, 
+            "x": 4084, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 2994, 
+            "x": 3647, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3374, 
+            "x": 3225, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3374, 
+            "x": 3270, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3812, 
+            "x": 3238, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4246, 
+            "x": 3121, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 4333, 
+            "x": 4712, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 4400, 
+            "x": 4712, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 4467, 
+            "x": 4711, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 4502, 
+            "x": 3405, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Airport", 
+          "id": "airport"
+        }, 
+        {
+          "pos": {
+            "y": 4535, 
+            "x": 4712, 
+            "height": 41, 
+            "width": 41
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 9, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 5, 
+          "id": "airport", 
+          "name": "Airport"
+        }, 
+        {
+          "count": 5, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 10, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 6, 
+      "id": "airport", 
+      "name": "Airport"
+    }, 
+    {
+      "count": 5, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 4, 
+      "id": "bus-stop-shuttle-stop", 
+      "name": "Bus stop/Shuttle stop"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }
+  ], 
+  "Location": "Alaska 63\u00b020\u2032N 150\u00b030\u2032W\ufeff / \ufeff63.33\u00b0N 150.50\u00b0W\ufeff / 63.33; -150.50\ufeff (Denali)", 
+  "date": 1917, 
+  "acres": 4740911.72, 
+  "map_count": 2, 
+  "id": "denali", 
+  "Description": "Centered on Denali, the tallest mountain in North America, Denali is serviced by a single road leading to Wonder Lake. Denali and other peaks of the Alaska Range are covered with long glaciers and boreal forest. Wildlife includes grizzly bears, Dall sheep, caribou, and gray wolves."
+}

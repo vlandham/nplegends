@@ -1,0 +1,166 @@
+{
+  "loc": [
+    38.2, 
+    -111.167
+  ], 
+  "symbol_count": 10, 
+  "Name": "Capitol Reef", 
+  "Recreation Visitors (2014)": "786,514", 
+  "Photo": "", 
+  "Date established as park": "December 18, 1971", 
+  "Area": "241,904.26 acres (979.0\u00a0km2)", 
+  "name": "Capitol Reef", 
+  "maps": [
+    {
+      "map": "capitol-reef-map", 
+      "img_size": {
+        "width": 2576, 
+        "height": 4583
+      }, 
+      "park": "capitol-reef", 
+      "filename": "capitol-reef-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 32, 
+            "x": 2074, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 99, 
+            "x": 2075, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 167, 
+            "x": 2075, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1264, 
+            "x": 649, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1265, 
+            "x": 981, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1302, 
+            "x": 896, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 1805, 
+            "x": 627, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }, 
+        {
+          "pos": {
+            "y": 3225, 
+            "x": 1595, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3338, 
+            "x": 1731, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 3558, 
+            "x": 265, 
+            "height": 43, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 4, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 4, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 4, 
+      "id": "campground", 
+      "name": "Campground"
+    }, 
+    {
+      "count": 4, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 2, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }
+  ], 
+  "Location": "Utah 38\u00b012\u2032N 111\u00b010\u2032W\ufeff / \ufeff38.20\u00b0N 111.17\u00b0W\ufeff / 38.20; -111.17\ufeff (Capitol Reef)", 
+  "date": 1971, 
+  "acres": 241904.26, 
+  "map_count": 1, 
+  "id": "capitol-reef", 
+  "Description": "The park's Waterpocket Fold is a 100-mile (160\u00a0km) monocline that exhibits the earth's diverse geologic layers. Other natural features are monoliths, sandstone domes, and cliffs shaped like the United States Capitol."
+}

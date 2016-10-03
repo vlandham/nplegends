@@ -1,0 +1,219 @@
+{
+  "loc": [
+    32.25, 
+    -110.5
+  ], 
+  "symbol_count": 12, 
+  "Name": "Saguaro", 
+  "Recreation Visitors (2014)": "673,572", 
+  "Photo": "", 
+  "Date established as park": "October 14, 1994", 
+  "Area": "91,439.71 acres (370.0\u00a0km2)", 
+  "name": "Saguaro", 
+  "maps": [
+    {
+      "map": "saguaro-east-map", 
+      "img_size": {
+        "width": 3992, 
+        "height": 2325
+      }, 
+      "park": "saguaro", 
+      "filename": "saguaro-east-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 522, 
+            "x": 817, 
+            "height": 42, 
+            "width": 41
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 691, 
+            "x": 2733, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1050, 
+            "x": 597, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1162, 
+            "x": 833, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 2, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }, 
+        {
+          "count": 2, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }
+      ]
+    }, 
+    {
+      "map": "saguaro-map-west", 
+      "img_size": {
+        "width": 2382, 
+        "height": 2210
+      }, 
+      "park": "saguaro", 
+      "filename": "saguaro-map-west.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 688, 
+            "x": 1109, 
+            "height": 42, 
+            "width": 43
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1017, 
+            "x": 584, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1017, 
+            "x": 631, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 1057, 
+            "x": 1054, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1218, 
+            "x": 648, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Self-guiding trail", 
+          "id": "self-guiding-trail"
+        }, 
+        {
+          "pos": {
+            "y": 1278, 
+            "x": 565, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Picnic area", 
+          "id": "picnic-area"
+        }, 
+        {
+          "pos": {
+            "y": 1397, 
+            "x": 720, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Ranger station", 
+          "id": "ranger-station"
+        }, 
+        {
+          "pos": {
+            "y": 1997, 
+            "x": 1381, 
+            "height": 41, 
+            "width": 42
+          }, 
+          "name": "Campground", 
+          "id": "campground"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 4, 
+          "id": "picnic-area", 
+          "name": "Picnic area"
+        }, 
+        {
+          "count": 2, 
+          "id": "self-guiding-trail", 
+          "name": "Self-guiding trail"
+        }, 
+        {
+          "count": 1, 
+          "id": "campground", 
+          "name": "Campground"
+        }, 
+        {
+          "count": 1, 
+          "id": "ranger-station", 
+          "name": "Ranger station"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 6, 
+      "id": "picnic-area", 
+      "name": "Picnic area"
+    }, 
+    {
+      "count": 3, 
+      "id": "ranger-station", 
+      "name": "Ranger station"
+    }, 
+    {
+      "count": 2, 
+      "id": "self-guiding-trail", 
+      "name": "Self-guiding trail"
+    }, 
+    {
+      "count": 1, 
+      "id": "campground", 
+      "name": "Campground"
+    }
+  ], 
+  "Location": "Arizona 32\u00b015\u2032N 110\u00b030\u2032W\ufeff / \ufeff32.25\u00b0N 110.50\u00b0W\ufeff / 32.25; -110.50\ufeff (Saguaro)", 
+  "date": 1994, 
+  "acres": 91439.71, 
+  "map_count": 2, 
+  "id": "saguaro", 
+  "Description": "Split into the separate Rincon Mountain and Tucson Mountain districts, this park is evidence that the dry Sonoran Desert is still home to a great variety of life spanning six biotic communities. Beyond the namesake giant saguaro cacti, there are barrel cacti, chollas, and prickly pears, as well as lesser long-nosed bats, spotted owls, and javelinas."
+}

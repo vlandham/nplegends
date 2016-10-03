@@ -1,0 +1,86 @@
+{
+  "loc": [
+    33.783, 
+    -80.783
+  ], 
+  "symbol_count": 4, 
+  "Name": "Congaree", 
+  "Recreation Visitors (2014)": "120,122", 
+  "Photo": "", 
+  "Date established as park": "November 10, 2003", 
+  "Area": "26,545.86 acres (107.4\u00a0km2)", 
+  "name": "Congaree", 
+  "maps": [
+    {
+      "map": "congaree-map", 
+      "img_size": {
+        "width": 3494, 
+        "height": 1910
+      }, 
+      "park": "congaree", 
+      "filename": "congaree-map.jpg", 
+      "symbols": [
+        {
+          "pos": {
+            "y": 539, 
+            "x": 235, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Canoe access", 
+          "id": "canoe-access"
+        }, 
+        {
+          "pos": {
+            "y": 721, 
+            "x": 894, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Canoe access", 
+          "id": "canoe-access"
+        }, 
+        {
+          "pos": {
+            "y": 1421, 
+            "x": 2195, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Canoe access", 
+          "id": "canoe-access"
+        }, 
+        {
+          "pos": {
+            "y": 1626, 
+            "x": 1160, 
+            "height": 42, 
+            "width": 42
+          }, 
+          "name": "Canoe access", 
+          "id": "canoe-access"
+        }
+      ], 
+      "totals": [
+        {
+          "count": 4, 
+          "id": "canoe-access", 
+          "name": "Canoe access"
+        }
+      ]
+    }
+  ], 
+  "totals": [
+    {
+      "count": 4, 
+      "id": "canoe-access", 
+      "name": "Canoe access"
+    }
+  ], 
+  "Location": "South Carolina 33\u00b047\u2032N 80\u00b047\u2032W\ufeff / \ufeff33.78\u00b0N 80.78\u00b0W\ufeff / 33.78; -80.78\ufeff (Congaree)", 
+  "date": 2003, 
+  "acres": 26545.86, 
+  "map_count": 1, 
+  "id": "congaree", 
+  "Description": "On the Congaree River, this park is the largest portion of old-growth floodplain forest left in North America. Some of the trees are the tallest in the Eastern US. An elevated walkway called the Boardwalk Loop guides visitors through the swamp."
+}
