@@ -256,9 +256,9 @@
       46.85, 
       -121.75
     ], 
-    "symbol_count": 77, 
+    "symbol_count": 58, 
     "name": "Mount Rainier", 
-    "map_count": 2, 
+    "map_count": 1, 
     "acres": 235625.0, 
     "date": 1899, 
     "id": "mount-rainier"
@@ -664,9 +664,9 @@
       33.783, 
       -115.9
     ], 
-    "symbol_count": 70, 
+    "symbol_count": 3, 
     "name": "Joshua Tree", 
-    "map_count": 3, 
+    "map_count": 1, 
     "acres": 789745.47, 
     "date": 1994, 
     "id": "joshua-tree"

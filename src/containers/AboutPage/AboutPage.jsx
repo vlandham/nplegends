@@ -74,6 +74,7 @@ export default class AboutPage extends PureComponent {
         <h2 className="banner">Limitations and Future Work</h2>
         <p>If you puruse the zoomable maps on a particular park page, you can see that, in general, the image processing algorithm does a decent job of finding symbols. But there are plenty of caveats. </p>
         <p>One big assumption my code makes is that the symbols will be consistently the same size in all the maps. Surprisingly, the National Park Services maintain a pretty consistent format, but there are a few instances where the map is scaled to a different size, and so nothing but noise is found. A more robust system would find shapes with mostly square borders no matter the size.</p>
+        <p>Another more basic limitation of the current process is that it is unable to distinguish between symbols on the map and symbols in a legend next to the map. Not every map has a legend, and these legends don't appear in a consistent location in the map images. Thus, we are double counting symbols in a portion of the maps.</p>
       </div>
     );
   }

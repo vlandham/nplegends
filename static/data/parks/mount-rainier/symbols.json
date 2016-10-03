@@ -3,7 +3,7 @@
     46.85, 
     -121.75
   ], 
-  "symbol_count": 77, 
+  "symbol_count": 58, 
   "Name": "Mount Rainier", 
   "Recreation Visitors (2014)": "1,264,259", 
   "Photo": "", 
@@ -11,229 +11,6 @@
   "Area": "235,625.00 acres (953.5\u00a0km2)", 
   "name": "Mount Rainier", 
   "maps": [
-    {
-      "map": "mount-rainier-map", 
-      "img_size": {
-        "width": 6520, 
-        "height": 5056
-      }, 
-      "park": "mount-rainier", 
-      "filename": "mount-rainier-map.jpg", 
-      "symbols": [
-        {
-          "pos": {
-            "y": 316, 
-            "x": 1539, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 618, 
-            "x": 1891, 
-            "height": 43, 
-            "width": 43
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 1259, 
-            "x": 1735, 
-            "height": 43, 
-            "width": 42
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 1444, 
-            "x": 4093, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 1444, 
-            "x": 4140, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 1679, 
-            "x": 4092, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 1679, 
-            "x": 4139, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 2231, 
-            "x": 5317, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 3571, 
-            "x": 3432, 
-            "height": 43, 
-            "width": 42
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 3611, 
-            "x": 2830, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 3646, 
-            "x": 3008, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 3876, 
-            "x": 2382, 
-            "height": 42, 
-            "width": 43
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety-caution-alerts"
-        }, 
-        {
-          "pos": {
-            "y": 4091, 
-            "x": 2373, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 4138, 
-            "x": 2326, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }, 
-        {
-          "pos": {
-            "y": 4329, 
-            "x": 4797, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 4375, 
-            "x": 1337, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Safety/Caution/Alerts", 
-          "id": "safety-caution-alerts"
-        }, 
-        {
-          "pos": {
-            "y": 4404, 
-            "x": 1745, 
-            "height": 42, 
-            "width": 42
-          }, 
-          "name": "Picnic area", 
-          "id": "picnic-area"
-        }, 
-        {
-          "pos": {
-            "y": 4709, 
-            "x": 2238, 
-            "height": 43, 
-            "width": 42
-          }, 
-          "name": "Campground", 
-          "id": "campground"
-        }, 
-        {
-          "pos": {
-            "y": 4833, 
-            "x": 2238, 
-            "height": 43, 
-            "width": 42
-          }, 
-          "name": "Restrooms", 
-          "id": "restrooms"
-        }
-      ], 
-      "totals": [
-        {
-          "count": 7, 
-          "id": "picnic-area", 
-          "name": "Picnic area"
-        }, 
-        {
-          "count": 5, 
-          "id": "campground", 
-          "name": "Campground"
-        }, 
-        {
-          "count": 5, 
-          "id": "restrooms", 
-          "name": "Restrooms"
-        }, 
-        {
-          "count": 2, 
-          "id": "safety-caution-alerts", 
-          "name": "Safety/Caution/Alerts"
-        }
-      ]
-    }, 
     {
       "map": "mount-rainier-national-park-map", 
       "img_size": {
@@ -870,19 +647,14 @@
   ], 
   "totals": [
     {
-      "count": 20, 
+      "count": 15, 
       "id": "restrooms", 
       "name": "Restrooms"
     }, 
     {
-      "count": 20, 
+      "count": 13, 
       "id": "picnic-area", 
       "name": "Picnic area"
-    }, 
-    {
-      "count": 10, 
-      "id": "campground", 
-      "name": "Campground"
     }, 
     {
       "count": 9, 
@@ -893,6 +665,11 @@
       "count": 8, 
       "id": "ranger-station", 
       "name": "Ranger station"
+    }, 
+    {
+      "count": 5, 
+      "id": "campground", 
+      "name": "Campground"
     }, 
     {
       "count": 4, 
@@ -908,17 +685,12 @@
       "count": 2, 
       "id": "store", 
       "name": "Store"
-    }, 
-    {
-      "count": 2, 
-      "id": "safety-caution-alerts", 
-      "name": "Safety/Caution/Alerts"
     }
   ], 
   "Location": "Washington 46\u00b051\u2032N 121\u00b045\u2032W\ufeff / \ufeff46.85\u00b0N 121.75\u00b0W\ufeff / 46.85; -121.75\ufeff (Mount Rainier)", 
   "date": 1899, 
   "acres": 235625.0, 
-  "map_count": 2, 
+  "map_count": 1, 
   "id": "mount-rainier", 
   "Description": "Mount Rainier, an active stratovolcano, is the most prominent peak in the Cascades, and is covered by 26 named glaciers including Carbon Glacier and Emmons Glacier, the largest in the contiguous United States. The mountain is popular for climbing, and more than half of the park is covered by subalpine and alpine forests and meadows seasonally in bloom with wildflowers. Paradise on the south slope is one of the snowiest places in the world, and the Longmire visitor center is the start of the Wonderland Trail, which encircles the mountain."
 }
